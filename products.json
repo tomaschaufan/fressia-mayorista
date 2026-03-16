@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-16T15:19:57.632355+00:00",
+  "updated_at": "2026-03-16T18:11:32.398171+00:00",
   "store_id": "5053574",
   "count": 123,
   "products": [
@@ -3870,43 +3870,28 @@
       "url": "https://fressia.net/productos/calza-pulse-jc30n/"
     },
     {
-      "id": "330954007",
-      "sku": "9097275|5|16",
-      "name": "JOGGER CINTURA ALTA CON BANDA LATERAL",
-      "description": "",
-      "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-03-2638884-f6cb4ca1015f32632917732588477488-1024-1024.jpg",
+      "id": "330648873",
+      "sku": "1892045|5|16",
+      "name": "TOP NOVA",
+      "description": "Top espalda deportiva Tela: Microfibra",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10807-2376dc0e34fe573d3817731697906425-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
       ],
       "colors": [
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Marino",
-          "hex": "#0d1b3e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
         "Colección principal",
-        "Pantalones"
+        "Activewear",
+        "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/jogger-cintura-alta-con-banda-lateral-1aiud/"
+      "url": "https://fressia.net/productos/top-nova-4d725/"
     },
     {
       "id": "331106503",
