@@ -171,6 +171,10 @@ def main():
     raw_products = get_all_products()
     print(f"✅  {len(raw_products)} productos obtenidos.")
 
+    # Doble seguridad: descartar los no publicados/ocultos
+    raw_products = [p for p in raw_products if p.get("published") is True]
+    print(f"🔍  {len(raw_products)} productos visibles (publicados).")
+
     products = [transform_product(p) for p in raw_products]
     # Filtrar los sin precio
     products = [p for p in products if p["price"] > 0]
