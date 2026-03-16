@@ -318,11 +318,7 @@
       font-weight: 600;
       color: var(--brand);
     }
-    .price-retail {
-      font-size: 12px;
-      color: var(--text-soft);
-      text-decoration: line-through;
-    }
+    .price-retail { display: none; }
     .product-card__variants {
       display: flex;
       flex-wrap: wrap;
@@ -409,7 +405,7 @@
     .modal__sku { font-size: 12px; color: var(--text-soft); letter-spacing: 0.06em; }
     .modal__prices { display: flex; align-items: baseline; gap: 12px; }
     .modal__price-wholesale { font-size: 22px; font-weight: 600; color: var(--brand); }
-    .modal__price-retail { font-size: 14px; color: var(--text-soft); text-decoration: line-through; }
+    .modal__price-retail { display: none; }
     .modal__description { font-size: 13px; line-height: 1.7; color: #555; }
     .modal__section-title {
       font-size: 11px;
@@ -773,8 +769,7 @@
         <div class="product-card" onclick="openModal(${i})">
           <div class="product-card__image-wrap">
             <img src="${img}" alt="${p.name}" loading="lazy" />
-            <span class="product-card__badge">−20%</span>
-          </div>
+                      </div>
           <div class="product-card__info">
             <p class="product-card__name">${p.name}</p>
             ${p.sku ? `<p class="product-card__sku">Ref: ${p.sku}</p>` : ''}
