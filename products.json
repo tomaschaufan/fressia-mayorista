@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-17T11:33:36.759780+00:00",
+  "updated_at": "2026-03-17T15:44:24.803647+00:00",
   "store_id": "5053574",
-  "count": 122,
+  "count": 120,
   "products": [
     {
       "id": "224654927",
@@ -59,7 +59,7 @@
       "sku": "0701408|8|43",
       "name": "SCRUNCHIES",
       "description": "",
-      "price": 2500.0,
+      "price": 3500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/scrunchies-e8251d659cedff003d17272908389354-1024-1024.jpg",
       "sizes": [],
       "colors": [
@@ -3594,27 +3594,6 @@
       "url": "https://fressia.net/productos/remera-zaida-am-13lqt/"
     },
     {
-      "id": "330292200",
-      "sku": "5917836|5|16",
-      "name": "BUZO STAR",
-      "description": "Buzo con capucha con estampa Tela: Rustico Mil Rayas",
-      "price": 12000.0,
-      "image": "",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [],
-      "url": "https://fressia.net/productos/buzo-star-1bfif/"
-    },
-    {
       "id": "330294753",
       "sku": "0973007|5|15",
       "name": "REMERA AINE",
@@ -3943,31 +3922,6 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/sudadera-glide-1saic/"
-    },
-    {
-      "id": "331391606",
-      "sku": "8017936|5|23",
-      "name": "FLARE DASH AM",
-      "description": "Flare fit con cintura Tela: Rustico c -lycra",
-      "price": 19000.0,
-      "image": "",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [],
-      "url": "https://fressia.net/productos/flare-dash-am-1gofm/"
     },
     {
       "id": "331407905",
