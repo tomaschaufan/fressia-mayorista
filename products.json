@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-18T08:05:00.334122+00:00",
+  "updated_at": "2026-03-18T11:34:41.048220+00:00",
   "store_id": "5053574",
   "count": 120,
   "products": [
@@ -620,7 +620,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/campera-deportiva-con-banda-lateral1/"
     },
     {
