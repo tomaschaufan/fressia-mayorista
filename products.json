@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-18T11:34:41.048220+00:00",
+  "updated_at": "2026-03-18T15:56:27.759250+00:00",
   "store_id": "5053574",
-  "count": 120,
+  "count": 121,
   "products": [
     {
       "id": "224654927",
@@ -688,7 +688,10 @@
           "hex": "#cccccc"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/buzo-rayado-escote-redondo3/"
     },
     {
@@ -734,7 +737,7 @@
       "name": "BUZO BASICO ESCOTE REDONDO",
       "description": "",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444172-c82aec7d032d48daa717485377775391-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-03-18-at-11-37-38-am-1-6ed6bad43ad976344017738452425924-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -766,6 +769,37 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-basico-escote-redondo6/"
+    },
+    {
+      "id": "274529429",
+      "sku": "125155|5|23",
+      "name": "TOP MANGA LARGA",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-2847372-bef8477af943f99c4e17490658803368-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Violeta",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear"
+      ],
+      "url": "https://fressia.net/productos/top-manga-larga/"
     },
     {
       "id": "274875884",
