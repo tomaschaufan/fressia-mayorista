@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T17:11:30.191303+00:00",
+  "updated_at": "2026-03-20T19:50:52.624277+00:00",
   "store_id": "5053574",
   "count": 121,
   "products": [
@@ -2399,11 +2399,18 @@
       "id": "323099835",
       "sku": "5998836|5|39",
       "name": "BUZO OSLO",
-      "description": "Tela: Rustico Rayado",
+      "description": "Buzo escote bote, estampa 84☆",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10410-7647a69bd5502758f817718574723256-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
@@ -3177,33 +3184,8 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444238-02d59fd4e734c9c98e17474222961650-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
-        },
-        {
-          "name": "XL2",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [],
       "url": "https://fressia.net/productos/cardigan-amor-mio/",
       "position": 9999
