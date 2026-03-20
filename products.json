@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T14:33:13.911418+00:00",
+  "updated_at": "2026-03-20T17:11:30.191303+00:00",
   "store_id": "5053574",
   "count": 121,
   "products": [
@@ -2420,8 +2420,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10548-8228542da3f250590a17718573999502-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -2523,7 +2522,7 @@
       "id": "323099491",
       "sku": "2517739|5|15",
       "name": "REMERA AIKO",
-      "description": "Tela: Jersey Sin Lycra",
+      "description": "Remera Box fit con dije",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3692-816be0815f5ce5e71017703201196380-1024-1024.jpg",
       "sizes": [
@@ -2553,7 +2552,7 @@
       "id": "323099451",
       "sku": "2598759|5|15",
       "name": "REMERA LUNA",
-      "description": "Tela: Jersey Sin Lycra",
+      "description": "Remera Box fit con dije",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3937-ad04d9560ca61ff32d17703206525783-1024-1024.jpg",
       "sizes": [
