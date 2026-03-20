@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T11:57:53.946855+00:00",
+  "updated_at": "2026-03-20T14:04:35.312285+00:00",
   "store_id": "5053574",
   "count": 121,
   "products": [
@@ -16,10 +16,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Blanco",
           "hex": "#ffffff"
@@ -43,16 +39,13 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Surtido",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
         "$5000 - $6000"
       ],
-      "url": "https://fressia.net/productos/musculosa-cora-1v5ef/"
+      "url": "https://fressia.net/productos/musculosa-cora-1v5ef/",
+      "position": 9999
     },
     {
       "id": "224656606",
@@ -73,7 +66,8 @@
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/scrunchies/"
+      "url": "https://fressia.net/productos/scrunchies/",
+      "position": 9999
     },
     {
       "id": "233259157",
@@ -118,7 +112,8 @@
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/remera-mangas-cortas-escote-en-v2/"
+      "url": "https://fressia.net/productos/remera-mangas-cortas-escote-en-v2/",
+      "position": 9999
     },
     {
       "id": "251961295",
@@ -133,10 +128,6 @@
       ],
       "colors": [
         {
-          "name": "Arena",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Beige",
           "hex": "#d4b896"
         },
@@ -145,27 +136,20 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
         },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Uva",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/pantalon-con-banda-lateral-animal-print/"
+      "url": "https://fressia.net/productos/pantalon-con-banda-lateral-animal-print/",
+      "position": 9999
     },
     {
       "id": "252333124",
@@ -176,8 +160,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-0352024-0b474c10dca1c7d89d17570108020369-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -189,7 +172,8 @@
         "Amor mío",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/pantalon-animal-print-con-banda-lateral1/"
+      "url": "https://fressia.net/productos/pantalon-animal-print-con-banda-lateral1/",
+      "position": 9999
     },
     {
       "id": "253940053",
@@ -209,32 +193,8 @@
           "hex": "#ffffff"
         },
         {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Gris Mel",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Gris Topo",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        },
-        {
           "name": "Topo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Verde Militar",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
@@ -242,7 +202,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-escote-redondo2/"
+      "url": "https://fressia.net/productos/remera-escote-redondo2/",
+      "position": 9999
     },
     {
       "id": "253940685",
@@ -282,7 +243,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-gabi-1tnyg/"
+      "url": "https://fressia.net/productos/remera-gabi-1tnyg/",
+      "position": 9999
     },
     {
       "id": "253949355",
@@ -306,10 +268,6 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Chocolate",
           "hex": "#4e342e"
         },
@@ -326,24 +284,13 @@
           "hex": "#1a1a1a"
         },
         {
-          "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Topo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Tostado",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Verde Militar",
           "hex": "#2e7d32"
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/remera-basica-manga-larga/"
+      "url": "https://fressia.net/productos/remera-basica-manga-larga/",
+      "position": 9999
     },
     {
       "id": "254658709",
@@ -359,20 +306,8 @@
       ],
       "colors": [
         {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
-        {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Gris Mel",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Mostaza",
-          "hex": "#f9a825"
         },
         {
           "name": "Negro",
@@ -383,7 +318,8 @@
         "Amor mío",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/pantalon-con-tiras-laterales/"
+      "url": "https://fressia.net/productos/pantalon-con-tiras-laterales/",
+      "position": 9999
     },
     {
       "id": "255504140",
@@ -403,14 +339,6 @@
           "hex": "#d4b896"
         },
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
         },
@@ -427,7 +355,8 @@
         "Amor mío",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/pantalon-con-banda-lateral-animal-print1/"
+      "url": "https://fressia.net/productos/pantalon-con-banda-lateral-animal-print1/",
+      "position": 9999
     },
     {
       "id": "257700290",
@@ -451,24 +380,17 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Marino",
-          "hex": "#0d1b3e"
-        },
-        {
           "name": "Militar",
           "hex": "#cccccc"
         },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Tostado",
-          "hex": "#cccccc"
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/pantalon-wide-leg12/"
+      "url": "https://fressia.net/productos/pantalon-wide-leg12/",
+      "position": 9999
     },
     {
       "id": "257849295",
@@ -488,7 +410,8 @@
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/buzo-oversize-desgastado/"
+      "url": "https://fressia.net/productos/buzo-oversize-desgastado/",
+      "position": 9999
     },
     {
       "id": "258481962",
@@ -507,16 +430,8 @@
           "hex": "#ffffff"
         },
         {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Marino",
-          "hex": "#0d1b3e"
         },
         {
           "name": "Negro",
@@ -524,7 +439,8 @@
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/polera-cuello-tortuga2/"
+      "url": "https://fressia.net/productos/polera-cuello-tortuga2/",
+      "position": 9999
     },
     {
       "id": "260442673",
@@ -533,42 +449,14 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631170-ba528bac4c92792db817423108625577-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Gris Mel",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Hummus",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-con-banda-lateral-animal-print1/"
+      "url": "https://fressia.net/productos/buzo-con-banda-lateral-animal-print1/",
+      "position": 9999
     },
     {
       "id": "265487564",
@@ -596,7 +484,8 @@
         "Amor mío",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/jogger-con-banda-lateral/"
+      "url": "https://fressia.net/productos/jogger-con-banda-lateral/",
+      "position": 9999
     },
     {
       "id": "265522369",
@@ -624,7 +513,8 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/campera-deportiva-con-banda-lateral1/"
+      "url": "https://fressia.net/productos/campera-deportiva-con-banda-lateral1/",
+      "position": 9999
     },
     {
       "id": "270049758",
@@ -644,15 +534,7 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Camel",
-          "hex": "#c19a6b"
-        },
-        {
           "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Militar",
           "hex": "#cccccc"
         },
         {
@@ -664,7 +546,8 @@
         "Amor mío",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/pantalon-wide-leg-5-bolsillos1/"
+      "url": "https://fressia.net/productos/pantalon-wide-leg-5-bolsillos1/",
+      "position": 9999
     },
     {
       "id": "270243591",
@@ -680,10 +563,6 @@
       ],
       "colors": [
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
           "name": "Crudo",
           "hex": "#cccccc"
         }
@@ -692,7 +571,8 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-rayado-escote-redondo3/"
+      "url": "https://fressia.net/productos/buzo-rayado-escote-redondo3/",
+      "position": 9999
     },
     {
       "id": "270755417",
@@ -729,7 +609,8 @@
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/cardigan-amor-mio/"
+      "url": "https://fressia.net/productos/cardigan-amor-mio/",
+      "position": 9999
     },
     {
       "id": "273182086",
@@ -768,7 +649,8 @@
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-basico-escote-redondo6/"
+      "url": "https://fressia.net/productos/buzo-basico-escote-redondo6/",
+      "position": 9999
     },
     {
       "id": "274529429",
@@ -799,7 +681,8 @@
         "Colección principal",
         "Activewear"
       ],
-      "url": "https://fressia.net/productos/top-manga-larga/"
+      "url": "https://fressia.net/productos/top-manga-larga/",
+      "position": 9999
     },
     {
       "id": "274875884",
@@ -826,7 +709,8 @@
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/bomber-full-print4/"
+      "url": "https://fressia.net/productos/bomber-full-print4/",
+      "position": 9999
     },
     {
       "id": "276732279",
@@ -835,30 +719,11 @@
       "description": "",
       "price": 13000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_19bb6c8d-e4a0-4b81-9110-b5e5c6b197d8_5053574_5310992-78a8c426725a527cfb17502737662831-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Tiza",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [],
-      "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print/"
+      "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print/",
+      "position": 9999
     },
     {
       "id": "276982265",
@@ -867,31 +732,11 @@
       "description": "",
       "price": 13000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444087-3960cb96afd077c42917502757522902-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Tiza",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [],
-      "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print1/"
+      "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print1/",
+      "position": 9999
     },
     {
       "id": "277988570",
@@ -919,7 +764,8 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/bomber-full-print/"
+      "url": "https://fressia.net/productos/bomber-full-print/",
+      "position": 9999
     },
     {
       "id": "285920897",
@@ -951,7 +797,8 @@
         "Activewear",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/calza-larga1/"
+      "url": "https://fressia.net/productos/calza-larga1/",
+      "position": 9999
     },
     {
       "id": "286136208",
@@ -988,7 +835,8 @@
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/buzo-basico-escote-redondo7/"
+      "url": "https://fressia.net/productos/buzo-basico-escote-redondo7/",
+      "position": 9999
     },
     {
       "id": "287812325",
@@ -1020,10 +868,6 @@
           "hex": "#9e9e9e"
         },
         {
-          "name": "Militar",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -1040,7 +884,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-basica-escote-redondo24/"
+      "url": "https://fressia.net/productos/remera-basica-escote-redondo24/",
+      "position": 9999
     },
     {
       "id": "288339463",
@@ -1064,7 +909,8 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-con-recorte-en-canesu-animal-print/"
+      "url": "https://fressia.net/productos/buzo-con-recorte-en-canesu-animal-print/",
+      "position": 9999
     },
     {
       "id": "288339472",
@@ -1087,7 +933,8 @@
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-con-recorte-en-canesu-animal-print1/"
+      "url": "https://fressia.net/productos/buzo-con-recorte-en-canesu-animal-print1/",
+      "position": 9999
     },
     {
       "id": "292779497",
@@ -1101,18 +948,6 @@
       ],
       "colors": [
         {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Gris",
           "hex": "#9e9e9e"
         },
@@ -1123,21 +958,14 @@
         {
           "name": "Off White",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
         }
       ],
       "categories": [
         "Colección principal",
         "Abrigos"
       ],
-      "url": "https://fressia.net/productos/cardigan-sin-botones/"
+      "url": "https://fressia.net/productos/cardigan-sin-botones/",
+      "position": 9999
     },
     {
       "id": "295054656",
@@ -1164,7 +992,8 @@
         "Colección principal",
         "Abrigos"
       ],
-      "url": "https://fressia.net/productos/trench-belfast-1v7dy/"
+      "url": "https://fressia.net/productos/trench-belfast-1v7dy/",
+      "position": 9999
     },
     {
       "id": "306861745",
@@ -1173,22 +1002,14 @@
       "description": "Vestido mini con vivos anchos Tela: Morley con lycra",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-03-02-at-4-27-24-pm-32df092bf9c9e0779917724797460042-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Vestidos y Monos"
       ],
-      "url": "https://fressia.net/productos/vestido-city-npcm0/"
+      "url": "https://fressia.net/productos/vestido-city-npcm0/",
+      "position": 9999
     },
     {
       "id": "323099156",
@@ -1223,7 +1044,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-clara-16qhh/"
+      "url": "https://fressia.net/productos/remera-clara-16qhh/",
+      "position": 9999
     },
     {
       "id": "323099215",
@@ -1250,7 +1072,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-emma-15t22/"
+      "url": "https://fressia.net/productos/remera-emma-15t22/",
+      "position": 9999
     },
     {
       "id": "323099277",
@@ -1278,7 +1101,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-gabriela-1bzcd/"
+      "url": "https://fressia.net/productos/remera-gabriela-1bzcd/",
+      "position": 9999
     },
     {
       "id": "323099323",
@@ -1313,7 +1137,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-mia-dc0h9/"
+      "url": "https://fressia.net/productos/remera-mia-dc0h9/",
+      "position": 9999
     },
     {
       "id": "323099364",
@@ -1344,7 +1169,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-julia-octxg/"
+      "url": "https://fressia.net/productos/remera-julia-octxg/",
+      "position": 9999
     },
     {
       "id": "323099411",
@@ -1376,7 +1202,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-ava-78t7a/"
+      "url": "https://fressia.net/productos/remera-ava-78t7a/",
+      "position": 9999
     },
     {
       "id": "323099451",
@@ -1395,10 +1222,6 @@
           "hex": "#ffffff"
         },
         {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -1408,7 +1231,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-luna-l2nu3/"
+      "url": "https://fressia.net/productos/remera-luna-l2nu3/",
+      "position": 9999
     },
     {
       "id": "323099491",
@@ -1428,10 +1252,6 @@
           "hex": "#ffffff"
         },
         {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -1441,7 +1261,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-aiko-1xd2a/"
+      "url": "https://fressia.net/productos/remera-aiko-1xd2a/",
+      "position": 9999
     },
     {
       "id": "323099538",
@@ -1481,7 +1302,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-lina-83ebk/"
+      "url": "https://fressia.net/productos/remera-lina-83ebk/",
+      "position": 9999
     },
     {
       "id": "323099706",
@@ -1505,24 +1327,12 @@
           "hex": "#4e342e"
         },
         {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
           "name": "Melange",
           "hex": "#cccccc"
         },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
         },
         {
           "name": "Topo",
@@ -1534,7 +1344,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/musculosa-sofia-16amx/"
+      "url": "https://fressia.net/productos/musculosa-sofia-16amx/",
+      "position": 9999
     },
     {
       "id": "323099776",
@@ -1558,7 +1369,8 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-oslo-am-t7s0r/"
+      "url": "https://fressia.net/productos/buzo-oslo-am-t7s0r/",
+      "position": 9999
     },
     {
       "id": "323099835",
@@ -1567,21 +1379,14 @@
       "description": "Tela: Rustico Rayado",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10410-7647a69bd5502758f817718574723256-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-oslo-1rw3m/"
+      "url": "https://fressia.net/productos/buzo-oslo-1rw3m/",
+      "position": 9999
     },
     {
       "id": "323099899",
@@ -1617,7 +1422,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/muscu-isabella-1h0wl/"
+      "url": "https://fressia.net/productos/muscu-isabella-1h0wl/",
+      "position": 9999
     },
     {
       "id": "323099937",
@@ -1653,7 +1459,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-charlotte-xh7ad/"
+      "url": "https://fressia.net/productos/remera-charlotte-xh7ad/",
+      "position": 9999
     },
     {
       "id": "323099977",
@@ -1690,7 +1497,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-amelie-2kn9d/"
+      "url": "https://fressia.net/productos/remera-amelie-2kn9d/",
+      "position": 9999
     },
     {
       "id": "323100087",
@@ -1727,7 +1535,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-margot-1v4zk/"
+      "url": "https://fressia.net/productos/remera-margot-1v4zk/",
+      "position": 9999
     },
     {
       "id": "323100127",
@@ -1742,16 +1551,8 @@
       ],
       "colors": [
         {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
           "name": "Crudo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Topo",
@@ -1762,7 +1563,8 @@
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/campera-riga-1ncl1/"
+      "url": "https://fressia.net/productos/campera-riga-1ncl1/",
+      "position": 9999
     },
     {
       "id": "323100168",
@@ -1802,7 +1604,8 @@
         "Colección principal",
         "Vestidos y Monos"
       ],
-      "url": "https://fressia.net/productos/vestido-capri-egbc5/"
+      "url": "https://fressia.net/productos/vestido-capri-egbc5/",
+      "position": 9999
     },
     {
       "id": "323100208",
@@ -1842,7 +1645,8 @@
         "Colección principal",
         "Vestidos y Monos"
       ],
-      "url": "https://fressia.net/productos/vestido-ibiza-wpqsr/"
+      "url": "https://fressia.net/productos/vestido-ibiza-wpqsr/",
+      "position": 9999
     },
     {
       "id": "323100253",
@@ -1862,18 +1666,6 @@
           "hex": "#ffffff"
         },
         {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        },
-        {
           "name": "Topo",
           "hex": "#cccccc"
         }
@@ -1883,7 +1675,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-alice-1a0w0/"
+      "url": "https://fressia.net/productos/remera-alice-1a0w0/",
+      "position": 9999
     },
     {
       "id": "323100330",
@@ -1923,7 +1716,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-amira-1nkws/"
+      "url": "https://fressia.net/productos/remera-amira-1nkws/",
+      "position": 9999
     },
     {
       "id": "323100377",
@@ -1950,10 +1744,6 @@
           "hex": "#4e342e"
         },
         {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -1967,7 +1757,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-elsa-nb81v/"
+      "url": "https://fressia.net/productos/remera-elsa-nb81v/",
+      "position": 9999
     },
     {
       "id": "323100410",
@@ -2008,7 +1799,8 @@
         "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/remera-astrid-t1h5y/"
+      "url": "https://fressia.net/productos/remera-astrid-t1h5y/",
+      "position": 9999
     },
     {
       "id": "323100461",
@@ -2040,7 +1832,8 @@
         "Colección principal",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/pantalon-soho-1heu2/"
+      "url": "https://fressia.net/productos/pantalon-soho-1heu2/",
+      "position": 9999
     },
     {
       "id": "323100506",
@@ -2063,14 +1856,6 @@
           "hex": "#f9a825"
         },
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Rojo",
           "hex": "#d32f2f"
         },
@@ -2083,7 +1868,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/musculosa-bianca-14qxl/"
+      "url": "https://fressia.net/productos/musculosa-bianca-14qxl/",
+      "position": 9999
     },
     {
       "id": "323100544",
@@ -2119,7 +1905,8 @@
         "Amor mío",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/pantalon-milan-1xnhu/"
+      "url": "https://fressia.net/productos/pantalon-milan-1xnhu/",
+      "position": 9999
     },
     {
       "id": "323100608",
@@ -2134,27 +1921,16 @@
       ],
       "colors": [
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Lima",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-bindi-14jgp/"
+      "url": "https://fressia.net/productos/remera-bindi-14jgp/",
+      "position": 9999
     },
     {
       "id": "323100649",
@@ -2169,27 +1945,16 @@
       ],
       "colors": [
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Lima",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-frida-1jbht/"
+      "url": "https://fressia.net/productos/remera-frida-1jbht/",
+      "position": 9999
     },
     {
       "id": "323100695",
@@ -2224,7 +1989,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-rubi-1bbmh/"
+      "url": "https://fressia.net/productos/remera-rubi-1bbmh/",
+      "position": 9999
     },
     {
       "id": "323100735",
@@ -2260,7 +2026,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-vera-1xyt0/"
+      "url": "https://fressia.net/productos/remera-vera-1xyt0/",
+      "position": 9999
     },
     {
       "id": "323100813",
@@ -2296,7 +2063,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-gina-13zf9/"
+      "url": "https://fressia.net/productos/remera-gina-13zf9/",
+      "position": 9999
     },
     {
       "id": "323515370",
@@ -2332,7 +2100,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-nina-1wj8c/"
+      "url": "https://fressia.net/productos/remera-nina-1wj8c/",
+      "position": 9999
     },
     {
       "id": "324004730",
@@ -2367,7 +2136,8 @@
         "Colección principal",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/pantalon-rome-1vbhw/"
+      "url": "https://fressia.net/productos/pantalon-rome-1vbhw/",
+      "position": 9999
     },
     {
       "id": "324255655",
@@ -2403,7 +2173,8 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-airy-am-gu9fz/"
+      "url": "https://fressia.net/productos/buzo-airy-am-gu9fz/",
+      "position": 9999
     },
     {
       "id": "324259186",
@@ -2439,7 +2210,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-saga-dnmkt/"
+      "url": "https://fressia.net/productos/remera-saga-dnmkt/",
+      "position": 9999
     },
     {
       "id": "324333018",
@@ -2474,7 +2246,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-pia-2zode/"
+      "url": "https://fressia.net/productos/remera-pia-2zode/",
+      "position": 9999
     },
     {
       "id": "324343348",
@@ -2506,7 +2279,8 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-fuzzy-am-2a7qd/"
+      "url": "https://fressia.net/productos/buzo-fuzzy-am-2a7qd/",
+      "position": 9999
     },
     {
       "id": "324346888",
@@ -2537,7 +2311,8 @@
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-fuzzy-gc5bk/"
+      "url": "https://fressia.net/productos/buzo-fuzzy-gc5bk/",
+      "position": 9999
     },
     {
       "id": "324568190",
@@ -2572,7 +2347,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-zoe-hogxe/"
+      "url": "https://fressia.net/productos/remera-zoe-hogxe/",
+      "position": 9999
     },
     {
       "id": "324584135",
@@ -2586,10 +2362,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Gris",
           "hex": "#9e9e9e"
@@ -2607,7 +2379,8 @@
         "Colección principal",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/pantalon-brooklyn-wlyq0/"
+      "url": "https://fressia.net/productos/pantalon-brooklyn-wlyq0/",
+      "position": 9999
     },
     {
       "id": "324589267",
@@ -2644,7 +2417,8 @@
         "Pantalones",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/pantalon-brooklyn-14bsj/"
+      "url": "https://fressia.net/productos/pantalon-brooklyn-14bsj/",
+      "position": 9999
     },
     {
       "id": "324835818",
@@ -2679,7 +2453,8 @@
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-airy-r8eua/"
+      "url": "https://fressia.net/productos/buzo-airy-r8eua/",
+      "position": 9999
     },
     {
       "id": "324929716",
@@ -2702,7 +2477,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-yara-16lhy/"
+      "url": "https://fressia.net/productos/remera-yara-16lhy/",
+      "position": 9999
     },
     {
       "id": "324987785",
@@ -2726,7 +2502,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-yara-oolsn/"
+      "url": "https://fressia.net/productos/remera-yara-oolsn/",
+      "position": 9999
     },
     {
       "id": "325149363",
@@ -2762,7 +2539,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-eva-1lodc/"
+      "url": "https://fressia.net/productos/remera-eva-1lodc/",
+      "position": 9999
     },
     {
       "id": "325151846",
@@ -2797,7 +2575,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-lola-1jj5l/"
+      "url": "https://fressia.net/productos/remera-lola-1jj5l/",
+      "position": 9999
     },
     {
       "id": "325212197",
@@ -2833,7 +2612,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-dina-rl4wi/"
+      "url": "https://fressia.net/productos/remera-dina-rl4wi/",
+      "position": 9999
     },
     {
       "id": "325278331",
@@ -2868,7 +2648,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/musculosa-lia-111yx/"
+      "url": "https://fressia.net/productos/musculosa-lia-111yx/",
+      "position": 9999
     },
     {
       "id": "326208283",
@@ -2903,7 +2684,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/musculosa-naomi-63olb/"
+      "url": "https://fressia.net/productos/musculosa-naomi-63olb/",
+      "position": 9999
     },
     {
       "id": "326216199",
@@ -2930,7 +2712,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-zaida-1jbao/"
+      "url": "https://fressia.net/productos/remera-zaida-1jbao/",
+      "position": 9999
     },
     {
       "id": "326221291",
@@ -2962,7 +2745,8 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-lairy-am-12546/"
+      "url": "https://fressia.net/productos/buzo-lairy-am-12546/",
+      "position": 9999
     },
     {
       "id": "326222238",
@@ -2993,7 +2777,8 @@
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-lairy-9eiww/"
+      "url": "https://fressia.net/productos/buzo-lairy-9eiww/",
+      "position": 9999
     },
     {
       "id": "326454829",
@@ -3017,7 +2802,8 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-loures-am-23rvf/"
+      "url": "https://fressia.net/productos/buzo-loures-am-23rvf/",
+      "position": 9999
     },
     {
       "id": "326455882",
@@ -3041,7 +2827,8 @@
         "Amor mío",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/pantalon-lisbon-am-s9e46/"
+      "url": "https://fressia.net/productos/pantalon-lisbon-am-s9e46/",
+      "position": 9999
     },
     {
       "id": "326457117",
@@ -3064,7 +2851,8 @@
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-loures-18alo/"
+      "url": "https://fressia.net/productos/buzo-loures-18alo/",
+      "position": 9999
     },
     {
       "id": "327144077",
@@ -3087,7 +2875,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-sophia-yfavi/"
+      "url": "https://fressia.net/productos/remera-sophia-yfavi/",
+      "position": 9999
     },
     {
       "id": "327144364",
@@ -3111,7 +2900,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-sophia-am-1baki/"
+      "url": "https://fressia.net/productos/remera-sophia-am-1baki/",
+      "position": 9999
     },
     {
       "id": "327145440",
@@ -3138,7 +2928,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-ailsa-1ncze/"
+      "url": "https://fressia.net/productos/remera-ailsa-1ncze/",
+      "position": 9999
     },
     {
       "id": "327147403",
@@ -3161,7 +2952,8 @@
         "Colección principal",
         "Vestidos y Monos"
       ],
-      "url": "https://fressia.net/productos/vestido-rebel-rv0a0/"
+      "url": "https://fressia.net/productos/vestido-rebel-rv0a0/",
+      "position": 9999
     },
     {
       "id": "327151856",
@@ -3189,7 +2981,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-carys-1ej4o/"
+      "url": "https://fressia.net/productos/remera-carys-1ej4o/",
+      "position": 9999
     },
     {
       "id": "327180172",
@@ -3216,7 +3009,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-alexa-v0lzb/"
+      "url": "https://fressia.net/productos/remera-alexa-v0lzb/",
+      "position": 9999
     },
     {
       "id": "327314631",
@@ -3252,7 +3046,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-scarlett-jq0cv/"
+      "url": "https://fressia.net/productos/remera-scarlett-jq0cv/",
+      "position": 9999
     },
     {
       "id": "329290130",
@@ -3271,28 +3066,8 @@
           "hex": "#d4b896"
         },
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Marino",
-          "hex": "#0d1b3e"
         },
         {
           "name": "Marron",
@@ -3315,7 +3090,8 @@
         "Colección principal",
         "Sweaters"
       ],
-      "url": "https://fressia.net/productos/sweater-soft-8nst5/"
+      "url": "https://fressia.net/productos/sweater-soft-8nst5/",
+      "position": 9999
     },
     {
       "id": "329310307",
@@ -3338,7 +3114,8 @@
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-star-1xapp/"
+      "url": "https://fressia.net/productos/buzo-star-1xapp/",
+      "position": 9999
     },
     {
       "id": "329314167",
@@ -3356,17 +3133,14 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Marino",
-          "hex": "#0d1b3e"
         }
       ],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-aitana-am-17ngj/"
+      "url": "https://fressia.net/productos/remera-aitana-am-17ngj/",
+      "position": 9999
     },
     {
       "id": "329315640",
@@ -3393,7 +3167,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-aitana-14s0a/"
+      "url": "https://fressia.net/productos/remera-aitana-14s0a/",
+      "position": 9999
     },
     {
       "id": "329328314",
@@ -3420,7 +3195,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-aisha-tb6y6/"
+      "url": "https://fressia.net/productos/remera-aisha-tb6y6/",
+      "position": 9999
     },
     {
       "id": "329816277",
@@ -3460,7 +3236,8 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-cozy-1ck28/"
+      "url": "https://fressia.net/productos/buzo-cozy-1ck28/",
+      "position": 9999
     },
     {
       "id": "329827623",
@@ -3479,23 +3256,16 @@
           "hex": "#9e9e9e"
         },
         {
-          "name": "Lila",
-          "hex": "#ce93d8"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-oversize-escote-redondo-1gvpv/"
+      "url": "https://fressia.net/productos/buzo-oversize-escote-redondo-1gvpv/",
+      "position": 9999
     },
     {
       "id": "329831342",
@@ -3534,7 +3304,8 @@
         "Colección principal",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-claud-13pi9/"
+      "url": "https://fressia.net/productos/buzo-claud-13pi9/",
+      "position": 9999
     },
     {
       "id": "329915998",
@@ -3563,7 +3334,8 @@
         "Abrigos",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/campera-greeland-19o9r/"
+      "url": "https://fressia.net/productos/campera-greeland-19o9r/",
+      "position": 9999
     },
     {
       "id": "329916048",
@@ -3572,38 +3344,15 @@
       "description": "",
       "price": 29000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11421-f621cfd76944c565ec17728256988871-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Sweaters",
         "Amor mío"
       ],
-      "url": "https://fressia.net/productos/sweater-estrella-jqwna/"
+      "url": "https://fressia.net/productos/sweater-estrella-jqwna/",
+      "position": 9999
     },
     {
       "id": "330285828",
@@ -3628,7 +3377,8 @@
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/remera-zaida-am-13lqt/"
+      "url": "https://fressia.net/productos/remera-zaida-am-13lqt/",
+      "position": 9999
     },
     {
       "id": "330294753",
@@ -3655,7 +3405,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-aine-l8yvj/"
+      "url": "https://fressia.net/productos/remera-aine-l8yvj/",
+      "position": 9999
     },
     {
       "id": "330296381",
@@ -3684,7 +3435,8 @@
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/top-bianca-am-uppki/"
+      "url": "https://fressia.net/productos/top-bianca-am-uppki/",
+      "position": 9999
     },
     {
       "id": "330328159",
@@ -3707,7 +3459,8 @@
         "Colección principal",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/pantalon-lisbon-1dru2/"
+      "url": "https://fressia.net/productos/pantalon-lisbon-1dru2/",
+      "position": 9999
     },
     {
       "id": "330592567",
@@ -3733,7 +3486,8 @@
         "Amor mío",
         "Faldas y Shorts"
       ],
-      "url": "https://fressia.net/productos/biker-motion-am-1hun2/"
+      "url": "https://fressia.net/productos/biker-motion-am-1hun2/",
+      "position": 9999
     },
     {
       "id": "330593078",
@@ -3759,7 +3513,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/top-nova-am-utcb6/"
+      "url": "https://fressia.net/productos/top-nova-am-utcb6/",
+      "position": 9999
     },
     {
       "id": "330594362",
@@ -3785,7 +3540,8 @@
         "Amor mío",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/top-blaze-i5a33/"
+      "url": "https://fressia.net/productos/top-blaze-i5a33/",
+      "position": 9999
     },
     {
       "id": "330595376",
@@ -3811,7 +3567,8 @@
         "Amor mío",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/calza-pulse-am-rvmqt/"
+      "url": "https://fressia.net/productos/calza-pulse-am-rvmqt/",
+      "position": 9999
     },
     {
       "id": "330603133",
@@ -3835,7 +3592,8 @@
         "Activewear",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/top-flow-t6qwd/"
+      "url": "https://fressia.net/productos/top-flow-t6qwd/",
+      "position": 9999
     },
     {
       "id": "330603907",
@@ -3859,7 +3617,8 @@
         "Activewear",
         "Faldas y Shorts"
       ],
-      "url": "https://fressia.net/productos/biker-motion-l3r22/"
+      "url": "https://fressia.net/productos/biker-motion-l3r22/",
+      "position": 9999
     },
     {
       "id": "330648839",
@@ -3883,7 +3642,8 @@
         "Activewear",
         "Pantalones"
       ],
-      "url": "https://fressia.net/productos/calza-pulse-jc30n/"
+      "url": "https://fressia.net/productos/calza-pulse-jc30n/",
+      "position": 9999
     },
     {
       "id": "330648873",
@@ -3907,7 +3667,8 @@
         "Activewear",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/top-nova-4d725/"
+      "url": "https://fressia.net/productos/top-nova-4d725/",
+      "position": 9999
     },
     {
       "id": "331106503",
@@ -3930,7 +3691,8 @@
         "Colección principal",
         "Remeras y Musculosas"
       ],
-      "url": "https://fressia.net/productos/remera-eira-mrx6z/"
+      "url": "https://fressia.net/productos/remera-eira-mrx6z/",
+      "position": 9999
     },
     {
       "id": "331140259",
@@ -3958,7 +3720,8 @@
         "Activewear",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/sudadera-glide-1saic/"
+      "url": "https://fressia.net/productos/sudadera-glide-1saic/",
+      "position": 9999
     },
     {
       "id": "331407905",
@@ -3985,7 +3748,8 @@
         "Activewear",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/campera-rush-1d216/"
+      "url": "https://fressia.net/productos/campera-rush-1d216/",
+      "position": 9999
     },
     {
       "id": "331409953",
@@ -4013,7 +3777,8 @@
         "Activewear",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/campera-sprint-1ldkw/"
+      "url": "https://fressia.net/productos/campera-sprint-1ldkw/",
+      "position": 9999
     }
   ]
 }
