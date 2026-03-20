@@ -263,14 +263,16 @@
     .product-card:nth-child(3n) { border-right: none; }
     .product-card__image-wrap {
       position: relative;
-      overflow: hidden;
       aspect-ratio: 3/4;
       background: var(--card-bg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
     .product-card__image-wrap img {
       width: 100%;
       height: 100%;
-      object-fit: cover;
+      object-fit: contain;
       display: block;
       transition: transform .55s cubic-bezier(.25,.46,.45,.94);
     }
@@ -381,12 +383,14 @@
     .modal__gallery {
       aspect-ratio: 3/4;
       background: var(--card-bg);
-      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
     .modal__gallery img {
       width: 100%;
       height: 100%;
-      object-fit: cover;
+      object-fit: contain;
       display: block;
     }
     .modal__details {
