@@ -45,7 +45,6 @@ def get_all_products():
             "per_page": PER_PAGE,
             "page":     page,
             "published": "true",
-            "sort_by":  "user",
         }
         resp = requests.get(url, headers=HEADERS, params=params, timeout=30)
         resp.raise_for_status()
@@ -182,6 +181,8 @@ def main():
 
     # Doble seguridad: descartar los no publicados/ocultos
     raw_products = [p for p in raw_products if p.get("published") is True]
+    # Ordenar por ID descendente: más nuevos primero (igual que la tienda)
+    raw_products.sort(key=lambda p: p.get("id", 0), reverse=True)
     print(f"🔍  {len(raw_products)} productos visibles (publicados).")
 
     products = [transform_product(p) for p in raw_products]
