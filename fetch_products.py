@@ -45,6 +45,7 @@ def get_all_products():
             "per_page": PER_PAGE,
             "page":     page,
             "published": "true",
+            "sort_by":  "user",
         }
         resp = requests.get(url, headers=HEADERS, params=params, timeout=30)
         resp.raise_for_status()
@@ -186,8 +187,6 @@ def main():
     products = [transform_product(p) for p in raw_products]
     # Filtrar los sin precio
     products = [p for p in products if p["price"] > 0]
-    # Ordenar según posición en la tienda (igual que el panel de Tienda Nube)
-    products.sort(key=lambda p: p.get("position", 9999))
 
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
