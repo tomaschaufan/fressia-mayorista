@@ -119,21 +119,28 @@ def transform_product(raw: dict) -> dict:
     # SKU / número de artículo
     sku = raw.get("variants", [{}])[0].get("sku") or str(raw.get("id", ""))
 
-    # Talles y colores desde atributos de variantes
+    # Talles y colores desde atributos de variantes con stock
     sizes = set()
     colors_raw = set()
     for v in variants:
-        if not v.get("stock_management") or v.get("stock", 0) != 0 or not v.get("stock_management"):
-            # incluir si no hay gestión de stock o si tiene stock
-            pass
-        for attr in v.get("values", []):
-            val = attr.get("es") or attr.get("pt") or (list(attr.values())[0] if attr else "")
-            # heurística: si parece talle (XS, S, M, L, XL, número)
-            if val.upper() in ("XS", "S", "M", "L", "XL", "XXL", "XXXL") or val.isdigit() or \
-               (len(val) <= 4 and val.replace(".", "").isdigit()):
-                sizes.add(val.upper())
-            else:
-                colors_raw.add(val)
+        # Incluir variante solo si tiene stock disponible:
+        # - sin gestión de stock (stock ilimitado), o
+        # - stock es None/null (ilimitado), o
+        # - stock > 0
+        stock_ok = (
+            not v.get("stock_management") or
+            v.get("stock") is None or
+            v.get("stock", 0) > 0
+        )
+        if stock_ok:
+            for attr in v.get("values", []):
+                val = attr.get("es") or attr.get("pt") or (list(attr.values())[0] if attr else "")
+                # heurística: si parece talle (XS, S, M, L, XL, número)
+                if val.upper() in ("XS", "S", "M", "L", "XL", "XXL", "XXXL") or val.isdigit() or \
+                   (len(val) <= 4 and val.replace(".", "").isdigit()):
+                    sizes.add(val.upper())
+                else:
+                    colors_raw.add(val)
 
     colors = [{"name": c, "hex": parse_color(c)} for c in sorted(colors_raw) if c]
 
@@ -156,6 +163,7 @@ def transform_product(raw: dict) -> dict:
         "colors":      colors,
         "categories":  categories,
         "url":         raw.get("canonical_url", ""),
+        "position":    raw.get("position", 9999),
     }
 
 
@@ -178,6 +186,8 @@ def main():
     products = [transform_product(p) for p in raw_products]
     # Filtrar los sin precio
     products = [p for p in products if p["price"] > 0]
+    # Ordenar según posición en la tienda (igual que el panel de Tienda Nube)
+    products.sort(key=lambda p: p.get("position", 9999))
 
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
