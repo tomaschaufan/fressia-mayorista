@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T11:33:42.751044+00:00",
+  "updated_at": "2026-03-23T15:40:49.035593+00:00",
   "store_id": "5053574",
   "count": 121,
   "products": [
@@ -97,8 +97,7 @@
       "price": 5000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-03-13-at-1-37-20-pm-92209f6d8b38ad47a617734204292770-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -1919,6 +1918,10 @@
         {
           "name": "Mostaza",
           "hex": "#f9a825"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         },
         {
           "name": "Rojo",
