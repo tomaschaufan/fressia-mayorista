@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T15:40:49.035593+00:00",
+  "updated_at": "2026-03-23T18:34:22.017286+00:00",
   "store_id": "5053574",
   "count": 121,
   "products": [
@@ -3616,10 +3616,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
