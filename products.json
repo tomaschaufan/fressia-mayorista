@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T23:57:09.948461+00:00",
+  "updated_at": "2026-03-23T05:49:16.301666+00:00",
   "store_id": "5053574",
   "count": 121,
   "products": [
@@ -1108,14 +1108,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Ciruela",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
