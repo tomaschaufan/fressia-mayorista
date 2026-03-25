@@ -1,8 +1,145 @@
 {
-  "updated_at": "2026-03-25T11:29:21.284949+00:00",
+  "updated_at": "2026-03-25T14:44:51.954520+00:00",
   "store_id": "5053574",
-  "count": 121,
+  "count": 136,
   "products": [
+    {
+      "id": "333917607",
+      "sku": "4999126|5|76",
+      "name": "CHALECO ALASKA",
+      "description": "Chaleco recto con interno de corderito Tela: Paño print con corderito",
+      "price": 14000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313132-6a2191b486c440e24a17744461391812-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Leopardo",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Abrigos"
+      ],
+      "url": "https://fressia.net/productos/chaleco-alaska-hia6d/",
+      "position": 9999
+    },
+    {
+      "id": "333910027",
+      "sku": "6215666|5|23",
+      "name": "BUZO LEAP",
+      "description": "Buzo hoodie basico Tela: Rustico c -lycra",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312954-4a1edd6ae9f942591417744441470234-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-leap-7rjgk/",
+      "position": 9999
+    },
+    {
+      "id": "332374981",
+      "sku": "0126075|4|8",
+      "name": "BOMBER PORTLAND",
+      "description": "",
+      "price": 59000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312896-ce3b18c4d35b544b8317744432185076-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Abrigos",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/bomber-portland-ckocm/",
+      "position": 9999
+    },
+    {
+      "id": "332374126",
+      "sku": "6288826|5|23",
+      "name": "JOGGER ZOOM",
+      "description": "Flare fit con cintura Tela: Rustico c -lycra",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313254-9d1375330e2a3c693617744491052663-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/jogger-zoom-gbyci/",
+      "position": 9999
+    },
+    {
+      "id": "331436689",
+      "sku": "6217926|5|23",
+      "name": "CAMPERA ZOOM",
+      "description": "Campera oversize con capucha Tela: Rustico c -lycra",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11123-443a61734637425d7e17734259266871-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/campera-zoom-1712y/",
+      "position": 9999
+    },
     {
       "id": "331409953",
       "sku": "6299046|5|23",
@@ -61,6 +198,37 @@
       "position": 9999
     },
     {
+      "id": "331391606",
+      "sku": "8017936|5|23",
+      "name": "FLARE DASH AM",
+      "description": "Flare fit con cintura Tela: Rustico c -lycra",
+      "price": 19000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312847-0e127f69195c01263e17744426574218-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Amor mío",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/flare-dash-am-1gofm/",
+      "position": 9999
+    },
+    {
       "id": "331140259",
       "sku": "6299066|5|23",
       "name": "SUDADERA GLIDE",
@@ -95,7 +263,7 @@
       "name": "REMERA EIRA",
       "description": "Remera escote redondo basica manga corta Tela: Jersey sin lycra\\n",
       "price": 5000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-03-13-at-1-37-20-pm-92209f6d8b38ad47a617734204292770-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313277-e1c91ce202bb81963f17744492937411-1024-1024.jpg",
       "sizes": [
         "L"
       ],
@@ -110,6 +278,94 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-eira-mrx6z/",
+      "position": 9999
+    },
+    {
+      "id": "331079433",
+      "sku": "4918006|5|76",
+      "name": "CHALECO ALASKA AM",
+      "description": "Chaleco recto con interno de corderito Tela: Paño print con corderito",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312936-344653f58acd77296f17744436601400-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Leopardo",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/chaleco-alaska-am-yi16l/",
+      "position": 9999
+    },
+    {
+      "id": "331077360",
+      "sku": "0126045|5|9",
+      "name": "CHALECO ZURICH",
+      "description": "",
+      "price": 35000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313151-5951c1e56d0e3b10f217744479670739-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Abrigos"
+      ],
+      "url": "https://fressia.net/productos/chaleco-zurich-14jke/",
+      "position": 9999
+    },
+    {
+      "id": "331064833",
+      "sku": "7713675|5|15",
+      "name": "POLERA DAFNE",
+      "description": "Polera mangas largas Tela: Jersey Algodón c- Ly",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312926-e4f3081a96969afcd717744435764077-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Melange",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/polera-dafne-9hcd4/",
       "position": 9999
     },
     {
@@ -160,6 +416,30 @@
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/calza-pulse-jc30n/",
+      "position": 9999
+    },
+    {
+      "id": "330620865",
+      "sku": "5995156|5|16",
+      "name": "BUZO CALIFORNIA",
+      "description": "Buzo oversize, con estampa Tela: Rustico Mil Rayas",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313269-52ea92c253636ca8cf17744491956870-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-california-16z0x/",
       "position": 9999
     },
     {
@@ -321,22 +601,43 @@
       "position": 9999
     },
     {
-      "id": "330328159",
-      "sku": "5098345|5|8",
-      "name": "PANTALÓN LISBON",
-      "description": "Jogger con tiras lateral, elastico embutido en cintura Rustico Print",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc4119-4500bdba4e8dc1275c17730739319622-1024-1024.jpg",
+      "id": "330541408",
+      "sku": "3817975|5|8",
+      "name": "REMERA BELA AM",
+      "description": "Remera mangas largas, asimétrica. Tela: Ribb Brush Print",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312975-448e3217ab9820b90317744442217016-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
           "name": "Chocolate",
           "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
         }
       ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-bela-am-mdmb4/",
+      "position": 9999
+    },
+    {
+      "id": "330328159",
+      "sku": "5098345|5|8",
+      "name": "PANTALÓN LISBON",
+      "description": "Jogger con tiras lateral, elastico embutido en cintura Rustico Print",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313284-714bad4ff77581eeb217744493373705-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -350,7 +651,7 @@
       "name": "TOP BIANCA AM",
       "description": "Top asimétrico con tajo delantero, detalle de ojalillos Tela: Ribb",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11319-52cbe602526769b34f17730661572404-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313088-c6791ab9fc8f2d7e3c17744459594327-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -400,6 +701,28 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-aine-l8yvj/",
+      "position": 9999
+    },
+    {
+      "id": "330292200",
+      "sku": "5917836|5|16",
+      "name": "BUZO STAR",
+      "description": "Buzo con capucha con estampa Tela: Rustico Mil Rayas",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313237-325dcd5a44c0fae0ff17744488972149-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/buzo-star-1bfif/",
       "position": 9999
     },
     {
@@ -544,6 +867,46 @@
       "position": 9999
     },
     {
+      "id": "329817115",
+      "sku": "8098972|5|24",
+      "name": "BUZO WOOL",
+      "description": "Buzo escote redondo, hombros ca&iacute;dos, tajos laterales. \\nTela: Lanilla soft",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313042-9f78f81823b16faa5517744446247744-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lila",
+          "hex": "#ce93d8"
+        },
+        {
+          "name": "Lima",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-wool-m9b7p/",
+      "position": 9999
+    },
+    {
       "id": "329816277",
       "sku": "8013259|5|24",
       "name": "BUZO COZY",
@@ -582,6 +945,31 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-cozy-1ck28/",
+      "position": 9999
+    },
+    {
+      "id": "329565075",
+      "sku": "1217396|5|100",
+      "name": "REMERA ADARA",
+      "description": "Remera escote redondo, con estampa Tela: Morley Viscosa c ly",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313072-eba5fece3740fd445717744458503664-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-adara-1hhrg/",
       "position": 9999
     },
     {
@@ -731,6 +1119,31 @@
         "Sweaters"
       ],
       "url": "https://fressia.net/productos/sweater-soft-8nst5/",
+      "position": 9999
+    },
+    {
+      "id": "327334228",
+      "sku": "1212615|5|100",
+      "name": "REMERA ADA",
+      "description": "Remera escote redondo con hombro drapeado\\nTela: Morley Viscosa c ly",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313050-3a34cea06995e1a7e117744457536218-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-ada-vfo0m/",
       "position": 9999
     },
     {
@@ -1331,6 +1744,14 @@
       ],
       "colors": [
         {
+          "name": "Mocca",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Off White",
           "hex": "#cccccc"
         },
@@ -1639,6 +2060,10 @@
         "M"
       ],
       "colors": [
+        {
+          "name": "Mocca",
+          "hex": "#cccccc"
+        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -2427,7 +2852,7 @@
       "name": "MUSCULOSA SOFIA",
       "description": "Musculosa escote U",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3908-a2211bf5432d609ec517703194959919-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313139-6dfe290f957c14f88d17744476152027-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -2542,17 +2967,12 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3937-ad04d9560ca61ff32d17703206525783-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3122,7 +3542,7 @@
       "name": "BUZO BASICO ESCOTE REDONDO",
       "description": "",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-03-18-at-11-37-38-am-1-6ed6bad43ad976344017738452425924-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312965-9c2984f85e2f98b32517744442870885-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -3272,10 +3692,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3307,7 +3723,7 @@
       "name": "POLERA CUELLO TORTUGA",
       "description": "",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-2846853-0ec4c392737413b68c17489595436879-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313208-7c78da449b3fe9f1ed17744483092447-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -3357,9 +3773,8 @@
       "name": "PANTALÓN WIDE LEG",
       "description": "",
       "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631109-8dbb731116c2c96cd317411972735795-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313223_1-9a7d0619b27f75f69917744484026064-1024-1024.jpg",
       "sizes": [
-        "L",
         "M",
         "S"
       ],
@@ -3381,7 +3796,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
       "url": "https://fressia.net/productos/pantalon-wide-leg12/",
       "position": 9999
     },
@@ -3401,6 +3819,14 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
         },
         {
           "name": "Gris Mel",
