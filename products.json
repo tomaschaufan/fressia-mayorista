@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T18:38:21.568785+00:00",
+  "updated_at": "2026-03-25T20:57:24.232882+00:00",
   "store_id": "5053574",
   "count": 141,
   "products": [
@@ -664,7 +664,7 @@
       "id": "330593078",
       "sku": "1814485|5|16",
       "name": "TOP NOVA AM",
-      "description": "Tela: Microfibra",
+      "description": "",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11094-242fe91107ac03508e17731600532683-1024-1024.jpg",
       "sizes": [
@@ -2207,10 +2207,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Mocca",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
