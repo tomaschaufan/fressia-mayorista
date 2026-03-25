@@ -1,17 +1,38 @@
 {
-  "updated_at": "2026-03-25T15:52:49.365248+00:00",
+  "updated_at": "2026-03-25T18:38:21.568785+00:00",
   "store_id": "5053574",
   "count": 141,
   "products": [
     {
       "id": "333954341",
-      "sku": "5115666|",
+      "sku": "5115666|5|172",
       "name": "BUZO VIENNA AM",
-      "description": "Buzo hoodie estampado\\nTela: Rustico Liviano Sublimado",
+      "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado. Articulo disponible para despachar a partir del 30-3",
       "price": 14000.0,
-      "image": "",
-      "sizes": [],
-      "colors": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_22d3d71e-2c3b-4c86-8e1f-3c7876e73fe7_5053574_5545376-ba5ead1bb3f857f8e417744543323548-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bambi",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Leopardo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lunares",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rayas",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [],
       "url": "https://fressia.net/productos/buzo-vienna-am-17frv/",
       "position": 9999
