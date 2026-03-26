@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-26T11:38:37.266946+00:00",
+  "updated_at": "2026-03-26T15:58:13.014342+00:00",
   "store_id": "5053574",
-  "count": 140,
+  "count": 141,
   "products": [
     {
       "id": "333954341",
@@ -3102,6 +3102,14 @@
           "hex": "#ffffff"
         },
         {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -3129,6 +3137,14 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
         },
         {
           "name": "Negro",
@@ -4072,6 +4088,19 @@
       "position": 9999
     },
     {
+      "id": "253946999",
+      "sku": "6396125|5|16",
+      "name": "PANTALON CON TIRAS LATERALES, CINTURA ALTA",
+      "description": "",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_aa4117b3-a441-4b48-b622-a09e5a8297a4_5053574_5545376-fda1b46aa3b9fe3e6317400556221905-1024-1024.webp",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/pantalon-con-tiras-laterales-cintura-alta/",
+      "position": 9999
+    },
+    {
       "id": "253940685",
       "sku": "7797155|5|15",
       "name": "REMERA GABI",
@@ -4128,6 +4157,10 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         },
         {
           "name": "Topo",
