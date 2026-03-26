@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-26T08:37:25.541883+00:00",
+  "updated_at": "2026-03-26T11:38:37.266946+00:00",
   "store_id": "5053574",
-  "count": 141,
+  "count": 140,
   "products": [
     {
       "id": "333954341",
@@ -2387,8 +2387,16 @@
       ],
       "colors": [
         {
+          "name": "Lima",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
         }
       ],
       "categories": [
@@ -3613,19 +3621,6 @@
       "colors": [],
       "categories": [],
       "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print1/",
-      "position": 9999
-    },
-    {
-      "id": "276732279",
-      "sku": "597905|5|16",
-      "name": "REMERÓN MANGAS LARGA CON BANDAS LATERALES ANIMAL PRINT",
-      "description": "",
-      "price": 13000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_19bb6c8d-e4a0-4b81-9110-b5e5c6b197d8_5053574_5310992-78a8c426725a527cfb17502737662831-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print/",
       "position": 9999
     },
     {
