@@ -1,8 +1,84 @@
 {
-  "updated_at": "2026-03-27T11:30:42.032146+00:00",
+  "updated_at": "2026-03-27T15:10:18.674766+00:00",
   "store_id": "5053574",
-  "count": 141,
+  "count": 143,
   "products": [
+    {
+      "id": "334484196",
+      "sku": "5195156|5|172",
+      "name": "BUZO VIENNA",
+      "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
+      "price": 14000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312946-e3bf0402902fe7e43a17746227014913-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Bambi",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Leopardo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lunares",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rayas",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-vienna-o68pp/",
+      "position": 9999
+    },
+    {
+      "id": "334451687",
+      "sku": "6399205|5|9",
+      "name": "PANTALON TOKIO",
+      "description": "Pantalón con alforza Tela: Frisa",
+      "price": 25000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313308-dc75b52a6ad4d71ace17746149079593-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Uva",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-tokio-ag488/",
+      "position": 9999
+    },
     {
       "id": "333954341",
       "sku": "5115666|5|172",
@@ -1417,7 +1493,7 @@
       "name": "REMERA AILSA",
       "description": "Tela: Morley con Lycra Rayado",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3873-a859cc2b2139d3b44917719502281687-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11232-30c275643f2a5f358d17746129811508-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
