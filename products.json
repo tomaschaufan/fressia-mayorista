@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T15:10:18.674766+00:00",
+  "updated_at": "2026-03-27T18:37:40.458756+00:00",
   "store_id": "5053574",
   "count": 143,
   "products": [
@@ -130,7 +130,10 @@
           "hex": "#9e9e9e"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
       "url": "https://fressia.net/productos/pantalon-bombacho-1p2k1/",
       "position": 9999
     },
