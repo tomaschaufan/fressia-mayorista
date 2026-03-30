@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T14:54:30.822852+00:00",
+  "updated_at": "2026-03-30T18:06:19.864925+00:00",
   "store_id": "5053574",
   "count": 145,
   "products": [
@@ -165,7 +165,7 @@
       "sku": "4999126|5|76",
       "name": "CHALECO ALASKA",
       "description": "Chaleco recto con interno de corderito Tela: Paño print con corderito",
-      "price": 14000.0,
+      "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313132-6a2191b486c440e24a17744461391812-1024-1024.jpg",
       "sizes": [
         "M"
@@ -209,7 +209,8 @@
         "Colección principal",
         "Activewear",
         "Amor mío",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-leap-7rjgk/",
       "position": 9999
@@ -248,7 +249,7 @@
       "sku": "6288826|5|23",
       "name": "JOGGER ZOOM",
       "description": "Flare fit con cintura Tela: Rustico c -lycra",
-      "price": 18000.0,
+      "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313246-3bced730da67d5512017744491052425-1024-1024.jpg",
       "sizes": [
         "L",
@@ -267,7 +268,8 @@
       "categories": [
         "Colección principal",
         "Activewear",
-        "Pantalones"
+        "Pantalones",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/jogger-zoom-gbyci/",
       "position": 9999
@@ -349,7 +351,8 @@
       "categories": [
         "Colección principal",
         "Activewear",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/campera-rush-1d216/",
       "position": 9999
@@ -359,7 +362,7 @@
       "sku": "6299076|5|23",
       "name": "FLARE DASH",
       "description": "Flare fit con cintura Tela: Rustico c -lycra",
-      "price": 17000.0,
+      "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313326-f6ad7072011ef72b9e17744505082687-1024-1024.jpg",
       "sizes": [
         "L",
@@ -378,7 +381,8 @@
       "categories": [
         "Colección principal",
         "Activewear",
-        "Pantalones"
+        "Pantalones",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/flare-dash-1nd2v/",
       "position": 9999
@@ -388,7 +392,7 @@
       "sku": "8017936|5|23",
       "name": "FLARE DASH AM",
       "description": "Flare fit con cintura Tela: Rustico c -lycra",
-      "price": 19000.0,
+      "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312847-0e127f69195c01263e17744426574218-1024-1024.jpg",
       "sizes": [
         "L",
@@ -409,7 +413,8 @@
         "Colección principal",
         "Activewear",
         "Amor mío",
-        "Pantalones"
+        "Pantalones",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/flare-dash-am-1gofm/",
       "position": 9999
@@ -467,7 +472,8 @@
       "categories": [
         "Colección principal",
         "Activewear",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-fly-1rfhr/",
       "position": 9999
@@ -889,7 +895,8 @@
       ],
       "categories": [
         "Colección principal",
-        "Pantalones"
+        "Pantalones",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/pantalon-lisbon-1dru2/",
       "position": 9999
@@ -1609,7 +1616,8 @@
       ],
       "categories": [
         "Colección principal",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-loures-18alo/",
       "position": 9999
@@ -1619,7 +1627,7 @@
       "sku": "5016246|5|8",
       "name": "PANTALÓN LISBON AM",
       "description": "Pantalón Lisbon, jogger con tiras lateral, elastico embutido en cintura Tela: Rústico Sublimado",
-      "price": 17000.0,
+      "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_wr7pylwr7pylwr7p-8ac108c1a6fd0c439517716143351597-1024-1024.png",
       "sizes": [
         "L",
@@ -1634,7 +1642,8 @@
       ],
       "categories": [
         "Amor mío",
-        "Pantalones"
+        "Pantalones",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/pantalon-lisbon-am-s9e46/",
       "position": 9999
@@ -1659,7 +1668,8 @@
       ],
       "categories": [
         "Amor mío",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-loures-am-23rvf/",
       "position": 9999
@@ -2011,7 +2021,8 @@
       ],
       "categories": [
         "Colección principal",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-airy-r8eua/",
       "position": 9999
@@ -2241,10 +2252,6 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Lima",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -2292,7 +2299,8 @@
       ],
       "categories": [
         "Amor mío",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-airy-am-gu9fz/",
       "position": 9999
@@ -2324,7 +2332,8 @@
       ],
       "categories": [
         "Colección principal",
-        "Pantalones"
+        "Pantalones",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/pantalon-rome-1vbhw/",
       "position": 9999
@@ -2564,7 +2573,8 @@
       ],
       "categories": [
         "Amor mío",
-        "Pantalones"
+        "Pantalones",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/pantalon-milan-1xnhu/",
       "position": 9999
@@ -2614,7 +2624,7 @@
       "sku": "2298905|5|76",
       "name": "PANTALON SOHO",
       "description": "Tela: Bengalina Sublimada",
-      "price": 19000.0,
+      "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2744-9beac7f35228d5c33117703833639333-1024-1024.jpg",
       "sizes": [
         "L",
