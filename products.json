@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T18:06:19.864925+00:00",
+  "updated_at": "2026-03-30T21:27:08.154464+00:00",
   "store_id": "5053574",
   "count": 145,
   "products": [
@@ -2806,7 +2806,7 @@
       "id": "323100208",
       "sku": "0498945|5|9",
       "name": "VESTIDO IBIZA",
-      "description": "",
+      "description": "Vestido base, manga corta",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc4066-a1f9c603d15b034bac17703959045940-1024-1024.jpg",
       "sizes": [
@@ -4375,7 +4375,7 @@
       ],
       "categories": [
         "Colección principal",
-        "Remeras y Musculosas"
+        "Pantalones"
       ],
       "url": "https://fressia.net/productos/pantalon-con-banda-lateral-animal-print/",
       "position": 9999
