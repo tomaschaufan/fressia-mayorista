@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-30T10:48:37.375717+00:00",
+  "updated_at": "2026-03-30T14:54:30.822852+00:00",
   "store_id": "5053574",
-  "count": 143,
+  "count": 145,
   "products": [
     {
       "id": "334484196",
@@ -37,6 +37,29 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-vienna-o68pp/",
+      "position": 9999
+    },
+    {
+      "id": "334473262",
+      "sku": "4177536|5|15",
+      "name": "REMERA ARGENTINA",
+      "description": "",
+      "price": 5000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7cb5bb2c-36d8-48a2-8fe7-20e7fc95465a_5053574_5545376-3888a59a88e55a6c7917746197763091-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [
+        "Colección principal"
+      ],
+      "url": "https://fressia.net/productos/remera-argentina-1mter/",
       "position": 9999
     },
     {
@@ -3829,6 +3852,47 @@
       "colors": [],
       "categories": [],
       "url": "https://fressia.net/productos/cardigan-amor-mio/",
+      "position": 9999
+    },
+    {
+      "id": "270345973",
+      "sku": "7717065|5|15",
+      "name": "REMERA CUELLO PERKINS, MANGAS LARGAS",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444349-aec48eecd61904d98117473192573516-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Marino",
+          "hex": "#0d1b3e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-cuello-perkins-mangas-largas3/",
       "position": 9999
     },
     {
