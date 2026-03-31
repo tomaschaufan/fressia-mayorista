@@ -1,8 +1,41 @@
 {
-  "updated_at": "2026-03-31T16:35:38.226205+00:00",
+  "updated_at": "2026-03-31T19:58:19.069112+00:00",
   "store_id": "5053574",
-  "count": 148,
+  "count": 150,
   "products": [
+    {
+      "id": "335180505",
+      "sku": "0498915|5|15",
+      "name": "TOP CLEO",
+      "description": "Top asimétrico con ojales metalicos Tela: Morley c-ly",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c4c8157e-ad22-404c-ba5d-d9247fb6bc9c_5053574_5545376-83576055c49c88c31c17749802102492-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/top-cleo-e9hlv/",
+      "position": 9999
+    },
     {
       "id": "335156697",
       "sku": "6399225|5|9",
@@ -49,7 +82,7 @@
       "name": "BUZO QUEBEC",
       "description": "Buzo cuello alto con recortes Tela: Frisa",
       "price": 19000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2a79b788-27ee-4c5c-84fc-27419fbf3bc7_5053574_5545376-19dc63884dc58fe5e717749719225765-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/trr-ea5130547584bfec0317749805294566-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -81,6 +114,30 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-quebec-ahia7/",
+      "position": 9999
+    },
+    {
+      "id": "335003573",
+      "sku": "0126095|5|130",
+      "name": "SWEATER MUNICH",
+      "description": "",
+      "price": 29000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9abffdcd-8b55-418d-975c-cffe6b6e5609_5053574_5545376-c27f8067251ff229d217749759081914-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Sweaters"
+      ],
+      "url": "https://fressia.net/productos/sweater-munich-15pl3/",
       "position": 9999
     },
     {
@@ -1697,17 +1754,8 @@
       "description": "Pantalón Lisbon, jogger con tiras lateral, elastico embutido en cintura Tela: Rústico Sublimado",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_wr7pylwr7pylwr7p-8ac108c1a6fd0c439517716143351597-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Pantalones",
