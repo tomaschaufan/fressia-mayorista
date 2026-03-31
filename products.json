@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-31T09:46:21.336168+00:00",
+  "updated_at": "2026-03-31T12:08:09.159621+00:00",
   "store_id": "5053574",
-  "count": 145,
+  "count": 146,
   "products": [
     {
       "id": "334484196",
@@ -3809,6 +3809,44 @@
         "Activewear"
       ],
       "url": "https://fressia.net/productos/top-manga-larga/",
+      "position": 9999
+    },
+    {
+      "id": "273646262",
+      "sku": "7712465|5|15",
+      "name": "REMERA ESCOTE V MANGA LARGA",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1148160-72303260fee4978cf117501792380783-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Marino",
+          "hex": "#0d1b3e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-escote-v-manga-larga1/",
       "position": 9999
     },
     {
