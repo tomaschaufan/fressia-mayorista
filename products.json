@@ -1,8 +1,88 @@
 {
-  "updated_at": "2026-03-31T12:08:09.159621+00:00",
+  "updated_at": "2026-03-31T16:35:38.226205+00:00",
   "store_id": "5053574",
-  "count": 146,
+  "count": 148,
   "products": [
+    {
+      "id": "335156697",
+      "sku": "6399225|5|9",
+      "name": "PANTALON BARREL",
+      "description": "Pantalón amplio con pinza y recortes Tela: Frisa",
+      "price": 27000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_db254b10-c443-4cae-a1eb-a7be9cabb843_5053574_5545376-c31527001c7af8102917749709003844-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Uva",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-barrel-yd6j1/",
+      "position": 9999
+    },
+    {
+      "id": "335156088",
+      "sku": "6399215|5|9",
+      "name": "BUZO QUEBEC",
+      "description": "Buzo cuello alto con recortes Tela: Frisa",
+      "price": 19000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2a79b788-27ee-4c5c-84fc-27419fbf3bc7_5053574_5545376-19dc63884dc58fe5e717749719225765-1024-1024.webp",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Uva",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-quebec-ahia7/",
+      "position": 9999
+    },
     {
       "id": "334484196",
       "sku": "5195156|5|172",
@@ -1101,20 +1181,8 @@
       "description": "Buzo oversize, escote redondo\\nTela Lanita Morley Snow\\n",
       "price": 5000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3987-0a5a1b8d90bf3b857c17728082158923-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
