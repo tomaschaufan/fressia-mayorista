@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T14:55:17.851862+00:00",
+  "updated_at": "2026-04-01T18:00:57.808133+00:00",
   "store_id": "5053574",
   "count": 151,
   "products": [
@@ -183,16 +183,8 @@
       "description": "",
       "price": 5000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7cb5bb2c-36d8-48a2-8fe7-20e7fc95465a_5053574_5545376-3888a59a88e55a6c7917746197763091-1024-1024.png",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal"
       ],
