@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-01T10:37:36.973602+00:00",
+  "updated_at": "2026-04-01T14:55:17.851862+00:00",
   "store_id": "5053574",
-  "count": 150,
+  "count": 151,
   "products": [
     {
       "id": "335180505",
@@ -2119,10 +2119,6 @@
       ],
       "colors": [
         {
-          "name": "Mocca",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -3582,22 +3578,6 @@
       "position": 9999
     },
     {
-      "id": "306861745",
-      "sku": "0498680|5|16",
-      "name": "VESTIDO CITY",
-      "description": "Vestido mini con vivos anchos Tela: Morley con lycra",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-03-02-at-4-27-24-pm-32df092bf9c9e0779917724797460042-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Vestidos y Monos"
-      ],
-      "url": "https://fressia.net/productos/vestido-city-npcm0/",
-      "position": 9999
-    },
-    {
       "id": "295054656",
       "sku": "3497485|6|9",
       "name": "TRENCH BELFAST",
@@ -3868,6 +3848,35 @@
       "position": 9999
     },
     {
+      "id": "276130183",
+      "sku": "3697525|5|35",
+      "name": "SACO CORAZON",
+      "description": "",
+      "price": 32000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1147635-60fef8c2b43df434d817498310576313-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/saco-corazon-1x8lf/",
+      "position": 9999
+    },
+    {
       "id": "274875884",
       "sku": "5097292|5|136",
       "name": "BOMBER FULL PRINT",
@@ -4082,6 +4091,27 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-rayado-escote-redondo3/",
+      "position": 9999
+    },
+    {
+      "id": "270224913",
+      "sku": "3497555|5|147",
+      "name": "SACO LONDON",
+      "description": "",
+      "price": 32000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444879-d3d52dcc691a7f3e5117476798466619-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Cuadros",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/saco-con-bolsillos1/",
       "position": 9999
     },
     {
