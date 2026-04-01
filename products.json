@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T18:00:57.808133+00:00",
+  "updated_at": "2026-04-01T21:10:54.357765+00:00",
   "store_id": "5053574",
   "count": 151,
   "products": [
@@ -2111,6 +2111,10 @@
       ],
       "colors": [
         {
+          "name": "Mocca",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -2608,10 +2612,6 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
