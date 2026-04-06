@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T14:16:22.727644+00:00",
+  "updated_at": "2026-04-06T17:32:26.482056+00:00",
   "store_id": "5053574",
   "count": 151,
   "products": [
@@ -1068,7 +1068,8 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11014-a517279e02671b32b717730654877790-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -1886,10 +1887,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
         {
           "name": "Off White",
           "hex": "#cccccc"
@@ -4346,8 +4343,16 @@
       ],
       "colors": [
         {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
           "name": "Bordo",
           "hex": "#7b1a2c"
+        },
+        {
+          "name": "Mostaza",
+          "hex": "#f9a825"
         },
         {
           "name": "Negro",
@@ -4503,7 +4508,6 @@
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-0352024-0b474c10dca1c7d89d17570108020369-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
