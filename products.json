@@ -1,8 +1,37 @@
 {
-  "updated_at": "2026-04-06T17:32:26.482056+00:00",
+  "updated_at": "2026-04-06T20:03:46.087589+00:00",
   "store_id": "5053574",
-  "count": 151,
+  "count": 153,
   "products": [
+    {
+      "id": "336172577",
+      "sku": "1010027|5|23",
+      "name": "REMERA FAN AM",
+      "description": "Remera manga corta con estampa. Tela: Jersey Rayado c- ly",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3fe80bff-f06d-49de-841e-28f1a2d45ac3_5053574_5545376-f8fa76eda01067a4fe17755013172209-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-fan-am-ib53g/",
+      "position": 9999
+    },
     {
       "id": "335180505",
       "sku": "0498915|5|15",
@@ -71,7 +100,8 @@
       ],
       "categories": [
         "Colección principal",
-        "Pantalones"
+        "Pantalones",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/pantalon-barrel-yd6j1/",
       "position": 9999
@@ -111,7 +141,8 @@
       ],
       "categories": [
         "Colección principal",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-quebec-ahia7/",
       "position": 9999
@@ -226,7 +257,8 @@
       ],
       "categories": [
         "Colección principal",
-        "Pantalones"
+        "Pantalones",
+        "Conjuntos"
       ],
       "url": "https://fressia.net/productos/pantalon-tokio-ag488/",
       "position": 9999
@@ -3614,6 +3646,55 @@
         "Abrigos"
       ],
       "url": "https://fressia.net/productos/cardigan-sin-botones/",
+      "position": 9999
+    },
+    {
+      "id": "290842775",
+      "sku": "7713450|6|28",
+      "name": "REMERA ESCOTE CUADRADO, MANGAS PRINCESA",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2024-08-0723902-1-9f296bc5a54f8a4dd417564975569364-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris Mel",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Gris Topo",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Verde Militar",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-escote-cuadrado-mangas-princesa/",
       "position": 9999
     },
     {
