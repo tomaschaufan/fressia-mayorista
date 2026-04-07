@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-07T09:52:01.471590+00:00",
+  "updated_at": "2026-04-07T12:08:50.579962+00:00",
   "store_id": "5053574",
-  "count": 153,
+  "count": 154,
   "products": [
     {
       "id": "336172577",
@@ -2130,7 +2130,7 @@
       "id": "324835818",
       "sku": "6298935|5|139",
       "name": "BUZO AIRY",
-      "description": "Tela: Rustico wash",
+      "description": "Buzo manga ranglan con etiqueta bordada\\nTela: Rustico Wash",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10101-d84c0862e3155afc6217718492287162-1024-1024.jpg",
       "sizes": [
@@ -2445,7 +2445,7 @@
       "id": "324004730",
       "sku": "6298925|5|139",
       "name": "PANTALON ROME",
-      "description": "Tela: Rustico Wash",
+      "description": "Pantalón recto, con alforza\\nTela: Rustico Wash",
       "price": 29000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10098-37f9ce58d068683ddb17718521112987-1024-1024.jpg",
       "sizes": [
@@ -3221,7 +3221,6 @@
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10548-8228542da3f250590a17718573999502-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -4073,6 +4072,19 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-basico-escote-redondo6/",
+      "position": 9999
+    },
+    {
+      "id": "271652047",
+      "sku": "125055|4|15",
+      "name": "SWEATER PEONIA",
+      "description": "",
+      "price": 2500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444488-926d9f2687f661dee717478357001101-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/sweater-peonia/",
       "position": 9999
     },
     {
