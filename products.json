@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-08T12:08:11.049287+00:00",
+  "updated_at": "2026-04-08T16:44:27.738358+00:00",
   "store_id": "5053574",
-  "count": 154,
+  "count": 156,
   "products": [
     {
       "id": "336172577",
@@ -108,7 +108,7 @@
       "name": "BUZO QUEBEC",
       "description": "Buzo cuello alto con recortes Tela: Frisa",
       "price": 19000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/trr-ea5130547584bfec0317749805294566-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_26a8fe0a-9beb-4552-a69e-765a88d48fdb_5053574_5545376-2ebf8896809f830c2817756617093606-1024-1024.webp",
       "sizes": [
         "L",
         "M"
@@ -4033,6 +4033,46 @@
       "position": 9999
     },
     {
+      "id": "273363354",
+      "sku": "7793275|5|15",
+      "name": "TOP CROPPED, MANGAS LARGAS",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_1bdcfa5d-b0ac-4800-b205-6d88678502ed_5053574_5310992-b40f53ba06141e4ba817497356034357-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Marino",
+          "hex": "#0d1b3e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/top-cropped-mangas-largas/",
+      "position": 9999
+    },
+    {
       "id": "273182086",
       "sku": "6197805|5|29",
       "name": "BUZO BASICO ESCOTE REDONDO",
@@ -4363,10 +4403,6 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Militar",
           "hex": "#cccccc"
         },
@@ -4606,8 +4642,7 @@
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-0352024-0b474c10dca1c7d89d17570108020369-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -4651,12 +4686,38 @@
       "position": 9999
     },
     {
+      "id": "251253775",
+      "sku": "5096125|5|76",
+      "name": "PANTALON CHICAGO",
+      "description": "Pantalon animal print con banda lateral Tela: Rustico Print",
+      "price": 22000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_m9cjbqm9cjbqm9cj-fd0c49fce2a1b0626917756569310582-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Leopardo",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-chicago-gr4ot/",
+      "position": 9999
+    },
+    {
       "id": "233259157",
       "sku": "7710031|5|9",
       "name": "REMERA MANGAS CORTAS, ESCOTE EN V",
       "description": "",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-08-0650654-abeb7f339bbb06da0717555287595342-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0393-0d2b4a0e869dafed2a17756600060499-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
