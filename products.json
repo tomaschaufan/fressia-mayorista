@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T09:52:16.242130+00:00",
+  "updated_at": "2026-04-08T12:08:11.049287+00:00",
   "store_id": "5053574",
   "count": 154,
   "products": [
@@ -2445,7 +2445,6 @@
       "price": 29000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10098-37f9ce58d068683ddb17718521112987-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -3584,7 +3583,7 @@
       "id": "295054656",
       "sku": "3497485|6|9",
       "name": "TRENCH BELFAST",
-      "description": "",
+      "description": "Tela: Gabardina Twill Soft",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11531-0c814ea03c4e35721317730733526244-1024-1024.jpg",
       "sizes": [
@@ -4354,6 +4353,7 @@
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313223_1-9a7d0619b27f75f69917744484026064-1024-1024.jpg",
       "sizes": [
+        "L",
         "M",
         "S"
       ],
