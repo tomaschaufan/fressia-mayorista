@@ -1,8 +1,65 @@
 {
-  "updated_at": "2026-04-09T10:45:19.109620+00:00",
+  "updated_at": "2026-04-09T16:06:51.812175+00:00",
   "store_id": "5053574",
-  "count": 156,
+  "count": 160,
   "products": [
+    {
+      "id": "336839550",
+      "sku": "1099239|5|23",
+      "name": "REMERA ALIA",
+      "description": "Remera escote bote con estampa en espalda. Tela: Jersey Rayado c- ly",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c6a4f1ef-61e0-45ac-ad1e-2051ebb8d02a_5053574_5545376-dd5f9b55857eb014c217757397773511-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-alia-ybb6n/",
+      "position": 9999
+    },
+    {
+      "id": "336837694",
+      "sku": "1018049|5|23",
+      "name": "REMERA ALIA AM",
+      "description": "Remera escote bote con estampa en espalda. Tela: Jersey Rayado c- ly",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_8e841423-9159-4e4b-9b5b-ca669c6d2da0_5053574_5545376-3c310817805f6dcc4517757380052912-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-alia-am-nfxi5/",
+      "position": 9999
+    },
     {
       "id": "336172577",
       "sku": "1010027|5|23",
@@ -4242,10 +4299,6 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -4255,6 +4308,51 @@
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/pantalon-wide-leg-5-bolsillos1/",
+      "position": 9999
+    },
+    {
+      "id": "269511701",
+      "sku": "9097795|5|101",
+      "name": "CAMPERA DEPORTIVA CON BANDA LATERAL",
+      "description": "",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30256-19d9c88639d405746d17467989517882-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/campera-deportiva-con-banda-lateral2/",
+      "position": 9999
+    },
+    {
+      "id": "268175864",
+      "sku": "6217005|5|29",
+      "name": "PANTALÓN JOGGER CON ALFORZAS",
+      "description": "",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444732-a94d7cfd74c5a64c3417476649173447-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Gris Mel",
+          "hex": "#9e9e9e"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-jogger-con-alforzas/",
       "position": 9999
     },
     {
@@ -4352,7 +4450,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/polera-cuello-tortuga2/",
       "position": 9999
     },
