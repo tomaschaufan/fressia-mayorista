@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T20:08:16.816264+00:00",
+  "updated_at": "2026-04-09T23:25:23.217784+00:00",
   "store_id": "5053574",
   "count": 160,
   "products": [
@@ -1709,7 +1709,6 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_w5wrtaw5wrtaw5wr-597a6618593cc5cd6f17718734914791-1024-1024.png",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -2241,10 +2240,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Gris",
           "hex": "#9e9e9e"
@@ -4518,7 +4513,6 @@
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313223_1-9a7d0619b27f75f69917744484026064-1024-1024.jpg",
       "sizes": [
-        "L",
         "M",
         "S"
       ],
@@ -4795,10 +4789,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
