@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T16:06:51.812175+00:00",
+  "updated_at": "2026-04-09T20:08:16.816264+00:00",
   "store_id": "5053574",
   "count": 160,
   "products": [
@@ -165,7 +165,7 @@
       "name": "BUZO QUEBEC",
       "description": "Buzo cuello alto con recortes Tela: Frisa",
       "price": 19000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_26a8fe0a-9beb-4552-a69e-765a88d48fdb_5053574_5545376-2ebf8896809f830c2817756617093606-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_4a4a61ec-b067-4278-ace9-08998233f458_5053574_5545376-af918cf045927aabd517757615887017-1024-1024.png",
       "sizes": [
         "L",
         "M"
@@ -322,7 +322,7 @@
       "name": "BUZO VIENNA AM",
       "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
       "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_22d3d71e-2c3b-4c86-8e1f-3c7876e73fe7_5053574_5545376-ba5ead1bb3f857f8e417744543323548-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f2fa1e2d-d255-486f-bec5-1efb0419b231_5053574_5545376-f32a81eccb200a977d17757540590198-1024-1024.png",
       "sizes": [
         "L",
         "M",
@@ -346,7 +346,10 @@
           "hex": "#cccccc"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/buzo-vienna-am-17frv/",
       "position": 9999
     },
@@ -1831,8 +1834,17 @@
       "description": "Pantalón Lisbon, jogger con tiras lateral, elastico embutido en cintura Tela: Rústico Sublimado",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_wr7pylwr7pylwr7p-8ac108c1a6fd0c439517716143351597-1024-1024.png",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        }
+      ],
       "categories": [
         "Amor mío",
         "Pantalones",
@@ -2187,7 +2199,8 @@
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10101-d84c0862e3155afc6217718492287162-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -2442,10 +2455,6 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
@@ -2504,6 +2513,14 @@
         "M"
       ],
       "colors": [
+        {
+          "name": "Mocca",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
         {
           "name": "Off White",
           "hex": "#cccccc"
@@ -2925,6 +2942,10 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
         },
         {
           "name": "Off White",
@@ -4216,10 +4237,6 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Marino",
-          "hex": "#0d1b3e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -4317,8 +4334,20 @@
       "description": "",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30256-19d9c88639d405746d17467989517882-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Marino",
+          "hex": "#0d1b3e"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
@@ -4738,7 +4767,8 @@
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-0352024-0b474c10dca1c7d89d17570108020369-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -4765,6 +4795,10 @@
         "M"
       ],
       "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
