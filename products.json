@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T19:58:08.115493+00:00",
+  "updated_at": "2026-04-10T21:57:48.235525+00:00",
   "store_id": "5053574",
   "count": 160,
   "products": [
@@ -755,10 +755,6 @@
           "hex": "#d4b896"
         },
         {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
           "name": "Crudo",
           "hex": "#cccccc"
         },
@@ -1101,8 +1097,7 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313284-714bad4ff77581eeb217744493373705-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
