@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T10:35:20.016400+00:00",
+  "updated_at": "2026-04-10T14:35:20.164401+00:00",
   "store_id": "5053574",
   "count": 160,
   "products": [
@@ -1833,17 +1833,8 @@
       "description": "Pantalón Lisbon, jogger con tiras lateral, elastico embutido en cintura Tela: Rústico Sublimado",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_wr7pylwr7pylwr7p-8ac108c1a6fd0c439517716143351597-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Pantalones",
@@ -2962,6 +2953,18 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
         },
         {
           "name": "Topo",
