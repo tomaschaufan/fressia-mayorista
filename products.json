@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T23:25:23.217784+00:00",
+  "updated_at": "2026-04-10T06:18:51.067165+00:00",
   "store_id": "5053574",
   "count": 160,
   "products": [
@@ -2198,8 +2198,7 @@
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10101-d84c0862e3155afc6217718492287162-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -2508,14 +2507,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Mocca",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
         {
           "name": "Off White",
           "hex": "#cccccc"
