@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T17:37:49.899963+00:00",
+  "updated_at": "2026-04-10T19:58:08.115493+00:00",
   "store_id": "5053574",
   "count": 160,
   "products": [
@@ -208,8 +208,8 @@
       "price": 29000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9abffdcd-8b55-418d-975c-cffe6b6e5609_5053574_5545376-c27f8067251ff229d217749759081914-1024-1024.png",
       "sizes": [
-        "L",
-        "M"
+        "M",
+        "S"
       ],
       "colors": [
         {
@@ -2596,29 +2596,8 @@
       "description": "Remera con textura cuello perkins",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3370-071bbfe320d54f4fa117703795916549-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Ciruela",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -4833,10 +4812,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Blanco",
           "hex": "#ffffff"
