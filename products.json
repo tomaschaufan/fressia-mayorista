@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T16:40:18.520837+00:00",
+  "updated_at": "2026-04-13T20:13:56.159013+00:00",
   "store_id": "5053574",
   "count": 162,
   "products": [
@@ -418,7 +418,6 @@
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_720hs0720hs0720h-068b86c9d9c5cd623417744499257377-1024-1024.png",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -2548,10 +2547,6 @@
         {
           "name": "Off White",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Pistaccio",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -4206,19 +4201,6 @@
       "position": 9999
     },
     {
-      "id": "270755417",
-      "sku": "125085|5|23",
-      "name": "CARDIGAN AMOR MIO",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444238-02d59fd4e734c9c98e17474222961650-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/cardigan-amor-mio/",
-      "position": 9999
-    },
-    {
       "id": "270345973",
       "sku": "7717065|5|15",
       "name": "REMERA CUELLO PERKINS, MANGAS LARGAS",
@@ -4253,6 +4235,39 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-cuello-perkins-mangas-largas3/",
+      "position": 9999
+    },
+    {
+      "id": "270298710",
+      "sku": "6216994|5|16",
+      "name": "BUZO CUELLO ALTO CON RECORTES",
+      "description": "",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444760-85c128f91dd60d1a2f17473145436513-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Gris Mel",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-cuello-alto-con-recortes1/",
       "position": 9999
     },
     {
