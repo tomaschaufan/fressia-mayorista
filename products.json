@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-04-13T11:56:46.256851+00:00",
+  "updated_at": "2026-04-13T16:40:18.520837+00:00",
   "store_id": "5053574",
-  "count": 160,
+  "count": 162,
   "products": [
+    {
+      "id": "337669832",
+      "sku": "6092405|5|16",
+      "name": "BUZO MOSCOW",
+      "description": "Buzo escote redondo, con triángulo con bordador, mangas con frunces Tela: Plush",
+      "price": 13000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_00dd8342-3b5f-434b-9559-c7166121935b_5053574_5545376-98dda39bab5d97299c17760952636368-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/buzo-moscow-122jz/",
+      "position": 9999
+    },
+    {
+      "id": "337623983",
+      "sku": "0497515|5|29",
+      "name": "REMERA AGATHA",
+      "description": "Remera escote redondo con manga larga Tela:Morley con lycra",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_fccba05c-d953-4cfb-8c3a-24a5fba320e6_5053574_5545376-3cc9eaa76c5de3a3a117760864755357-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-agatha-11i53/",
+      "position": 9999
+    },
     {
       "id": "336839550",
       "sku": "1099239|5|23",
@@ -267,8 +316,16 @@
       "description": "",
       "price": 5000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7cb5bb2c-36d8-48a2-8fe7-20e7fc95465a_5053574_5545376-3888a59a88e55a6c7917746197763091-1024-1024.png",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
       "categories": [
         "Colección principal"
       ],
@@ -753,6 +810,10 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
         },
         {
           "name": "Crudo",
