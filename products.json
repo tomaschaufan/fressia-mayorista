@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T15:52:32.163164+00:00",
+  "updated_at": "2026-04-14T19:55:41.639957+00:00",
   "store_id": "5053574",
   "count": 165,
   "products": [
@@ -9,7 +9,7 @@
       "name": "PANTALON ROME FRISA",
       "description": "Pantalon recto, con alforza y bolsillos, elastico embutido en cintura Tela: Rústico frisado",
       "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14366-e76888101706b81f7d17761814688142-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14367-ea77f2cb2e41e7163717761821299752-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1386,7 +1386,11 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Rebajas",
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-zaida-am-13lqt/",
       "position": 9999
     },
@@ -1593,6 +1597,7 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -1767,6 +1772,7 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -1937,6 +1943,7 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -1961,6 +1968,7 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Colección principal",
         "Remeras y Musculosas"
       ],
@@ -2061,6 +2069,7 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -2094,6 +2103,7 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -2122,6 +2132,7 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Colección principal",
         "Remeras y Musculosas"
       ],
@@ -3234,10 +3245,6 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Off White",
           "hex": "#cccccc"
         }
@@ -4063,6 +4070,7 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -4141,6 +4149,7 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -4438,8 +4447,7 @@
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631248-8e5b0c82c8ec55977217470784071205-1024-1024.jpg",
       "sizes": [
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
