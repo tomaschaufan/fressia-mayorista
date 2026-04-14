@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T19:55:41.639957+00:00",
+  "updated_at": "2026-04-14T22:32:12.311032+00:00",
   "store_id": "5053574",
   "count": 165,
   "products": [
@@ -3204,10 +3204,6 @@
       ],
       "colors": [
         {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
           "name": "Crudo",
           "hex": "#cccccc"
         },
@@ -3376,15 +3372,8 @@
       "description": "Buzo escote bote, estampa 84☆",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10410-7647a69bd5502758f817718574723256-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
