@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T23:29:36.386121+00:00",
+  "updated_at": "2026-04-14T06:18:58.278097+00:00",
   "store_id": "5053574",
   "count": 162,
   "products": [
@@ -4542,10 +4542,6 @@
         "S"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
         {
           "name": "Militar",
           "hex": "#cccccc"
