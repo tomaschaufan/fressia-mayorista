@@ -1,8 +1,115 @@
 {
-  "updated_at": "2026-04-14T10:51:43.207935+00:00",
+  "updated_at": "2026-04-14T15:52:32.163164+00:00",
   "store_id": "5053574",
-  "count": 162,
+  "count": 165,
   "products": [
+    {
+      "id": "337962804",
+      "sku": "6299416|5|15",
+      "name": "PANTALON ROME FRISA",
+      "description": "Pantalon recto, con alforza y bolsillos, elastico embutido en cintura Tela: Rústico frisado",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14366-e76888101706b81f7d17761814688142-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones",
+        "Conjuntos"
+      ],
+      "url": "https://fressia.net/productos/pantalon-rome-frisa-sif3d/",
+      "position": 9999
+    },
+    {
+      "id": "337954812",
+      "sku": "6298936|5|15",
+      "name": "BUZO AIRY FRISA",
+      "description": "uzo manga ranglan, con triangulo en escote y etiqueta bordada en espalda Tela: Rustico frisado\\n",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14556-02dec3bf631249b38417761802471427-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas",
+        "Conjuntos"
+      ],
+      "url": "https://fressia.net/productos/buzo-airy-frisa-1mx5z/",
+      "position": 9999
+    },
+    {
+      "id": "337914015",
+      "sku": "8014532|5|24",
+      "name": "BUZO WARM",
+      "description": "Tela: Lanilla Soft",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6ab19ed2-d8e0-4dc7-a8c5-d2fd439b76a9_5053574_5545376-0d34e3578fca1d358017761758520661-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lila",
+          "hex": "#ce93d8"
+        },
+        {
+          "name": "Lima",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-warm-1ecvq/",
+      "position": 9999
+    },
     {
       "id": "337669832",
       "sku": "6092405|5|16",
@@ -58,7 +165,7 @@
       "name": "REMERA ALIA",
       "description": "Remera escote bote con estampa en espalda. Tela: Jersey Rayado c- ly",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c6a4f1ef-61e0-45ac-ad1e-2051ebb8d02a_5053574_5545376-dd5f9b55857eb014c217757397773511-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14591-41cf2ec36748599a2317761690376191-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -140,7 +247,7 @@
       "name": "TOP CLEO",
       "description": "Top asimétrico con ojales metalicos Tela: Morley c-ly",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c4c8157e-ad22-404c-ba5d-d9247fb6bc9c_5053574_5545376-83576055c49c88c31c17749802102492-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14468-89f9d004ae6f8a107917761730192946-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -163,7 +270,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/top-cleo-e9hlv/",
       "position": 9999
     },
@@ -173,7 +283,7 @@
       "name": "PANTALON BARREL",
       "description": "Pantalón amplio con pinza y recortes Tela: Frisa",
       "price": 27000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_db254b10-c443-4cae-a1eb-a7be9cabb843_5053574_5545376-c31527001c7af8102917749709003844-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14711-4bca3499aeffe8989317761691436800-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -214,7 +324,7 @@
       "name": "BUZO QUEBEC",
       "description": "Buzo cuello alto con recortes Tela: Frisa",
       "price": 19000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_4a4a61ec-b067-4278-ace9-08998233f458_5053574_5545376-af918cf045927aabd517757615887017-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14711-d88a80714905f6946c17761696277252-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -255,7 +365,7 @@
       "name": "SWEATER MUNICH",
       "description": "",
       "price": 29000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9abffdcd-8b55-418d-975c-cffe6b6e5609_5053574_5545376-c27f8067251ff229d217749759081914-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14581-f437332e9a58287aeb17761716778415-1024-1024.jpg",
       "sizes": [
         "M",
         "S"
@@ -279,7 +389,7 @@
       "name": "BUZO VIENNA",
       "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
       "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312946-e3bf0402902fe7e43a17746227014913-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14320-c3e6e0958fa4e8cd5717761725625785-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -327,7 +437,8 @@
         }
       ],
       "categories": [
-        "Colección principal"
+        "Colección principal",
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-argentina-1mter/",
       "position": 9999
@@ -338,7 +449,7 @@
       "name": "PANTALON TOKIO",
       "description": "Pantalón con alforza Tela: Frisa",
       "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313308-dc75b52a6ad4d71ace17746149079593-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14701-2c459b3408d80bf2db17761736100228-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -894,7 +1005,7 @@
       "name": "CALZA PULSE",
       "description": "Calza larga cintura alta Tela: Microfibra",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10821-59e6c7737dc43afe1617731692028399-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14314-f200600c2b51876f0a17761745811704-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2305,6 +2416,7 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10128-88325f2d432dc1fd1c17718530749214-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -2690,8 +2802,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc4042-f428a9756475d5568217703812014813-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -2906,10 +3017,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -3981,7 +4088,7 @@
       "name": "SACO CORAZON",
       "description": "",
       "price": 32000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1147635-60fef8c2b43df434d817498310576313-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14674-c93fbaaae541c6a49e17761705718042-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -3998,6 +4105,10 @@
         {
           "name": "Rojo",
           "hex": "#d32f2f"
+        },
+        {
+          "name": "Surtido",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -4300,7 +4411,7 @@
       "name": "SACO LONDON",
       "description": "",
       "price": 32000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444879-d3d52dcc691a7f3e5117476798466619-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14698-c06c0a2c2514607a7c17761704165607-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4801,7 +4912,7 @@
       "id": "251961295",
       "sku": "4597105|5|88",
       "name": "PANTALON CON BANDA LATERAL ANIMAL PRINT",
-      "description": "",
+      "description": "Tela: Waffle Liviano",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-03-1237471-31eccf89a42d16c4f417418685644547-1024-1024.jpg",
       "sizes": [
