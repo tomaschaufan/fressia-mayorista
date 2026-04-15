@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-04-15T18:05:06.919966+00:00",
+  "updated_at": "2026-04-15T20:03:01.058368+00:00",
   "store_id": "5053574",
-  "count": 164,
+  "count": 165,
   "products": [
+    {
+      "id": "338266473",
+      "sku": "0126105|4|8",
+      "name": "CAMPERA GLASGOW",
+      "description": "",
+      "price": 59000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_479a7dde-6c4b-42eb-a1ca-9ad6b1a8a64a_5053574_5545376-a6b78ff2151ef8d8ed17762785362067-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Abrigos",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/campera-glasgow-qqxsm/",
+      "position": 9999
+    },
     {
       "id": "338169899",
       "sku": "1079167|5|23",
@@ -2771,10 +2802,6 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Ciruela",
-          "hex": "#cccccc"
         },
         {
           "name": "Negro",
