@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-04-15T10:46:17.006929+00:00",
+  "updated_at": "2026-04-15T14:57:29.537389+00:00",
   "store_id": "5053574",
-  "count": 165,
+  "count": 166,
   "products": [
+    {
+      "id": "338169899",
+      "sku": "1079167|5|23",
+      "name": "REMERA FAN",
+      "description": "Remera manga corta con estampa. Tela: Jersey Rayado c- ly",
+      "price": 8000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-fan-1ybba/",
+      "position": 9999
+    },
     {
       "id": "337962804",
       "sku": "6299416|5|15",
@@ -40,9 +65,9 @@
       "id": "337954812",
       "sku": "6298936|5|15",
       "name": "BUZO AIRY FRISA",
-      "description": "uzo manga ranglan, con triangulo en escote y etiqueta bordada en espalda Tela: Rustico frisado\\n",
+      "description": "uzo manga ranglan, con triangulo en escote y etiqueta bordada en espalda Tela: Rustico frisado",
       "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14556-02dec3bf631249b38417761802471427-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_860de76c-67b9-4ed9-ad16-75334f6fde7b_5053574_5545376-195202ec82f9ec907317762600492558-1024-1024.png",
       "sizes": [
         "L",
         "M"
@@ -232,6 +257,10 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -292,10 +321,6 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Negro",
@@ -2813,7 +2838,8 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc4042-f428a9756475d5568217703812014813-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
