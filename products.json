@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-15T16:10:12.772249+00:00",
+  "updated_at": "2026-04-15T18:05:06.919966+00:00",
   "store_id": "5053574",
-  "count": 166,
+  "count": 164,
   "products": [
     {
       "id": "338169899",
@@ -9,7 +9,7 @@
       "name": "REMERA FAN",
       "description": "Remera manga corta con estampa. Tela: Jersey Rayado c- ly",
       "price": 8000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14574-01b76f4f907a259bfb17762762020774-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -24,7 +24,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-fan-1ybba/",
       "position": 9999
     },
@@ -1286,30 +1289,6 @@
       "position": 9999
     },
     {
-      "id": "330328159",
-      "sku": "5098345|5|8",
-      "name": "PANTALÓN LISBON",
-      "description": "Jogger con tiras lateral, elastico embutido en cintura Rustico Print",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313284-714bad4ff77581eeb217744493373705-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/pantalon-lisbon-1dru2/",
-      "position": 9999
-    },
-    {
       "id": "330296381",
       "sku": "3517855|5|15",
       "name": "TOP BIANCA AM",
@@ -2023,23 +2002,6 @@
         "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-loures-18alo/",
-      "position": 9999
-    },
-    {
-      "id": "326455882",
-      "sku": "5016246|5|8",
-      "name": "PANTALÓN LISBON AM",
-      "description": "Pantalón Lisbon, jogger con tiras lateral, elastico embutido en cintura Tela: Rústico Sublimado",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_wr7pylwr7pylwr7p-8ac108c1a6fd0c439517716143351597-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/pantalon-lisbon-am-s9e46/",
       "position": 9999
     },
     {
