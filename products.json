@@ -1,8 +1,91 @@
 {
-  "updated_at": "2026-04-16T11:03:15.851082+00:00",
+  "updated_at": "2026-04-16T13:45:22.131381+00:00",
   "store_id": "5053574",
-  "count": 165,
+  "count": 168,
   "products": [
+    {
+      "id": "338516778",
+      "sku": "7892099|5|15",
+      "name": "MUSCULOSA ALMA",
+      "description": "Musculosa escote base, con estampa en delantero. Tela: Jersey S- ly",
+      "price": 6000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-alma-17dc6/",
+      "position": 9999
+    },
+    {
+      "id": "338311194",
+      "sku": "0126125|5|130",
+      "name": "SWEATER HEMP",
+      "description": "",
+      "price": 39000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_70ea9375-0f5e-4595-a8e9-e8892011bde4_5053574_5545376-aba530fd495071a31817762827450896-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas",
+        "Sweaters"
+      ],
+      "url": "https://fressia.net/productos/sweater-hemp-bmazt/",
+      "position": 9999
+    },
+    {
+      "id": "338299969",
+      "sku": "0126115|4|9",
+      "name": "PANTALON HAVANA",
+      "description": "",
+      "price": 36000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e54a4f41-d786-4690-9c1b-ccb1ab6786be_5053574_5545376-82862d4ee61b53e26617763443034480-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Camel",
+          "hex": "#c19a6b"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-havana-mx48u/",
+      "position": 9999
+    },
     {
       "id": "338266473",
       "sku": "0126105|4|8",
