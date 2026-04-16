@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-04-16T17:15:00.359484+00:00",
+  "updated_at": "2026-04-16T19:15:17.513946+00:00",
   "store_id": "5053574",
-  "count": 169,
+  "count": 170,
   "products": [
+    {
+      "id": "338562128",
+      "sku": "0126135|5|149",
+      "name": "CAMPERA BRUSSELS",
+      "description": "",
+      "price": 59000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_435b2813-6e73-486c-92e2-4600faf02565_5053574_5545376-5c768b3c3de3bddbe117763667025183-1024-1024.png",
+      "sizes": [
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/campera-brussels-188yf/",
+      "position": 9999
+    },
     {
       "id": "338519918",
       "sku": "7777216|5|15",
