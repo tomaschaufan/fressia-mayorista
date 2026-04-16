@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-04-16T13:45:22.131381+00:00",
+  "updated_at": "2026-04-16T15:26:04.389917+00:00",
   "store_id": "5053574",
-  "count": 168,
+  "count": 169,
   "products": [
     {
-      "id": "338516778",
-      "sku": "7892099|5|15",
-      "name": "MUSCULOSA ALMA",
-      "description": "Musculosa escote base, con estampa en delantero. Tela: Jersey S- ly",
+      "id": "338519918",
+      "sku": "7777216|5|15",
+      "name": "REMERA LIAN",
+      "description": "Remera basica manga corta con estampa. Tela: Jersey Alg - c Ly",
       "price": 6000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14467-a83a0c93ecb678957a17763477272014-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -20,8 +20,35 @@
           "hex": "#ffffff"
         }
       ],
-      "categories": [],
-      "url": "https://fressia.net/productos/musculosa-alma-17dc6/",
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-lian-15rrc/",
+      "position": 9999
+    },
+    {
+      "id": "338519897",
+      "sku": "7898758|5|15",
+      "name": "REMERA HANA",
+      "description": "Remera Box fit, escote redondo con dije. Tela: Jersey s-ly",
+      "price": 6000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14517-5a498d57e173d167db17763478898065-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-hana-1ko4b/",
       "position": 9999
     },
     {
@@ -4319,7 +4346,7 @@
       "name": "TOP CROPPED, MANGAS LARGAS",
       "description": "",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_1bdcfa5d-b0ac-4800-b205-6d88678502ed_5053574_5310992-b40f53ba06141e4ba817497356034357-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14541-5e355a7e560a0e99fb17763480229370-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
