@@ -1,8 +1,53 @@
 {
-  "updated_at": "2026-04-17T11:53:58.737119+00:00",
+  "updated_at": "2026-04-17T13:20:38.868101+00:00",
   "store_id": "5053574",
-  "count": 170,
+  "count": 172,
   "products": [
+    {
+      "id": "338739651",
+      "sku": "0126185|5|15",
+      "name": "CHALECO EDINBURGH",
+      "description": "",
+      "price": 34000.0,
+      "image": "",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/chaleco-edinburgh-x3ynh/",
+      "position": 9999
+    },
+    {
+      "id": "338738953",
+      "sku": "0126175|5|36",
+      "name": "CHALECO ANNECY",
+      "description": "",
+      "price": 30000.0,
+      "image": "",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/chaleco-annecy-1syl7/",
+      "position": 9999
+    },
     {
       "id": "338562128",
       "sku": "0126135|5|149",
