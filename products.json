@@ -1,29 +1,34 @@
 {
-  "updated_at": "2026-04-17T13:20:38.868101+00:00",
+  "updated_at": "2026-04-17T14:55:38.460900+00:00",
   "store_id": "5053574",
-  "count": 172,
+  "count": 171,
   "products": [
     {
-      "id": "338739651",
-      "sku": "0126185|5|15",
-      "name": "CHALECO EDINBURGH",
+      "id": "338565974",
+      "sku": "0126145|5|9",
+      "name": "SWEATER GENTLE",
       "description": "",
       "price": 34000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_abe3ca6d-f6e3-40eb-a886-a28258f972d4_5053574_5545376-7f389dc22601c09d4317764349943585-1024-1024.png",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
         {
-          "name": "Blanco",
-          "hex": "#ffffff"
+          "name": "Beige",
+          "hex": "#d4b896"
         },
         {
-          "name": "Chocolate",
-          "hex": "#4e342e"
+          "name": "Gris",
+          "hex": "#9e9e9e"
         },
         {
-          "name": "Crudo",
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Natural",
           "hex": "#cccccc"
         },
         {
@@ -31,21 +36,11 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
-      "url": "https://fressia.net/productos/chaleco-edinburgh-x3ynh/",
-      "position": 9999
-    },
-    {
-      "id": "338738953",
-      "sku": "0126175|5|36",
-      "name": "CHALECO ANNECY",
-      "description": "",
-      "price": 30000.0,
-      "image": "",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/chaleco-annecy-1syl7/",
+      "categories": [
+        "Colección principal",
+        "Sweaters"
+      ],
+      "url": "https://fressia.net/productos/sweater-gentle-1axax/",
       "position": 9999
     },
     {
