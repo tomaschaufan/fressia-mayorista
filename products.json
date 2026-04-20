@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T02:42:51.178258+00:00",
+  "updated_at": "2026-04-20T05:41:45.694152+00:00",
   "store_id": "5053574",
   "count": 172,
   "products": [
@@ -4545,10 +4545,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
         },
         {
           "name": "Negro",
