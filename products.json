@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T16:09:36.484398+00:00",
+  "updated_at": "2026-04-20T17:57:37.250344+00:00",
   "store_id": "5053574",
   "count": 173,
   "products": [
@@ -177,6 +177,28 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-hana-1ko4b/",
+      "position": 9999
+    },
+    {
+      "id": "338519104",
+      "sku": "7815429|5|15",
+      "name": "REMERA BELLA",
+      "description": "Remera básica, con estampa. Tela: Jersey S- ly",
+      "price": 6000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_dru4drdru4drdru4-7f7a7f099078cc0c2117763497920300-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-bella-13zh4/",
       "position": 9999
     },
     {
@@ -3632,29 +3654,6 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-oslo-1rw3m/",
-      "position": 9999
-    },
-    {
-      "id": "323099776",
-      "sku": "5917766|5|39",
-      "name": "BUZO OSLO AM",
-      "description": "Buzo escote bote, estampa 84☆",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10548-8228542da3f250590a17718573999502-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-oslo-am-t7s0r/",
       "position": 9999
     },
     {
