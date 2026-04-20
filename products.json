@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-04-20T17:57:37.250344+00:00",
+  "updated_at": "2026-04-20T19:17:17.601603+00:00",
   "store_id": "5053574",
-  "count": 173,
+  "count": 174,
   "products": [
+    {
+      "id": "339266425",
+      "sku": "5095156|5|171",
+      "name": "BUZO ARGENTINA",
+      "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
+      "price": 14000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_32135bf7-8dc1-4b90-abb7-c4f3d4d2682b_5053574_5545376-1f198f77f7069e843c17767100053135-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Bandera",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-argentina-8fo68/",
+      "position": 9999
+    },
     {
       "id": "338785969",
       "sku": "0126195|5|9",
@@ -1657,7 +1681,7 @@
       "name": "REMERA ZAIDA AM",
       "description": "Remera escote asimétrico con drapeado en el hombro Tela: Jersey sin lycra",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11240-d67ff5911d245fabf617730660801512-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a9ced90c-bc08-4e80-850a-406d4472f99d_5053574_5545376-6e337ef38934db083217767091575082-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -2168,6 +2192,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_w5wrtaw5wrtaw5wr-597a6618593cc5cd6f17718734914791-1024-1024.png",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
