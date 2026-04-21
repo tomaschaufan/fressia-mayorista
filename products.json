@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T11:06:57.835859+00:00",
+  "updated_at": "2026-04-21T13:27:44.159293+00:00",
   "store_id": "5053574",
   "count": 174,
   "products": [
@@ -641,6 +641,14 @@
           "hex": "#d4b896"
         },
         {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Off White",
           "hex": "#cccccc"
         },
@@ -1018,7 +1026,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/campera-zoom-1712y/",
       "position": 9999
     },
@@ -1439,7 +1450,7 @@
       "name": "CALZA PULSE AM",
       "description": "Calza larga cintura alta Tela: Microfibra",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11061-c24abdc30c11c871b417731624124518-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_33ac9b92-ca90-43f7-8e9c-3c65426d074e_5053574_5545376-cb11ff4d5e4796509717767772129864-1024-1024.png",
       "sizes": [
         "L",
         "M",
@@ -3316,6 +3327,10 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
         }
       ],
       "categories": [
@@ -4041,6 +4056,10 @@
         "M"
       ],
       "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -5010,7 +5029,7 @@
       "name": "REMERA BÁSICA, MANGA LARGA",
       "description": "Algod&oacute;n con Lycra art 7710545",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-01-2935309-d950da01167a60506017389360708771-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-01-2935299-083332db978c32faaf17389360831096-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -5046,7 +5065,10 @@
           "hex": "#2e7d32"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-basica-manga-larga/",
       "position": 9999
     },
@@ -5176,6 +5198,10 @@
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
