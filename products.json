@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T13:27:44.159293+00:00",
+  "updated_at": "2026-04-21T15:13:23.475622+00:00",
   "store_id": "5053574",
   "count": 174,
   "products": [
@@ -1252,7 +1252,11 @@
           "hex": "#cccccc"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Abrigos",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/chaleco-alaska-am-yi16l/",
       "position": 9999
     },
@@ -1682,7 +1686,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/buzo-star-1bfif/",
       "position": 9999
     },
@@ -2170,7 +2177,7 @@
       "id": "327151856",
       "sku": "4717905|5|170",
       "name": "REMERA CARYS",
-      "description": "Remera escote bote asimetrico, manga al codo \\nJersey Super Soft Print",
+      "description": "Remera escote bote asimetrico, manga al codo Jersey Super Soft Print",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10673-6035f74522537c7d6d17718760234898-1024-1024.jpg",
       "sizes": [
@@ -3268,7 +3275,7 @@
       "name": "REMERA ASTRID",
       "description": "Tela: Morley cotton con lycra",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3326-9ec10b33213be339d317703844175637-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3340-37c53a292b62b634c617703844461543-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -4097,8 +4104,11 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Colección principal",
-        "Abrigos"
+        "Abrigos",
+        "Buzos y Camperas",
+        "Sweaters"
       ],
       "url": "https://fressia.net/productos/cardigan-sin-botones/",
       "position": 9999
@@ -4499,7 +4509,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-escote-v-manga-larga1/",
       "position": 9999
     },
