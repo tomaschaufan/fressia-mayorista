@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-04-21T17:02:22.546878+00:00",
+  "updated_at": "2026-04-21T19:12:28.336834+00:00",
   "store_id": "5053574",
-  "count": 175,
+  "count": 176,
   "products": [
+    {
+      "id": "339497511",
+      "sku": "5015666|5|171",
+      "name": "BUZO ARGENTINA AM",
+      "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
+      "price": 14000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_fa298b5f-d6c4-4476-a57a-7a72fc5d3faf_5053574_5545376-a41e71b4e6b0faefe017767981264960-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bandera",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-argentina-am-1441m/",
+      "position": 9999
+    },
     {
       "id": "339266425",
       "sku": "5095156|5|171",
@@ -1289,6 +1314,10 @@
       ],
       "colors": [
         {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
           "name": "Chocolate",
           "hex": "#4e342e"
         },
@@ -1347,7 +1376,7 @@
       "name": "TOP NOVA",
       "description": "Top espalda deportiva Tela: Microfibra",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10807-2376dc0e34fe573d3817731697906425-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_d6282796-b152-4e14-8333-91621f967a5c_5053574_5545376-603c0bf06d536748df17767983049580-1024-1024.png",
       "sizes": [
         "L",
         "M"
