@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T19:12:28.336834+00:00",
+  "updated_at": "2026-04-21T20:53:18.290389+00:00",
   "store_id": "5053574",
   "count": 176,
   "products": [
@@ -1401,7 +1401,7 @@
       "name": "CALZA PULSE",
       "description": "Calza larga cintura alta Tela: Microfibra",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14314-f200600c2b51876f0a17761745811704-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_5a40f0b7-3f0a-4fed-9d3d-7137845fecd1_5053574_5545376-018321548b2581db9817768008120989-1024-1024.png",
       "sizes": [
         "L",
         "M"
@@ -5049,10 +5049,6 @@
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Hummus",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
