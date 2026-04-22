@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T15:13:52.652097+00:00",
+  "updated_at": "2026-04-22T17:01:02.426523+00:00",
   "store_id": "5053574",
   "count": 178,
   "products": [
@@ -9,7 +9,7 @@
       "name": "REMERA BRUNA",
       "description": "Remera media polera, mangas largas Tela: Jersey Algodón c- Ly",
       "price": 9000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_85107189-4a66-4ba8-a670-da8c3fda983c_5053574_5545376-904c402b31d161f65c17768767461852-1024-1024.png",
       "sizes": [
         "L",
         "M"
@@ -32,7 +32,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-bruna-o9oic/",
       "position": 9999
     },
@@ -178,7 +181,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Abrigos"
+      ],
       "url": "https://fressia.net/productos/chaleco-edinburgh-x3ynh/",
       "position": 9999
     },
