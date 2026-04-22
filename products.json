@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-22T19:13:41.610907+00:00",
+  "updated_at": "2026-04-22T20:55:19.716174+00:00",
   "store_id": "5053574",
-  "count": 178,
+  "count": 179,
   "products": [
     {
       "id": "339650570",
@@ -1419,6 +1419,10 @@
       ],
       "colors": [
         {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
           "name": "Chocolate",
           "hex": "#4e342e"
         },
@@ -2111,7 +2115,8 @@
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11282-002f7920c9396e6ea317728238041936-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -5000,6 +5005,35 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-con-banda-lateral-animal-print1/",
+      "position": 9999
+    },
+    {
+      "id": "258591124",
+      "sku": "1016815|5|120",
+      "name": "REMERA ESCOTE EN V",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631356-85c38226f7c2a929a117413586913030-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bordo/ Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Verde/ Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-escote-en-v/",
       "position": 9999
     },
     {
