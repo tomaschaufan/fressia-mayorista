@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-04-23T13:43:03.629735+00:00",
+  "updated_at": "2026-04-23T15:53:24.506312+00:00",
   "store_id": "5053574",
   "count": 180,
   "products": [
+    {
+      "id": "339921350",
+      "sku": "7798805|5|15",
+      "name": "TOP AXELLE",
+      "description": "Top con hombros descubiertos Tela: Jersey Algodón c- Ly",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14565-92efdc6cbc5c537f7317769590586050-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas",
+        "Básicos - Esenciales"
+      ],
+      "url": "https://fressia.net/productos/top-axelle-1o3jo/",
+      "position": 9999
+    },
     {
       "id": "339650570",
       "sku": "7757975|5|15",
@@ -2784,34 +2821,6 @@
       "position": 9999
     },
     {
-      "id": "324835818",
-      "sku": "6298935|5|139",
-      "name": "BUZO AIRY",
-      "description": "Buzo manga ranglan con etiqueta bordada\\nTela: Rustico Wash",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10101-d84c0862e3155afc6217718492287162-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Mocca",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/buzo-airy-r8eua/",
-      "position": 9999
-    },
-    {
       "id": "324589267",
       "sku": "6316249|5|8",
       "name": "PANTALÓN BROOKLYN",
@@ -4874,7 +4883,7 @@
       "name": "CAMPERA PUFFER",
       "description": "",
       "price": 35000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444792-d6fa8fe256d169ace317473332270717-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a14711cd-d508-4d09-891a-94fd269e6d1a_5053574_5545376-ed22e8a605285605b617769525214495-1024-1024.webp",
       "sizes": [
         "L",
         "M",
@@ -4891,7 +4900,11 @@
           "hex": "#2e7d32"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Abrigos",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/campera-puffer/",
       "position": 9999
     },
