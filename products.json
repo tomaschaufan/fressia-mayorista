@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-23T11:09:11.126499+00:00",
+  "updated_at": "2026-04-23T13:43:03.629735+00:00",
   "store_id": "5053574",
-  "count": 179,
+  "count": 180,
   "products": [
     {
       "id": "339650570",
@@ -2376,7 +2376,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11217-be2c1857635bf68ec717733228728043-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -4868,6 +4869,33 @@
       "position": 9999
     },
     {
+      "id": "269582893",
+      "sku": "125015|4|16",
+      "name": "CAMPERA PUFFER",
+      "description": "",
+      "price": 35000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444792-d6fa8fe256d169ace317473332270717-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/campera-puffer/",
+      "position": 9999
+    },
+    {
       "id": "269511701",
       "sku": "9097795|5|101",
       "name": "CAMPERA DEPORTIVA CON BANDA LATERAL",
@@ -5349,6 +5377,10 @@
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
