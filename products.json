@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T15:53:24.506312+00:00",
+  "updated_at": "2026-04-23T17:20:22.306727+00:00",
   "store_id": "5053574",
   "count": 180,
   "products": [
@@ -825,10 +825,6 @@
       ],
       "colors": [
         {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -1361,7 +1357,7 @@
       "name": "REMERA EIRA",
       "description": "Remera escote redondo basica manga corta Tela: Jersey sin lycra\\n",
       "price": 5000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313277-e1c91ce202bb81963f17744492937411-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e324df17-d826-4817-ac57-0328bb54b4f4_5053574_5545376-fc2413afa0cbf4278a17769604221553-1024-1024.png",
       "sizes": [
         "L",
         "M"
@@ -1370,6 +1366,10 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Corazones",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
