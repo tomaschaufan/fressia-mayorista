@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T23:45:48.919572+00:00",
+  "updated_at": "2026-04-23T02:39:05.248690+00:00",
   "store_id": "5053574",
   "count": 179,
   "products": [
@@ -787,10 +787,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Chocolate",
           "hex": "#4e342e"
@@ -2380,8 +2376,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11217-be2c1857635bf68ec717733228728043-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -2805,10 +2800,6 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Pistaccio",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -3102,10 +3093,6 @@
       "colors": [
         {
           "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Pistaccio",
           "hex": "#cccccc"
         }
       ],
@@ -5139,10 +5126,6 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
         }
@@ -5366,10 +5349,6 @@
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
