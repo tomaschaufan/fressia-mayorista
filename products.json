@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-24T15:08:30.474327+00:00",
+  "updated_at": "2026-04-24T16:57:34.787298+00:00",
   "store_id": "5053574",
-  "count": 180,
+  "count": 179,
   "products": [
     {
       "id": "339921350",
@@ -2217,10 +2217,6 @@
           "hex": "#1a1a1a"
         },
         {
-          "name": "Pistaccio",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Vison",
           "hex": "#cccccc"
         }
@@ -3101,10 +3097,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Mocca",
-          "hex": "#cccccc"
-        },
         {
           "name": "Off White",
           "hex": "#cccccc"
@@ -5484,28 +5476,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-mangas-cortas-escote-en-v2/",
-      "position": 9999
-    },
-    {
-      "id": "224656606",
-      "sku": "0701408|8|43",
-      "name": "SCRUNCHIES",
-      "description": "",
-      "price": 3500.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/scrunchies-e8251d659cedff003d17272908389354-1024-1024.jpg",
-      "sizes": [],
-      "colors": [
-        {
-          "name": "Surtido",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Unico",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [],
-      "url": "https://fressia.net/productos/scrunchies/",
       "position": 9999
     },
     {
