@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T23:39:17.245801+00:00",
+  "updated_at": "2026-04-25T02:29:07.048123+00:00",
   "store_id": "5053574",
   "count": 179,
   "products": [
@@ -1799,17 +1799,12 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11014-a517279e02671b32b717730654877790-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Marino",
-          "hex": "#0d1b3e"
         }
       ],
       "categories": [
@@ -3240,7 +3235,6 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc4042-f428a9756475d5568217703812014813-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
