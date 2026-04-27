@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T15:48:57.424899+00:00",
+  "updated_at": "2026-04-27T17:22:09.092800+00:00",
   "store_id": "5053574",
   "count": 181,
   "products": [
@@ -848,21 +848,25 @@
       "id": "335156088",
       "sku": "6399215|5|9",
       "name": "BUZO QUEBEC",
-      "description": "PREVENTA EXCLUSIVA!!&nbsp; Para despachar a partir del 4-5 Buzo cuello alto con recortes Tela: Frisa",
+      "description": "PREVENTA EXCLUSIVA!!&nbsp; Para despachar a partir del 4-5 Articulo modificado (sin cord&oacute;n) Buzo cuello alto con recortes Tela: Frisa",
       "price": 19000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14711-d88a80714905f6946c17761696277252-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-04-27-at-1-12-14-pm-0249d2fd35c5bca2fd17773063795692-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
       ],
       "colors": [
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
+          "name": "Beige",
+          "hex": "#d4b896"
         },
         {
-          "name": "Off White",
-          "hex": "#cccccc"
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         },
         {
           "name": "Uva",
@@ -4694,7 +4698,7 @@
     {
       "id": "273182086",
       "sku": "6197805|5|29",
-      "name": "BUZO BASICO ESCOTE REDONDO",
+      "name": "BUZO TORONTO",
       "description": "",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312965-9c2984f85e2f98b32517744442870885-1024-1024.jpg",
