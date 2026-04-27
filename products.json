@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-27T17:22:09.092800+00:00",
+  "updated_at": "2026-04-27T19:22:27.999359+00:00",
   "store_id": "5053574",
-  "count": 181,
+  "count": 185,
   "products": [
     {
       "id": "340598503",
@@ -3125,6 +3125,10 @@
       ],
       "colors": [
         {
+          "name": "Mocca",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Off White",
           "hex": "#cccccc"
         }
@@ -4445,6 +4449,44 @@
       "position": 9999
     },
     {
+      "id": "286135634",
+      "sku": "6017075|5|9",
+      "name": "CAMPERA CON CAPUCHA Y BOLSILLOS CANGURO",
+      "description": "",
+      "price": 16000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/campera-con-capucha-y-bolsillos-canguro2/",
+      "position": 9999
+    },
+    {
       "id": "285920897",
       "sku": "125095|5|23",
       "name": "CALZA LARGA",
@@ -4505,6 +4547,47 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/bomber-full-print/",
+      "position": 9999
+    },
+    {
+      "id": "277811140",
+      "sku": "8316965|5|35",
+      "name": "CAMPERA CUELLO ALTO",
+      "description": "",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1148194-24e4f6810b1e2deb3417507047823058-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/campera-cuello-alto1/",
       "position": 9999
     },
     {
@@ -4612,6 +4695,35 @@
         "Activewear"
       ],
       "url": "https://fressia.net/productos/top-manga-larga/",
+      "position": 9999
+    },
+    {
+      "id": "274014593",
+      "sku": "8397665|5|35",
+      "name": "CAMPERA CUELLO ALTO",
+      "description": "",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1147526-a58196bd388de27b4417497462313489-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/campera-cuello-alto/",
       "position": 9999
     },
     {
@@ -5030,6 +5142,39 @@
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/jogger-con-banda-lateral/",
+      "position": 9999
+    },
+    {
+      "id": "264650367",
+      "sku": "6097605|5|16",
+      "name": "PANTALON BANDA LATERAL COMBINADA",
+      "description": "",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-be-f6d3b2eefbd3b54f8017443962744077-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/pantalon-banda-lateral-combinada1/",
       "position": 9999
     },
     {
