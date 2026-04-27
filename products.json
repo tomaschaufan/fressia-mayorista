@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-27T19:22:27.999359+00:00",
+  "updated_at": "2026-04-27T21:02:29.183616+00:00",
   "store_id": "5053574",
-  "count": 185,
+  "count": 187,
   "products": [
     {
       "id": "340598503",
@@ -4848,6 +4848,46 @@
       "position": 9999
     },
     {
+      "id": "272298228",
+      "sku": "6097845|5|9",
+      "name": "CAMPERA CON CAPUCHA Y BOLSILLOS CANGURO",
+      "description": "",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444416-dfc8a2a7d7c0c8256917480174613193-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/campera-con-capucha-y-bolsillos-canguro/",
+      "position": 9999
+    },
+    {
       "id": "271652047",
       "sku": "125055|4|15",
       "name": "SWEATER PEONIA",
@@ -5145,6 +5185,50 @@
       "position": 9999
     },
     {
+      "id": "264651473",
+      "sku": "6097615|5|16",
+      "name": "BUZO CON BANDA LATERAL COMBINADA Y ETIQUETA BORDADA",
+      "description": "",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-2339500-dcebc8eb75c9c7df2917461973470110-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Camel",
+          "hex": "#c19a6b"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-con-banda-lateral-combinada-y-etiqueta-bordada1/",
+      "position": 9999
+    },
+    {
       "id": "264650367",
       "sku": "6097605|5|16",
       "name": "PANTALON BANDA LATERAL COMBINADA",
@@ -5161,8 +5245,8 @@
           "hex": "#1565c0"
         },
         {
-          "name": "Beige",
-          "hex": "#d4b896"
+          "name": "Camel",
+          "hex": "#c19a6b"
         },
         {
           "name": "Negro",
@@ -5170,6 +5254,10 @@
         },
         {
           "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Vison",
           "hex": "#cccccc"
         }
       ],
