@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-27T13:54:10.556212+00:00",
+  "updated_at": "2026-04-27T15:48:57.424899+00:00",
   "store_id": "5053574",
-  "count": 180,
+  "count": 181,
   "products": [
     {
       "id": "340598503",
@@ -391,7 +391,6 @@
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_dru4drdru4drdru4-7f7a7f099078cc0c2117763497920300-1024-1024.png",
       "sizes": [
-        "L",
         "M",
         "XL"
       ],
@@ -849,7 +848,7 @@
       "id": "335156088",
       "sku": "6399215|5|9",
       "name": "BUZO QUEBEC",
-      "description": "Buzo cuello alto con recortes Tela: Frisa",
+      "description": "PREVENTA EXCLUSIVA!!&nbsp; Para despachar a partir del 4-5 Buzo cuello alto con recortes Tela: Frisa",
       "price": 19000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14711-d88a80714905f6946c17761696277252-1024-1024.jpg",
       "sizes": [
@@ -3362,10 +3361,6 @@
           "hex": "#f9a825"
         },
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Rojo",
           "hex": "#d32f2f"
         },
@@ -3468,10 +3463,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
         {
           "name": "Chocolate",
           "hex": "#4e342e"
@@ -4608,10 +4599,6 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
           "name": "Violeta",
           "hex": "#cccccc"
         }
@@ -5039,6 +5026,52 @@
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/jogger-con-banda-lateral/",
+      "position": 9999
+    },
+    {
+      "id": "264650125",
+      "sku": "6016925|5|16",
+      "name": "PANTALON SYDNEY",
+      "description": "",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-am-recorte-fe340c7864f02ccc9617462044210047-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Camel",
+          "hex": "#c19a6b"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/pantalon-sydney-1h0eg/",
       "position": 9999
     },
     {
