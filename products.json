@@ -1,8 +1,41 @@
 {
-  "updated_at": "2026-04-27T11:04:41.395163+00:00",
+  "updated_at": "2026-04-27T13:54:10.556212+00:00",
   "store_id": "5053574",
-  "count": 179,
+  "count": 180,
   "products": [
+    {
+      "id": "340598503",
+      "sku": "8388565|4|29",
+      "name": "FLARE NEW YORK",
+      "description": "Pantalón Flare. Tela base: Ribb Darlon",
+      "price": 14000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2023-04-2608429-edf5ddcccedab37bfc17772974084338-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/flare-new-york-312fh/",
+      "position": 9999
+    },
     {
       "id": "339921350",
       "sku": "7798805|5|15",
