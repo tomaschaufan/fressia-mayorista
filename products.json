@@ -1,8 +1,36 @@
 {
-  "updated_at": "2026-04-28T18:17:34.185711+00:00",
+  "updated_at": "2026-04-28T20:16:12.876104+00:00",
   "store_id": "5053574",
-  "count": 188,
+  "count": 190,
   "products": [
+    {
+      "id": "340940350",
+      "sku": "6395156|5|35",
+      "name": "BUZO SOL ARGENTINA",
+      "description": "Buzo basico con hot fix. Tela: Rustico Frisado",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14501-c9072236d8625a436e17774040080053-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-sol-argentina-1l530/",
+      "position": 9999
+    },
     {
       "id": "340842896",
       "sku": "8315755|5|29",
@@ -995,10 +1023,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Off White",
@@ -3532,10 +3556,6 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -5151,6 +5171,40 @@
       "position": 9999
     },
     {
+      "id": "268189337",
+      "sku": "6214955|5|16",
+      "name": "BUZO BÁSICO ESCOTE REDONDO",
+      "description": "",
+      "price": 14000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444558-34160a5d53104af50a17476822140170-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris Mel",
+          "hex": "#9e9e9e"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/buzo-basico-escote-redondo4/",
+      "position": 9999
+    },
+    {
       "id": "268175864",
       "sku": "6217005|5|29",
       "name": "PANTALÓN JOGGER CON ALFORZAS",
@@ -5339,10 +5393,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Camel",
-          "hex": "#c19a6b"
         },
         {
           "name": "Chocolate",
