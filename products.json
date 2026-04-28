@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T23:53:51.615003+00:00",
+  "updated_at": "2026-04-28T02:54:45.381785+00:00",
   "store_id": "5053574",
   "count": 187,
   "products": [
@@ -4735,8 +4735,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1148160-72303260fee4978cf117501792380783-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -4947,16 +4946,8 @@
       ],
       "colors": [
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
