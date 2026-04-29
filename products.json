@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T15:13:23.996272+00:00",
+  "updated_at": "2026-04-29T17:39:17.685328+00:00",
   "store_id": "5053574",
   "count": 192,
   "products": [
@@ -109,10 +109,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Negro",
@@ -1936,7 +1932,7 @@
     {
       "id": "330292200",
       "sku": "5917836|5|16",
-      "name": "BUZO STAR",
+      "name": "BUZO STAR AM",
       "description": "Buzo con capucha con estampa Tela: Rustico Mil Rayas",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313237-325dcd5a44c0fae0ff17744488972149-1024-1024.jpg",
@@ -1955,7 +1951,7 @@
         "Amor mío",
         "Buzos y Camperas"
       ],
-      "url": "https://fressia.net/productos/buzo-star-1bfif/",
+      "url": "https://fressia.net/productos/buzo-star-am-1srxf/",
       "position": 9999
     },
     {
@@ -2655,7 +2651,7 @@
       "name": "BUZO LAIRY AM",
       "description": "Buzo escote bote con etiqueta bordada Tela: Waffle Amsterdam",
       "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10190-97c2843c48781ad5c317716166895049-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3ab66b2a-6d3b-4ecd-9658-b65933cb5b07_5053574_5545376-9e9e45a65620445d5b17774819257744-1024-1024.png",
       "sizes": [
         "L",
         "M",
