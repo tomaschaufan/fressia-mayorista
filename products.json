@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T10:56:49.230146+00:00",
+  "updated_at": "2026-04-29T12:19:04.948646+00:00",
   "store_id": "5053574",
   "count": 190,
   "products": [
@@ -2238,7 +2238,8 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11361-097f071286707fdf2117728226556235-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -4440,7 +4441,7 @@
     {
       "id": "286136208",
       "sku": "6117055|5|29",
-      "name": "BUZO BASICO ESCOTE REDONDO",
+      "name": "BUZO TORONTO AM",
       "description": "",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1148356-0227c9a349622ac31317545837235405-1024-1024.jpg",
