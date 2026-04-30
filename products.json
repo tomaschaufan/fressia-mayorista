@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-30T13:55:43.535619+00:00",
+  "updated_at": "2026-04-30T15:51:10.005777+00:00",
   "store_id": "5053574",
-  "count": 192,
+  "count": 191,
   "products": [
     {
       "id": "341050476",
@@ -99,7 +99,7 @@
       "name": "FLARE NEW YORK",
       "description": "Pantalón Flare. Tela base: Ribb Darlon",
       "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2023-04-2608429-edf5ddcccedab37bfc17772974084338-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417564-a6dca712565363fd5a17775588190400-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -128,7 +128,7 @@
       "name": "TOP AXELLE",
       "description": "Top con hombros descubiertos Tela: Jersey Algodón c- Ly",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14565-92efdc6cbc5c537f7317769590586050-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417594-39c764187d944b3ce017775576944803-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -537,7 +537,7 @@
       "name": "PANTALON HAVANA",
       "description": "",
       "price": 36000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e54a4f41-d786-4690-9c1b-ccb1ab6786be_5053574_5545376-82862d4ee61b53e26617763443034480-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417799-bf47c1e708b267728e17775571084654-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1205,35 +1205,6 @@
         "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-leap-7rjgk/",
-      "position": 9999
-    },
-    {
-      "id": "332374981",
-      "sku": "0126075|4|8",
-      "name": "BOMBER PORTLAND",
-      "description": "",
-      "price": 59000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312896-ce3b18c4d35b544b8317744432185076-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Abrigos",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/bomber-portland-ckocm/",
       "position": 9999
     },
     {
@@ -2825,18 +2796,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        },
         {
           "name": "Uva",
           "hex": "#cccccc"
@@ -4971,7 +4930,7 @@
       "name": "CAMPERA SYDNEY CON CAPUCHA",
       "description": "",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444416-dfc8a2a7d7c0c8256917480174613193-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417497-17416bf63a9b34f6fa17775613854891-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -5331,7 +5290,7 @@
       "name": "BUZO SYDNEY",
       "description": "",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-2339500-dcebc8eb75c9c7df2917461973470110-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417544-e85ca7ed5ef118c3be17775614510518-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -5376,7 +5335,7 @@
       "name": "PANTALON SYDNEY",
       "description": "",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-be-f6d3b2eefbd3b54f8017443962744077-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417547-fec7a96c4e519949e117775591556264-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -5941,6 +5900,10 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
+        },
+        {
+          "name": "Surtido",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
