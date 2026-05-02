@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T18:59:44.069977+00:00",
+  "updated_at": "2026-05-02T19:56:59.226432+00:00",
   "store_id": "5053574",
   "count": 192,
   "products": [
@@ -2737,15 +2737,8 @@
       "description": "Tela:&nbsp;",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10325-0e459f6e3cf7dd1c2e17718502203511-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
