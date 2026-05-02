@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T17:43:11.408093+00:00",
+  "updated_at": "2026-05-02T18:59:44.069977+00:00",
   "store_id": "5053574",
   "count": 192,
   "products": [
@@ -3176,10 +3176,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Mocca",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
