@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-04T11:48:39.620789+00:00",
+  "updated_at": "2026-05-04T14:01:19.620176+00:00",
   "store_id": "5053574",
-  "count": 192,
+  "count": 191,
   "products": [
     {
       "id": "341384118",
@@ -684,6 +684,10 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -1176,8 +1180,15 @@
       "description": "Pantalon Bombacho a cuadros. Tela: Viyela",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_720hs0720hs0720h-068b86c9d9c5cd623417744499257377-1024-1024.png",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -2795,22 +2806,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-dina-rl4wi/",
-      "position": 9999
-    },
-    {
-      "id": "325151846",
-      "sku": "7598815|5|149",
-      "name": "REMERA LOLA",
-      "description": "Tela: Modal Soft",
-      "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10635-1a379fe68b8e08268f17718513811078-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-lola-1jj5l/",
       "position": 9999
     },
     {
@@ -5775,7 +5770,6 @@
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_m9cjbqm9cjbqm9cj-fd0c49fce2a1b0626917756569310582-1024-1024.png",
       "sizes": [
-        "M",
         "S",
         "XL"
       ],
