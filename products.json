@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-04T14:01:19.620176+00:00",
+  "updated_at": "2026-05-04T16:45:39.638111+00:00",
   "store_id": "5053574",
-  "count": 191,
+  "count": 189,
   "products": [
     {
       "id": "341384118",
@@ -956,10 +956,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -2342,10 +2338,6 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Vison",
           "hex": "#cccccc"
         }
@@ -2581,23 +2573,6 @@
       "position": 9999
     },
     {
-      "id": "326457117",
-      "sku": "5095935|5|8",
-      "name": "BUZO LOURES",
-      "description": "Tela: Rustico Sublimado",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10686-80bf4f7dba95ca138417716158915843-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/buzo-loures-18alo/",
-      "position": 9999
-    },
-    {
       "id": "326454829",
       "sku": "5014955|5|8",
       "name": "BUZO LOURES AM",
@@ -2605,7 +2580,6 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3498-d4e9bf7ff414922fba17716066657913-1024-1024.jpg",
       "sizes": [
-        "L",
         "M",
         "XL"
       ],
@@ -2669,10 +2643,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Gris",
           "hex": "#9e9e9e"
@@ -5495,22 +5465,6 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-oversize-desgastado/",
-      "position": 9999
-    },
-    {
-      "id": "257700290",
-      "sku": "1197305|4|29",
-      "name": "PANTALÓN WIDE LEG",
-      "description": "",
-      "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313223_1-9a7d0619b27f75f69917744484026064-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-wide-leg12/",
       "position": 9999
     },
     {
