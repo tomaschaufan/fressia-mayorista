@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T23:45:43.178341+00:00",
+  "updated_at": "2026-05-04T02:52:44.565385+00:00",
   "store_id": "5053574",
   "count": 192,
   "products": [
@@ -2804,15 +2804,8 @@
       "description": "Tela: Modal Soft",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10635-1a379fe68b8e08268f17718513811078-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Uva",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
