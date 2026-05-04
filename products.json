@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T16:45:39.638111+00:00",
+  "updated_at": "2026-05-04T18:14:45.184516+00:00",
   "store_id": "5053574",
   "count": 189,
   "products": [
@@ -5011,9 +5011,14 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444012-c5bb7410e8e737575217476702755771-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
         {
           "name": "Crudo",
           "hex": "#cccccc"
