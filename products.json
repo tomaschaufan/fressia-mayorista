@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-05T15:09:10.715923+00:00",
+  "updated_at": "2026-05-05T17:24:29.800125+00:00",
   "store_id": "5053574",
-  "count": 188,
+  "count": 189,
   "products": [
     {
       "id": "341384118",
@@ -1167,22 +1167,6 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-vienna-am-17frv/",
-      "position": 9999
-    },
-    {
-      "id": "333921410",
-      "sku": "8999335|5|23",
-      "name": "PANTALON BOMBACHO",
-      "description": "Pantalon Bombacho a cuadros. Tela: Viyela",
-      "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_720hs0720hs0720h-068b86c9d9c5cd623417744499257377-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-bombacho-1p2k1/",
       "position": 9999
     },
     {
@@ -2769,6 +2753,33 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-dina-rl4wi/",
+      "position": 9999
+    },
+    {
+      "id": "325151846",
+      "sku": "7598815|5|149",
+      "name": "REMERA LOLA",
+      "description": "Tela: Modal Soft",
+      "price": 6000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10635-1a379fe68b8e08268f17718513811078-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Uva",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-lola-1jj5l/",
       "position": 9999
     },
     {
@@ -4894,6 +4905,34 @@
       "colors": [],
       "categories": [],
       "url": "https://fressia.net/productos/sweater-peonia/",
+      "position": 9999
+    },
+    {
+      "id": "270715373",
+      "sku": "0125025|5|16",
+      "name": "GAMULAN NEW",
+      "description": "",
+      "price": 49000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444865-f990fe85dc59cb5cfe17473224064747-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Abrigos"
+      ],
+      "url": "https://fressia.net/productos/gamulan-new/",
       "position": 9999
     },
     {
