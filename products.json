@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T10:46:18.859631+00:00",
+  "updated_at": "2026-05-05T12:02:14.348535+00:00",
   "store_id": "5053574",
   "count": 189,
   "products": [
@@ -1176,15 +1176,8 @@
       "description": "Pantalon Bombacho a cuadros. Tela: Viyela",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_720hs0720hs0720h-068b86c9d9c5cd623417744499257377-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
