@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T23:49:38.591110+00:00",
+  "updated_at": "2026-05-06T02:51:13.232475+00:00",
   "store_id": "5053574",
   "count": 190,
   "products": [
@@ -5748,8 +5748,7 @@
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_m9cjbqm9cjbqm9cj-fd0c49fce2a1b0626917756569310582-1024-1024.png",
       "sizes": [
-        "S",
-        "XL"
+        "S"
       ],
       "colors": [
         {
