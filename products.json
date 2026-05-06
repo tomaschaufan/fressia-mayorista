@@ -1,8 +1,25 @@
 {
-  "updated_at": "2026-05-06T18:16:37.412595+00:00",
+  "updated_at": "2026-05-06T20:22:17.631764+00:00",
   "store_id": "5053574",
-  "count": 194,
+  "count": 196,
   "products": [
+    {
+      "id": "342489905",
+      "sku": "6317985|5|9",
+      "name": "JOGGER PARIS",
+      "description": "",
+      "price": 25000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c66582fa-d2c4-41bf-9cea-fec9ae7c3e5e_5053574_5545376-91fd9f5d866f2e8cf317780959711340-1024-1024.png",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Amor mío",
+        "Abrigos",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/jogger-paris-1625z/",
+      "position": 9999
+    },
     {
       "id": "342418079",
       "sku": "6017086|5|130",
@@ -376,7 +393,7 @@
       "name": "SWEATER SNUGGLE",
       "description": "",
       "price": 39000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417646-142611fc2cf60a609717775540365254-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417639-033435ea1a3f5782cb17775541313505-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1223,6 +1240,35 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-vienna-am-17frv/",
+      "position": 9999
+    },
+    {
+      "id": "333921410",
+      "sku": "8999335|5|23",
+      "name": "PANTALON BOMBACHO",
+      "description": "Pantalon Bombacho a cuadros. Tela: Viyela",
+      "price": 25000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_46c89e83-5dd1-4920-b96c-afb213e733bc_5053574_5545376-550f45220f3ac5795e17780936886871-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Marino",
+          "hex": "#0d1b3e"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-bombacho-1p2k1/",
       "position": 9999
     },
     {
