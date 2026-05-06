@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-06T16:27:43.515078+00:00",
+  "updated_at": "2026-05-06T18:16:37.412595+00:00",
   "store_id": "5053574",
-  "count": 193,
+  "count": 194,
   "products": [
     {
       "id": "342418079",
@@ -4621,6 +4621,35 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/bomber-full-print/",
+      "position": 9999
+    },
+    {
+      "id": "277956546",
+      "sku": "4997725|5|8",
+      "name": "CAMPERA ANGORA CON CAPUCHA, BOLSILLOS LATERALES",
+      "description": "",
+      "price": 25000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2f3049bc-f8d1-4dee-80c5-39d5d1e0bf94_5053574_5545376-f1420bd6f0d386c47017780858591498-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Abrigos",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/campera-angora-con-capucha-bolsillos-laterales/",
       "position": 9999
     },
     {
