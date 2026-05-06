@@ -1,8 +1,37 @@
 {
-  "updated_at": "2026-05-06T14:11:49.375908+00:00",
+  "updated_at": "2026-05-06T16:27:43.515078+00:00",
   "store_id": "5053574",
-  "count": 192,
+  "count": 193,
   "products": [
+    {
+      "id": "342418079",
+      "sku": "6017086|5|130",
+      "name": "PANTALON FINLANDIA",
+      "description": "Pantalon con vivos laterales. Tela: Plush Bifaz",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_79093578-f321-40f7-a3b8-099230b7c8c1_5053574_5545376-b61dd38ae30d6961bc17780805990626-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-finlandia-o50hq/",
+      "position": 9999
+    },
     {
       "id": "342277441",
       "sku": "6096336|5|16",
@@ -808,8 +837,7 @@
       "price": 13000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_00dd8342-3b5f-434b-9559-c7166121935b_5053574_5545376-98dda39bab5d97299c17760952636368-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -4783,11 +4811,11 @@
     },
     {
       "id": "274014593",
-      "sku": "8397665|5|35",
+      "sku": "8397665|5|16",
       "name": "CAMPERA NEW YORK",
       "description": "",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1147526-a58196bd388de27b4417497462313489-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1147433-f0267c2ef04fe9933517497456348385-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4829,32 +4857,8 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1148160-72303260fee4978cf117501792380783-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Marino",
-          "hex": "#0d1b3e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -5002,7 +5006,7 @@
       "name": "GAMULAN NEW",
       "description": "",
       "price": 49000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444865-f990fe85dc59cb5cfe17473224064747-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_69b1d27d-eaaf-4fd3-9ec9-2d58abdb2e9b_5053574_5545376-a06ac196136070e20817780828122038-1024-1024.webp",
       "sizes": [
         "L",
         "M"
