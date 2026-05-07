@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-05-07T16:50:13.090401+00:00",
+  "updated_at": "2026-05-07T18:24:32.897937+00:00",
   "store_id": "5053574",
-  "count": 197,
+  "count": 198,
   "products": [
+    {
+      "id": "342706247",
+      "sku": "0487115|5|15",
+      "name": "MUSCULOSA LEA",
+      "description": "",
+      "price": 6000.0,
+      "image": "",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-lea-1jsvn/",
+      "position": 9999
+    },
     {
       "id": "342489905",
       "sku": "6317985|5|9",
