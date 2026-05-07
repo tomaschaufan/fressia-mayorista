@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T23:53:48.521970+00:00",
+  "updated_at": "2026-05-07T02:52:02.314750+00:00",
   "store_id": "5053574",
   "count": 196,
   "products": [
@@ -1337,10 +1337,6 @@
         "L"
       ],
       "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -3882,10 +3878,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Off White",
