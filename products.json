@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T18:24:32.897937+00:00",
+  "updated_at": "2026-05-07T20:14:16.517439+00:00",
   "store_id": "5053574",
   "count": 198,
   "products": [
@@ -9,7 +9,7 @@
       "name": "MUSCULOSA LEA",
       "description": "",
       "price": 6000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e5f6285f-6527-4126-9e5c-6da2951b1583_5053574_5545376-231aa5efa7af072be817781790423172-1024-1024.png",
       "sizes": [
         "M"
       ],
