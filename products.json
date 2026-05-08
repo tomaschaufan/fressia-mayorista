@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-08T11:15:46.268137+00:00",
+  "updated_at": "2026-05-08T13:48:10.900369+00:00",
   "store_id": "5053574",
-  "count": 198,
+  "count": 199,
   "products": [
     {
       "id": "342706247",
@@ -4406,11 +4406,12 @@
         }
       ],
       "categories": [
-        "Rebajas",
         "Colección principal",
         "Abrigos",
         "Buzos y Camperas",
-        "Sweaters"
+        "Sweaters",
+        "HOT FRESSIA",
+        "ARCHIVO HOT FRESSIA"
       ],
       "url": "https://fressia.net/productos/cardigan-sin-botones/",
       "position": 9999
@@ -4451,7 +4452,9 @@
       ],
       "categories": [
         "Amor mío",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "HOT FRESSIA",
+        "ARCHIVO HOT FRESSIA"
       ],
       "url": "https://fressia.net/productos/remera-escote-cuadrado-mangas-princesa/",
       "position": 9999
@@ -4549,7 +4552,9 @@
       ],
       "categories": [
         "Amor mío",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "HOT FRESSIA",
+        "ARCHIVO HOT FRESSIA"
       ],
       "url": "https://fressia.net/productos/remera-basica-escote-redondo24/",
       "position": 9999
@@ -4561,33 +4566,8 @@
       "description": "",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ff76df70-be52-4bdc-ab62-de27880cb772_5053574_5545376-431f5bb15d68c17da017775686178940-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas"
@@ -4599,7 +4579,7 @@
       "id": "286135634",
       "sku": "6017075|5|9",
       "name": "CAMPERA SYDNEY AM",
-      "description": "",
+      "description": "Tela: Plush bifaz",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f5dfec79-6157-4a2c-9547-fc899ac713cf_5053574_5545376-0d829d59cfbfe9532517773760028179-1024-1024.png",
       "sizes": [
@@ -4665,7 +4645,9 @@
       "categories": [
         "Colección principal",
         "Activewear",
-        "Pantalones"
+        "Pantalones",
+        "HOT FRESSIA",
+        "ARCHIVO HOT FRESSIA"
       ],
       "url": "https://fressia.net/productos/calza-larga1/",
       "position": 9999
@@ -4882,7 +4864,9 @@
       "categories": [
         "Colección principal",
         "Abrigos",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "HOT FRESSIA",
+        "ARCHIVO HOT FRESSIA"
       ],
       "url": "https://fressia.net/productos/saco-corazon-1x8lf/",
       "position": 9999
@@ -5085,7 +5069,7 @@
       "id": "272298228",
       "sku": "6097845|5|9",
       "name": "CAMPERA SYDNEY CON CAPUCHA",
-      "description": "",
+      "description": "Tela: Plush bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417497-17416bf63a9b34f6fa17775613854891-1024-1024.jpg",
       "sizes": [
@@ -5474,7 +5458,7 @@
       "id": "264651473",
       "sku": "6097615|5|16",
       "name": "BUZO SYDNEY",
-      "description": "",
+      "description": "Tela: Plush bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417544-e85ca7ed5ef118c3be17775614510518-1024-1024.jpg",
       "sizes": [
@@ -5511,7 +5495,7 @@
       "id": "264650367",
       "sku": "6097605|5|16",
       "name": "PANTALON SYDNEY",
-      "description": "",
+      "description": "Tela: Plush bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417547-fec7a96c4e519949e117775591556264-1024-1024.jpg",
       "sizes": [
@@ -5544,7 +5528,7 @@
       "id": "264650125",
       "sku": "6016925|5|16",
       "name": "PANTALON SYDNEY AM",
-      "description": "",
+      "description": "Tela: Plush bifaz",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-am-recorte-fe340c7864f02ccc9617462044210047-1024-1024.jpg",
       "sizes": [
@@ -5581,7 +5565,9 @@
       "categories": [
         "Amor mío",
         "Pantalones",
-        "Conjuntos"
+        "Conjuntos",
+        "HOT FRESSIA",
+        "ARCHIVO HOT FRESSIA"
       ],
       "url": "https://fressia.net/productos/pantalon-sydney-am-djlug/",
       "position": 9999
@@ -6000,9 +5986,33 @@
       ],
       "categories": [
         "Amor mío",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "HOT FRESSIA",
+        "ARCHIVO HOT FRESSIA"
       ],
       "url": "https://fressia.net/productos/remera-mangas-cortas-escote-en-v2/",
+      "position": 9999
+    },
+    {
+      "id": "224656606",
+      "sku": "0701408|8|43",
+      "name": "SCRUNCHIES",
+      "description": "",
+      "price": 3500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/scrunchies-e8251d659cedff003d17272908389354-1024-1024.jpg",
+      "sizes": [],
+      "colors": [
+        {
+          "name": "Surtido",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Unico",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/scrunchies/",
       "position": 9999
     },
     {
