@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T23:04:40.426472+00:00",
+  "updated_at": "2026-05-08T02:54:41.598889+00:00",
   "store_id": "5053574",
   "count": 198,
   "products": [
@@ -4371,10 +4371,6 @@
       ],
       "colors": [
         {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -5527,10 +5523,6 @@
         {
           "name": "Camel",
           "hex": "#c19a6b"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Off White",
