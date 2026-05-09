@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T23:56:10.213155+00:00",
+  "updated_at": "2026-05-09T03:22:09.942355+00:00",
   "store_id": "5053574",
   "count": 201,
   "products": [
@@ -2520,7 +2520,6 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11361-097f071286707fdf2117728226556235-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -4456,15 +4455,8 @@
       "description": "Tela: Gabardina Twill Soft",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11531-0c814ea03c4e35721317730733526244-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Abrigos"
@@ -5682,10 +5674,6 @@
         },
         {
           "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Vison",
           "hex": "#cccccc"
         }
       ],
