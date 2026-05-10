@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10T19:04:05.387964+00:00",
+  "updated_at": "2026-05-10T20:48:29.343450+00:00",
   "store_id": "5053574",
   "count": 201,
   "products": [
@@ -5741,7 +5741,6 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313208-7c78da449b3fe9f1ed17744483092447-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -5752,10 +5751,6 @@
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
