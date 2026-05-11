@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T19:47:11.006298+00:00",
+  "updated_at": "2026-05-11T21:16:52.630028+00:00",
   "store_id": "5053574",
   "count": 203,
   "products": [
@@ -327,6 +327,10 @@
           "hex": "#7b1a2c"
         },
         {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -477,7 +481,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_fa298b5f-d6c4-4476-a57a-7a72fc5d3faf_5053574_5545376-a41e71b4e6b0faefe017767981264960-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -2021,7 +2026,9 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11062-b2d697ecf3bd75f8aa17731598079319-1024-1024.jpg",
       "sizes": [
-        "M"
+        "L",
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -4539,6 +4546,10 @@
           "hex": "#7b1a2c"
         },
         {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
         },
@@ -4745,6 +4756,10 @@
           "hex": "#7b1a2c"
         },
         {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Gris",
           "hex": "#9e9e9e"
         },
@@ -4896,6 +4911,10 @@
         "XL"
       ],
       "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
