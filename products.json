@@ -1,8 +1,71 @@
 {
-  "updated_at": "2026-05-11T14:51:56.501328+00:00",
+  "updated_at": "2026-05-11T17:25:01.917004+00:00",
   "store_id": "5053574",
-  "count": 201,
+  "count": 203,
   "products": [
+    {
+      "id": "343249435",
+      "sku": "8415975|5|9",
+      "name": "POLERON DUBAI AM",
+      "description": "Buzo oversized, cuello alto. Tela: Lanilla rayada",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_12d9cd55-359e-4fb7-b5c1-ceceefdf54fb_5053574_5545376-26abea85fcf833b81017785190651134-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Militar",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/poleron-dubai-am-7nhc9/",
+      "position": 9999
+    },
+    {
+      "id": "343244898",
+      "sku": "8013596|5|23",
+      "name": "JOGGER ZOOM AM",
+      "description": "Jogger basico con puños Tela: Rustico c -lycra",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ec9f3654-d77a-4d90-b3c5-c48b02affd30_5053574_5545376-97806919ec9483d04717785182228322-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/jogger-zoom-am-18jnx/",
+      "position": 9999
+    },
     {
       "id": "342835624",
       "sku": "1099407|5|23",
@@ -302,7 +365,7 @@
       "name": "TOP AXELLE",
       "description": "Top con hombros descubiertos Tela: Jersey Algodón c- Ly",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417594-39c764187d944b3ce017775576944803-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a43f04f1-a554-4547-a97e-60a23cfee9ae_5053574_5545376-a564a641b465aaabfb17785124439481-1024-1024.png",
       "sizes": [
         "L",
         "M"
@@ -2730,6 +2793,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Rebajas",
         "Amor mío",
         "Remeras y Musculosas"
@@ -2755,6 +2819,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Rebajas",
         "Colección principal",
         "Remeras y Musculosas"
@@ -2769,15 +2834,8 @@
       "description": "Buzo escote redondo con tiras laterales. Complemento de morley en escote y puños. Tela: Rústico Sublimado",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3498-d4e9bf7ff414922fba17716066657913-1024-1024.jpg",
-      "sizes": [
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas",
@@ -2798,10 +2856,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Gris",
           "hex": "#9e9e9e"
@@ -2875,6 +2929,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Rebajas",
         "Colección principal",
         "Remeras y Musculosas"
@@ -5556,17 +5611,12 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417544-e85ca7ed5ef118c3be17775614510518-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Camel",
-          "hex": "#c19a6b"
         },
         {
           "name": "Verde",
