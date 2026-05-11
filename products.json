@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T17:25:01.917004+00:00",
+  "updated_at": "2026-05-11T19:47:11.006298+00:00",
   "store_id": "5053574",
   "count": 203,
   "products": [
@@ -33,7 +33,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/poleron-dubai-am-7nhc9/",
       "position": 9999
     },
@@ -60,6 +63,8 @@
         }
       ],
       "categories": [
+        "Colección principal",
+        "Activewear",
         "Amor mío",
         "Pantalones"
       ],
