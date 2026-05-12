@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T14:30:44.305328+00:00",
+  "updated_at": "2026-05-12T17:10:46.540234+00:00",
   "store_id": "5053574",
   "count": 203,
   "products": [
@@ -63,6 +63,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Colección principal",
         "Activewear",
         "Amor mío",
@@ -1468,6 +1469,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Colección principal",
         "Activewear",
         "Amor mío",
@@ -1579,6 +1581,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Colección principal",
         "Activewear",
         "Buzos y Camperas"
@@ -1638,6 +1641,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Colección principal",
         "Activewear",
         "Pantalones",
@@ -1669,6 +1673,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Colección principal",
         "Activewear",
         "Amor mío",
@@ -4796,10 +4801,6 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
           "name": "Violeta",
           "hex": "#cccccc"
         }
@@ -5109,10 +5110,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
         },
         {
           "name": "Gris",
@@ -5741,8 +5738,21 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631170-ba528bac4c92792db817423108625577-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Gris Mel",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Hummus",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "HOT FRESSIA",
         "Amor mío",
@@ -6068,8 +6078,20 @@
       "description": "Tela: Waffle Liviano",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-03-1237471-31eccf89a42d16c4f417418685644547-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris Mel",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Uva",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "HOT FRESSIA",
         "Colección principal",
@@ -6114,10 +6136,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
         {
           "name": "Gris Melange",
           "hex": "#9e9e9e"
