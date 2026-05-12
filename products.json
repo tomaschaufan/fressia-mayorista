@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T03:57:27.339164+00:00",
+  "updated_at": "2026-05-12T06:41:21.481785+00:00",
   "store_id": "5053574",
   "count": 203,
   "products": [
@@ -6058,15 +6058,8 @@
       "description": "",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-0352024-0b474c10dca1c7d89d17570108020369-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Pantalones"
