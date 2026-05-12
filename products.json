@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T11:56:17.773293+00:00",
+  "updated_at": "2026-05-12T14:30:44.305328+00:00",
   "store_id": "5053574",
   "count": 203,
   "products": [
@@ -352,7 +352,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417564-a6dca712565363fd5a17775588190400-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "S"
       ],
       "colors": [
         {
@@ -2466,6 +2467,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Rebajas",
         "Amor mío",
         "Remeras y Musculosas"
@@ -2632,6 +2634,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Rebajas",
         "Amor mío",
         "Remeras y Musculosas"
@@ -3110,7 +3113,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10644-copia-95e2a60d08406e3aea17716150364099-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -3253,7 +3257,7 @@
       "id": "324346888",
       "sku": "5999006|5|9",
       "name": "BUZO FUZZY",
-      "description": "Buzo oversize rayado, manga al codo \\nTela: Rustico Rayado",
+      "description": "Buzo oversize rayado, manga al codo Tela: Rustico Rayado",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10275-baff4d45632d1dc16a17718543840182-1024-1024.jpg",
       "sizes": [
@@ -5321,7 +5325,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444349-aec48eecd61904d98117473192573516-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -5416,6 +5421,7 @@
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14698-c06c0a2c2514607a7c17761704165607-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -5637,10 +5643,6 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
@@ -5852,20 +5854,12 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
         },
         {
           "name": "Hummus",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
