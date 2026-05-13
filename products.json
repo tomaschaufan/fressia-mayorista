@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-13T09:44:25.195473+00:00",
+  "updated_at": "2026-05-13T12:03:53.325737+00:00",
   "store_id": "5053574",
-  "count": 204,
+  "count": 205,
   "products": [
     {
       "id": "343574065",
@@ -5761,6 +5761,23 @@
         "Conjuntos"
       ],
       "url": "https://fressia.net/productos/pantalon-sydney-am-djlug/",
+      "position": 9999
+    },
+    {
+      "id": "264631728",
+      "sku": "6415616|5|16",
+      "name": "BUZO OVERSIZE DESGASTADO - FLASH LIGHTS",
+      "description": "",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1147975-9bde548d4a0777af5417501877691985-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "HOT FRESSIA",
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-oversize-desgastado-flash-lights1/",
       "position": 9999
     },
     {
