@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T18:01:23.758037+00:00",
+  "updated_at": "2026-05-13T20:45:19.594137+00:00",
   "store_id": "5053574",
   "count": 207,
   "products": [
@@ -3146,14 +3146,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3131-deaa8dbffb082e4bc617715277903394-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
-        {
-          "name": "Ciruela",
-          "hex": "#cccccc"
-        },
         {
           "name": "Marron",
           "hex": "#cccccc"
@@ -5987,8 +5982,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631438-8b9c7d7472e6bc39dd17412011710763-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
