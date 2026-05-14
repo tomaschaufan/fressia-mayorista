@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T22:56:20.130586+00:00",
+  "updated_at": "2026-05-14T23:59:15.622344+00:00",
   "store_id": "5053574",
   "count": 212,
   "products": [
@@ -5878,10 +5878,6 @@
         {
           "name": "Off White",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
