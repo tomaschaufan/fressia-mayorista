@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T15:18:33.341230+00:00",
+  "updated_at": "2026-05-14T17:50:10.216415+00:00",
   "store_id": "5053574",
   "count": 208,
   "products": [
@@ -5075,8 +5075,20 @@
       "description": "",
       "price": 13000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444087-3960cb96afd077c42917502757522902-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Tiza",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [],
       "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print1/",
       "position": 9999
@@ -5372,10 +5384,6 @@
         {
           "name": "Choco",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
         },
         {
           "name": "Negro",
