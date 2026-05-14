@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-14T17:50:10.216415+00:00",
+  "updated_at": "2026-05-14T19:45:42.635136+00:00",
   "store_id": "5053574",
-  "count": 208,
+  "count": 212,
   "products": [
     {
       "id": "343775374",
@@ -5089,8 +5089,45 @@
           "hex": "#cccccc"
         }
       ],
-      "categories": [],
+      "categories": [
+        "HOT FRESSIA",
+        "Colección principal",
+        "Remeras y Musculosas",
+        "Amor mío"
+      ],
       "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print1/",
+      "position": 9999
+    },
+    {
+      "id": "276732279",
+      "sku": "597905|5|16",
+      "name": "REMERÓN MANGAS LARGA CON BANDAS LATERALES ANIMAL PRINT",
+      "description": "",
+      "price": 13000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_19bb6c8d-e4a0-4b81-9110-b5e5c6b197d8_5053574_5310992-78a8c426725a527cfb17502737662831-1024-1024.jpg",
+      "sizes": [
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Tiza",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "HOT FRESSIA",
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print/",
       "position": 9999
     },
     {
@@ -5923,6 +5960,92 @@
       "position": 9999
     },
     {
+      "id": "264628612",
+      "sku": "4797395|5|29",
+      "name": "JOGGER SASTRERO",
+      "description": "",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-2339864-ac3eacea14927a2eca17455984808272-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Camel",
+          "hex": "#c19a6b"
+        }
+      ],
+      "categories": [
+        "HOT FRESSIA"
+      ],
+      "url": "https://fressia.net/productos/jogger-sastrero1/",
+      "position": 9999
+    },
+    {
+      "id": "264300602",
+      "sku": "4716745|5|29",
+      "name": "JOGGER SASTRERO",
+      "description": "",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-2339851-8ee933a5af2a706e9d17455195932758-1024-1024.jpg",
+      "sizes": [
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Camel",
+          "hex": "#c19a6b"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "HOT FRESSIA"
+      ],
+      "url": "https://fressia.net/productos/jogger-sastrero/",
+      "position": 9999
+    },
+    {
+      "id": "262956657",
+      "sku": "7397075|5|16",
+      "name": "PANTALÓN SASTRERO, BANDA LATERAL",
+      "description": "",
+      "price": 25000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2630840-c0dc943bf098098f0317435363987088-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "HOT FRESSIA",
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-sastrero-banda-lateral/",
+      "position": 9999
+    },
+    {
       "id": "260442673",
       "sku": "4516765|6|29",
       "name": "BUZO CON BANDA LATERAL ANIMAL PRINT",
@@ -5975,6 +6098,7 @@
         }
       ],
       "categories": [
+        "HOT FRESSIA",
         "Amor mío",
         "Remeras y Musculosas"
       ],
