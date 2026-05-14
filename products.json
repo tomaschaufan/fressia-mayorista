@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T10:14:58.158236+00:00",
+  "updated_at": "2026-05-14T12:24:35.921381+00:00",
   "store_id": "5053574",
   "count": 207,
   "products": [
@@ -4689,6 +4689,10 @@
           "hex": "#9e9e9e"
         },
         {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Verde Militar",
           "hex": "#2e7d32"
         }
@@ -5047,6 +5051,10 @@
           "hex": "#7b1a2c"
         },
         {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Gris",
           "hex": "#9e9e9e"
         },
@@ -5192,6 +5200,10 @@
         {
           "name": "Celeste",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
         },
         {
           "name": "Violeta",
@@ -5696,7 +5708,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-camp-337c178746748ce57717448298272057-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -5989,6 +6002,10 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
         },
         {
           "name": "Gris Mel",
