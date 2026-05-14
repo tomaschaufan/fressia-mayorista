@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T21:09:33.053153+00:00",
+  "updated_at": "2026-05-14T22:56:20.130586+00:00",
   "store_id": "5053574",
   "count": 212,
   "products": [
@@ -6061,10 +6061,6 @@
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Hummus",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
