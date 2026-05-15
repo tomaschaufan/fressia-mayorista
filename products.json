@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T12:53:19.884476+00:00",
+  "updated_at": "2026-05-15T15:12:58.672194+00:00",
   "store_id": "5053574",
   "count": 212,
   "products": [
@@ -2714,24 +2714,11 @@
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10963-cbe1775b5c6e7b24fe17728213623652-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
         {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
           "name": "Marron",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Vison",
           "hex": "#cccccc"
         }
       ],
@@ -3174,12 +3161,8 @@
       ],
       "colors": [
         {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Uva",
-          "hex": "#cccccc"
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -5570,6 +5553,7 @@
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14698-c06c0a2c2514607a7c17761704165607-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -5949,15 +5933,8 @@
       "description": "",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-2339864-ac3eacea14927a2eca17455984808272-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Camel",
-          "hex": "#c19a6b"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "HOT FRESSIA"
       ],
