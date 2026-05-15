@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T10:23:14.504652+00:00",
+  "updated_at": "2026-05-15T12:53:19.884476+00:00",
   "store_id": "5053574",
   "count": 212,
   "products": [
@@ -5495,10 +5495,6 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -5574,7 +5570,6 @@
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14698-c06c0a2c2514607a7c17761704165607-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -5866,10 +5861,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Off White",
