@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T16:00:23.572628+00:00",
+  "updated_at": "2026-05-17T17:56:58.946197+00:00",
   "store_id": "5053574",
   "count": 212,
   "products": [
@@ -5205,8 +5205,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-2847372-bef8477af943f99c4e17490658803368-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -5216,10 +5215,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Violeta",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
