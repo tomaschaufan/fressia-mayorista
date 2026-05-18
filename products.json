@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-18T12:30:31.841178+00:00",
+  "updated_at": "2026-05-18T16:23:38.612390+00:00",
   "store_id": "5053574",
-  "count": 212,
+  "count": 211,
   "products": [
     {
       "id": "343775374",
@@ -2552,10 +2552,6 @@
         {
           "name": "Lila",
           "hex": "#ce93d8"
-        },
-        {
-          "name": "Lima",
-          "hex": "#cccccc"
         },
         {
           "name": "Negro",
@@ -5888,21 +5884,6 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-oversize-desgastado-flash-lights1/",
-      "position": 9999
-    },
-    {
-      "id": "264628612",
-      "sku": "4797395|5|29",
-      "name": "JOGGER SASTRERO",
-      "description": "",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-2339864-ac3eacea14927a2eca17455984808272-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "HOT FRESSIA"
-      ],
-      "url": "https://fressia.net/productos/jogger-sastrero1/",
       "position": 9999
     },
     {
