@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T08:43:37.988757+00:00",
+  "updated_at": "2026-05-18T12:30:31.841178+00:00",
   "store_id": "5053574",
   "count": 212,
   "products": [
@@ -598,6 +598,7 @@
       "price": 14000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_fa298b5f-d6c4-4476-a57a-7a72fc5d3faf_5053574_5545376-a41e71b4e6b0faefe017767981264960-1024-1024.jpg",
       "sizes": [
+        "L",
         "M",
         "XL"
       ],
@@ -2582,7 +2583,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313072-eba5fece3740fd445717744458503664-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -5204,12 +5206,12 @@
       ],
       "colors": [
         {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Gris",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Violeta",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -5438,7 +5440,9 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444349-aec48eecd61904d98117473192573516-1024-1024.jpg",
       "sizes": [
-        "M"
+        "L",
+        "M",
+        "XL"
       ],
       "colors": [
         {
