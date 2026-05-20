@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T22:16:22.527349+00:00",
+  "updated_at": "2026-05-20T00:06:14.167661+00:00",
   "store_id": "5053574",
   "count": 212,
   "products": [
@@ -6054,10 +6054,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Gris Mel",
-          "hex": "#9e9e9e"
         }
       ],
       "categories": [
