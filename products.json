@@ -1,15 +1,44 @@
 {
-  "updated_at": "2026-05-21T17:58:48.212382+00:00",
+  "updated_at": "2026-05-21T20:04:44.010363+00:00",
   "store_id": "5053574",
-  "count": 214,
+  "count": 215,
   "products": [
+    {
+      "id": "345711361",
+      "sku": "8010626|5|35",
+      "name": "BUZO SMOOTH",
+      "description": "Buzo con capucha, cintura y puños. Tela: Lanilla lisa",
+      "price": 13000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7a959291-3f70-477c-bd39-8864cc601a4d_5053574_5545376-84302c3c9f6631466417793892220168-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-smooth-p0dca/",
+      "position": 9999
+    },
     {
       "id": "345687993",
       "sku": "8077386|5|35",
       "name": "BUZO LIGHT",
       "description": "Buzo con capucha, cintura y puños. Tela: Lanilla lisa",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_kjw01hkjw01hkjw0-5a3269a445be402f9017793823360152-1024-1024.png",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_bd9756b0-8a0f-431d-b04a-5a9d0163e28b_5053574_5545376-8dc7901a7f0ee1823417793885255786-1024-1024.webp",
       "sizes": [
         "L",
         "M"
@@ -410,8 +439,7 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e5d0ac9c-24e0-4222-ad16-aaf88764ad11_5053574_5545376-a67bcccb3b80350edc17780091377407-1024-1024.png",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -2033,10 +2061,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Chocolate",
           "hex": "#4e342e"
