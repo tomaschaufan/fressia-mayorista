@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T17:08:04.345633+00:00",
+  "updated_at": "2026-05-22T19:44:50.541237+00:00",
   "store_id": "5053574",
   "count": 218,
   "products": [
@@ -481,7 +481,8 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e5d0ac9c-24e0-4222-ad16-aaf88764ad11_5053574_5545376-a67bcccb3b80350edc17780091377407-1024-1024.png",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -1465,10 +1466,6 @@
       ],
       "colors": [
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Off White",
           "hex": "#cccccc"
         }
@@ -1619,10 +1616,6 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Negro",
@@ -5300,14 +5293,9 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_63b70de3-5533-4a69-80e6-ce89bbad8ac5_5053574_5545376-1fe6455ddb09e69a2317773778002975-1024-1024.png",
       "sizes": [
-        "L",
-        "XL"
+        "L"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
         {
           "name": "Gris",
           "hex": "#9e9e9e"
@@ -6227,7 +6215,6 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631438-8b9c7d7472e6bc39dd17412011710763-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -6264,10 +6251,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
         },
         {
           "name": "Gris Mel",
@@ -6480,15 +6463,8 @@
       "description": "Tela: Waffle Liviano",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-03-1237471-31eccf89a42d16c4f417418685644547-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Gris Mel",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "HOT FRESSIA",
         "Colección principal",
