@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-22T11:45:15.116475+00:00",
+  "updated_at": "2026-05-22T14:39:06.745221+00:00",
   "store_id": "5053574",
-  "count": 215,
+  "count": 216,
   "products": [
     {
       "id": "345711361",
@@ -3362,6 +3362,30 @@
       "position": 9999
     },
     {
+      "id": "324835818",
+      "sku": "6298935|5|139",
+      "name": "BUZO AIRY",
+      "description": "Buzo manga ranglan con etiqueta bordada\\nTela: Rustico Wash",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10101-d84c0862e3155afc6217718492287162-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas",
+        "Conjuntos"
+      ],
+      "url": "https://fressia.net/productos/buzo-airy-r8eua/",
+      "position": 9999
+    },
+    {
       "id": "324589267",
       "sku": "6316249|5|8",
       "name": "PANTALÓN BROOKLYN",
@@ -3856,7 +3880,7 @@
       "name": "MUSCULOSA BIANCA",
       "description": "Top asimétrico con ojales metalicos",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3845-ec3613d73530e682b917707227637938-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f1debadf-2ccd-488b-a663-f00c21b09db2_5053574_5545376-c016e3f103493356e717794541538789-1024-1024.png",
       "sizes": [
         "L",
         "M"
@@ -4379,7 +4403,7 @@
       "id": "323099538",
       "sku": "7798855|5|15",
       "name": "REMERA LINA",
-      "description": "Tela: Algodon Con Lycra",
+      "description": "Remera escote U, mangas largas",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2898-ad9dae314764bfd5f917703196909425-1024-1024.jpg",
       "sizes": [
@@ -4387,6 +4411,10 @@
         "M"
       ],
       "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
         {
           "name": "Crudo",
           "hex": "#cccccc"
