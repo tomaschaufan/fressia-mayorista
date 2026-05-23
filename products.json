@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T11:10:49.842933+00:00",
+  "updated_at": "2026-05-23T13:25:25.539804+00:00",
   "store_id": "5053574",
   "count": 218,
   "products": [
@@ -3627,15 +3627,8 @@
       "description": "Tela: Ribb Brushed",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3857-57afe661f3db192d7517707313167474-1024-1024.jpg",
-      "sizes": [
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -3831,15 +3824,8 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3549-1ec57e8e4ff2f6b4ce17703811135111-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
