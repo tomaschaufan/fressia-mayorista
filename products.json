@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T22:53:30.547356+00:00",
+  "updated_at": "2026-05-23T23:57:33.507570+00:00",
   "store_id": "5053574",
   "count": 218,
   "products": [
@@ -6403,10 +6403,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Topo",
