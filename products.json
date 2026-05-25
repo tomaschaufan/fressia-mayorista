@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T23:01:00.324034+00:00",
+  "updated_at": "2026-05-25T03:51:10.069981+00:00",
   "store_id": "5053574",
   "count": 218,
   "products": [
@@ -2092,10 +2092,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Crudo",
           "hex": "#cccccc"
