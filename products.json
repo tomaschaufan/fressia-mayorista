@@ -1,8 +1,36 @@
 {
-  "updated_at": "2026-05-26T15:28:29.036412+00:00",
+  "updated_at": "2026-05-26T18:25:57.640176+00:00",
   "store_id": "5053574",
-  "count": 218,
+  "count": 220,
   "products": [
+    {
+      "id": "346619049",
+      "sku": "6099286|5|16",
+      "name": "BUZO MELBOURNE",
+      "description": "Buzo cuello alto con cierre lateral, con vivos en mangas. Tela: Plush Bifaz",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417505-57fc1f8d8d6fea9b6b17798148717341-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-melbourne-509u9/",
+      "position": 9999
+    },
     {
       "id": "345908449",
       "sku": "6117056|5|9",
@@ -80,7 +108,7 @@
       "name": "BUZO LIGHT",
       "description": "Buzo con capucha, cintura y puños. Tela: Lanilla lisa",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_bd9756b0-8a0f-431d-b04a-5a9d0163e28b_5053574_5545376-8dc7901a7f0ee1823417793885255786-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219286-c79d25c7f95af1fe9617798123865302-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -104,6 +132,43 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-light-1mhuo/",
+      "position": 9999
+    },
+    {
+      "id": "345646030",
+      "sku": "0499505|5|9",
+      "name": "REMERA GRETA",
+      "description": "Remera escote redondo, manga larga. Tela: Morley Vintage",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219200-e23db548239a357cad17798119813978-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Vison",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-greta-1jr6p/",
       "position": 9999
     },
     {
@@ -137,7 +202,7 @@
       "name": "REMERA LIVIA",
       "description": "Remera escote redondo, manga larga. Tela: Morley Vintage",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_1f31383a-45f6-4a7a-8f82-99ab95740e3f_5053574_5545376-264338e7a8a9df121017792157999345-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_8tg6hc8tg6hc8tg6-4e48adc0bcba9113b117798189998556-1024-1024.png",
       "sizes": [
         "L",
         "M"
@@ -177,7 +242,7 @@
       "name": "REMERA ELOISE",
       "description": "Remera manga larga escote bote con terminaciones de ruloté. Tela: Morley Vintage",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_1edc95c1-8fac-439e-8e0d-7707ecf2f8b5_5053574_5545376-10bf51e0a979411f9017786904546123-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219229-063364a6e80c15f1dd17798152921678-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1204,7 +1269,7 @@
       "name": "BUZO AIRY FRISA",
       "description": "uzo manga ranglan, con triangulo en escote y etiqueta bordada en espalda Tela: Rustico frisado",
       "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_860de76c-67b9-4ed9-ad16-75334f6fde7b_5053574_5545376-195202ec82f9ec907317762600492558-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219271-fc2c07de48382384f217798131452167-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1708,15 +1773,8 @@
       "description": "Chaleco recto con interno de corderito Tela: Paño print con corderito",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313132-6a2191b486c440e24a17744461391812-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Abrigos"
@@ -4506,10 +4564,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -4697,10 +4751,6 @@
         {
           "name": "Amarillo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Rosa",
@@ -5319,10 +5369,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Camuflado (Cuerpo)",
-          "hex": "#cccccc"
-        },
         {
           "name": "Leopardo(Cuerpo)",
           "hex": "#cccccc"
