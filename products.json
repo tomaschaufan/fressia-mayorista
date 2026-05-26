@@ -1,8 +1,37 @@
 {
-  "updated_at": "2026-05-26T18:25:57.640176+00:00",
+  "updated_at": "2026-05-26T20:52:40.519332+00:00",
   "store_id": "5053574",
-  "count": 220,
+  "count": 221,
   "products": [
+    {
+      "id": "346657744",
+      "sku": "6018086|5|130",
+      "name": "BUZO FINLANDIA",
+      "description": "Buzo cuello alto con cierre lateral, con vivos en mangas. Tela:Plush Bifaz",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ab3f8f5f-b4a5-432e-b9fe-9666c4085b70_5053574_5545376-8ab98aa1b56ed8a6de17798228603314-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-finlandia-1pkf4/",
+      "position": 9999
+    },
     {
       "id": "346619049",
       "sku": "6099286|5|16",
@@ -289,10 +318,6 @@
       ],
       "colors": [
         {
-          "name": "Arena",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Gris",
           "hex": "#9e9e9e"
         },
@@ -424,7 +449,7 @@
       "name": "REMERA AMARA",
       "description": "Remera manga raglan, cuello combinado con bordado. Tela: Jersey Visco-ly",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_cbb023af-c01d-4a29-bc0b-d82c78912fec_5053574_5545376-dc7997c865a501268717782519086719-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219370-dbed8f8fed87ff877617798215216284-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -473,7 +498,7 @@
       "name": "JOGGER PARIS",
       "description": "",
       "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c66582fa-d2c4-41bf-9cea-fec9ae7c3e5e_5053574_5545376-91fd9f5d866f2e8cf317780959711340-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219569-c7d4a7eee89a8f094617798209959236-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1060,7 +1085,7 @@
       "name": "REMERA BELLA",
       "description": "Remera básica, con estampa. Tela: Jersey S- ly",
       "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_54a3296f-afaf-45f1-acee-e29507bc011f_5053574_5545376-2b7901240fae0ae96e17775745535255-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219697-3db87602701ce4f05e17798208519362-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -5045,10 +5070,6 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Gris",
           "hex": "#9e9e9e"
         },
@@ -5548,15 +5569,8 @@
       "description": "Tela: Plush bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417497-17416bf63a9b34f6fa17775613854891-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas",
@@ -6190,6 +6204,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313208-7c78da449b3fe9f1ed17744483092447-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -6200,6 +6215,10 @@
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -6471,11 +6490,21 @@
       "id": "251253775",
       "sku": "5096125|5|76",
       "name": "PANTALON CHICAGO",
-      "description": "Pantalon animal print con banda lateral Tela: Rustico Print",
+      "description": "Pantalon animal print con banda lateral Tela: Rustico Print Articulo modificado- Cintura 5cm de ancho",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_m9cjbqm9cjbqm9cj-fd0c49fce2a1b0626917756569310582-1024-1024.png",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Leopardo",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Pantalones"
