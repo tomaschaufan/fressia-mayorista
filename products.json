@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T16:37:16.251188+00:00",
+  "updated_at": "2026-05-27T19:24:53.809028+00:00",
   "store_id": "5053574",
   "count": 222,
   "products": [
@@ -376,7 +376,7 @@
       "name": "POLERON DUBAI",
       "description": "Buzo oversized, cuello alto. Tela: Lanilla rayada",
       "price": 11000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3e1c7974-19a8-4726-a79a-b3a10e999ca4_5053574_5545376-5cca0200ac729f2cf417786913106082-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219334-f624ae4769b9a06d2817799091916880-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1867,8 +1867,15 @@
       "description": "Chaleco recto con interno de corderito Tela: Paño print con corderito",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313132-6a2191b486c440e24a17744461391812-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Leopardo",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Abrigos"
@@ -2430,6 +2437,7 @@
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_33ac9b92-ca90-43f7-8e9c-3c65426d074e_5053574_5545376-cb11ff4d5e4796509717767772129864-1024-1024.png",
       "sizes": [
+        "L",
         "M",
         "XL"
       ],
@@ -6384,10 +6392,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Gris Mel",
