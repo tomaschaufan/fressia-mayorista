@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T00:04:23.775915+00:00",
+  "updated_at": "2026-05-27T05:15:14.450256+00:00",
   "store_id": "5053574",
   "count": 221,
   "products": [
@@ -4508,10 +4508,6 @@
       ],
       "colors": [
         {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
           "name": "Crudo",
           "hex": "#cccccc"
         },
@@ -5796,10 +5792,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
         {
           "name": "Marino",
           "hex": "#0d1b3e"
