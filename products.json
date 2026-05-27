@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-27T09:49:40.857225+00:00",
+  "updated_at": "2026-05-27T12:52:20.315380+00:00",
   "store_id": "5053574",
-  "count": 221,
+  "count": 220,
   "products": [
     {
       "id": "346657744",
@@ -231,7 +231,7 @@
       "name": "REMERA LIVIA",
       "description": "Remera escote redondo, manga larga. Tela: Morley Vintage",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_8tg6hc8tg6hc8tg6-4e48adc0bcba9113b117798189998556-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a59fe2c8-3f20-4926-921c-3e11d4e5ffb7_5053574_5545376-01bbe1b15a1c0e36b117798789704731-1024-1024.webp",
       "sizes": [
         "L",
         "M"
@@ -417,7 +417,7 @@
       "name": "JOGGER ZOOM AM",
       "description": "Jogger basico con puños Tela: Rustico c -lycra",
       "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ec9f3654-d77a-4d90-b3c5-c48b02affd30_5053574_5545376-97806919ec9483d04717785182228322-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219544-56d4efd45060718a4917798798078091-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -536,7 +536,7 @@
       "name": "PANTALON FINLANDIA",
       "description": "Pantalon con vivos laterales. Tela: Plush Bifaz",
       "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_79093578-f321-40f7-a3b8-099230b7c8c1_5053574_5545376-b61dd38ae30d6961bc17780805990626-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219559-ee391a66b6e959448617798800762189-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -589,7 +589,7 @@
       "name": "BUZO QUEBEC AM",
       "description": "Buzo cuello alto con recortes Tela: Frisa",
       "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_efec16b0-418d-40aa-aab7-b23d019656e3_5053574_5545376-e232bd735f246fe10c17775732672026-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219666-2f6cfa80306559961317798806879018-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -701,6 +701,10 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
+        },
+        {
+          "name": "Topo",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -1201,7 +1205,7 @@
       "name": "CAMPERA GLASGOW",
       "description": "",
       "price": 59000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_479a7dde-6c4b-42eb-a1ca-9ad6b1a8a64a_5053574_5545376-a6b78ff2151ef8d8ed17762785362067-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219528-4c054cb306e643d96817798794625169-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1441,7 +1445,7 @@
       "name": "REMERA ALIA AM",
       "description": "Remera escote bote con estampa en espalda. Tela: Jersey Rayado c- ly",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_8e841423-9159-4e4b-9b5b-ca669c6d2da0_5053574_5545376-3c310817805f6dcc4517757380052912-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219576-f4e8ca3b90df866e9c17798802444729-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1470,7 +1474,7 @@
       "name": "REMERA FAN AM",
       "description": "Remera manga corta con estampa. Tela: Jersey Rayado c- ly",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3fe80bff-f06d-49de-841e-28f1a2d45ac3_5053574_5545376-f8fa76eda01067a4fe17755013172209-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219486-2a29a8f6b915e69aa017798804656140-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1764,7 +1768,7 @@
       "name": "PANTALON BOMBACHO",
       "description": "Pantalon Bombacho a cuadros. Tela: Viyela &nbsp;",
       "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_46c89e83-5dd1-4920-b96c-afb213e733bc_5053574_5545376-550f45220f3ac5795e17780936886871-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219474-2568b623479fb7d4cc17798794137793-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1813,7 +1817,7 @@
       "name": "BUZO LEAP",
       "description": "Buzo hoodie basico Tela: Rustico c -lycra",
       "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312954-4a1edd6ae9f942591417744441470234-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219452-ebaac9fcb626807fc817798803738804-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -4102,35 +4106,6 @@
       "position": 9999
     },
     {
-      "id": "323100330",
-      "sku": "0485075|5|9",
-      "name": "REMERA AMIRA",
-      "description": "Remera escote bote con ruloté",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2998-62d396cd9f07b1a25517703850597418-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/remera-amira-1nkws/",
-      "position": 9999
-    },
-    {
       "id": "323100253",
       "sku": "7713275|5|15",
       "name": "REMERA ALICE",
@@ -6191,7 +6166,7 @@
     {
       "id": "258481962",
       "sku": "7789070|5|15",
-      "name": "POLERA CUELLO TORTUGA",
+      "name": "POLERA DANTEA",
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313208-7c78da449b3fe9f1ed17744483092447-1024-1024.jpg",
