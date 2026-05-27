@@ -1,8 +1,73 @@
 {
-  "updated_at": "2026-05-27T12:52:20.315380+00:00",
+  "updated_at": "2026-05-27T16:37:16.251188+00:00",
   "store_id": "5053574",
-  "count": 220,
+  "count": 222,
   "products": [
+    {
+      "id": "346852017",
+      "sku": "8499525|5|8",
+      "name": "REMERA NAYLA",
+      "description": "Remera rayada con etiqueta bordada. Tela: Darlon rayado",
+      "price": 7000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f121a168-7a43-4140-8e9d-a08c5bed7c8e_5053574_5545376-ad3fedc0ff039ea80117798994567132-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/remera-nayla-1wiaj/",
+      "position": 9999
+    },
+    {
+      "id": "346848415",
+      "sku": "8418195|5|8",
+      "name": "REMERA NAYLA AM",
+      "description": "Remera rayada con etiqueta bordada. Tela: Darlon rayado",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a4e1960f-298e-4bb5-8950-4a9f1c92894e_5053574_5545376-fbbf35bd80c6151a7b17798980334811-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-nayla-am-1gnjo/",
+      "position": 9999
+    },
     {
       "id": "346657744",
       "sku": "6018086|5|130",
@@ -5768,8 +5833,16 @@
       ],
       "colors": [
         {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
           "name": "Marino",
           "hex": "#0d1b3e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
