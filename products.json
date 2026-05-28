@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T23:17:23.865697+00:00",
+  "updated_at": "2026-05-28T03:36:57.556680+00:00",
   "store_id": "5053574",
   "count": 222,
   "products": [
@@ -1376,10 +1376,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3554,15 +3550,8 @@
       "description": "Buzo manga ranglan con etiqueta bordada\\nTela: Rustico Wash",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10101-d84c0862e3155afc6217718492287162-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas",
@@ -5455,7 +5444,8 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-2847372-bef8477af943f99c4e17490658803368-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
