@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T18:36:44.376021+00:00",
+  "updated_at": "2026-05-28T21:08:24.821940+00:00",
   "store_id": "5053574",
   "count": 224,
   "products": [
@@ -64,7 +64,7 @@
         "Colección principal",
         "Básicos - Esenciales"
       ],
-      "url": "https://fressia.net/productos/polera-dantea-1hs9g/",
+      "url": "https://fressia.net/productos/polera-dantea-12mdg/",
       "position": 9999
     },
     {
@@ -5899,6 +5899,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a14711cd-d508-4d09-891a-94fd269e6d1a_5053574_5545376-ed22e8a605285605b617769525214495-1024-1024.webp",
       "sizes": [
         "L",
+        "M",
         "S",
         "XL"
       ],
