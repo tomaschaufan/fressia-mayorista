@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T11:31:47.306117+00:00",
+  "updated_at": "2026-05-29T15:31:34.186346+00:00",
   "store_id": "5053574",
   "count": 224,
   "products": [
@@ -787,20 +787,8 @@
       "description": "Pantalón jogger con tiras lateral, elastico en cintura. Tela: Rustico Sublimado",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_637fc7e5-7d49-4d9b-9d6d-14d187c907c7_5053574_5545376-cbfe21bd9eee086f4017774683372753-1024-1024.png",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Lunares",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -1557,7 +1545,7 @@
       "name": "REMERA AGATHA",
       "description": "Remera escote redondo con manga larga Tela:Morley con lycra",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_fccba05c-d953-4cfb-8c3a-24a5fba320e6_5053574_5545376-3cc9eaa76c5de3a3a117760864755357-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417579-8a9641f9327442e7a117800587065297-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1788,28 +1776,8 @@
       "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
       "price": 14000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14320-c3e6e0958fa4e8cd5717761725625785-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Bambi",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Lunares",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Rayas",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "HOT FRESSIA",
         "Colección principal",
@@ -4334,10 +4302,6 @@
           "hex": "#4e342e"
         },
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Off White",
           "hex": "#cccccc"
         }
@@ -5957,29 +5921,8 @@
       "description": "",
       "price": 14000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444558-34160a5d53104af50a17476822140170-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Gris Mel",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "HOT FRESSIA",
         "Amor mío",
