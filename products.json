@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T20:57:37.620977+00:00",
+  "updated_at": "2026-05-30T22:04:49.348339+00:00",
   "store_id": "5053574",
   "count": 222,
   "products": [
@@ -4544,15 +4544,8 @@
       "description": "Remera escote U, mangas largas",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2898-ad9dae314764bfd5f917703196909425-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas",
