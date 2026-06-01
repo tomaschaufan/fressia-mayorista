@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T10:19:32.810620+00:00",
+  "updated_at": "2026-06-01T16:37:29.696089+00:00",
   "store_id": "5053574",
   "count": 222,
   "products": [
@@ -4016,20 +4016,8 @@
       ],
       "colors": [
         {
-          "name": "Mocca",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Pistaccio",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -5404,8 +5392,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30828-96a67845b2af6f94c517492260717320-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -6324,6 +6311,10 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
+        },
+        {
+          "name": "Topo",
+          "hex": "#cccccc"
         },
         {
           "name": "Verde Militar",
