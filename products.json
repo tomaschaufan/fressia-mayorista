@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-02T12:41:35.357584+00:00",
+  "updated_at": "2026-06-02T17:23:10.539511+00:00",
   "store_id": "5053574",
-  "count": 222,
+  "count": 212,
   "products": [
     {
       "id": "347326045",
@@ -1568,8 +1568,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417579-8a9641f9327442e7a117800587065297-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -1666,42 +1665,6 @@
         "Argentina"
       ],
       "url": "https://fressia.net/productos/remera-fan-am-ib53g/",
-      "position": 9999
-    },
-    {
-      "id": "335180505",
-      "sku": "0498915|5|15",
-      "name": "TOP CLEO",
-      "description": "Top asimétrico con ojales metalicos Tela: Morley c-ly",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14468-89f9d004ae6f8a107917761730192946-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/top-cleo-e9hlv/",
       "position": 9999
     },
     {
@@ -2330,31 +2293,6 @@
       "position": 9999
     },
     {
-      "id": "330648873",
-      "sku": "1892045|5|16",
-      "name": "TOP NOVA",
-      "description": "Top espalda deportiva Tela: Microfibra",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_d6282796-b152-4e14-8333-91621f967a5c_5053574_5545376-603c0bf06d536748df17767983049580-1024-1024.png",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Activewear",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/top-nova-4d725/",
-      "position": 9999
-    },
-    {
       "id": "330648839",
       "sku": "1892055|5|16",
       "name": "CALZA PULSE",
@@ -2405,56 +2343,6 @@
       "position": 9999
     },
     {
-      "id": "330603907",
-      "sku": "1891675|5|16",
-      "name": "BIKER MOTION",
-      "description": "Biker con cintura doble Tela: Microfibra",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10814-2aa54f1f46ee7cb83217731629935134-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Activewear",
-        "Faldas y Shorts"
-      ],
-      "url": "https://fressia.net/productos/biker-motion-l3r22/",
-      "position": 9999
-    },
-    {
-      "id": "330603133",
-      "sku": "1890055|5|16",
-      "name": "TOP FLOW",
-      "description": "Top de breteles escote U Tela: Microfibra",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10833-dd60a14104174515b317731627262518-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Activewear",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/top-flow-t6qwd/",
-      "position": 9999
-    },
-    {
       "id": "330595376",
       "sku": "1814495|5|16",
       "name": "CALZA PULSE AM",
@@ -2479,87 +2367,6 @@
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/calza-pulse-am-rvmqt/",
-      "position": 9999
-    },
-    {
-      "id": "330594362",
-      "sku": "1817915|5|16",
-      "name": "TOP BLAZE",
-      "description": "Top de breteles escote cuadrado Tela: Microfibra",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11062-b2d697ecf3bd75f8aa17731598079319-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Activewear",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/top-blaze-i5a33/",
-      "position": 9999
-    },
-    {
-      "id": "330593078",
-      "sku": "1814485|5|16",
-      "name": "TOP NOVA AM",
-      "description": "",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11094-242fe91107ac03508e17731600532683-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Activewear",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/top-nova-am-utcb6/",
-      "position": 9999
-    },
-    {
-      "id": "330592567",
-      "sku": "1813855|5|16",
-      "name": "BIKER MOTION AM",
-      "description": "Biker con cintura doble Tela: Microfibra",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11103-017bbde630cde8c73a17731602843654-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Activewear",
-        "Amor mío",
-        "Faldas y Shorts"
-      ],
-      "url": "https://fressia.net/productos/biker-motion-am-1hun2/",
       "position": 9999
     },
     {
@@ -3479,8 +3286,15 @@
       "description": "Tela: Modal Soft",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10635-1a379fe68b8e08268f17718513811078-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -3511,6 +3325,10 @@
         },
         {
           "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Uva",
           "hex": "#cccccc"
         }
       ],
@@ -3972,6 +3790,10 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -3988,8 +3810,15 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3549-1ec57e8e4ff2f6b4ce17703811135111-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -4499,49 +4328,6 @@
       "position": 9999
     },
     {
-      "id": "323099706",
-      "sku": "7716415|5|15",
-      "name": "MUSCULOSA SOFIA",
-      "description": "Musculosa escote U",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313139-6dfe290f957c14f88d17744476152027-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Melange",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Topo",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [
-        "HOT FRESSIA",
-        "Amor mío",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/musculosa-sofia-16amx/",
-      "position": 9999
-    },
-    {
       "id": "323099538",
       "sku": "7798855|5|15",
       "name": "REMERA LINA",
@@ -4619,6 +4405,10 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -4734,64 +4524,6 @@
       "position": 9999
     },
     {
-      "id": "323099277",
-      "sku": "9514030|5|15",
-      "name": "REMERA GABRIELA",
-      "description": "Remera escote redondo con ruloté",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3643-51d4565e83bd8801d417703196669531-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "HOT FRESSIA",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-gabriela-1bzcd/",
-      "position": 9999
-    },
-    {
-      "id": "323099215",
-      "sku": "9592990|5|15",
-      "name": "REMERA EMMA",
-      "description": "Remera escote redondo",
-      "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2884-a532b3fd978910354617766867008122-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-emma-15t22/",
-      "position": 9999
-    },
-    {
       "id": "323099156",
       "sku": "4796195|5|156",
       "name": "REMERA CLARA",
@@ -4830,8 +4562,20 @@
       "description": "Tela: Gabardina Twill Soft",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11531-0c814ea03c4e35721317730733526244-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Abrigos"
@@ -5429,7 +5173,7 @@
       ],
       "colors": [
         {
-          "name": "Leopardo(Cuerpo)",
+          "name": "Camuflado (Cuerpo)",
           "hex": "#cccccc"
         }
       ],
@@ -5693,10 +5437,6 @@
           "hex": "#7b1a2c"
         },
         {
-          "name": "Marino",
-          "hex": "#0d1b3e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -5816,6 +5556,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a14711cd-d508-4d09-891a-94fd269e6d1a_5053574_5545376-ed22e8a605285605b617769525214495-1024-1024.webp",
       "sizes": [
         "L",
+        "M",
         "S",
         "XL"
       ],
@@ -6189,7 +5930,6 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631170-ba528bac4c92792db817423108625577-1024-1024.jpg",
       "sizes": [
-        "L",
         "M",
         "XL"
       ],
@@ -6279,20 +6019,8 @@
           "hex": "#d4b896"
         },
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -6430,6 +6158,10 @@
         {
           "name": "Rojo",
           "hex": "#d32f2f"
+        },
+        {
+          "name": "Topo",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -6494,6 +6226,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-03-1237471-31eccf89a42d16c4f417418685644547-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -6502,8 +6235,8 @@
           "hex": "#9e9e9e"
         },
         {
-          "name": "Uva",
-          "hex": "#cccccc"
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -6556,6 +6289,10 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
         },
         {
           "name": "Crudo",
