@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T08:42:35.100835+00:00",
+  "updated_at": "2026-06-02T12:41:35.357584+00:00",
   "store_id": "5053574",
   "count": 222,
   "products": [
@@ -519,6 +519,10 @@
       ],
       "colors": [
         {
+          "name": "Arena",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Gris",
           "hex": "#9e9e9e"
         },
@@ -760,7 +764,8 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e5d0ac9c-24e0-4222-ad16-aaf88764ad11_5053574_5545376-a67bcccb3b80350edc17780091377407-1024-1024.png",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -962,6 +967,10 @@
         "M"
       ],
       "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
         {
           "name": "Chocolate",
           "hex": "#4e342e"
@@ -1703,8 +1712,7 @@
       "price": 27000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14711-4bca3499aeffe8989317761691436800-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -2261,6 +2269,10 @@
       ],
       "colors": [
         {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
           "name": "Chocolate",
           "hex": "#4e342e"
         },
@@ -2696,6 +2708,10 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3563,8 +3579,15 @@
       "description": "Buzo manga ranglan con etiqueta bordada Tela: Rustico Wash",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10101-d84c0862e3155afc6217718492287162-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Buzos y Camperas",
@@ -3949,10 +3972,6 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -4225,6 +4244,10 @@
           "hex": "#4e342e"
         },
         {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Off White",
           "hex": "#cccccc"
         }
@@ -4363,6 +4386,10 @@
           "hex": "#7b1a2c"
         },
         {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Off White",
           "hex": "#cccccc"
         }
@@ -4387,6 +4414,10 @@
         "M"
       ],
       "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
         {
           "name": "Off White",
           "hex": "#cccccc"
@@ -4981,6 +5012,10 @@
           "hex": "#ffffff"
         },
         {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Gris Melange",
           "hex": "#9e9e9e"
         },
@@ -5323,9 +5358,14 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_63b70de3-5533-4a69-80e6-ce89bbad8ac5_5053574_5545376-1fe6455ddb09e69a2317773778002975-1024-1024.png",
       "sizes": [
-        "L"
+        "L",
+        "XL"
       ],
       "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
         {
           "name": "Gris",
           "hex": "#9e9e9e"
@@ -5385,7 +5425,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30828-96a67845b2af6f94c517492260717320-1024-1024.jpg",
       "sizes": [
-        "L"
+        "M"
       ],
       "colors": [
         {
@@ -5568,8 +5608,20 @@
       "description": "Tela: Plush bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417497-17416bf63a9b34f6fa17775613854891-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Buzos y Camperas",
@@ -5639,6 +5691,10 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
+        },
+        {
+          "name": "Marino",
+          "hex": "#0d1b3e"
         },
         {
           "name": "Negro",
@@ -5790,6 +5846,7 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30256-19d9c88639d405746d17467989517882-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -5979,6 +6036,10 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
         },
         {
           "name": "Chocolate",
@@ -6222,8 +6283,16 @@
           "hex": "#7b1a2c"
         },
         {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -6424,8 +6493,19 @@
       "description": "Tela: Waffle Liviano",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-03-1237471-31eccf89a42d16c4f417418685644547-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris Mel",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Uva",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "HOT FRESSIA",
         "Colección principal",
