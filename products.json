@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T23:02:33.904107+00:00",
+  "updated_at": "2026-06-03T04:07:28.287720+00:00",
   "store_id": "5053574",
   "count": 212,
   "products": [
@@ -5126,15 +5126,8 @@
       "description": "Tela: Rustico Sublimado",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30828-96a67845b2af6f94c517492260717320-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Camuflado (Cuerpo)",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Rebajas",
         "Colección principal",
