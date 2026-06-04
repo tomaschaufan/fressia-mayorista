@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T11:53:29.083682+00:00",
+  "updated_at": "2026-06-04T15:14:45.209534+00:00",
   "store_id": "5053574",
   "count": 214,
   "products": [
@@ -739,6 +739,7 @@
       ],
       "categories": [
         "HOT FRESSIA",
+        "Rebajas",
         "Colección principal",
         "Activewear",
         "Amor mío",
@@ -1118,6 +1119,7 @@
       ],
       "categories": [
         "HOT FRESSIA",
+        "Rebajas",
         "Colección principal",
         "Pantalones",
         "Conjuntos"
@@ -1718,7 +1720,6 @@
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219576-f4e8ca3b90df866e9c17798802444729-1024-1024.jpg",
       "sizes": [
-        "L",
         "M",
         "XL"
       ],
@@ -1794,15 +1795,8 @@
       "description": "Pantalón amplio con pinza y recortes Tela: Frisa",
       "price": 27000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14711-4bca3499aeffe8989317761691436800-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones",
@@ -1947,6 +1941,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219474-2568b623479fb7d4cc17798794137793-1024-1024.jpg",
       "sizes": [
         "L",
+        "M",
         "XL"
       ],
       "colors": [
@@ -2018,6 +2013,7 @@
       ],
       "categories": [
         "HOT FRESSIA",
+        "Rebajas",
         "Colección principal",
         "Activewear",
         "Amor mío",
@@ -2063,6 +2059,7 @@
       ],
       "categories": [
         "HOT FRESSIA",
+        "Rebajas",
         "Colección principal",
         "Activewear",
         "Pantalones",
@@ -2094,6 +2091,7 @@
       ],
       "categories": [
         "HOT FRESSIA",
+        "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -2123,6 +2121,7 @@
       ],
       "categories": [
         "HOT FRESSIA",
+        "Rebajas",
         "Colección principal",
         "Activewear",
         "Buzos y Camperas"
@@ -2152,6 +2151,7 @@
       ],
       "categories": [
         "HOT FRESSIA",
+        "Rebajas",
         "Colección principal",
         "Activewear",
         "Buzos y Camperas",
@@ -2183,6 +2183,7 @@
       ],
       "categories": [
         "HOT FRESSIA",
+        "Rebajas",
         "Colección principal",
         "Activewear",
         "Pantalones",
@@ -2246,6 +2247,7 @@
         }
       ],
       "categories": [
+        "Rebajas",
         "Colección principal",
         "Activewear",
         "Buzos y Camperas"
@@ -2276,6 +2278,7 @@
       ],
       "categories": [
         "HOT FRESSIA",
+        "Rebajas",
         "Colección principal",
         "Activewear",
         "Buzos y Camperas",
@@ -3871,10 +3874,6 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -4778,10 +4777,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
         },
         {
           "name": "Gris Melange",
