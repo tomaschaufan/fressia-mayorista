@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-04T08:47:33.375475+00:00",
+  "updated_at": "2026-06-04T11:53:29.083682+00:00",
   "store_id": "5053574",
-  "count": 213,
+  "count": 214,
   "products": [
     {
       "id": "348312920",
@@ -1769,6 +1769,22 @@
         "Argentina"
       ],
       "url": "https://fressia.net/productos/remera-fan-am-ib53g/",
+      "position": 9999
+    },
+    {
+      "id": "335180505",
+      "sku": "0498915|5|15",
+      "name": "TOP CLEO",
+      "description": "Top asimétrico con ojales metalicos Tela: Morley c-ly",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14468-89f9d004ae6f8a107917761730192946-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/top-cleo-e9hlv/",
       "position": 9999
     },
     {
