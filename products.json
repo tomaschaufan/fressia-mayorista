@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-05T12:37:14.408480+00:00",
+  "updated_at": "2026-06-05T15:53:49.759878+00:00",
   "store_id": "5053574",
-  "count": 211,
+  "count": 212,
   "products": [
     {
       "id": "348312920",
@@ -601,12 +601,12 @@
           "hex": "#4e342e"
         },
         {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
+        },
+        {
+          "name": "Vison",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -687,7 +687,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_12d9cd55-359e-4fb7-b5c1-ceceefdf54fb_5053574_5545376-26abea85fcf833b81017785190651134-1024-1024.png",
       "sizes": [
         "L",
-        "M",
         "XL"
       ],
       "colors": [
@@ -696,16 +695,8 @@
           "hex": "#d4b896"
         },
         {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
           "name": "Militar",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3914,6 +3905,23 @@
       "position": 9999
     },
     {
+      "id": "323100330",
+      "sku": "0485075|5|9",
+      "name": "REMERA AMIRA",
+      "description": "Remera escote bote con ruloté",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2998-62d396cd9f07b1a25517703850597418-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas",
+        "Básicos - Esenciales"
+      ],
+      "url": "https://fressia.net/productos/remera-amira-1nkws/",
+      "position": 9999
+    },
+    {
       "id": "323100253",
       "sku": "7713275|5|15",
       "name": "REMERA ALICE",
@@ -5504,7 +5512,6 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30256-19d9c88639d405746d17467989517882-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
