@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T14:52:16.358359+00:00",
+  "updated_at": "2026-06-07T16:16:42.399993+00:00",
   "store_id": "5053574",
   "count": 211,
   "products": [
@@ -5851,10 +5851,6 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
         },
         {
           "name": "Gris Mel",
