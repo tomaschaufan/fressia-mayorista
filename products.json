@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T17:53:05.979952+00:00",
+  "updated_at": "2026-06-08T20:16:20.190162+00:00",
   "store_id": "5053574",
   "count": 211,
   "products": [
@@ -9,7 +9,7 @@
       "name": "PANTALÓN ROBBEN AM",
       "description": "Pantalón wide leg. Tela: Ribb Soft",
       "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/tmp/stores/005/053/574/products/tmp_b64_f04a4ae7-6d1f-4faf-a1fb-54b55bf68d0a_5053574_5545376-676f51c5a2ed10ff0a17809383118795.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f04a4ae7-6d1f-4faf-a1fb-54b55bf68d0a_5053574_5545376-676f51c5a2ed10ff0a17809383118795-1024-1024.png",
       "sizes": [
         "L",
         "M",
@@ -42,17 +42,13 @@
       "name": "REMERA GRETA AM",
       "description": "Remera escote redondo con etiqueta bordada. Tela: Morley Vintage",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_10ba223a-25da-4785-ada1-677d78049037_5053574_5545376-638085da0d94b139de17809297664773-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_1d25ddcb-253f-41f1-9eb6-a0d963a8948f_5053574_5545376-a5bccd1b9df1f9de4d17809303265646-1024-1024.png",
       "sizes": [
         "L",
         "M",
         "XL"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
@@ -83,7 +79,7 @@
       "name": "REMERA NALA AM",
       "description": "Remera mangas largas, cuello Perkins. Tela: Morley Vintage&nbsp;",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_008483bd-1823-4d91-b9f0-7fc280b5de42_5053574_5545376-dee4c9867c726f43a017809329928327-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_576bd8d8-6b35-4645-9271-865d95eea7c7_5053574_5545376-1b0254f31785fee84517809457893856-1024-1024.png",
       "sizes": [
         "L",
         "M",
