@@ -1,8 +1,41 @@
 {
-  "updated_at": "2026-06-09T12:37:20.223887+00:00",
+  "updated_at": "2026-06-09T15:54:45.698164+00:00",
   "store_id": "5053574",
-  "count": 212,
+  "count": 211,
   "products": [
+    {
+      "id": "349365745",
+      "sku": "8518185|5|29",
+      "name": "POLERA ANOUK AM",
+      "description": "Polera cuello perkins, con tajos en mangas. Tela: Ribb Soft",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_50e37dfb-948a-467e-b65c-21ee420bb994_5053574_5545376-08378c47db02d57af817810198656147-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/polera-anouk-am-1ix1u/",
+      "position": 9999
+    },
     {
       "id": "349315350",
       "sku": "8588165|5|9",
@@ -1798,22 +1831,6 @@
         "Argentina"
       ],
       "url": "https://fressia.net/productos/remera-fan-am-ib53g/",
-      "position": 9999
-    },
-    {
-      "id": "335180505",
-      "sku": "0498915|5|15",
-      "name": "TOP CLEO",
-      "description": "Top asimétrico con ojales metalicos Tela: Morley c-ly",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14468-89f9d004ae6f8a107917761730192946-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/top-cleo-e9hlv/",
       "position": 9999
     },
     {
@@ -6086,23 +6103,6 @@
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/pantalon-animal-print-con-banda-lateral1/",
-      "position": 9999
-    },
-    {
-      "id": "251961295",
-      "sku": "4597105|5|88",
-      "name": "PANTALON CON BANDA LATERAL ANIMAL PRINT",
-      "description": "Tela: Waffle Liviano",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-03-1237649-9543e15243ce31849017431756898687-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "HOT FRESSIA",
-        "Colección principal",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-con-banda-lateral-animal-print/",
       "position": 9999
     },
     {
