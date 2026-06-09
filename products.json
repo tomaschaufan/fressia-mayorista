@@ -1,8 +1,44 @@
 {
-  "updated_at": "2026-06-09T09:42:57.195194+00:00",
+  "updated_at": "2026-06-09T12:37:20.223887+00:00",
   "store_id": "5053574",
-  "count": 211,
+  "count": 212,
   "products": [
+    {
+      "id": "349315350",
+      "sku": "8588165|5|9",
+      "name": "POLERA ANOUK",
+      "description": "Polera cuello perkins, con tajos en mangas. Tela: Ribb Soft",
+      "price": 7500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_aig2qdaig2qdaig2-a6988d9550395547ad17810071383995-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/polera-anouk-nivge/",
+      "position": 9999
+    },
     {
       "id": "349154629",
       "sku": "8513475|5|29",
