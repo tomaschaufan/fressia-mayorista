@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-06-10T09:59:56.596080+00:00",
+  "updated_at": "2026-06-10T13:40:08.378650+00:00",
   "store_id": "5053574",
-  "count": 211,
+  "count": 212,
   "products": [
+    {
+      "id": "349586366",
+      "sku": "8418205|5|8",
+      "name": "REMERA ODETTE AM",
+      "description": "Remera mangas largas, escote redondo, con tajos en lateral Tela: Darlon Rayado",
+      "price": 10000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-odette-am-f95ms/",
+      "position": 9999
+    },
     {
       "id": "349365745",
       "sku": "8518185|5|29",
@@ -833,8 +863,21 @@
       "description": "Buzo oversized, cuello alto. Tela: Lanilla rayada",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_12d9cd55-359e-4fb7-b5c1-ceceefdf54fb_5053574_5545376-26abea85fcf833b81017785190651134-1024-1024.png",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Amor mío",
         "Buzos y Camperas"
@@ -1732,14 +1775,27 @@
       "name": "REMERA AGATHA",
       "description": "Remera escote redondo con manga larga Tela:Morley con lycra",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417579-8a9641f9327442e7a117800587065297-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417811-0d52e20e6a8c92c0e917810980231909-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
           "name": "Bordo",
           "hex": "#7b1a2c"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3335,7 +3391,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10446-0b9233b97ef8ac53db17718486584700-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
         "XL"
       ],
       "colors": [
@@ -3886,12 +3941,28 @@
     {
       "id": "323100377",
       "sku": "0475335|5|9",
-      "name": "REMERA ELSA",
+      "name": "REMERA ELSA RAYADA",
       "description": "Tela: Morley cotton con lycra",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2739-7fe8cc96fd5c2169ab17703848671897-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3f9269fd-1442-464a-be48-b0b4a771c462_5053574_5545376-00771d7484a04617c217810934468730-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [],
       "url": "https://fressia.net/productos/remera-elsa-nb81v/",
       "position": 9999
@@ -4627,6 +4698,7 @@
       ],
       "categories": [
         "HOT FRESSIA",
+        "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -4953,7 +5025,7 @@
       "name": "REMERÓN MANGAS LARGA CON BANDAS LATERALES ANIMAL PRINT",
       "description": "",
       "price": 13000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_19bb6c8d-e4a0-4b81-9110-b5e5c6b197d8_5053574_5310992-78a8c426725a527cfb17502737662831-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_10846cbc-4ec0-4fc8-9509-16329536c5f5_5053574_5545376-112496a40a391b422717810888868097-1024-1024.png",
       "sizes": [
         "L"
       ],
