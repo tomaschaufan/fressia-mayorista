@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-06-11T14:36:11.781939+00:00",
+  "updated_at": "2026-06-11T18:12:55.717960+00:00",
   "store_id": "5053574",
-  "count": 213,
+  "count": 214,
   "products": [
+    {
+      "id": "349849713",
+      "sku": "8493776|5|9",
+      "name": "POLERA ZAHRA",
+      "description": "Polera perkins con detalle en espalda. Tela: Darlon Rayado",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_736b04a2-1608-42af-a46c-8ef77068add0_5053574_5545376-eb5f519f4ec442bf4917811912647631-1024-1024.png",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/polera-zahra-1m06b/",
+      "position": 9999
+    },
     {
       "id": "349586366",
       "sku": "8418205|5|8",
@@ -1062,11 +1075,27 @@
       "id": "342277441",
       "sku": "6096336|5|16",
       "name": "PANTALON MELBOURNE",
-      "description": "Pantalon con vivos laterales. Tela: Plush Bifaz",
+      "description": "Preventa: Articulo listo para despachar a partir del 19-6 Pantalon con vivos laterales. Tela: Plush Bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e5d0ac9c-24e0-4222-ad16-aaf88764ad11_5053574_5545376-a67bcccb3b80350edc17780091377407-1024-1024.png",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Pantalones"
