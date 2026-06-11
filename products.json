@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-11T10:24:14.964928+00:00",
+  "updated_at": "2026-06-11T14:36:11.781939+00:00",
   "store_id": "5053574",
-  "count": 212,
+  "count": 213,
   "products": [
     {
       "id": "349586366",
@@ -1292,6 +1292,32 @@
       "position": 9999
     },
     {
+      "id": "339497511",
+      "sku": "5015666|5|171",
+      "name": "BUZO ARGENTINA AM",
+      "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
+      "price": 14000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219703-bbf3cb797de6f9c82f17799738340238-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bandera",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas",
+        "Argentina"
+      ],
+      "url": "https://fressia.net/productos/buzo-argentina-am-1441m/",
+      "position": 9999
+    },
+    {
       "id": "339266425",
       "sku": "5095156|5|171",
       "name": "BUZO ARGENTINA",
@@ -1429,7 +1455,6 @@
       "price": 59000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417686-0eba1aa2e7a39b560f17775552854541-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -1507,7 +1532,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219697-3db87602701ce4f05e17798208519362-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -4531,16 +4557,8 @@
       "description": "Tela: Gabardina Twill Soft",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11531-0c814ea03c4e35721317730733526244-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Abrigos"
@@ -4925,15 +4943,8 @@
       "description": "",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2f3049bc-f8d1-4dee-80c5-39d5d1e0bf94_5053574_5545376-f1420bd6f0d386c47017780858591498-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Abrigos",
@@ -5253,15 +5264,8 @@
       "description": "",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14541-5e355a7e560a0e99fb17763480229370-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
