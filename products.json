@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-11T18:12:55.717960+00:00",
+  "updated_at": "2026-06-11T21:20:31.520202+00:00",
   "store_id": "5053574",
-  "count": 214,
+  "count": 213,
   "products": [
     {
       "id": "349849713",
@@ -1237,24 +1237,6 @@
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/flare-new-york-312fh/",
-      "position": 9999
-    },
-    {
-      "id": "339921350",
-      "sku": "7798805|5|15",
-      "name": "TOP AXELLE",
-      "description": "Top con hombros descubiertos Tela: Jersey Algodón c- Ly",
-      "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a43f04f1-a554-4547-a97e-60a23cfee9ae_5053574_5545376-a564a641b465aaabfb17785124439481-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "HOT FRESSIA",
-        "Colección principal",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/top-axelle-1o3jo/",
       "position": 9999
     },
     {
