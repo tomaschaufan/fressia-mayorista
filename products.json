@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T16:17:39.491026+00:00",
+  "updated_at": "2026-06-12T19:04:28.207670+00:00",
   "store_id": "5053574",
   "count": 215,
   "products": [
@@ -3036,15 +3036,8 @@
       "description": "",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10963-cbe1775b5c6e7b24fe17728213623652-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Sweaters"
@@ -4287,16 +4280,8 @@
       "description": "Tela: Modal Soft",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2964-dc0b80571d1ceb859e17704069723047-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas",
