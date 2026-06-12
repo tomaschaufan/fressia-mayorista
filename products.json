@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T23:21:39.319406+00:00",
+  "updated_at": "2026-06-12T03:58:33.668443+00:00",
   "store_id": "5053574",
   "count": 213,
   "products": [
@@ -6121,10 +6121,6 @@
         {
           "name": "Rojo",
           "hex": "#d32f2f"
-        },
-        {
-          "name": "Topo",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
