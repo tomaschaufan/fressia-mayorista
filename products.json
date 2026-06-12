@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T19:04:28.207670+00:00",
+  "updated_at": "2026-06-12T21:44:14.413174+00:00",
   "store_id": "5053574",
   "count": 215,
   "products": [
@@ -2706,8 +2706,20 @@
       "description": "Remera manga raglan, cuello combinado con bordado. Tela: Morley con lycra rayado",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11014-a517279e02671b32b717730654877790-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -5551,7 +5563,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a14711cd-d508-4d09-891a-94fd269e6d1a_5053574_5545376-ed22e8a605285605b617769525214495-1024-1024.webp",
       "sizes": [
         "L",
-        "M",
         "S",
         "XL"
       ],
@@ -6218,7 +6229,6 @@
       "sizes": [
         "L",
         "M",
-        "S",
         "XL"
       ],
       "colors": [
