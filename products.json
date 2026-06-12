@@ -1,8 +1,58 @@
 {
-  "updated_at": "2026-06-12T12:19:14.615068+00:00",
+  "updated_at": "2026-06-12T16:17:39.491026+00:00",
   "store_id": "5053574",
-  "count": 213,
+  "count": 215,
   "products": [
+    {
+      "id": "350080828",
+      "sku": "2597919|5|16",
+      "name": "REMERA MANGA LARGA ARGENTINA",
+      "description": "Remera manga larga, escote redondo. Tela: Jersey s-ly",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_376f3af7-ce9e-4fdf-807c-05e79f536596_5053574_5545376-21780ccd049f4d787817812758289233-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas",
+        "Argentina"
+      ],
+      "url": "https://fressia.net/productos/remera-manga-larga-argentina-i4unq/",
+      "position": 9999
+    },
+    {
+      "id": "350059570",
+      "sku": "2598752|5|16",
+      "name": "REMERA LUNA ARGENTINA",
+      "description": "Remera Box fit, escote redondo con dije. Tela: Jersey s-ly",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_39956e64-b2b0-4678-af5a-f8aac9b1d219_5053574_5545376-51bb9d980cf53b09f117812724921149-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas",
+        "Argentina"
+      ],
+      "url": "https://fressia.net/productos/remera-luna-argentina-1ytq1/",
+      "position": 9999
+    },
     {
       "id": "349849713",
       "sku": "8493776|5|9",
@@ -1329,17 +1379,8 @@
       "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
       "price": 14000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219703-bbf3cb797de6f9c82f17799738340238-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Bandera",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas",
@@ -1355,16 +1396,8 @@
       "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
       "price": 14000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_32135bf7-8dc1-4b90-abb7-c4f3d4d2682b_5053574_5545376-1f198f77f7069e843c17767100053135-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Bandera",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas",
@@ -3676,18 +3709,9 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10435-4cd095994c51f1785d17718550054860-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
-        {
-          "name": "Ciruela",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
         {
           "name": "Off White",
           "hex": "#cccccc"
@@ -5998,6 +6022,7 @@
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631165-c0d2f26b33d6974c2b17411917034729-1024-1024.jpg",
       "sizes": [
+        "L",
         "XL"
       ],
       "colors": [
