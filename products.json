@@ -1,8 +1,75 @@
 {
-  "updated_at": "2026-06-17T11:47:40.233468+00:00",
+  "updated_at": "2026-06-17T15:30:08.971165+00:00",
   "store_id": "5053574",
-  "count": 220,
+  "count": 223,
   "products": [
+    {
+      "id": "350997721",
+      "sku": "2517732|5|16",
+      "name": "REMERA AIKO ARGENTINA",
+      "description": "Remera Box fit, escote redondo con hotfix. Tela: Jersey s-ly",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_d3d15b70-92e3-409b-92cb-dd27b82a151f_5053574_5545376-d6fdf6806ac1514be317817088413326-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas",
+        "Argentina"
+      ],
+      "url": "https://fressia.net/productos/remera-aiko-argentina-s7bv7/",
+      "position": 9999
+    },
+    {
+      "id": "350996853",
+      "sku": "7797156|5|15",
+      "name": "GABI ARGENTINA",
+      "description": "Remera manga al codo Tela: Jersey Algodón c- Ly",
+      "price": 8000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/gabi-argentina-1xkbm/",
+      "position": 9999
+    },
+    {
+      "id": "350995425",
+      "sku": "7757976|5|15",
+      "name": "BRUNA ARGENTINA",
+      "description": "Remera media polera, mangas largas Tela: Jersey Algodón c- Ly",
+      "price": 9000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/bruna-argentina-1v5th/",
+      "position": 9999
+    },
     {
       "id": "350793106",
       "sku": "0126225|4|130",
@@ -2200,6 +2267,14 @@
       ],
       "colors": [
         {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
           "name": "Uva",
           "hex": "#cccccc"
         }
@@ -2698,20 +2773,8 @@
       ],
       "colors": [
         {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
           "name": "Crudo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -4534,29 +4597,8 @@
       "description": "Remera Box fit con dije",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3692-816be0815f5ce5e71017703201196380-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas",
