@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T00:16:16.945966+00:00",
+  "updated_at": "2026-06-17T06:11:13.024567+00:00",
   "store_id": "5053574",
   "count": 219,
   "products": [
@@ -1095,8 +1095,16 @@
       ],
       "colors": [
         {
+          "name": "Arena",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Gris",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Militar",
+          "hex": "#cccccc"
         },
         {
           "name": "Negro",
@@ -2248,10 +2256,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Off White",
@@ -5438,10 +5442,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
         },
         {
           "name": "Negro",
