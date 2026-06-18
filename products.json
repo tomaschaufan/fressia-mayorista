@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T23:24:28.085403+00:00",
+  "updated_at": "2026-06-18T03:59:11.322139+00:00",
   "store_id": "5053574",
   "count": 223,
   "products": [
@@ -5940,10 +5940,6 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
