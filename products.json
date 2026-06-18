@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T08:52:31.481739+00:00",
+  "updated_at": "2026-06-18T12:26:10.927027+00:00",
   "store_id": "5053574",
   "count": 223,
   "products": [
@@ -35,16 +35,8 @@
       "description": "Remera manga al codo Tela: Jersey Algodón c- Ly",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_08b845c7-13a6-45fd-bbb0-3ffc0c165939_5053574_5545376-ee7f2fd46624b5046f17817104968407-1024-1024.png",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas",
@@ -60,16 +52,8 @@
       "description": "Remera media polera, mangas largas Tela: Jersey Algodón c- Ly",
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_dc4e7550-8c1b-4794-898c-952eefe2ac89_5053574_5545376-5d1603cd3177e01a2d17817107411538-1024-1024.png",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas",
