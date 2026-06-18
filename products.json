@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T12:26:10.927027+00:00",
+  "updated_at": "2026-06-18T16:31:49.503921+00:00",
   "store_id": "5053574",
   "count": 223,
   "products": [
@@ -726,10 +726,6 @@
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -817,15 +813,8 @@
       "description": "Remera rayada con etiqueta bordada. Tela: Darlon rayado",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a4e1960f-298e-4bb5-8950-4a9f1c92894e_5053574_5545376-fbbf35bd80c6151a7b17798980334811-1024-1024.png",
-      "sizes": [
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -2963,7 +2952,7 @@
       "name": "REMERA AINE",
       "description": "Remera manga raglan, cuello combinado con bordado. Tela: Morley con lycra rayado",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11014-a517279e02671b32b717730654877790-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e82e2fb9-6585-4d58-b38a-d20baed0137c_5053574_5545376-a4fb338c935d92082a17817948553023-1024-1024.png",
       "sizes": [
         "L",
         "M"
@@ -3258,15 +3247,8 @@
       "description": "Remera con cartera y botones ♥ Tela: Morley c-ly rayado",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11282-002f7920c9396e6ea317728238041936-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -5742,10 +5724,6 @@
       ],
       "colors": [
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Verde",
           "hex": "#2e7d32"
         }
@@ -5942,33 +5920,8 @@
       "description": "",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-2339695-0d1262e6ac0f64c7e117462046634242-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "HOT FRESSIA",
         "Rebajas",
