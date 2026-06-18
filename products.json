@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T19:28:01.022518+00:00",
+  "updated_at": "2026-06-18T22:08:10.479611+00:00",
   "store_id": "5053574",
   "count": 224,
   "products": [
@@ -5649,17 +5649,8 @@
       "description": "",
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444760-85c128f91dd60d1a2f17473145436513-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Gris Mel",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "HOT FRESSIA",
         "Rebajas",
