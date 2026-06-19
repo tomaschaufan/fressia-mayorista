@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-06-19T19:57:01.786261+00:00",
+  "updated_at": "2026-06-19T21:12:43.570495+00:00",
   "store_id": "5053574",
-  "count": 224,
+  "count": 225,
   "products": [
+    {
+      "id": "351480964",
+      "sku": "8393776|5|52",
+      "name": "POLERA FIONA",
+      "description": "Polera cuello perkins. Tela: Ribb Darlon",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-3040741-4c06b2f991b3fc0a3317510294640036-640-0-730a4abf70410868a017818992121982-1024-1024.webp",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Cereza",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lima",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Morado",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Natural",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/polera-fiona-1cn0c/",
+      "position": 9999
+    },
     {
       "id": "351207354",
       "sku": "9895655|5|43",
@@ -6341,10 +6378,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Crudo",
           "hex": "#cccccc"
