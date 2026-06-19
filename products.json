@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T15:17:02.474351+00:00",
+  "updated_at": "2026-06-19T17:57:46.729182+00:00",
   "store_id": "5053574",
   "count": 224,
   "products": [
@@ -161,7 +161,7 @@
       "name": "CAMPERA STOCKHOLM",
       "description": "",
       "price": 65000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_f3xq4nf3xq4nf3xq-d052de9f5b99ec7f7717816275200091-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_5f0d841a-6afa-4f7e-8523-3e1a32d9c43e_5053574_5545376-89c1c04c353285c0cc17818835184419-1024-1024.webp",
       "sizes": [
         "L",
         "M",
@@ -195,6 +195,10 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
         },
         {
           "name": "Chocolate",
@@ -3728,13 +3732,10 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10446-0b9233b97ef8ac53db17718486584700-1024-1024.jpg",
       "sizes": [
         "L",
+        "M",
         "XL"
       ],
       "colors": [
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -4098,15 +4099,8 @@
       "description": "Tela: Textura Mulberry",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2761-484847eae70b33941b17703801502670-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Rebajas",
         "Colección principal",
@@ -5541,8 +5535,15 @@
       "description": "Tela: Plush bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417497-17416bf63a9b34f6fa17775613854891-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Buzos y Camperas",
@@ -5989,15 +5990,8 @@
       "description": "",
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1147975-9bde548d4a0777af5417501877691985-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "HOT FRESSIA",
         "Amor mío",
@@ -6123,15 +6117,8 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631438-8b9c7d7472e6bc39dd17412011710763-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "HOT FRESSIA",
         "Colección principal",
@@ -6259,28 +6246,8 @@
       "description": "",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo33748-c8574bbba3ff48b24f17388429020397-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Rebajas",
         "Colección principal",
