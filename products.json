@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T11:22:29.998912+00:00",
+  "updated_at": "2026-06-19T15:17:02.474351+00:00",
   "store_id": "5053574",
   "count": 224,
   "products": [
@@ -2304,10 +2304,6 @@
           "hex": "#d4b896"
         },
         {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
           "name": "Uva",
           "hex": "#cccccc"
         }
@@ -2625,10 +2621,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -4003,19 +3995,8 @@
       "description": "Pantalón recto, con alforza\\nTela: Rustico Wash",
       "price": 29000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10098-37f9ce58d068683ddb17718521112987-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Mocca",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones",
@@ -4907,12 +4888,17 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9f95afe1-d01a-4d27-a37b-4ece692391cf_5053574_5545376-87241d078c722d4f6117782688776603-1024-1024.png",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
