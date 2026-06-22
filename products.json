@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-22T15:50:54.103738+00:00",
+  "updated_at": "2026-06-22T19:27:12.820783+00:00",
   "store_id": "5053574",
-  "count": 225,
+  "count": 226,
   "products": [
     {
       "id": "351480964",
@@ -9,7 +9,7 @@
       "name": "POLERA FIONA",
       "description": "Polera cuello perkins. Tela: Ribb Darlon",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_y253s4y253s4y253-d826f8916e2dbb982417821309462977-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_4f0798b2-5033-45ad-81f9-1bfe6c928402_5053574_5545376-697bc4d117060a829517821441803496-1024-1024.webp",
       "sizes": [
         "L",
         "M"
@@ -38,6 +38,43 @@
       ],
       "categories": [],
       "url": "https://fressia.net/productos/polera-fiona-1cn0c/",
+      "position": 9999
+    },
+    {
+      "id": "351478416",
+      "sku": "8399526|5|52",
+      "name": "REMERA MORA",
+      "description": "Remera escote base con etiqueta bordada. Tela: Ribb Darlon",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_47e1f1ba-8ac1-435c-8c8a-5447ef47b470_5053574_5545376-041e13e5d740c87d2017821432656613-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Cereza",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lima",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Morado",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Natural",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-mora-yog6p/",
       "position": 9999
     },
     {
@@ -170,7 +207,7 @@
       "name": "SWEATER FRANKFURT",
       "description": "",
       "price": 30000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3a25652a-b374-4a4a-8056-ff78578da72f_5053574_5545376-da452b5900818bb2be17816289653255-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22918-43cb9ec3069667e1b617821459285788-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -259,7 +296,7 @@
       "name": "BUZO TALLINN",
       "description": "Polera perkins con detalle en espalda. Tela: Darlon Rayado",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f0768109-9ed5-4d78-aa96-a5121b19c900_5053574_5545376-2820f5163b39c6f69817816239916170-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22458-adc45aab05d7cc4f7c17821455878742-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -349,7 +386,7 @@
       "name": "REMERA LUNA ARGENTINA",
       "description": "Remera Box fit, escote redondo con dije. Tela: Jersey s-ly",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_39956e64-b2b0-4678-af5a-f8aac9b1d219_5053574_5545376-51bb9d980cf53b09f117812724921149-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22840-88d0b1b45de61e9c1d17821456674822-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -374,7 +411,7 @@
       "name": "POLERA ZAHRA",
       "description": "Polera perkins con detalle en espalda. Tela: Darlon Rayado",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_736b04a2-1608-42af-a46c-8ef77068add0_5053574_5545376-eb5f519f4ec442bf4917811912647631-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22506-cb4056611b8498637217821461825359-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -475,7 +512,7 @@
       "name": "POLERA ANOUK",
       "description": "Polera cuello perkins, con tajos en mangas. Tela: Ribb Soft",
       "price": 7500.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_aig2qdaig2qdaig2-a6988d9550395547ad17810071383995-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22703-dbe95150ee524682e017821454779960-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -622,7 +659,7 @@
       "name": "REMERA VANIA",
       "description": "Remera mangas largas, escote redondo Tela: Darlon rayado",
       "price": 7000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a9c1f166-853e-4835-bb3f-1b5019d704e9_5053574_5545376-7e03e93d80800f540517805133512205-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22857-a8bef71e4627d3109e17821457378638-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -5673,7 +5710,7 @@
       "name": "BUZO RAYADO ESCOTE REDONDO",
       "description": "",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444012-c5bb7410e8e737575217476702755771-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22168-f98c731ce70105921a17821452048795-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
