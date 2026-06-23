@@ -1,8 +1,59 @@
 {
-  "updated_at": "2026-06-23T17:54:59.269276+00:00",
+  "updated_at": "2026-06-23T20:05:36.284607+00:00",
   "store_id": "5053574",
-  "count": 229,
+  "count": 231,
   "products": [
+    {
+      "id": "352066503",
+      "sku": "5016147|5|171",
+      "name": "BUZO FRISA ARGENTINA AM",
+      "description": "Disponible para despachar a partir del viernes 25-6 Buzo hoodie estampado Tela: Frisa Sublimada Argentina",
+      "price": 24000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f1b51bc6-43f7-47ba-9861-29c0d284b686_5053574_5545376-9b2902718cb2792d1717822400326412-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bandera",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas",
+        "Argentina"
+      ],
+      "url": "https://fressia.net/productos/buzo-frisa-argentina-am-1r2xq/",
+      "position": 9999
+    },
+    {
+      "id": "352065690",
+      "sku": "5095157|5|171",
+      "name": "BUZO FRISA ARGENTINA",
+      "description": "Disponible para despachar a partir del viernes 25-6 Buzo hoodie estampado Tela: Frisa Sublimada Argentina &nbsp;",
+      "price": 24000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ce3b2e0d-bfbf-489b-8cd4-ba67fa861065_5053574_5545376-64422a3bce3dd8f3de17822394164627-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Bandera",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas",
+        "Argentina"
+      ],
+      "url": "https://fressia.net/productos/buzo-frisa-argentina-10o52/",
+      "position": 9999
+    },
     {
       "id": "352024577",
       "sku": "9815975|5|35",
@@ -315,7 +366,7 @@
       "name": "SWEATER VILNIUS",
       "description": "",
       "price": 30000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_1c2aff19-bf0d-404d-90ee-d2aa2ce92ace_5053574_5545376-7de88783f9b3566da317816287504260-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22788-a0124affdb9e1d217617822429951943-1024-1024.jpg",
       "sizes": [
         "L",
         "S"
@@ -395,9 +446,9 @@
       "id": "350772196",
       "sku": "0492035|5|15",
       "name": "POLERA LEYRE",
-      "description": "Polera cuello perkins, mangas largas Tela: Morley con lycra\\n",
+      "description": "Polera cuello perkins, mangas largas Tela: Morley con lycra",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_b83d02a9-0a82-4ee0-ac97-bb4636192bc0_5053574_5545376-8b3dd9fe611d0f03e917816266320357-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22847-ae630b3a0ff2a5aa6f17822433883342-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -433,7 +484,7 @@
       "name": "BUZO TALLINN",
       "description": "Polera perkins con detalle en espalda. Tela: Darlon Rayado",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22458-adc45aab05d7cc4f7c17821455878742-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22777-5e325602f45a6faaf217822437041445-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -469,7 +520,7 @@
       "name": "POLERA ZAHRA AM",
       "description": "Polera perkins con detalle en espalda. Tela: Darlon Rayado",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_cc87e705-0ffe-4519-a274-9c18ef251c80_5053574_5545376-d0929f557f0f18debf17816260383018-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22300-1cc21a6029cf89e9d917822442818812-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -581,7 +632,7 @@
       "name": "REMERA ODETTE AM",
       "description": "Remera mangas largas, escote redondo, con tajos en lateral Tela: Darlon Rayado",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_0f24d9dc-6b5e-426c-803d-1df7002ffc43_5053574_5545376-d34c2e6502f9d2e44b17810987359673-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22345-1033d745cc1f0da90117822446317857-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -616,7 +667,7 @@
       "name": "POLERA ANOUK AM",
       "description": "Polera cuello perkins, con tajos en mangas. Tela: Ribb Soft",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_50e37dfb-948a-467e-b65c-21ee420bb994_5053574_5545376-08378c47db02d57af817810198656147-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22227-ab24cb6fb75400c50717822447107638-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -932,7 +983,7 @@
       "name": "REMERA GAIA",
       "description": "Remera manga larga con drapeado lateral. Tela: Jersey Visco- Ly",
       "price": 7000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219442-14bf25158fc4a880c117799784139164-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22802-copia-f489dbb0c098d75ea117822427107377-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2525,9 +2576,10 @@
       "name": "REMERA ARGENTINA",
       "description": "",
       "price": 5000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7cb5bb2c-36d8-48a2-8fe7-20e7fc95465a_5053574_5545376-3888a59a88e55a6c7917746197763091-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c6b74779-e155-40ec-8785-9a15d6eeaf65_5053574_5545376-ae189117f7e00bdb1217822415098511-1024-1024.png",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -6445,7 +6497,7 @@
       "name": "PANTALON CHICAGO",
       "description": "Pantalon animal print con banda lateral Tela: Rustico Print Articulo modificado- Cintura 5cm de ancho",
       "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_m9cjbqm9cjbqm9cj-fd0c49fce2a1b0626917756569310582-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22593-66f36e8fe97bdd380e17822429297250-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
