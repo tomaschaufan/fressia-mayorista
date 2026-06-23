@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-23T09:38:10.890834+00:00",
+  "updated_at": "2026-06-23T12:32:05.268395+00:00",
   "store_id": "5053574",
-  "count": 226,
+  "count": 225,
   "products": [
     {
       "id": "351480964",
@@ -3262,10 +3262,6 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Rosa",
           "hex": "#e91e8c"
         }
@@ -3542,8 +3538,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11217-be2c1857635bf68ec717733228728043-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -3641,8 +3636,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3ab66b2a-6d3b-4ecd-9658-b65933cb5b07_5053574_5545376-9e9e45a65620445d5b17774819257744-1024-1024.png",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -4441,35 +4435,6 @@
         "Vestidos y Monos"
       ],
       "url": "https://fressia.net/productos/vestido-capri-egbc5/",
-      "position": 9999
-    },
-    {
-      "id": "323100127",
-      "sku": "5986655|5|15",
-      "name": "CAMPERA RIGA",
-      "description": "Campera ajustable con capucha",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7d542915-6a11-42c5-abcc-f67b52d28d36_5053574_5545376-73fe68333eea1a67b417780100694268-1024-1024.png",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Topo",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [
-        "HOT FRESSIA",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/campera-riga-1ncl1/",
       "position": 9999
     },
     {
