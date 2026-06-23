@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-23T15:47:47.236720+00:00",
+  "updated_at": "2026-06-23T17:54:59.269276+00:00",
   "store_id": "5053574",
-  "count": 227,
+  "count": 229,
   "products": [
     {
       "id": "352024577",
@@ -9,10 +9,34 @@
       "name": "POLERON AMSTERDAM AM",
       "description": "Buzo oversized, escote redondo. Tela: Lanilla lisa",
       "price": 8000.0,
-      "image": "",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_78d5c5b9-822a-4ff6-a71e-feb59048c7ac_5053574_5545376-8384fbfe6bfe660ef617822318370375-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/poleron-amsterdam-am-bi124/",
       "position": 9999
     },
@@ -22,7 +46,7 @@
       "name": "POLERON AMSTERDAM",
       "description": "Buzo oversized, escote redondo. Tela: Lanilla lisa",
       "price": 8000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_fa42d1a3-2bbd-4541-b859-9831c79092c3_5053574_5545376-50266ef1b91987d15417822312640181-1024-1024.png",
       "sizes": [
         "L",
         "M"
@@ -45,7 +69,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/poleron-amsterdam-1bdib/",
       "position": 9999
     },
@@ -124,6 +151,70 @@
       "position": 9999
     },
     {
+      "id": "351397860",
+      "sku": "0126245|5|9",
+      "name": "SWEATER MERINO",
+      "description": "",
+      "price": 30000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_89af4fba-4ed7-4e3e-881a-1d8e0f71eeaa_5053574_5545376-a82828ea35c5346d6617822310172045-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Sweaters"
+      ],
+      "url": "https://fressia.net/productos/sweater-merino-ni5h1/",
+      "position": 9999
+    },
+    {
+      "id": "351397729",
+      "sku": "0126235|5|8",
+      "name": "SWEATER MOHAIR",
+      "description": "",
+      "price": 30000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3a58ece6-8905-411e-b145-6ed6a0e2d20b_5053574_5545376-ac3005476bd8e209de17822307716230-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Sweaters"
+      ],
+      "url": "https://fressia.net/productos/sweater-mohair-1ka29/",
+      "position": 9999
+    },
+    {
       "id": "351207354",
       "sku": "9895655|5|43",
       "name": "BUZO SEATTLE",
@@ -165,7 +256,7 @@
       "name": "REMERA AIKO ARGENTINA",
       "description": "Remera Box fit, escote redondo con hotfix. Tela: Jersey s-ly",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_d3d15b70-92e3-409b-92cb-dd27b82a151f_5053574_5545376-d6fdf6806ac1514be317817088413326-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22380-0dae57b3b1b03f369617822337869513-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -281,7 +372,7 @@
       "name": "CAMPERA STOCKHOLM",
       "description": "",
       "price": 65000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_5f0d841a-6afa-4f7e-8523-3e1a32d9c43e_5053574_5545376-89c1c04c353285c0cc17818835184419-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22823-f777c9ac0df5e77e8917822331276331-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -594,7 +685,7 @@
       "name": "PANTALÓN ROBBEN AM",
       "description": "Pantalón wide leg. Tela: Ribb Soft",
       "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f04a4ae7-6d1f-4faf-a1fb-54b55bf68d0a_5053574_5545376-676f51c5a2ed10ff0a17809383118795-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22367-f54ba1b5eedde4f83617822339691681-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1550,7 +1641,7 @@
       "id": "342277441",
       "sku": "6096336|5|16",
       "name": "PANTALON MELBOURNE",
-      "description": "Preventa: Articulo listo para despachar a partir del 19-6 Pantalon con vivos laterales. Tela: Plush Bifaz",
+      "description": "Pantalon con vivos laterales. Tela: Plush Bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e5d0ac9c-24e0-4222-ad16-aaf88764ad11_5053574_5545376-a67bcccb3b80350edc17780091377407-1024-1024.png",
       "sizes": [
