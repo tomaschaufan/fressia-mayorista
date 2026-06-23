@@ -1,8 +1,54 @@
 {
-  "updated_at": "2026-06-23T12:32:05.268395+00:00",
+  "updated_at": "2026-06-23T15:47:47.236720+00:00",
   "store_id": "5053574",
-  "count": 225,
+  "count": 227,
   "products": [
+    {
+      "id": "352024577",
+      "sku": "9815975|5|35",
+      "name": "POLERON AMSTERDAM AM",
+      "description": "Buzo oversized, escote redondo. Tela: Lanilla lisa",
+      "price": 8000.0,
+      "image": "",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/poleron-amsterdam-am-bi124/",
+      "position": 9999
+    },
+    {
+      "id": "352022386",
+      "sku": "9895665|5|35",
+      "name": "POLERON AMSTERDAM",
+      "description": "Buzo oversized, escote redondo. Tela: Lanilla lisa",
+      "price": 8000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/poleron-amsterdam-1bdib/",
+      "position": 9999
+    },
     {
       "id": "351480964",
       "sku": "8393776|5|52",
@@ -1178,6 +1224,10 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
         },
         {
           "name": "Chocolate",
@@ -2537,8 +2587,15 @@
       "description": "",
       "price": 59000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312896-ce3b18c4d35b544b8317744432185076-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        }
+      ],
       "categories": [],
       "url": "https://fressia.net/productos/bomber-portland-ckocm/",
       "position": 9999
@@ -4068,6 +4125,10 @@
       ],
       "colors": [
         {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -5158,16 +5219,11 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631383-25740872ab1e089f1917507823632723-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
           "name": "Leopardo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Tigre",
           "hex": "#cccccc"
         }
       ],
@@ -5203,33 +5259,8 @@
       "description": "",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1148194-24e4f6810b1e2deb3417507047823058-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "HOT FRESSIA",
         "Rebajas",
@@ -5699,7 +5730,8 @@
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14698-c06c0a2c2514607a7c17761704165607-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
