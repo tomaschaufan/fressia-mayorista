@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T08:20:58.722246+00:00",
+  "updated_at": "2026-06-24T11:44:08.698593+00:00",
   "store_id": "5053574",
   "count": 231,
   "products": [
@@ -3681,7 +3681,7 @@
       "id": "327147403",
       "sku": "4798965|5|76",
       "name": "VESTIDO REBEL",
-      "description": "",
+      "description": "Vestido Midi, escote bote con drapeado Tela: Jersey Super Soft Print\\n",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_w5wrtaw5wrtaw5wr-597a6618593cc5cd6f17718734914791-1024-1024.png",
       "sizes": [
@@ -5724,15 +5724,8 @@
       "description": "Tela: Plush bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417497-17416bf63a9b34f6fa17775613854891-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas",
