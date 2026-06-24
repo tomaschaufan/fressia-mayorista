@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-24T14:30:13.994681+00:00",
+  "updated_at": "2026-06-24T17:03:58.801932+00:00",
   "store_id": "5053574",
-  "count": 231,
+  "count": 234,
   "products": [
     {
       "id": "352066503",
@@ -879,7 +879,7 @@
       "name": "REMERA MARA",
       "description": "Remera escote redondo con rulotte. Tela: Ribb Soft",
       "price": 7000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_65e98609-37f0-45e5-bf39-504740be2a60_5053574_5545376-54da08ad75f40375e717805053710958-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22428-1c03037795e70f97d317823170808293-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -915,7 +915,7 @@
       "name": "PANTALON ROBBEN",
       "description": "Pantalón Flare. Tela: Ribb Soft",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_05b10011-b796-4221-8268-788583f31ed8_5053574_5545376-8012d7508e5d6bcf7c17805043772897-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22887-d35da52153c51e891a17823181487533-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1216,7 +1216,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
@@ -1251,6 +1251,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "ROJO  $5.000",
         "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
@@ -1284,6 +1286,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "AMARILLO $10.000",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -1346,6 +1350,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "NARANJA $8.000",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -1494,7 +1500,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Colección principal",
         "Buzos y Camperas"
@@ -1562,7 +1568,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "VERDE $12.000",
         "Rebajas",
         "Colección principal",
         "Activewear",
@@ -1779,6 +1786,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "AZUL $15.000",
         "Colección principal",
         "Buzos y Camperas",
         "Argentina"
@@ -1911,7 +1920,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Colección principal",
         "Pantalones",
@@ -2011,6 +2020,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "VIOLETA $20.000 Y +",
         "Colección principal",
         "Buzos y Camperas",
         "Remeras y Musculosas"
@@ -2052,7 +2063,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Sweaters"
       ],
@@ -2179,7 +2190,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Remeras y Musculosas",
         "Argentina"
@@ -2213,7 +2224,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "VIOLETA $20.000 Y +",
         "Colección principal",
         "Abrigos",
         "Buzos y Camperas",
@@ -2273,7 +2285,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Colección principal",
         "Remeras y Musculosas"
@@ -2383,7 +2395,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "ROJO  $5.000",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -2400,7 +2413,7 @@
       "sizes": [],
       "colors": [],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Colección principal",
         "Buzos y Camperas"
@@ -2520,7 +2533,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Remeras y Musculosas",
@@ -2536,8 +2549,20 @@
       "description": "Pantalón amplio con pinza y recortes Tela: Frisa",
       "price": 27000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14711-4bca3499aeffe8989317761691436800-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Uva",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Pantalones",
@@ -2559,6 +2584,10 @@
       ],
       "colors": [
         {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Uva",
           "hex": "#cccccc"
         }
@@ -2569,6 +2598,32 @@
         "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-quebec-ahia7/",
+      "position": 9999
+    },
+    {
+      "id": "335003573",
+      "sku": "0126095|5|130",
+      "name": "SWEATER MUNICH",
+      "description": "",
+      "price": 29000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14581-f437332e9a58287aeb17761716778415-1024-1024.jpg",
+      "sizes": [
+        "M",
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "SALE",
+        "VIOLETA $20.000 Y +",
+        "Colección principal",
+        "Sweaters"
+      ],
+      "url": "https://fressia.net/productos/sweater-munich-15pl3/",
       "position": 9999
     },
     {
@@ -2615,6 +2670,10 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         },
         {
           "name": "Off White",
@@ -2683,6 +2742,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "VERDE $12.000",
         "Rebajas",
         "Colección principal",
         "Abrigos"
@@ -2713,7 +2774,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "AMARILLO $10.000",
         "Rebajas",
         "Colección principal",
         "Activewear",
@@ -2766,7 +2828,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Colección principal",
         "Activewear",
@@ -2798,7 +2860,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "AMARILLO $10.000",
         "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
@@ -2828,7 +2891,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "AMARILLO $10.000",
         "Rebajas",
         "Colección principal",
         "Activewear",
@@ -2858,7 +2922,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "VERDE $12.000",
         "Rebajas",
         "Colección principal",
         "Activewear",
@@ -2886,7 +2951,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "VERDE $12.000",
         "Rebajas",
         "Colección principal",
         "Activewear",
@@ -2919,7 +2985,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "VERDE $12.000",
         "Colección principal",
         "Activewear",
         "Amor mío",
@@ -2951,6 +3018,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "AMARILLO $10.000",
         "Rebajas",
         "Colección principal",
         "Activewear",
@@ -2981,7 +3050,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "AMARILLO $10.000",
         "Rebajas",
         "Colección principal",
         "Activewear",
@@ -3040,6 +3110,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "VERDE $12.000",
         "Rebajas",
         "Amor mío",
         "Abrigos",
@@ -3150,7 +3222,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "NARANJA $8.000",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -3285,7 +3358,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "AMARILLO $10.000",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -3373,7 +3447,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -3400,7 +3474,7 @@
       "id": "329817115",
       "sku": "8098972|5|24",
       "name": "BUZO WOOL",
-      "description": "Buzo escote redondo, hombros ca&iacute;dos, tajos laterales. Tela: Lanilla soft",
+      "description": "Buzo escote redondo, hombros caídos, tajos laterales. \\nTela: Lanilla soft",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313106-d3b66da86b9c7c42b717744447289425-1024-1024.jpg",
       "sizes": [
@@ -3430,7 +3504,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "ROJO  $5.000",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -3468,7 +3543,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -3497,7 +3572,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "NARANJA $8.000",
         "Colección principal",
         "Remeras y Musculosas"
       ],
@@ -3587,7 +3663,7 @@
       "id": "327314631",
       "sku": "3198865|5|9",
       "name": "REMERA SCARLETT",
-      "description": "Remera escote U, con cartera y broches. Morley Fantasia",
+      "description": "Remera escote U, con cartera y broches.\\nMorley Fantasia\\n",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11196-f75c173d6a1bf0035517728206322005-1024-1024.jpg",
       "sizes": [
@@ -3614,6 +3690,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "AMARILLO $10.000",
         "Colección principal",
         "Remeras y Musculosas"
       ],
@@ -3748,7 +3826,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Remeras y Musculosas"
@@ -3774,7 +3852,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Colección principal",
         "Remeras y Musculosas"
@@ -3803,7 +3881,7 @@
       "id": "326222238",
       "sku": "4599105|5|8",
       "name": "BUZO LAIRY",
-      "description": "Tela:&nbsp;",
+      "description": "Buzo escote bote con etiqueta bordada\\nTela: Waffle Amsterdam",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9ec94849-1121-4105-b716-cde7eb5fe51c_5053574_5545376-8d62d5efa483ec2cae17766948001699-1024-1024.jpg",
       "sizes": [
@@ -3821,6 +3899,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "ROJO  $5.000",
         "Rebajas",
         "Colección principal",
         "Buzos y Camperas"
@@ -3854,6 +3934,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "ROJO  $5.000",
         "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
@@ -3883,7 +3965,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Colección principal",
         "Remeras y Musculosas"
@@ -4025,7 +4107,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Remeras y Musculosas"
@@ -4051,7 +4133,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Colección principal",
         "Remeras y Musculosas"
@@ -4166,7 +4248,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Remeras y Musculosas"
       ],
@@ -4199,11 +4281,37 @@
         }
       ],
       "categories": [
+        "SALE",
+        "AMARILLO $10.000",
         "Rebajas",
         "Colección principal",
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-fuzzy-gc5bk/",
+      "position": 9999
+    },
+    {
+      "id": "324343348",
+      "sku": "5917866|5|9",
+      "name": "BUZO FUZZY AM",
+      "description": "Buzo oversize rayado, manga al codo Tela: Rustico Rayado",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10489-a79d233a882f95f45017718545713936-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "Rebajas",
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-fuzzy-am-2a7qd/",
       "position": 9999
     },
     {
@@ -4286,7 +4394,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -4407,21 +4515,14 @@
       "id": "323100544",
       "sku": "6217825|5|139",
       "name": "PANTALON MILAN",
-      "description": "Tela: Rustico Wash",
+      "description": "Pantalón jogger, con bolsillos laterales",
       "price": 29000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10391-a12568156e5e40958617718569326413-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
+        "SALE",
+        "VIOLETA $20.000 Y +",
         "Amor mío",
         "Pantalones",
         "Conjuntos"
@@ -4594,7 +4695,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Vestidos y Monos"
       ],
@@ -4757,7 +4858,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Remeras y Musculosas",
         "Básicos - Esenciales"
@@ -4858,7 +4959,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Remeras y Musculosas",
         "Básicos - Esenciales"
@@ -4926,7 +5027,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Remeras y Musculosas"
       ],
@@ -4963,7 +5064,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Remeras y Musculosas"
       ],
@@ -5043,7 +5144,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "NARANJA $8.000",
         "Colección principal",
         "Abrigos",
         "Buzos y Camperas",
@@ -5091,7 +5193,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Remeras y Musculosas"
@@ -5121,7 +5223,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -5146,7 +5248,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Colección principal",
         "Buzos y Camperas"
@@ -5173,7 +5275,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
@@ -5216,7 +5318,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -5258,7 +5360,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -5330,12 +5432,30 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Activewear",
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/calza-larga1/",
+      "position": 9999
+    },
+    {
+      "id": "282016056",
+      "sku": "4917035|5|8",
+      "name": "CAMPERA ANGORA CON CAPUCHA, BOLSILLOS LATERALES",
+      "description": "",
+      "price": 25000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_17508937-9c10-43e3-b706-cae2de2e2c3c_5053574_5310992-0c56bde1f719ebd1ac17526710882154-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "SALE",
+        "VIOLETA $20.000 Y +",
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/campera-angora-con-capucha-bolsillos-laterales1/",
       "position": 9999
     },
     {
@@ -5406,7 +5526,7 @@
       "sizes": [],
       "colors": [],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Buzos y Camperas",
@@ -5432,7 +5552,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Remeras y Musculosas"
@@ -5465,7 +5585,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Colección principal",
         "Remeras y Musculosas"
@@ -5533,7 +5653,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "VIOLETA $20.000 Y +",
         "Colección principal",
         "Abrigos",
         "Buzos y Camperas"
@@ -5575,7 +5696,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Activewear"
       ],
@@ -5645,7 +5766,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Buzos y Camperas",
         "Conjuntos"
@@ -5711,7 +5832,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -5770,7 +5891,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Abrigos"
       ],
@@ -5804,7 +5925,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -5821,7 +5942,7 @@
       "sizes": [],
       "colors": [],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
@@ -5852,7 +5973,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -5877,7 +5998,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Abrigos",
         "Buzos y Camperas"
@@ -5920,7 +6041,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Abrigos",
         "Buzos y Camperas"
@@ -5953,7 +6074,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -5970,7 +6091,7 @@
       "sizes": [],
       "colors": [],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -6000,7 +6121,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "VERDE $12.000",
         "Amor mío",
         "Pantalones"
       ],
@@ -6025,7 +6147,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "AZUL $15.000",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -6096,7 +6219,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Pantalones",
         "Conjuntos"
@@ -6114,7 +6237,7 @@
       "sizes": [],
       "colors": [],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Buzos y Camperas"
@@ -6157,7 +6280,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Rebajas",
         "Amor mío",
         "Pantalones",
@@ -6176,7 +6299,7 @@
       "sizes": [],
       "colors": [],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -6204,7 +6327,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA"
+        "SALE"
       ],
       "url": "https://fressia.net/productos/jogger-sastrero/",
       "position": 9999
@@ -6231,7 +6354,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Pantalones"
       ],
@@ -6255,7 +6378,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -6285,7 +6408,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -6302,7 +6425,7 @@
       "sizes": [],
       "colors": [],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -6326,7 +6449,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Pantalones"
       ],
@@ -6364,7 +6487,8 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
+        "VERDE $12.000",
         "Amor mío",
         "Pantalones"
       ],
@@ -6545,7 +6669,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -6591,7 +6715,7 @@
         }
       ],
       "categories": [
-        "HOT FRESSIA",
+        "SALE",
         "$5000 - $6000"
       ],
       "url": "https://fressia.net/productos/musculosa-cora-1v5ef/",
