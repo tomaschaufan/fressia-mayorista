@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T17:03:58.801932+00:00",
+  "updated_at": "2026-06-24T19:45:22.956495+00:00",
   "store_id": "5053574",
   "count": 234,
   "products": [
@@ -7,7 +7,7 @@
       "id": "352066503",
       "sku": "5016147|5|171",
       "name": "BUZO FRISA ARGENTINA AM",
-      "description": "Disponible para despachar a partir del viernes 25-6 Buzo hoodie estampado Tela: Frisa Sublimada Argentina",
+      "description": "Buzo hoodie estampado Tela: Frisa Sublimada Argentina",
       "price": 24000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f1b51bc6-43f7-47ba-9861-29c0d284b686_5053574_5545376-9b2902718cb2792d1717822400326412-1024-1024.png",
       "sizes": [
@@ -33,7 +33,7 @@
       "id": "352065690",
       "sku": "5095157|5|171",
       "name": "BUZO FRISA ARGENTINA",
-      "description": "Disponible para despachar a partir del viernes 25-6 Buzo hoodie estampado Tela: Frisa Sublimada Argentina &nbsp;",
+      "description": "Buzo hoodie estampado Tela: Frisa Sublimada Argentina &nbsp;",
       "price": 24000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ce3b2e0d-bfbf-489b-8cd4-ba67fa861065_5053574_5545376-64422a3bce3dd8f3de17822394164627-1024-1024.png",
       "sizes": [
@@ -2584,8 +2584,8 @@
       ],
       "colors": [
         {
-          "name": "Off White",
-          "hex": "#cccccc"
+          "name": "Negro",
+          "hex": "#1a1a1a"
         },
         {
           "name": "Uva",
@@ -5216,10 +5216,6 @@
         {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
