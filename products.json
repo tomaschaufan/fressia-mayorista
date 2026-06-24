@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T19:45:22.956495+00:00",
+  "updated_at": "2026-06-24T21:21:47.031462+00:00",
   "store_id": "5053574",
   "count": 234,
   "products": [
@@ -6435,15 +6435,8 @@
       "description": "",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631165-c0d2f26b33d6974c2b17411917034729-1024-1024.jpg",
-      "sizes": [
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Gris Mel",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "Amor mío",
