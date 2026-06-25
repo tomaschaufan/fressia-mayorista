@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T16:23:44.166991+00:00",
+  "updated_at": "2026-06-25T19:04:21.116660+00:00",
   "store_id": "5053574",
   "count": 232,
   "products": [
@@ -11,7 +11,6 @@
       "price": 24000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f1b51bc6-43f7-47ba-9861-29c0d284b686_5053574_5545376-9b2902718cb2792d1717822400326412-1024-1024.png",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -4183,7 +4182,6 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10556-e33eb01e965bbf600717718532981639-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
