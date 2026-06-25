@@ -1,39 +1,13 @@
 {
-  "updated_at": "2026-06-25T10:41:27.539023+00:00",
+  "updated_at": "2026-06-25T13:17:49.048090+00:00",
   "store_id": "5053574",
-  "count": 234,
+  "count": 233,
   "products": [
-    {
-      "id": "352066503",
-      "sku": "5016147|5|171",
-      "name": "BUZO FRISA ARGENTINA AM",
-      "description": "Buzo hoodie estampado Tela: Frisa Sublimada Argentina",
-      "price": 24000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f1b51bc6-43f7-47ba-9861-29c0d284b686_5053574_5545376-9b2902718cb2792d1717822400326412-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Bandera",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [
-        "Amor mío",
-        "Buzos y Camperas",
-        "Argentina"
-      ],
-      "url": "https://fressia.net/productos/buzo-frisa-argentina-am-1r2xq/",
-      "position": 9999
-    },
     {
       "id": "352065690",
       "sku": "5095157|5|171",
       "name": "BUZO FRISA ARGENTINA",
-      "description": "Buzo hoodie estampado Tela: Frisa Sublimada Argentina &nbsp;",
+      "description": "Buzo hoodie estampado Tela: Frisa Sublimada Argentina",
       "price": 24000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ce3b2e0d-bfbf-489b-8cd4-ba67fa861065_5053574_5545376-64422a3bce3dd8f3de17822394164627-1024-1024.png",
       "sizes": [
@@ -951,7 +925,7 @@
       "name": "REMERA FLORA",
       "description": "Remera básica, escote redondo mangas largas. Tela: Jersey Alg c-Ly",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_086ffff5-3d95-464a-ab17-37e93d7a8a4b_5053574_5545376-8d0641635966bf787f17800705685351-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22896-f55a770246ff763f9617823881774874-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1015,7 +989,7 @@
       "name": "POLERA DANTEA",
       "description": "",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313209-3a665bba15730b1b8f17799706817984-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22880-b50ee48664873678c217823888830555-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1043,7 +1017,7 @@
       "name": "REMERA NALA",
       "description": "Remera escote redondo, manga larga. Tela: Morley Vintage",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_57357bdc-1da3-4601-bfe1-8877666faee9_5053574_5545376-852f4791aeb46e822917799758221862-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22494-5b021bf2f4f9ac886d17823891301498-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1083,7 +1057,7 @@
       "name": "REMERA NAYLA",
       "description": "Remera rayada con etiqueta bordada. Tela: Darlon rayado",
       "price": 7000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f121a168-7a43-4140-8e9d-a08c5bed7c8e_5053574_5545376-ad3fedc0ff039ea80117798994567132-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22475-700cda6b8d10594ec617823895797165-1024-1024.jpg",
       "sizes": [
         "M"
       ],
@@ -4297,15 +4271,8 @@
       "description": "Buzo oversize rayado, manga al codo Tela: Rustico Rayado",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10489-a79d233a882f95f45017718545713936-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Rebajas",
         "Amor mío",
