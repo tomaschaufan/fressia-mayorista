@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-06-25T13:17:49.048090+00:00",
+  "updated_at": "2026-06-25T16:23:44.166991+00:00",
   "store_id": "5053574",
-  "count": 233,
+  "count": 232,
   "products": [
+    {
+      "id": "352066503",
+      "sku": "5016147|5|171",
+      "name": "BUZO FRISA ARGENTINA AM",
+      "description": "Buzo hoodie estampado Tela: Frisa Sublimada Argentina",
+      "price": 24000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f1b51bc6-43f7-47ba-9861-29c0d284b686_5053574_5545376-9b2902718cb2792d1717822400326412-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Bandera",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas",
+        "Argentina"
+      ],
+      "url": "https://fressia.net/productos/buzo-frisa-argentina-am-1r2xq/",
+      "position": 9999
+    },
     {
       "id": "352065690",
       "sku": "5095157|5|171",
@@ -1204,7 +1229,7 @@
       "name": "BUZO SMOOTH",
       "description": "Buzo con capucha, cintura y puños. Tela: Lanilla lisa",
       "price": 13000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7a959291-3f70-477c-bd39-8864cc601a4d_5053574_5545376-84302c3c9f6631466417793892220168-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22391-b71525622a9e94fd6417823935026040-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1338,7 +1363,7 @@
       "name": "REMERA LIVIA",
       "description": "Remera escote redondo, manga larga. Tela: Morley Vintage",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a59fe2c8-3f20-4926-921c-3e11d4e5ffb7_5053574_5545376-01bbe1b15a1c0e36b117798789704731-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22688-4c975fc249eb3b930217823937822699-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1775,7 +1800,7 @@
       "name": "FLARE NEW YORK AM",
       "description": "Pantalón Flare. Tela base: Ribb Darlon",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_45b4a235-7f52-4cb9-b993-ef6b4466d1d1_5053574_5545376-0e1d1c7f47a5a04d6217773835888122-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22205-462cbe64ba97b0168f17823946529091-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1813,7 +1838,7 @@
       "name": "FLARE NEW YORK",
       "description": "Pantalón Flare. Tela base: Ribb Darlon",
       "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417564-a6dca712565363fd5a17775588190400-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22681-8930eaab3093879d8f17823205229793-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -2767,15 +2792,8 @@
       "description": "",
       "price": 59000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312896-ce3b18c4d35b544b8317744432185076-1024-1024.jpg",
-      "sizes": [
-        "S"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [],
       "url": "https://fressia.net/productos/bomber-portland-ckocm/",
       "position": 9999
@@ -3642,21 +3660,12 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11196-f75c173d6a1bf0035517728206322005-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
         "XL"
       ],
       "colors": [
         {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
           "name": "Ciruela",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Off White",
@@ -3790,8 +3799,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11217-be2c1857635bf68ec717733228728043-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -4670,47 +4678,6 @@
       "position": 9999
     },
     {
-      "id": "323100168",
-      "sku": "0498685|5|9",
-      "name": "VESTIDO CAPRI",
-      "description": "Vestido mini con vivos anchos",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3318-4428aabdfea88fcc3a17703963119595-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Vestidos y Monos"
-      ],
-      "url": "https://fressia.net/productos/vestido-capri-egbc5/",
-      "position": 9999
-    },
-    {
       "id": "323100087",
       "sku": "7517785|5|9",
       "name": "REMERA MARGOT",
@@ -5557,40 +5524,6 @@
       "position": 9999
     },
     {
-      "id": "276202918",
-      "sku": "6017085|5|9",
-      "name": "PANTALON JOGGER CINTURA ALTA",
-      "description": "",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_63b70de3-5533-4a69-80e6-ce89bbad8ac5_5053574_5545376-1fe6455ddb09e69a2317773778002975-1024-1024.png",
-      "sizes": [
-        "L",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Rebajas",
-        "Amor mío",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/pantalon-jogger-cintura-alta1/",
-      "position": 9999
-    },
-    {
       "id": "276130183",
       "sku": "3697525|5|35",
       "name": "SACO CORAZON",
@@ -5649,15 +5582,8 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-2847372-bef8477af943f99c4e17490658803368-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "Colección principal",
@@ -5672,7 +5598,7 @@
       "name": "REMERA SIA AM",
       "description": "Remera mangas largas, escote redondo. Tela: Darlon Rayado",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a1be2d0b-157e-4ae8-8d04-5798784fd2e3_5053574_5545376-3bbb1cf956854e029917805060185221-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22351-d7c7cc4b99c38c860317823955288952-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -5867,7 +5793,7 @@
       "name": "REMERA NARA",
       "description": "Remera cuello perkins, mangas largas.Tela: Jersey Alg c-Ly",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444349-aec48eecd61904d98117473192573516-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22232-cab8d1fdb16b895b1817823952713363-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -6179,6 +6105,10 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
