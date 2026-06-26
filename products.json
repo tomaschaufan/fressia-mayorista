@@ -1,8 +1,67 @@
 {
-  "updated_at": "2026-06-26T13:11:12.028835+00:00",
+  "updated_at": "2026-06-26T16:16:06.026572+00:00",
   "store_id": "5053574",
-  "count": 232,
+  "count": 234,
   "products": [
+    {
+      "id": "352654850",
+      "sku": "6016937|5|15",
+      "name": "BUZO PASION AM",
+      "description": "Buzo con recorte de banda lateral combinada y bordado. Tela: Plush Bifaz",
+      "price": 17000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_b29c8a73-2d78-4c2f-b9b5-1b57785a2530_5053574_5545376-b40e6cfb39d49279b017824819424176-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas",
+        "Argentina"
+      ],
+      "url": "https://fressia.net/productos/buzo-pasion-am-81dlm/",
+      "position": 9999
+    },
+    {
+      "id": "352654270",
+      "sku": "6097617|5|15",
+      "name": "BUZO PASIÓN",
+      "description": "Buzo con recorte de banda lateral combinada y bordado. Tela: Plush Bifaz",
+      "price": 17000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_cc3890a5-738c-41a3-94f6-759819ccd37f_5053574_5545376-be0165bf641c8f654a17824815479829-1024-1024.webp",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas",
+        "Argentina"
+      ],
+      "url": "https://fressia.net/productos/buzo-pasion-zx08r/",
+      "position": 9999
+    },
     {
       "id": "352066503",
       "sku": "5016147|5|171",
