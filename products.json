@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-06-26T18:50:50.324124+00:00",
+  "updated_at": "2026-06-26T20:45:58.760396+00:00",
   "store_id": "5053574",
-  "count": 234,
+  "count": 235,
   "products": [
+    {
+      "id": "352741840",
+      "sku": "6316147|5|16",
+      "name": "BUZO BUENOS AIRES AM",
+      "description": "Buzo basico con complemento de lurex. Tela: Rustico Frisado",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_bb807eb9-ceb5-419c-b7a5-0190cdcd9a41_5053574_5545376-f71e57f98a4816037f17825039274090-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-buenos-aires-am-c994o/",
+      "position": 9999
+    },
     {
       "id": "352654850",
       "sku": "6016937|5|15",
