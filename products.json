@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T14:41:12.808962+00:00",
+  "updated_at": "2026-06-27T16:04:14.643584+00:00",
   "store_id": "5053574",
   "count": 235,
   "products": [
@@ -1759,10 +1759,6 @@
         {
           "name": "Crudo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -2777,14 +2773,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219474-2568b623479fb7d4cc17798794137793-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Marino",
           "hex": "#0d1b3e"
@@ -4427,10 +4418,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -6289,10 +6276,6 @@
         {
           "name": "Camel",
           "hex": "#c19a6b"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
