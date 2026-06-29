@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-29T13:25:56.970186+00:00",
+  "updated_at": "2026-06-29T16:52:06.915649+00:00",
   "store_id": "5053574",
-  "count": 235,
+  "count": 234,
   "products": [
     {
       "id": "352741840",
@@ -1523,10 +1523,6 @@
           "hex": "#9e9e9e"
         },
         {
-          "name": "Militar",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -2661,31 +2657,6 @@
         "Conjuntos"
       ],
       "url": "https://fressia.net/productos/buzo-quebec-ahia7/",
-      "position": 9999
-    },
-    {
-      "id": "335003573",
-      "sku": "0126095|5|130",
-      "name": "SWEATER MUNICH",
-      "description": "",
-      "price": 29000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14581-f437332e9a58287aeb17761716778415-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "VIOLETA $20.000 Y +",
-        "Colección principal",
-        "Sweaters"
-      ],
-      "url": "https://fressia.net/productos/sweater-munich-15pl3/",
       "position": 9999
     },
     {
@@ -6279,7 +6250,7 @@
       "name": "PANTALÓN SASTRERO, BANDA LATERAL",
       "description": "",
       "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2630840-c0dc943bf098098f0317435363987088-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3e67a105-3e72-4c08-9c3b-992997eed043_5053574_5545376-eeeb8aad33ee72b17d17827485991749-1024-1024.webp",
       "sizes": [
         "L",
         "M"
