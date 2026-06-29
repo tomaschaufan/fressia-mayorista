@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T08:59:16.510805+00:00",
+  "updated_at": "2026-06-29T13:17:17.136975+00:00",
   "store_id": "5053574",
   "count": 235,
   "products": [
@@ -61,7 +61,7 @@
     {
       "id": "352654270",
       "sku": "6097617|5|15",
-      "name": "BUZO PASIÓN",
+      "name": "BUZO PASION",
       "description": "Buzo con recorte de banda lateral combinada y bordado. Tela: Plush Bifaz",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_cc3890a5-738c-41a3-94f6-759819ccd37f_5053574_5545376-be0165bf641c8f654a17824815479829-1024-1024.webp",
@@ -84,7 +84,7 @@
         "Buzos y Camperas",
         "Argentina"
       ],
-      "url": "https://fressia.net/productos/buzo-pasion-zx08r/",
+      "url": "https://fressia.net/productos/buzo-pasion-16ow8/",
       "position": 9999
     },
     {
@@ -1244,10 +1244,6 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
