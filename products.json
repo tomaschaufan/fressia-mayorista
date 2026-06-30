@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T15:27:22.867970+00:00",
+  "updated_at": "2026-06-30T17:53:26.682283+00:00",
   "store_id": "5053574",
   "count": 234,
   "products": [
@@ -35,21 +35,8 @@
       "description": "Buzo con recorte de banda lateral combinada y bordado. Tela: Plush Bifaz",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_b29c8a73-2d78-4c2f-b9b5-1b57785a2530_5053574_5545376-b40e6cfb39d49279b017824819424176-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas",
@@ -1993,11 +1980,20 @@
       "id": "339497511",
       "sku": "5015666|5|171",
       "name": "BUZO ARGENTINA AM",
-      "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
+      "description": "Preventa!! Stock disponible para despachar a partir del 6-7 Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
       "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219703-bbf3cb797de6f9c82f17799738340238-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_320f523e-b451-4fb1-902b-920a63d949c7_5053574_5545376-48bbe4acef1b5b7c9d17828381662616-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Bandera",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Amor mío",
         "Buzos y Camperas",
@@ -2010,11 +2006,19 @@
       "id": "339266425",
       "sku": "5095156|5|171",
       "name": "BUZO ARGENTINA",
-      "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
+      "description": "Preventa!! Stock disponible para despachar a partir del 6-7 Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
       "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_32135bf7-8dc1-4b90-abb7-c4f3d4d2682b_5053574_5545376-1f198f77f7069e843c17767100053135-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_4e20e796-3cab-4a69-b2a1-fd1ce2c37c97_5053574_5545376-92815f38f3b218847517828375598877-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Bandera",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Buzos y Camperas",
