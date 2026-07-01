@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T23:12:34.751877+00:00",
+  "updated_at": "2026-07-01T03:54:05.400488+00:00",
   "store_id": "5053574",
   "count": 237,
   "products": [
@@ -5093,10 +5093,6 @@
         {
           "name": "Amarillo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Rosa",
