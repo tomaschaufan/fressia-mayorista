@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T17:55:19.303361+00:00",
+  "updated_at": "2026-07-01T19:55:50.832140+00:00",
   "store_id": "5053574",
   "count": 237,
   "products": [
@@ -3294,7 +3294,8 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313269-52ea92c253636ca8cf17744491956870-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -3881,7 +3882,9 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11217-be2c1857635bf68ec717733228728043-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -5551,6 +5554,7 @@
       ],
       "categories": [
         "SALE",
+        "VERDE $12.000",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -5775,6 +5779,10 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
         },
         {
           "name": "Negro",
@@ -6289,7 +6297,7 @@
       "name": "PANTALÓN SASTRERO, BANDA LATERAL",
       "description": "",
       "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3e67a105-3e72-4c08-9c3b-992997eed043_5053574_5545376-eeeb8aad33ee72b17d17827485991749-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30905-d091950a5598b1e48f17461945917425-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -6306,6 +6314,7 @@
       ],
       "categories": [
         "SALE",
+        "VIOLETA $20.000 Y +",
         "Colección principal",
         "Pantalones"
       ],
