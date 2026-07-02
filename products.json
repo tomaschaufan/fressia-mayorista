@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T17:47:23.747164+00:00",
+  "updated_at": "2026-07-02T19:23:58.532532+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -50,6 +50,10 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
