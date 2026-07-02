@@ -1,18 +1,62 @@
 {
-  "updated_at": "2026-07-02T12:57:48.087120+00:00",
+  "updated_at": "2026-07-02T15:22:51.560237+00:00",
   "store_id": "5053574",
-  "count": 238,
+  "count": 239,
   "products": [
+    {
+      "id": "353609837",
+      "sku": "0499015|5|15",
+      "name": "REMERA AILSA LISA",
+      "description": "Remera manga larga con rulotte en puños y ruedo Tela: Morley c-ly",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_4286812e-c0da-4733-8fae-101c4aab127c_5053574_5545376-9a415b25157da4985d17830010735601-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-ailsa-lisa-k9ikm/",
+      "position": 9999
+    },
     {
       "id": "353597351",
       "sku": "6092407|5|15",
       "name": "BUZO CAMPEONES",
       "description": "Buzo escote redondo, con bordado, mangas con frunces. Tela: Plush Bifaz",
       "price": 17000.0,
-      "image": "",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7da31c73-ffd9-45d5-a455-2a3095ddd3b4_5053574_5545376-8a9320b97cac249e4517829971798945-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas",
+        "Argentina"
+      ],
       "url": "https://fressia.net/productos/buzo-campeones-ehpi0/",
       "position": 9999
     },
@@ -866,7 +910,7 @@
       "sku": "8588165|5|9",
       "name": "POLERA ANOUK",
       "description": "Polera cuello perkins, con tajos en mangas. Tela: Ribb Soft",
-      "price": 7500.0,
+      "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22703-dbe95150ee524682e017821454779960-1024-1024.jpg",
       "sizes": [
         "L",
@@ -1521,10 +1565,6 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
         },
         {
           "name": "Chocolate",
@@ -3467,7 +3507,7 @@
       "name": "REMERA ZAIDA AM",
       "description": "Remera escote asimétrico con drapeado en el hombro Tela: Jersey sin lycra",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a9ced90c-bc08-4e80-850a-406d4472f99d_5053574_5545376-6e337ef38934db083217767091575082-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f1b0e424-9107-4553-a1e5-3d63d8b48727_5053574_5545376-7d195f6ffc77561fe017830020228458-1024-1024.png",
       "sizes": [
         "L",
         "M",
@@ -3479,11 +3519,21 @@
           "hex": "#ffffff"
         },
         {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
       ],
       "categories": [
+        "SALE",
+        "NARANJA $8.000",
         "Amor mío",
         "Remeras y Musculosas"
       ],
