@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-07-02T10:39:41.569833+00:00",
+  "updated_at": "2026-07-02T12:57:48.087120+00:00",
   "store_id": "5053574",
-  "count": 237,
+  "count": 238,
   "products": [
+    {
+      "id": "353597351",
+      "sku": "6092407|5|15",
+      "name": "BUZO CAMPEONES",
+      "description": "Buzo escote redondo, con bordado, mangas con frunces. Tela: Plush Bifaz",
+      "price": 17000.0,
+      "image": "",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/buzo-campeones-ehpi0/",
+      "position": 9999
+    },
     {
       "id": "353279555",
       "sku": "6395157|5|130",
@@ -36,7 +49,7 @@
       "id": "353274227",
       "sku": "6014637|5|100",
       "name": "BUZO CAMPEONES AM",
-      "description": "Preventa! Articulo disponible para despachar a partir del 6-7 Buzo escote redondo, con bordado, mangas con frunces Tela: Plush Bifaz",
+      "description": "Preventa! Articulo disponible para despachar a partir del 3-7 Buzo escote redondo, con bordado, mangas con frunces Tela: Plush Bifaz",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6d9ef9dd-04fb-4f08-a4b9-5a73c081706c_5053574_5545376-60c7f057ba5b30e7ef17828461654160-1024-1024.png",
       "sizes": [
