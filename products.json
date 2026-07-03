@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T15:11:12.345041+00:00",
+  "updated_at": "2026-07-03T17:25:27.201463+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -1342,17 +1342,8 @@
       "description": "Buzo cuello alto con cierre lateral, con vivos en mangas. Tela:Plush Bifaz",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ab3f8f5f-b4a5-432e-b9fe-9666c4085b70_5053574_5545376-8ab98aa1b56ed8a6de17798228603314-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas"
@@ -2019,14 +2010,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Topo",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
