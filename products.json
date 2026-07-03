@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T23:06:45.171359+00:00",
+  "updated_at": "2026-07-03T02:57:38.244842+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -1367,15 +1367,8 @@
       "description": "Buzo cuello alto con cierre lateral, con vivos en mangas. Tela: Plush Bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417505-57fc1f8d8d6fea9b6b17798148717341-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
@@ -2915,8 +2908,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219452-ebaac9fcb626807fc817798803738804-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
