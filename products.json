@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T17:05:14.645264+00:00",
+  "updated_at": "2026-07-04T19:12:52.342284+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -2842,10 +2842,6 @@
       ],
       "colors": [
         {
-          "name": "Marino",
-          "hex": "#0d1b3e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -2942,10 +2938,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -5280,7 +5272,6 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-08-0650845-8e23c530d47ba112bb17556176028774-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -6265,10 +6256,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Off White",
