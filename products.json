@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T12:15:49.659838+00:00",
+  "updated_at": "2026-07-05T14:43:19.950487+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -1418,8 +1418,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22391-b71525622a9e94fd6417823935026040-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -3638,10 +3637,6 @@
         {
           "name": "Lila",
           "hex": "#ce93d8"
-        },
-        {
-          "name": "Lima",
-          "hex": "#cccccc"
         },
         {
           "name": "Rosa",
