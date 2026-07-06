@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T00:04:55.563841+00:00",
+  "updated_at": "2026-07-06T05:11:17.012568+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -992,10 +992,6 @@
       ],
       "colors": [
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
           "name": "Chocolate",
           "hex": "#4e342e"
         },
@@ -1715,7 +1711,6 @@
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219544-56d4efd45060718a4917798798078091-1024-1024.jpg",
       "sizes": [
-        "L",
         "M",
         "XL"
       ],
@@ -3949,15 +3944,8 @@
       "description": "Buzo escote bote con etiqueta bordada\\nTela: Waffle Amsterdam",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9ec94849-1121-4105-b716-cde7eb5fe51c_5053574_5545376-8d62d5efa483ec2cae17766948001699-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5.000",
@@ -6054,7 +6042,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444732-a94d7cfd74c5a64c3417476649173447-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
         "XL"
       ],
       "colors": [
