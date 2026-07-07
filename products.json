@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T19:01:50.759587+00:00",
+  "updated_at": "2026-07-07T21:23:49.908297+00:00",
   "store_id": "5053574",
   "count": 241,
   "products": [
@@ -1494,10 +1494,6 @@
         {
           "name": "Azul",
           "hex": "#1565c0"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
         },
         {
           "name": "Negro",
@@ -3786,15 +3782,8 @@
       "description": "Buzo con capucha con estampa en espalda Tela: Rustico mil rayas",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11361-097f071286707fdf2117728226556235-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
