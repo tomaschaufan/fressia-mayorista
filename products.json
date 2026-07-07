@@ -1,8 +1,81 @@
 {
-  "updated_at": "2026-07-07T13:20:48.608507+00:00",
+  "updated_at": "2026-07-07T16:30:41.269272+00:00",
   "store_id": "5053574",
-  "count": 239,
+  "count": 241,
   "products": [
+    {
+      "id": "354361169",
+      "sku": "0418245|5|15",
+      "name": "REMERA AILSA AM",
+      "description": "Remera manga larga con rulotte en puños y ruedo Tela: Morley c-ly \\n",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3e3951d3-0f91-4de8-acbf-37121aff1379_5053574_5545376-6d182d2cacc462b13a17834375562653-1024-1024.png",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-ailsa-am-c3y34/",
+      "position": 9999
+    },
+    {
+      "id": "354357245",
+      "sku": "8795665|5|9",
+      "name": "POLERON DUBAI LISO",
+      "description": "Buzo oversized, cuello alto. Tela: Paño Mohair",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2441487b-4d41-4be0-85b5-a732feeb99c2_5053574_5545376-15de1ea888f493394d17834363249006-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/poleron-dubai-liso-vzir3/",
+      "position": 9999
+    },
     {
       "id": "353609837",
       "sku": "0499015|5|15",
@@ -3095,6 +3168,10 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -5931,7 +6008,8 @@
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14698-c06c0a2c2514607a7c17761704165607-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
