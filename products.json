@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:03:51.125911+00:00",
+  "updated_at": "2026-07-08T14:05:52.660780+00:00",
   "store_id": "5053574",
   "count": 241,
   "products": [
@@ -8,7 +8,7 @@
       "sku": "0418245|5|15",
       "name": "REMERA AILSA AM",
       "description": "Remera manga larga con rulotte en puños y ruedo Tela: Morley c-ly \\n",
-      "price": 12000.0,
+      "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3e3951d3-0f91-4de8-acbf-37121aff1379_5053574_5545376-6d182d2cacc462b13a17834375562653-1024-1024.png",
       "sizes": [
         "L",
@@ -1008,10 +1008,6 @@
           "hex": "#4e342e"
         },
         {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -1941,24 +1937,8 @@
       "description": "Buzo cuello alto con recortes Tela: Frisa",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219666-2f6cfa80306559961317798806879018-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas"
@@ -2122,7 +2102,7 @@
       "id": "339497511",
       "sku": "5015666|5|171",
       "name": "BUZO ARGENTINA AM",
-      "description": "Preventa!! Stock disponible para despachar a partir del 6-7 Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
+      "description": "Preventa!! Stock disponible para despachar a partir del 8-7 Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
       "price": 14000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_320f523e-b451-4fb1-902b-920a63d949c7_5053574_5545376-48bbe4acef1b5b7c9d17828381662616-1024-1024.png",
       "sizes": [
@@ -4034,10 +4014,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
         },
         {
           "name": "Negro",
@@ -6033,6 +6009,10 @@
         "XL"
       ],
       "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
         {
           "name": "Verde",
           "hex": "#2e7d32"
