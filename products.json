@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T11:57:27.751123+00:00",
+  "updated_at": "2026-07-09T15:22:09.196269+00:00",
   "store_id": "5053574",
   "count": 242,
   "products": [
@@ -302,7 +302,6 @@
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_cc3890a5-738c-41a3-94f6-759819ccd37f_5053574_5545376-be0165bf641c8f654a17824815479829-1024-1024.webp",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -1425,10 +1424,6 @@
         {
           "name": "Crudo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -2114,8 +2109,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_320f523e-b451-4fb1-902b-920a63d949c7_5053574_5545376-48bbe4acef1b5b7c9d17828381662616-1024-1024.png",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -3329,6 +3323,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313269-52ea92c253636ca8cf17744491956870-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -3915,7 +3910,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11217-be2c1857635bf68ec717733228728043-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -5246,6 +5242,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-08-0650845-8e23c530d47ba112bb17556176028774-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
