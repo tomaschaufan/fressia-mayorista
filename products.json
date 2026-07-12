@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T17:57:19.458010+00:00",
+  "updated_at": "2026-07-12T19:12:43.161807+00:00",
   "store_id": "5053574",
   "count": 242,
   "products": [
@@ -4149,10 +4149,6 @@
         },
         {
           "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Uva",
           "hex": "#cccccc"
         }
       ],
