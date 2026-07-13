@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-13T16:32:35.406982+00:00",
+  "updated_at": "2026-07-13T18:43:02.759191+00:00",
   "store_id": "5053574",
-  "count": 244,
+  "count": 243,
   "products": [
     {
       "id": "354517448",
@@ -3868,20 +3868,8 @@
       "description": "Remera manga larga con rulotte en puños y ruedo \\nTela: Morley c-ly rayado",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6bf0d1f5-a236-42f5-b194-7632b8351869_5053574_5545376-fe40f1c5b5057f353217805063939278-1024-1024.png",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -5795,35 +5783,6 @@
       "colors": [],
       "categories": [],
       "url": "https://fressia.net/productos/cardigan-amor-mio/",
-      "position": 9999
-    },
-    {
-      "id": "270715373",
-      "sku": "0125025|5|16",
-      "name": "GAMULAN NEW",
-      "description": "",
-      "price": 49000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_69b1d27d-eaaf-4fd3-9ec9-2d58abdb2e9b_5053574_5545376-a06ac196136070e20817780828122038-1024-1024.webp",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Abrigos"
-      ],
-      "url": "https://fressia.net/productos/gamulan-new/",
       "position": 9999
     },
     {
