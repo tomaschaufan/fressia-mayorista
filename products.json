@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T10:25:49.130508+00:00",
+  "updated_at": "2026-07-13T13:26:16.522888+00:00",
   "store_id": "5053574",
   "count": 242,
   "products": [
@@ -1117,7 +1117,7 @@
       "id": "349091515",
       "sku": "0416725|5|9",
       "name": "REMERA NALA AM",
-      "description": "Remera mangas largas, cuello Perkins. Tela: Morley Vintage&nbsp;",
+      "description": "Remera mangas largas, cuello Perkins. Tela: Morley Vintage \\n",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22151-78e9bb5ed34db6307417823098133208-1024-1024.jpg",
       "sizes": [
@@ -6271,7 +6271,6 @@
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30905-d091950a5598b1e48f17461945917425-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
