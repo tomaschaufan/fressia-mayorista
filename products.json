@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T12:11:59.924577+00:00",
+  "updated_at": "2026-07-14T14:50:55.000648+00:00",
   "store_id": "5053574",
   "count": 243,
   "products": [
@@ -2602,10 +2602,6 @@
           "hex": "#ffffff"
         },
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
           "name": "Chocolate",
           "hex": "#4e342e"
         },
@@ -3953,8 +3949,16 @@
       "description": "Buzo escote bote con etiqueta bordada\\nTela: Waffle Amsterdam",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9ec94849-1121-4105-b716-cde7eb5fe51c_5053574_5545376-8d62d5efa483ec2cae17766948001699-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "SALE",
         "ROJO  $5.000",
@@ -5139,8 +5143,24 @@
       ],
       "colors": [
         {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Choco",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         },
         {
           "name": "Verde Militar",
@@ -6091,8 +6111,7 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417547-fec7a96c4e519949e117775591556264-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -6102,10 +6121,6 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -6339,20 +6354,8 @@
       ],
       "colors": [
         {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
-        {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Mostaza",
-          "hex": "#f9a825"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
