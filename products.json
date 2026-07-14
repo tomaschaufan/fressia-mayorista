@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T21:57:34.927055+00:00",
+  "updated_at": "2026-07-14T23:01:08.388246+00:00",
   "store_id": "5053574",
   "count": 240,
   "products": [
@@ -1957,10 +1957,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Topo",
