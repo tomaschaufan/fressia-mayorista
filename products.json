@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-14T18:02:25.985301+00:00",
+  "updated_at": "2026-07-14T20:11:11.812724+00:00",
   "store_id": "5053574",
-  "count": 243,
+  "count": 240,
   "products": [
     {
       "id": "354517448",
@@ -514,38 +514,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-mora-yog6p/",
-      "position": 9999
-    },
-    {
-      "id": "351397860",
-      "sku": "0126245|5|9",
-      "name": "SWEATER MERINO",
-      "description": "",
-      "price": 30000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_89af4fba-4ed7-4e3e-881a-1d8e0f71eeaa_5053574_5545376-a82828ea35c5346d6617822310172045-1024-1024.png",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Sweaters"
-      ],
-      "url": "https://fressia.net/productos/sweater-merino-ni5h1/",
       "position": 9999
     },
     {
@@ -1794,7 +1762,12 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "SALE",
+        "NARANJA $8.000",
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-amara-1cr3t/",
       "position": 9999
     },
@@ -1995,6 +1968,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "VERDE $12.000",
         "Amor mío",
         "Pantalones",
         "Conjuntos"
@@ -2025,6 +2000,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "VERDE $12.000",
         "Colección principal",
         "Pantalones"
       ],
@@ -2093,7 +2070,7 @@
       "id": "339497511",
       "sku": "5015666|5|171",
       "name": "BUZO ARGENTINA AM",
-      "description": "Preventa!! Stock disponible para despachar a partir del 8-7 Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
+      "description": "Buzo hoodie estampado Tela: Rustico Liviano Sublimado",
       "price": 14000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_320f523e-b451-4fb1-902b-920a63d949c7_5053574_5545376-48bbe4acef1b5b7c9d17828381662616-1024-1024.png",
       "sizes": [
@@ -2213,7 +2190,8 @@
       "price": 34000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417654-0cbe1d3300aace13a217775546442259-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -2859,7 +2837,7 @@
       ],
       "categories": [
         "SALE",
-        "VERDE $12.000",
+        "AMARILLO $10.000",
         "Colección principal",
         "Abrigos"
       ],
@@ -3144,7 +3122,7 @@
       ],
       "categories": [
         "SALE",
-        "AMARILLO $10.000",
+        "NARANJA $8.000",
         "Colección principal",
         "Activewear",
         "Buzos y Camperas",
@@ -3203,7 +3181,7 @@
       ],
       "categories": [
         "SALE",
-        "VERDE $12.000",
+        "AMARILLO $10.000",
         "Amor mío",
         "Abrigos",
         "Buzos y Camperas"
@@ -5202,6 +5180,7 @@
       ],
       "categories": [
         "SALE",
+        "ROJO  $5.000",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -5228,6 +5207,7 @@
       ],
       "categories": [
         "SALE",
+        "ROJO  $5.000",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -5391,24 +5371,6 @@
       "position": 9999
     },
     {
-      "id": "282016056",
-      "sku": "4917035|5|8",
-      "name": "CAMPERA ANGORA CON CAPUCHA, BOLSILLOS LATERALES",
-      "description": "",
-      "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_17508937-9c10-43e3-b706-cae2de2e2c3c_5053574_5310992-0c56bde1f719ebd1ac17526710882154-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "VIOLETA $20.000 Y +",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/campera-angora-con-capucha-bolsillos-laterales1/",
-      "position": 9999
-    },
-    {
       "id": "279145921",
       "sku": "5097725|5|153",
       "name": "CAMPERA ANIMAL PRINT CON CAPUCHA, BOLSILLOS LATERALES",
@@ -5446,23 +5408,6 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/bomber-full-print/",
-      "position": 9999
-    },
-    {
-      "id": "277956546",
-      "sku": "4997725|5|8",
-      "name": "CAMPERA ANGORA CON CAPUCHA, BOLSILLOS LATERALES",
-      "description": "",
-      "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2f3049bc-f8d1-4dee-80c5-39d5d1e0bf94_5053574_5545376-f1420bd6f0d386c47017780858591498-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Abrigos",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/campera-angora-con-capucha-bolsillos-laterales/",
       "position": 9999
     },
     {
@@ -6284,6 +6229,7 @@
       ],
       "categories": [
         "SALE",
+        "ROJO  $5.000",
         "Amor mío",
         "Remeras y Musculosas"
       ],
