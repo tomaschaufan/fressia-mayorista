@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T23:01:08.388246+00:00",
+  "updated_at": "2026-07-15T02:26:26.446999+00:00",
   "store_id": "5053574",
   "count": 240,
   "products": [
@@ -2186,8 +2186,7 @@
       "price": 34000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417654-0cbe1d3300aace13a217775546442259-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
