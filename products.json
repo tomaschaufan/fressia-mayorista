@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:21:06.696831+00:00",
+  "updated_at": "2026-07-15T18:06:45.973799+00:00",
   "store_id": "5053574",
   "count": 240,
   "products": [
@@ -590,7 +590,6 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22380-0dae57b3b1b03f369617822337869513-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -1179,7 +1178,7 @@
       "name": "PANTALON ROBBEN",
       "description": "Pantalón Flare. Tela: Ribb Soft",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22887-d35da52153c51e891a17823181487533-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22755-394526ccd2f106266817823180825263-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2575,6 +2574,10 @@
           "hex": "#ffffff"
         },
         {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
           "name": "Chocolate",
           "hex": "#4e342e"
         },
@@ -2988,10 +2991,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3082,6 +3081,10 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3571,6 +3574,10 @@
         {
           "name": "Lima",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         },
         {
           "name": "Rosa",
@@ -4911,6 +4918,10 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
         },
         {
           "name": "Chocolate",
