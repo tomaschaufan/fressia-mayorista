@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-16T17:15:08.817495+00:00",
+  "updated_at": "2026-07-16T19:09:49.431784+00:00",
   "store_id": "5053574",
-  "count": 239,
+  "count": 240,
   "products": [
     {
       "id": "354517448",
@@ -3753,8 +3753,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10673-6035f74522537c7d6d17718760234898-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -5203,8 +5202,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ff76df70-be52-4bdc-ab62-de27880cb772_5053574_5545376-431f5bb15d68c17da017775686178940-1024-1024.png",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -6172,6 +6170,19 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-oversize-desgastado/",
+      "position": 9999
+    },
+    {
+      "id": "257700290",
+      "sku": "1197305|4|29",
+      "name": "PANTALÓN WIDE LEG",
+      "description": "",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313223_1-9a7d0619b27f75f69917744484026064-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/pantalon-wide-leg12/",
       "position": 9999
     },
     {
