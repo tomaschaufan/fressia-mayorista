@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-16T12:26:02.274976+00:00",
+  "updated_at": "2026-07-16T15:01:32.450727+00:00",
   "store_id": "5053574",
-  "count": 240,
+  "count": 239,
   "products": [
     {
       "id": "354517448",
@@ -39,25 +39,8 @@
       "description": "Remera manga larga con rulotte en puños y ruedo Tela: Morley c-ly \\n",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3e3951d3-0f91-4de8-acbf-37121aff1379_5053574_5545376-6d182d2cacc462b13a17834375562653-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -3804,29 +3787,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-carys-1ej4o/",
-      "position": 9999
-    },
-    {
-      "id": "327147403",
-      "sku": "4798965|5|76",
-      "name": "VESTIDO REBEL",
-      "description": "Vestido Midi, escote bote con drapeado Tela: Jersey Super Soft Print\\n",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_w5wrtaw5wrtaw5wr-597a6618593cc5cd6f17718734914791-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Vestidos y Monos"
-      ],
-      "url": "https://fressia.net/productos/vestido-rebel-rv0a0/",
       "position": 9999
     },
     {
