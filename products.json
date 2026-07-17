@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T23:58:50.924567+00:00",
+  "updated_at": "2026-07-17T03:29:18.580316+00:00",
   "store_id": "5053574",
   "count": 240,
   "products": [
@@ -4159,15 +4159,8 @@
       "description": "Pantal&oacute;n jogger, con vivo lateral animal print y bolsillos Tela: R&uacute;stico liviano",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10556-e33eb01e965bbf600717718532981639-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -5164,10 +5157,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
         {
           "name": "Gris Melange",
           "hex": "#9e9e9e"
