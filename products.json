@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T11:21:03.195901+00:00",
+  "updated_at": "2026-07-17T13:27:21.947109+00:00",
   "store_id": "5053574",
   "count": 240,
   "products": [
@@ -749,14 +749,9 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22777-5e325602f45a6faaf217822437041445-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
@@ -764,10 +759,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -2015,10 +2006,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
