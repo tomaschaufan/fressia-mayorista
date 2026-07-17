@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T15:12:56.142638+00:00",
+  "updated_at": "2026-07-17T17:11:17.318456+00:00",
   "store_id": "5053574",
   "count": 240,
   "products": [
@@ -796,7 +796,8 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_376f3af7-ce9e-4fdf-807c-05e79f536596_5053574_5545376-21780ccd049f4d787817812758289233-1024-1024.png",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -1901,6 +1902,10 @@
           "hex": "#4e342e"
         },
         {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Topo",
           "hex": "#cccccc"
         }
@@ -2734,6 +2739,10 @@
         "M"
       ],
       "colors": [
+        {
+          "name": "Marino",
+          "hex": "#0d1b3e"
+        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -3911,7 +3920,7 @@
       "id": "325212197",
       "sku": "3017659|5|169",
       "name": "REMERA DINA",
-      "description": "Remera texturada mangas cortas, escote redondo:\\nTela: Jersey Texturado",
+      "description": "Remera texturada mangas cortas, escote redondo Tela: Jersey Texturado",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3131-deaa8dbffb082e4bc617715277903394-1024-1024.jpg",
       "sizes": [
@@ -5878,10 +5887,6 @@
       ],
       "colors": [
         {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -5936,6 +5941,10 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         },
         {
           "name": "Off White",
