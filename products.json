@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T11:03:05.227458+00:00",
+  "updated_at": "2026-07-18T13:14:01.088502+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -1413,7 +1413,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5.000",
+        "ROJO  $5/6.000",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -1447,7 +1447,7 @@
       ],
       "categories": [
         "SALE",
-        "NARANJA $8.000",
+        "ROJO  $5/6.000",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -2187,7 +2187,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5.000",
+        "ROJO  $5/6.000",
         "Colección principal",
         "Remeras y Musculosas",
         "Argentina"
@@ -2444,7 +2444,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5.000",
+        "ROJO  $5/6.000",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -2858,7 +2858,7 @@
       ],
       "categories": [
         "SALE",
-        "AMARILLO $10.000",
+        "NARANJA $8.000",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -2910,7 +2910,7 @@
       ],
       "categories": [
         "SALE",
-        "VERDE $12.000",
+        "NARANJA $8.000",
         "Colección principal",
         "Activewear",
         "Buzos y Camperas",
@@ -3493,7 +3493,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5.000",
+        "ROJO  $5/6.000",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -3799,7 +3799,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5.000",
+        "ROJO  $5/6.000",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -3829,6 +3829,7 @@
       ],
       "categories": [
         "SALE",
+        "ROJO  $5/6.000",
         "Colección principal",
         "Remeras y Musculosas"
       ],
@@ -4793,6 +4794,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "ROJO  $5/6.000",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -5004,7 +5007,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5.000",
+        "ROJO  $5/6.000",
         "Colección principal",
         "Buzos y Camperas"
       ],
@@ -5031,7 +5034,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5.000",
+        "ROJO  $5/6.000",
         "Amor mío",
         "Buzos y Camperas"
       ],
@@ -6009,7 +6012,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5.000",
+        "ROJO  $5/6.000",
         "Amor mío",
         "Remeras y Musculosas"
       ],
