@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T13:05:29.286814+00:00",
+  "updated_at": "2026-07-20T15:49:16.783255+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -7,7 +7,7 @@
       "id": "354517448",
       "sku": "8715975|5|9",
       "name": "POLERON DUBAI LISO AM",
-      "description": "Buzo oversized, cuello alto. Tela: Paño Mohair",
+      "description": "Poler&oacute;n Dubai Liso AM : un buzo oversized con cuello alto, ideal para quienes buscan comodidad y estilo en talles grandes. Confeccionado en pa&ntilde;o mohair , una tela suave y c&aacute;lida que garantiza abrigo sin perder elegancia. Parte de la exclusiva colecci&oacute;n Amor Mio , perfecta para renovar tu guardarropa con prendas de calidad y dise&ntilde;o moderno. Ideal para el invierno ",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_84cde6bd-3b51-4ab2-8213-9e568cd8fe95_5053574_5545376-9fe515e74656fab5e817835279230865-1024-1024.png",
       "sizes": [
@@ -1393,21 +1393,8 @@
       "description": "Buzo con capucha, cintura y puños. Tela: Lanilla lisa",
       "price": 13000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22391-b71525622a9e94fd6417823935026040-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000",
@@ -1850,20 +1837,8 @@
       "description": "Buzo basico con hot fix. Tela: Rustico Frisado",
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14501-c9072236d8625a436e17774040080053-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "AZUL $15.000",
@@ -2600,10 +2575,6 @@
       ],
       "colors": [
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Uva",
           "hex": "#cccccc"
         }
@@ -2839,6 +2810,7 @@
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11123-443a61734637425d7e17734259266871-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -2868,6 +2840,7 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313557-673ab67c8adfc89eb817744510223189-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -5168,6 +5141,10 @@
       ],
       "colors": [
         {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Violeta",
           "hex": "#cccccc"
         }
@@ -5862,10 +5839,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
         {
           "name": "Beige",
           "hex": "#d4b896"
