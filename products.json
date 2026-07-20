@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T10:10:01.320698+00:00",
+  "updated_at": "2026-07-20T13:05:29.286814+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -2376,7 +2376,7 @@
       "id": "337954812",
       "sku": "6298936|5|15",
       "name": "BUZO AIRY FRISA",
-      "description": "uzo manga ranglan, con triangulo en escote y etiqueta bordada en espalda Tela: Rustico frisado",
+      "description": "Buzo manga ranglan, con triangulo en escote y etiqueta bordada en espalda Tela: Rustico frisado",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219271-fc2c07de48382384f217798131452167-1024-1024.jpg",
       "sizes": [
@@ -2689,10 +2689,6 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
         },
         {
           "name": "Uva",
