@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T18:02:25.938013+00:00",
+  "updated_at": "2026-07-20T20:20:16.604786+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -5183,15 +5183,8 @@
       "description": "Tela: Rustico Sublimado",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631383-25740872ab1e089f1917507823632723-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas"
@@ -5327,24 +5320,8 @@
       "description": "Remera mangas largas, escote redondo. Tela: Darlon Rayado",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22351-d7c7cc4b99c38c860317823955288952-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -5885,15 +5862,8 @@
       "description": "",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-2339851-8ee933a5af2a706e9d17455195932758-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Camel",
-          "hex": "#c19a6b"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE"
       ],
