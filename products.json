@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-07-21T13:48:38.536869+00:00",
+  "updated_at": "2026-07-21T15:42:57.327052+00:00",
   "store_id": "5053574",
-  "count": 239,
+  "count": 240,
   "products": [
+    {
+      "id": "356729521",
+      "sku": "356729521",
+      "name": "COMBO SIMPLE",
+      "description": "",
+      "price": 22000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e324df17-d826-4817-ac57-0328bb54b4f4_5053574_5545376-fc2413afa0cbf4278a17769604221553-1024-1024-f34543516861f833bc17846417198212-1024-1024.png",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Combos"
+      ],
+      "url": "https://fressia.net/productos/combo-simple-18qmt/",
+      "position": 9999
+    },
     {
       "id": "354517448",
       "sku": "8715975|5|9",
