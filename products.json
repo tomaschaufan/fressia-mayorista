@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T11:46:21.389673+00:00",
+  "updated_at": "2026-07-22T13:52:34.414446+00:00",
   "store_id": "5053574",
   "count": 240,
   "products": [
@@ -1474,7 +1474,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22360-c3f8ff2e7ed097a78117823047917840-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -2880,6 +2881,10 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -5099,29 +5104,8 @@
       "description": "Tela: Plush bifaz",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f5dfec79-6157-4a2c-9547-fc899ac713cf_5053574_5545376-0d829d59cfbfe9532517773760028179-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas",
