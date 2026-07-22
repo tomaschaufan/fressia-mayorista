@@ -1,23 +1,8 @@
 {
-  "updated_at": "2026-07-22T13:52:34.414446+00:00",
+  "updated_at": "2026-07-22T15:41:37.770904+00:00",
   "store_id": "5053574",
-  "count": 240,
+  "count": 239,
   "products": [
-    {
-      "id": "356729521",
-      "sku": "356729521",
-      "name": "COMBO SIMPLE",
-      "description": "",
-      "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e324df17-d826-4817-ac57-0328bb54b4f4_5053574_5545376-fc2413afa0cbf4278a17769604221553-1024-1024-f34543516861f833bc17846417198212-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Combos"
-      ],
-      "url": "https://fressia.net/productos/combo-simple-18qmt/",
-      "position": 9999
-    },
     {
       "id": "354517448",
       "sku": "8715975|5|9",
@@ -67,7 +52,7 @@
       "id": "354357245",
       "sku": "8795665|5|9",
       "name": "POLERON DUBAI LISO",
-      "description": "Buzo oversized, cuello alto. Tela: Paño Mohair",
+      "description": "Poler&oacute;n Dubai Liso : el buzo oversized con cuello alto que necesit&aacute;s para esta temporada. Confeccionado en pa&ntilde;o mohair , una tela suave y c&aacute;lida que brinda abrigo y confort sin sacrificar estilo. Su dise&ntilde;o amplio y elegante es perfecto para combinar con cualquier look urbano o casual. Ideal para el invierno argentino, este poler&oacute;n es la prenda clave para m",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2441487b-4d41-4be0-85b5-a732feeb99c2_5053574_5545376-15de1ea888f493394d17834363249006-1024-1024.png",
       "sizes": [
@@ -157,7 +142,7 @@
       "id": "353279555",
       "sku": "6395157|5|130",
       "name": "BUZO BUENOS AIRES",
-      "description": "Buzo basico con complemento de lurex. Tela: Rustico Frisado",
+      "description": "Buzo Buenos Aires : la prenda b&aacute;sica que no puede faltar en tu guardarropa. Confeccionado en R&uacute;stico Frisado , este buzo ofrece una textura suave y c&aacute;lida ideal para el clima argentino. Su dise&ntilde;o cl&aacute;sico se realza con un detalle de lurex que aporta un toque sutil de brillo y estilo. Perfecto para combinar en looks casuales o urbanos, brinda comodidad y distinci&o",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_5bf75cb1-beee-4f4d-bfe7-066618ee8708_5053574_5545376-b487ac528f7c7dded817828472802403-1024-1024.png",
       "sizes": [
@@ -188,7 +173,7 @@
       "id": "353274227",
       "sku": "6014637|5|100",
       "name": "BUZO CAMPEONES AM",
-      "description": "Buzo escote redondo, con bordado, mangas con frunces Tela: Plush Bifaz",
+      "description": "Buzo Campeones AM : un buzo con escote redondo y mangas con frunces que aporta un toque femenino y moderno. Confeccionado en plush bifaz , una tela suave y abrigada, ideal para los d&iacute;as frescos en Argentina. Destaca por su delicado bordado y su dise&ntilde;o pensado para talles grandes, parte de la exclusiva l&iacute;nea Amor Mio . Combina comodidad y estilo en una prenda imprescindible par",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6d9ef9dd-04fb-4f08-a4b9-5a73c081706c_5053574_5545376-60c7f057ba5b30e7ef17828461654160-1024-1024.png",
       "sizes": [
