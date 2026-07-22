@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T17:18:31.358025+00:00",
+  "updated_at": "2026-07-22T19:18:21.824825+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -510,7 +510,7 @@
       ],
       "categories": [
         "SALE",
-        "VIOLETA $20.000 Y +",
+        "SWEATERS 3X2",
         "Colección principal",
         "Sweaters"
       ],
@@ -638,7 +638,12 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "SALE",
+        "SWEATERS 3X2",
+        "Colección principal",
+        "Sweaters"
+      ],
       "url": "https://fressia.net/productos/sweater-vilnius-bubj0/",
       "position": 9999
     },
@@ -664,6 +669,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "SWEATERS 3X2",
         "Colección principal",
         "Sweaters"
       ],
@@ -795,7 +802,6 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_376f3af7-ce9e-4fdf-807c-05e79f536596_5053574_5545376-21780ccd049f4d787817812758289233-1024-1024.png",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -2027,6 +2033,8 @@
         }
       ],
       "categories": [
+        "SALE",
+        "SWEATERS 3X2",
         "Colección principal",
         "Sweaters"
       ],
@@ -2068,7 +2076,7 @@
       "sku": "0126145|5|9",
       "name": "SWEATER GENTLE",
       "description": "",
-      "price": 34000.0,
+      "price": 33000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417654-0cbe1d3300aace13a217775546442259-1024-1024.jpg",
       "sizes": [
         "L"
@@ -2085,6 +2093,7 @@
       ],
       "categories": [
         "SALE",
+        "SWEATERS 3X2",
         "Colección principal",
         "Sweaters"
       ],
@@ -2239,6 +2248,7 @@
       "categories": [
         "SALE",
         "VIOLETA $20.000 Y +",
+        "SWEATERS 3X2",
         "Colección principal",
         "Abrigos",
         "Buzos y Camperas",
@@ -5580,14 +5590,9 @@
       "price": 35000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a14711cd-d508-4d09-891a-94fd269e6d1a_5053574_5545376-ed22e8a605285605b617769525214495-1024-1024.webp",
       "sizes": [
-        "L",
         "XL"
       ],
       "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
         {
           "name": "Verde",
           "hex": "#2e7d32"
