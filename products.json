@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T17:38:10.589360+00:00",
+  "updated_at": "2026-07-23T19:16:29.856361+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -2123,10 +2123,6 @@
         {
           "name": "Camel",
           "hex": "#c19a6b"
-        },
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
