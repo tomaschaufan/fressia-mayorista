@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T11:09:08.395016+00:00",
+  "updated_at": "2026-07-23T13:58:16.047982+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -1149,10 +1149,6 @@
       ],
       "colors": [
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
           "name": "Chocolate",
           "hex": "#4e342e"
         },
@@ -1951,8 +1947,7 @@
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14326-cdddf8d1ae774cf68317768678837231-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -4023,8 +4018,16 @@
       "description": "Pantal&oacute;n jogger, con vivo lateral animal print y bolsillos Tela: R&uacute;stico liviano",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10556-e33eb01e965bbf600717718532981639-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Pantalones"
