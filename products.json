@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T16:41:28.762879+00:00",
+  "updated_at": "2026-07-24T18:17:08.573601+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -4021,10 +4021,6 @@
           "hex": "#9e9e9e"
         },
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Rojo",
           "hex": "#d32f2f"
         }
@@ -4364,7 +4360,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2744-9beac7f35228d5c33117703833639333-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
         "XL"
       ],
       "colors": [
