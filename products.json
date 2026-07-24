@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T12:17:57.377967+00:00",
+  "updated_at": "2026-07-24T14:53:49.178481+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -5626,15 +5626,10 @@
       "price": 35000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a14711cd-d508-4d09-891a-94fd269e6d1a_5053574_5545376-ed22e8a605285605b617769525214495-1024-1024.webp",
       "sizes": [
-        "L",
         "S",
         "XL"
       ],
       "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
         {
           "name": "Verde",
           "hex": "#2e7d32"
@@ -5907,15 +5902,8 @@
       "description": "",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30905-d091950a5598b1e48f17461945917425-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "VIOLETA $20.000 Y +",
