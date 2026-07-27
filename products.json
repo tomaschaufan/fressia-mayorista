@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T13:38:53.018440+00:00",
+  "updated_at": "2026-07-27T16:19:19.315210+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -1178,8 +1178,15 @@
       "description": "Remera básica, escote redondo mangas largas. Tela: Jersey Alg c-Ly",
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22896-f55a770246ff763f9617823881774874-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
