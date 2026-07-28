@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T19:22:42.231519+00:00",
+  "updated_at": "2026-07-28T21:06:46.585872+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -638,15 +638,8 @@
       "description": "",
       "price": 30000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22918-43cb9ec3069667e1b617821459285788-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "SWEATERS 3X2",
