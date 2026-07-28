@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T15:20:33.654323+00:00",
+  "updated_at": "2026-07-28T17:26:44.234129+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -639,14 +639,9 @@
       "price": 30000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22918-43cb9ec3069667e1b617821459285788-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Crudo",
           "hex": "#cccccc"
@@ -2249,10 +2244,6 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -2575,10 +2566,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
         {
           "name": "Uva",
           "hex": "#cccccc"
@@ -6165,7 +6152,8 @@
         }
       ],
       "categories": [
-        "SALE"
+        "SALE",
+        "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/musculosa-cora-1v5ef/",
       "position": 9999
