@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T23:58:42.319066+00:00",
+  "updated_at": "2026-07-30T03:14:42.595511+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -2625,15 +2625,8 @@
       "description": "Chaleco recto con interno de corderito Tela: Paño print con corderito",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313132-6a2191b486c440e24a17744461391812-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "AMARILLO $10.000",
