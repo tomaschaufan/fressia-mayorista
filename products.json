@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T14:00:04.547275+00:00",
+  "updated_at": "2026-07-30T15:56:23.528557+00:00",
   "store_id": "5053574",
   "count": 239,
   "products": [
@@ -964,29 +964,8 @@
       "description": "Remera escote redondo con etiqueta bordada. Tela: Morley Vintage",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22176-c8de119e083bf390da17823082898921-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Vison",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -3588,8 +3567,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11217-be2c1857635bf68ec717733228728043-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -5491,7 +5469,9 @@
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444732-a94d7cfd74c5a64c3417476649173447-1024-1024.jpg",
       "sizes": [
-        "M"
+        "L",
+        "M",
+        "XL"
       ],
       "colors": [
         {
