@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T18:20:22.232571+00:00",
+  "updated_at": "2026-07-31T20:20:05.306078+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -614,17 +614,8 @@
       "description": "",
       "price": 65000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22823-f777c9ac0df5e77e8917822331276331-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "S"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
@@ -655,10 +646,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -1898,15 +1885,7 @@
       ],
       "colors": [
         {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
           "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Marron",
           "hex": "#cccccc"
         },
         {
