@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T15:01:40.933561+00:00",
+  "updated_at": "2026-08-02T16:57:52.655459+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -731,15 +731,8 @@
       "description": "Remera Box fit, escote redondo con dije. Tela: Jersey s-ly",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22840-88d0b1b45de61e9c1d17821456674822-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas",
@@ -3064,15 +3057,8 @@
       "description": "Buzo con capucha con estampa Tela: Rustico Mil Rayas",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313237-325dcd5a44c0fae0ff17744488972149-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
@@ -3637,7 +3623,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10446-0b9233b97ef8ac53db17718486584700-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
         "XL"
       ],
       "colors": [
