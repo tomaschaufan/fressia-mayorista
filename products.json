@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:19:42.640453+00:00",
+  "updated_at": "2026-08-02T15:01:40.933561+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -2662,15 +2662,8 @@
       "description": "Campera oversize con capucha Tela: Rustico c -lycra",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313332-4638f636176329643717744507802184-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
