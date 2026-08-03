@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T15:42:00.331647+00:00",
+  "updated_at": "2026-08-03T17:49:58.891329+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -1522,7 +1522,6 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219370-dbed8f8fed87ff877617798215216284-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -1554,10 +1553,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [],
@@ -2577,7 +2572,6 @@
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313246-3bced730da67d5512017744491052425-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -5877,10 +5871,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
         },
         {
           "name": "Chocolate",
