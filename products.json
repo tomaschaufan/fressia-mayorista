@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T13:01:47.332421+00:00",
+  "updated_at": "2026-08-04T16:11:24.122337+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -437,10 +437,6 @@
         {
           "name": "Natural",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
@@ -1522,6 +1518,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219370-dbed8f8fed87ff877617798215216284-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -1735,21 +1732,8 @@
       "description": "Pantalón Flare. Tela base: Ribb Darlon",
       "price": 14000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22681-8930eaab3093879d8f17823205229793-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "S"
-      ],
-      "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Topo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "VERDE $12.000",
@@ -2065,7 +2049,6 @@
       "price": 39000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417667-1183cbda795d395c4217775557774888-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -2349,15 +2332,9 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219486-2a29a8f6b915e69aa017798804656140-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M",
-        "XL"
+        "L"
       ],
       "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -2404,16 +2381,8 @@
       "description": "Articulo modificado (sin cord&oacute;n) Buzo cuello alto con recortes Tela: Frisa",
       "price": 19000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-04-27-at-1-12-14-pm-0249d2fd35c5bca2fd17773063795692-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas",
@@ -2484,9 +2453,14 @@
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219474-2568b623479fb7d4cc17798794137793-1024-1024.jpg",
       "sizes": [
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -2970,15 +2944,8 @@
       "description": "Calza larga cintura alta Tela: Microfibra",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_33ac9b92-ca90-43f7-8e9c-3c65426d074e_5053574_5545376-cb11ff4d5e4796509717767772129864-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Activewear",
@@ -3291,8 +3258,7 @@
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11005-f03024a4ebbd33fb6617728230178455-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -3631,20 +3597,8 @@
       "description": "Tela: Jersey Soft",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10446-0b9233b97ef8ac53db17718486584700-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -3938,25 +3892,8 @@
       "description": "Tela:&nbsp;",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3192-acc12476abd922c48d17703787347345-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -4677,15 +4614,8 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-1053543-108fcb00929b067af317576024221381-1024-1024.jpg",
-      "sizes": [
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000",
@@ -5011,14 +4941,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
