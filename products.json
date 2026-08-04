@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T20:23:23.095668+00:00",
+  "updated_at": "2026-08-04T22:10:56.281822+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -2141,7 +2141,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6ab19ed2-d8e0-4dc7-a8c5-d2fd439b76a9_5053574_5545376-0d34e3578fca1d358017761758520661-1024-1024.png",
       "sizes": [
         "L",
-        "M",
         "XL"
       ],
       "colors": [
@@ -3799,10 +3798,6 @@
         {
           "name": "Off White",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Uva",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -4650,7 +4645,6 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-2847386-97d4bc3446fd3b693b17545800004192-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
