@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:12:32.072471+00:00",
+  "updated_at": "2026-08-05T17:36:03.089917+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -197,21 +197,8 @@
       "description": "Pantal&oacute;n Leap AM : el pantal&oacute;n recto fluido que combina comodidad y estilo en talles grandes. Confeccionado en tela r&uacute;stica con lycra, ofrece una textura suave y elasticidad ideal para el d&iacute;a a d&iacute;a. Parte de la l&iacute;nea Amor Mio , este pantal&oacute;n es perfecto para quienes buscan una prenda vers&aacute;til y elegante que se adapte a cualquier ocasi&oacute;",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f7a23ec9-8ee4-42e2-b645-3ef7e667223f_5053574_5545376-10fa7cb9d2b8d189af17828440883516-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
@@ -230,8 +217,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_bb807eb9-ceb5-419c-b7a5-0190cdcd9a41_5053574_5545376-f71e57f98a4816037f17825039274090-1024-1024.png",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -1441,8 +1427,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219544-56d4efd45060718a4917798798078091-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -1875,15 +1860,8 @@
       "description": "Remera Box fit, escote redondo con dije. Tela: Jersey s-ly",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14517-5a498d57e173d167db17763478898065-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000",
@@ -2522,10 +2500,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -2923,8 +2897,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313237-325dcd5a44c0fae0ff17744488972149-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -4227,20 +4200,8 @@
       "description": "Remera Box fit con dije",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3937-ad04d9560ca61ff32d17703206525783-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "Colección principal",
@@ -4642,15 +4603,8 @@
       "description": "Tela: Rustico Sublimado",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631383-25740872ab1e089f1917507823632723-1024-1024.jpg",
-      "sizes": [
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas"
@@ -4869,14 +4823,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Choco",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -5239,7 +5185,6 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-am-recorte-fe340c7864f02ccc9617462044210047-1024-1024.jpg",
       "sizes": [
-        "L",
         "M",
         "XL"
       ],
@@ -5251,10 +5196,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -5342,8 +5283,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631356-85c38226f7c2a929a117413586913030-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -5419,7 +5359,6 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10235-f25db1d60794ecbe8517755703242908-1024-1024.jpg",
       "sizes": [
-        "L",
         "XL"
       ],
       "colors": [
