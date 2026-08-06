@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:37:53.629255+00:00",
+  "updated_at": "2026-08-06T12:55:18.967942+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -216,7 +216,9 @@
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_bb807eb9-ceb5-419c-b7a5-0190cdcd9a41_5053574_5545376-f71e57f98a4816037f17825039274090-1024-1024.png",
       "sizes": [
-        "M"
+        "L",
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -1356,8 +1358,15 @@
       "description": "Buzo oversized, cuello alto. Tela: Lanilla rayada",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219334-f624ae4769b9a06d2817799091916880-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
@@ -1401,15 +1410,8 @@
       "description": "Buzo oversized, cuello alto. Tela: Lanilla rayada",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219612-fd716f130eaf91dac817810997385221-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Buzos y Camperas"
@@ -1426,7 +1428,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219544-56d4efd45060718a4917798798078091-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -1679,6 +1682,7 @@
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14326-cdddf8d1ae774cf68317768678837231-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -2192,15 +2196,8 @@
       "description": "Remera manga corta con estampa. Tela: Jersey Rayado c- ly",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219486-2a29a8f6b915e69aa017798804656140-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "Amor mío",
@@ -2453,6 +2450,7 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313557-673ab67c8adfc89eb817744510223189-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -2505,8 +2503,16 @@
       "description": "Flare fit con cintura Tela: Rustico c -lycra",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313326-f6ad7072011ef72b9e17744505082687-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        }
+      ],
       "categories": [
         "SALE",
         "AMARILLO $10.000",
@@ -4796,15 +4802,8 @@
       "description": "",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312965-9c2984f85e2f98b32517744442870885-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
@@ -4864,8 +4863,15 @@
       "description": "Remera cuello perkins, mangas largas.Tela: Jersey Alg c-Ly",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22232-cab8d1fdb16b895b1817823952713363-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "SALE",
         "Amor mío",
@@ -5115,15 +5121,8 @@
       "description": "Tela: Plush bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417547-fec7a96c4e519949e117775591556264-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "Colección principal",
@@ -5332,6 +5331,8 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10235-f25db1d60794ecbe8517755703242908-1024-1024.jpg",
       "sizes": [
+        "L",
+        "M",
         "XL"
       ],
       "colors": [
