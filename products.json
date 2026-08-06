@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T12:55:18.967942+00:00",
+  "updated_at": "2026-08-06T15:12:53.691026+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -474,10 +474,6 @@
           "hex": "#d4b896"
         },
         {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -686,15 +682,8 @@
       "description": "Remera manga larga, escote redondo. Tela: Jersey s-ly",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_376f3af7-ce9e-4fdf-807c-05e79f536596_5053574_5545376-21780ccd049f4d787817812758289233-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas",
@@ -1358,15 +1347,8 @@
       "description": "Buzo oversized, cuello alto. Tela: Lanilla rayada",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219334-f624ae4769b9a06d2817799091916880-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas"
@@ -1577,15 +1559,8 @@
       "description": "Buzo basico con hot fix. Tela: Rustico Frisado",
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14501-c9072236d8625a436e17774040080053-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "AZUL $15.000",
@@ -2532,9 +2507,7 @@
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312847-0e127f69195c01263e17744426574218-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M",
-        "XL"
+        "L"
       ],
       "colors": [
         {
@@ -2656,15 +2629,8 @@
       "description": "Chaleco recto con interno de corderito Tela: Paño print con corderito",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312936-344653f58acd77296f17744436601400-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "AMARILLO $10.000",
@@ -3331,15 +3297,8 @@
       "description": "Buzo escote bote con etiqueta bordada\\nTela: Waffle Amsterdam",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9ec94849-1121-4105-b716-cde7eb5fe51c_5053574_5545376-8d62d5efa483ec2cae17766948001699-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000",
@@ -3707,15 +3666,8 @@
       "description": "Remera escote bote asimétrico con drapeado \\nTela: Modal Soft",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3879-2a674a72a4284190d017703783545814-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "Amor mío",
@@ -3895,14 +3847,9 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_88626496-d43b-464b-885b-b53e8624025a_5053574_5545376-df6199507afca5968117829113013637-1024-1024.png",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -3976,10 +3923,6 @@
           "hex": "#d4b896"
         },
         {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
           "name": "Chocolate",
           "hex": "#4e342e"
         },
@@ -4004,15 +3947,10 @@
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3167-abc06d2b8979f5056217704064472249-1024-1024.jpg",
       "sizes": [
-        "L",
         "M",
         "XL"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
@@ -4255,18 +4193,9 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3059-7120df8b54e76277e617704073952594-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
-        {
-          "name": "Amarillo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
-        },
         {
           "name": "Verde",
           "hex": "#2e7d32"
@@ -4380,15 +4309,8 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9f95afe1-d01a-4d27-a37b-4ece692391cf_5053574_5545376-87241d078c722d4f6117782688776603-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Gris Mel",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "Colección principal",
@@ -4863,15 +4785,8 @@
       "description": "Remera cuello perkins, mangas largas.Tela: Jersey Alg c-Ly",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22232-cab8d1fdb16b895b1817823952713363-1024-1024.jpg",
-      "sizes": [
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "Amor mío",
@@ -5028,16 +4943,8 @@
       "description": "",
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444732-a94d7cfd74c5a64c3417476649173447-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "VERDE $12.000",
