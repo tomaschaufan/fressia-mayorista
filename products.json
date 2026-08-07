@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T04:54:28.546637+00:00",
+  "updated_at": "2026-08-07T06:08:53.432174+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -5095,10 +5095,6 @@
       "colors": [
         {
           "name": "Bordo/ Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Verde/ Negro",
           "hex": "#1a1a1a"
         }
       ],
