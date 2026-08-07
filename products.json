@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T13:01:40.425826+00:00",
+  "updated_at": "2026-08-07T14:51:35.397217+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -3935,14 +3935,9 @@
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3673-7a524e1c2242b1257417704066948827-1024-1024.jpg",
       "sizes": [
-        "L",
         "XL"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Off White",
           "hex": "#cccccc"
@@ -4283,15 +4278,8 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-08-0650845-8e23c530d47ba112bb17556176028774-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000",
