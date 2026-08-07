@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T14:51:35.397217+00:00",
+  "updated_at": "2026-08-07T15:54:52.896119+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -1645,8 +1645,7 @@
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14326-cdddf8d1ae774cf68317768678837231-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -2318,15 +2317,8 @@
       "description": "Buzo hoodie basico Tela: Rustico c -lycra",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219452-ebaac9fcb626807fc817798803738804-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
