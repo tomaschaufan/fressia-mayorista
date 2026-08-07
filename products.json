@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T17:48:58.202526+00:00",
+  "updated_at": "2026-08-07T18:55:30.606789+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -2622,29 +2622,8 @@
       "description": "Polera mangas largas Tela: Jersey Algodón c- Ly",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312926-e4f3081a96969afcd717744435764077-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Melange",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -3882,14 +3861,9 @@
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3167-abc06d2b8979f5056217704064472249-1024-1024.jpg",
       "sizes": [
-        "M",
         "XL"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
         {
           "name": "Off White",
           "hex": "#cccccc"
@@ -4072,7 +4046,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3098-158637eeed236bc53817703214090061-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
         "XL"
       ],
       "colors": [
@@ -5066,16 +5039,8 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631356-85c38226f7c2a929a117413586913030-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Bordo/ Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000",
