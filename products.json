@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T18:55:30.606789+00:00",
+  "updated_at": "2026-08-07T19:52:12.555545+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -12,8 +12,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_84cde6bd-3b51-4ab2-8213-9e568cd8fe95_5053574_5545376-9fe515e74656fab5e817835279230865-1024-1024.png",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -164,17 +163,8 @@
       "description": "Buzo Campeones AM : un buzo con escote redondo y mangas con frunces que aporta un toque femenino y moderno. Confeccionado en plush bifaz , una tela suave y abrigada, ideal para los d&iacute;as frescos en Argentina. Destaca por su delicado bordado y su dise&ntilde;o pensado para talles grandes, parte de la exclusiva l&iacute;nea Amor Mio . Combina comodidad y estilo en una prenda imprescindible par",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6d9ef9dd-04fb-4f08-a4b9-5a73c081706c_5053574_5545376-60c7f057ba5b30e7ef17828461654160-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "AZUL $15.000",
@@ -1737,19 +1727,8 @@
       "description": "",
       "price": 33000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417654-0cbe1d3300aace13a217775546442259-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Natural",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "SWEATERS 3X2",
@@ -2020,7 +1999,6 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6ab19ed2-d8e0-4dc7-a8c5-d2fd439b76a9_5053574_5545376-0d34e3578fca1d358017761758520661-1024-1024.png",
       "sizes": [
-        "L",
         "XL"
       ],
       "colors": [
@@ -2039,10 +2017,6 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
         }
       ],
       "categories": [
@@ -2740,20 +2714,8 @@
       "description": "Remera mangas largas, asimétrica. Tela: Ribb Brush Print",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313425-2fae940b026dc0fb2a17744513552680-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [],
       "url": "https://fressia.net/productos/remera-bela-yg8oj/",
       "position": 9999
@@ -2783,7 +2745,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313237-325dcd5a44c0fae0ff17744488972149-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -2868,14 +2831,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Fucsia",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Lima",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -4701,15 +4656,10 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22168-f98c731ce70105921a17821452048795-1024-1024.jpg",
       "sizes": [
-        "L",
         "M",
         "XL"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
         {
           "name": "Crudo",
           "hex": "#cccccc"
