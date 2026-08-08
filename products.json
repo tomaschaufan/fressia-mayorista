@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T14:30:49.597906+00:00",
+  "updated_at": "2026-08-08T15:28:35.906033+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -2338,15 +2338,8 @@
       "description": "Campera fit cuello polera Tela: Rustico c -lycra",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313557-673ab67c8adfc89eb817744510223189-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
