@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T15:28:35.906033+00:00",
+  "updated_at": "2026-08-08T16:32:01.655883+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -4089,10 +4089,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Militar",
-          "hex": "#cccccc"
         },
         {
           "name": "Off White",
