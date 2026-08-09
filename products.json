@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T19:31:58.134625+00:00",
+  "updated_at": "2026-08-09T20:31:37.441289+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -767,10 +767,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
         {
           "name": "Chocolate",
           "hex": "#4e342e"
@@ -2707,7 +2703,6 @@
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313237-325dcd5a44c0fae0ff17744488972149-1024-1024.jpg",
       "sizes": [
-        "L",
         "XL"
       ],
       "colors": [
@@ -4205,15 +4200,8 @@
       "description": "",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ff76df70-be52-4bdc-ab62-de27880cb772_5053574_5545376-431f5bb15d68c17da017775686178940-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
