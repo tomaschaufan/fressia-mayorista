@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T01:45:41.664824+00:00",
+  "updated_at": "2026-08-10T03:54:04.546981+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -1317,15 +1317,8 @@
       "description": "Rustico con lycra frisado",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_0b597639-767f-412d-86dd-8b4b1d6e2c6f_5053574_5545376-5488fff849b98b40ab17786096057791-1024-1024.png",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
@@ -5161,10 +5154,6 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
         },
         {
           "name": "Rosa",
