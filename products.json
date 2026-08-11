@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T16:01:22.986167+00:00",
+  "updated_at": "2026-08-11T17:55:49.973600+00:00",
   "store_id": "5053574",
   "count": 235,
   "products": [
@@ -4591,16 +4591,13 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-am-recorte-fe340c7864f02ccc9617462044210047-1024-1024.jpg",
       "sizes": [
+        "M",
         "XL"
       ],
       "colors": [
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         }
       ],
       "categories": [
