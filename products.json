@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T14:56:05.518857+00:00",
+  "updated_at": "2026-08-11T16:01:22.986167+00:00",
   "store_id": "5053574",
   "count": 235,
   "products": [
@@ -1726,15 +1726,8 @@
       "description": "Remera básica, con estampa. Tela: Jersey S- ly",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219697-3db87602701ce4f05e17798208519362-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas",
@@ -1808,15 +1801,8 @@
       "description": "",
       "price": 36000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417799-bf47c1e708b267728e17775571084654-1024-1024.jpg",
-      "sizes": [
-        "S"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "VIOLETA $20.000 Y +",
@@ -1917,27 +1903,8 @@
       "description": "Tela: Lanilla Soft",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6ab19ed2-d8e0-4dc7-a8c5-d2fd439b76a9_5053574_5545376-0d34e3578fca1d358017761758520661-1024-1024.png",
-      "sizes": [
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Fucsia",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Lila",
-          "hex": "#ce93d8"
-        },
-        {
-          "name": "Lima",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000",
@@ -3769,24 +3736,8 @@
       "description": "Tela: Jersey Trenzado",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3098-158637eeed236bc53817703214090061-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000",
@@ -4015,8 +3966,15 @@
       "description": "",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ff76df70-be52-4bdc-ab62-de27880cb772_5053574_5545376-431f5bb15d68c17da017775686178940-1024-1024.png",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
       "categories": [
         "SALE",
         "NARANJA $8.000",
@@ -4174,6 +4132,10 @@
         {
           "name": "Fucsia",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
         }
       ],
       "categories": [
@@ -4407,14 +4369,9 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22168-f98c731ce70105921a17821452048795-1024-1024.jpg",
       "sizes": [
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
         {
           "name": "Crudo",
           "hex": "#cccccc"
@@ -4996,10 +4953,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Gris",
