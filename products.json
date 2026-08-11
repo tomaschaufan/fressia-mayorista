@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-11T11:49:51.159545+00:00",
+  "updated_at": "2026-08-11T13:02:59.217833+00:00",
   "store_id": "5053574",
-  "count": 236,
+  "count": 235,
   "products": [
     {
       "id": "354517448",
@@ -11,14 +11,9 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_84cde6bd-3b51-4ab2-8213-9e568cd8fe95_5053574_5545376-9fe515e74656fab5e817835279230865-1024-1024.png",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -377,10 +372,6 @@
       "colors": [
         {
           "name": "Cereza",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Lima",
           "hex": "#cccccc"
         },
         {
@@ -912,15 +903,8 @@
       "description": "Pantalón Flare. Tela: Ribb Soft",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22755-394526ccd2f106266817823180825263-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -2062,31 +2046,6 @@
       "position": 9999
     },
     {
-      "id": "335156697",
-      "sku": "6399225|5|9",
-      "name": "PANTALON BARREL",
-      "description": "Pantalón amplio con pinza y recortes Tela: Frisa",
-      "price": 27000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14711-4bca3499aeffe8989317761691436800-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Uva",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/pantalon-barrel-yd6j1/",
-      "position": 9999
-    },
-    {
       "id": "335156088",
       "sku": "6399215|5|9",
       "name": "BUZO QUEBEC",
@@ -2317,15 +2276,8 @@
       "description": "Flare fit con cintura Tela: Rustico c -lycra",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313326-f6ad7072011ef72b9e17744505082687-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "AMARILLO $10.000",
@@ -2549,15 +2501,8 @@
       "description": "Buzo oversize, con estampa Tela: Rustico Mil Rayas",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313269-52ea92c253636ca8cf17744491956870-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
@@ -2688,10 +2633,6 @@
         {
           "name": "Bordo",
           "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Negro",
@@ -4703,7 +4644,6 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-am-recorte-fe340c7864f02ccc9617462044210047-1024-1024.jpg",
       "sizes": [
-        "M",
         "XL"
       ],
       "colors": [
@@ -4893,6 +4833,10 @@
           "hex": "#ffffff"
         },
         {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
           "name": "Gris Mel",
           "hex": "#9e9e9e"
         },
@@ -5026,10 +4970,6 @@
       ],
       "colors": [
         {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Gris Melange",
           "hex": "#9e9e9e"
         },
@@ -5066,10 +5006,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Gris",
