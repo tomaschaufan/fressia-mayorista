@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T14:55:43.013289+00:00",
+  "updated_at": "2026-08-12T15:58:46.100437+00:00",
   "store_id": "5053574",
   "count": 235,
   "products": [
@@ -4369,8 +4369,16 @@
       "description": "Tela: Pa&ntilde;o Pied de Poule",
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14698-c06c0a2c2514607a7c17761704165607-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Cuadros",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "SALE",
         "Colección principal",
