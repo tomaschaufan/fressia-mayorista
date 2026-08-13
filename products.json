@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-13T14:56:06.255591+00:00",
+  "updated_at": "2026-08-13T15:59:37.136567+00:00",
   "store_id": "5053574",
-  "count": 176,
+  "count": 61,
   "products": [
     {
       "id": "354357245",
@@ -104,7 +104,7 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_78d5c5b9-822a-4ff6-a71e-feb59048c7ac_5053574_5545376-8384fbfe6bfe660ef617822318370375-1024-1024.png",
       "sizes": [
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -261,32 +261,6 @@
       "position": 9999
     },
     {
-      "id": "350793106",
-      "sku": "0126225|4|130",
-      "name": "SWEATER VILNIUS",
-      "description": "",
-      "price": 30000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22788-a0124affdb9e1d217617822429951943-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "S"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "SWEATERS 3X2",
-        "Colección principal",
-        "Sweaters"
-      ],
-      "url": "https://fressia.net/productos/sweater-vilnius-bubj0/",
-      "position": 9999
-    },
-    {
       "id": "350772196",
       "sku": "0492035|5|15",
       "name": "POLERA LEYRE",
@@ -316,29 +290,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/polera-leyre-40i2c/",
-      "position": 9999
-    },
-    {
-      "id": "350764442",
-      "sku": "8414776|5|9",
-      "name": "POLERA ZAHRA AM",
-      "description": "Polera perkins con detalle en espalda. Tela: Darlon Rayado",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22300-1cc21a6029cf89e9d917822442818812-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/polera-zahra-am-n2hd2/",
       "position": 9999
     },
     {
@@ -636,8 +587,8 @@
       ],
       "colors": [
         {
-          "name": "Azul",
-          "hex": "#1565c0"
+          "name": "Gris",
+          "hex": "#9e9e9e"
         }
       ],
       "categories": [
@@ -1019,158 +970,6 @@
       "position": 9999
     },
     {
-      "id": "333910027",
-      "sku": "6215666|5|23",
-      "name": "BUZO LEAP",
-      "description": "Buzo hoodie basico Tela: Rustico c -lycra",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219452-ebaac9fcb626807fc817798803738804-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Activewear",
-        "Amor mío",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/buzo-leap-7rjgk/",
-      "position": 9999
-    },
-    {
-      "id": "332374981",
-      "sku": "0126075|4|8",
-      "name": "BOMBER PORTLAND",
-      "description": "",
-      "price": 59000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312896-ce3b18c4d35b544b8317744432185076-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/bomber-portland-ckocm/",
-      "position": 9999
-    },
-    {
-      "id": "332374126",
-      "sku": "6288826|5|23",
-      "name": "JOGGER ZOOM",
-      "description": "Flare fit con cintura Tela: Rustico c -lycra",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313246-3bced730da67d5512017744491052425-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "VERDE $12.000",
-        "Colección principal",
-        "Activewear",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/jogger-zoom-gbyci/",
-      "position": 9999
-    },
-    {
-      "id": "331436689",
-      "sku": "6217926|5|23",
-      "name": "CAMPERA ZOOM",
-      "description": "Campera oversize con capucha Tela: Rustico c -lycra",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11123-443a61734637425d7e17734259266871-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/campera-zoom-1712y/",
-      "position": 9999
-    },
-    {
-      "id": "331409953",
-      "sku": "6299046|5|23",
-      "name": "CAMPERA SPRINT",
-      "description": "Campera fit cuello polera Tela: Rustico c -lycra",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313557-673ab67c8adfc89eb817744510223189-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Activewear",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/campera-sprint-1ldkw/",
-      "position": 9999
-    },
-    {
-      "id": "331407905",
-      "sku": "6299056|5|23",
-      "name": "CAMPERA RUSH",
-      "description": "Campera oversize con capucha Tela: Rustico c -lycra",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313332-4638f636176329643717744507802184-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Activewear",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/campera-rush-1d216/",
-      "position": 9999
-    },
-    {
-      "id": "331394190",
-      "sku": "6299076|5|23",
-      "name": "FLARE DASH",
-      "description": "Flare fit con cintura Tela: Rustico c -lycra",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313326-f6ad7072011ef72b9e17744505082687-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "AMARILLO $10.000",
-        "Colección principal",
-        "Activewear",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/flare-dash-1nd2v/",
-      "position": 9999
-    },
-    {
-      "id": "331391606",
-      "sku": "8017936|5|23",
-      "name": "FLARE DASH AM",
-      "description": "Flare fit con cintura Tela: Rustico c -lycra",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312847-0e127f69195c01263e17744426574218-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "AMARILLO $10.000",
-        "Colección principal",
-        "Activewear",
-        "Amor mío",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/flare-dash-am-1gofm/",
-      "position": 9999
-    },
-    {
       "id": "331138102",
       "sku": "6295156|5|23",
       "name": "BUZO FLY",
@@ -1235,123 +1034,6 @@
       "position": 9999
     },
     {
-      "id": "331079433",
-      "sku": "4918006|5|76",
-      "name": "CHALECO ALASKA AM",
-      "description": "Chaleco recto con interno de corderito Tela: Paño print con corderito",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312936-344653f58acd77296f17744436601400-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "AMARILLO $10.000",
-        "Amor mío",
-        "Abrigos",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/chaleco-alaska-am-yi16l/",
-      "position": 9999
-    },
-    {
-      "id": "331077360",
-      "sku": "0126045|5|9",
-      "name": "CHALECO ZURICH",
-      "description": "",
-      "price": 35000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313151-5951c1e56d0e3b10f217744479670739-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Abrigos"
-      ],
-      "url": "https://fressia.net/productos/chaleco-zurich-14jke/",
-      "position": 9999
-    },
-    {
-      "id": "331064833",
-      "sku": "7713675|5|15",
-      "name": "POLERA DAFNE",
-      "description": "Polera mangas largas Tela: Jersey Algodón c- Ly",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312926-e4f3081a96969afcd717744435764077-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/polera-dafne-9hcd4/",
-      "position": 9999
-    },
-    {
-      "id": "330954007",
-      "sku": "9097275|5|16",
-      "name": "JOGGER CINTURA ALTA CON BANDA LATERAL",
-      "description": "",
-      "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-03-2638884-f6cb4ca1015f32632917732588477488-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/jogger-cintura-alta-con-banda-lateral-1aiud/",
-      "position": 9999
-    },
-    {
-      "id": "330648839",
-      "sku": "1892055|5|16",
-      "name": "CALZA PULSE",
-      "description": "Calza larga cintura alta Tela: Microfibra",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_5a40f0b7-3f0a-4fed-9d3d-7137845fecd1_5053574_5545376-018321548b2581db9817768008120989-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Activewear",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/calza-pulse-jc30n/",
-      "position": 9999
-    },
-    {
-      "id": "330620865",
-      "sku": "5995156|5|16",
-      "name": "BUZO CALIFORNIA",
-      "description": "Buzo oversize, con estampa Tela: Rustico Mil Rayas",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313269-52ea92c253636ca8cf17744491956870-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-california-16z0x/",
-      "position": 9999
-    },
-    {
-      "id": "330595376",
-      "sku": "1814495|5|16",
-      "name": "CALZA PULSE AM",
-      "description": "Calza larga cintura alta Tela: Microfibra",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_33ac9b92-ca90-43f7-8e9c-3c65426d074e_5053574_5545376-cb11ff4d5e4796509717767772129864-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Activewear",
-        "Amor mío",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/calza-pulse-am-rvmqt/",
-      "position": 9999
-    },
-    {
       "id": "330541408",
       "sku": "3817975|5|8",
       "name": "REMERA BELA AM",
@@ -1372,53 +1054,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-bela-am-mdmb4/",
-      "position": 9999
-    },
-    {
-      "id": "330540614",
-      "sku": "3892285|5|8",
-      "name": "REMERA BELA",
-      "description": "Remera mangas largas, asimétrica. Tela: Ribb Brush Print",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313425-2fae940b026dc0fb2a17744513552680-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/remera-bela-yg8oj/",
-      "position": 9999
-    },
-    {
-      "id": "330294753",
-      "sku": "0973007|5|15",
-      "name": "REMERA AINE",
-      "description": "Remera manga raglan, cuello combinado con bordado. Tela: Morley con lycra rayado",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e82e2fb9-6585-4d58-b38a-d20baed0137c_5053574_5545376-a4fb338c935d92082a17817948553023-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-aine-l8yvj/",
-      "position": 9999
-    },
-    {
-      "id": "330292200",
-      "sku": "5917836|5|16",
-      "name": "BUZO STAR AM",
-      "description": "Buzo con capucha con estampa Tela: Rustico Mil Rayas",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313237-325dcd5a44c0fae0ff17744488972149-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-star-am-1srxf/",
       "position": 9999
     },
     {
@@ -1454,63 +1089,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-zaida-am-13lqt/",
-      "position": 9999
-    },
-    {
-      "id": "329916048",
-      "sku": "0126015|5|9",
-      "name": "SWEATER ESTRELLA",
-      "description": "",
-      "price": 29000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11421-f621cfd76944c565ec17728256988871-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Sweaters",
-        "Amor mío"
-      ],
-      "url": "https://fressia.net/productos/sweater-estrella-jqwna/",
-      "position": 9999
-    },
-    {
-      "id": "329831342",
-      "sku": "8088129|5|24",
-      "name": "BUZO CLAUD",
-      "description": "Buzo Oversize, cuello perkins con etiqueta Tela: Lanilla soft",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3006-462abbbb58be3f0a7d17728085509425-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-claud-13pi9/",
-      "position": 9999
-    },
-    {
-      "id": "329827623",
-      "sku": "5293015|5|23",
-      "name": "BUZO OVERSIZE, ESCOTE REDONDO",
-      "description": "Buzo oversize, escote redondo\\nTela Lanita Morley Snow\\n",
-      "price": 5000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3987-0a5a1b8d90bf3b857c17728082158923-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-oversize-escote-redondo-1gvpv/",
       "position": 9999
     },
     {
@@ -1556,23 +1134,6 @@
       "position": 9999
     },
     {
-      "id": "329816277",
-      "sku": "8013259|5|24",
-      "name": "BUZO COZY",
-      "description": "Buzo escote redondo, mangas con frunces, tajos y etiqueta\\nTela: Lanilla soft",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3708-13b683dc26c3a7c5f517728055865155-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-cozy-1ck28/",
-      "position": 9999
-    },
-    {
       "id": "329328314",
       "sku": "0999025|5|15",
       "name": "REMERA AISHA",
@@ -1595,99 +1156,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-aisha-tb6y6/",
-      "position": 9999
-    },
-    {
-      "id": "329315640",
-      "sku": "0999145|5|15",
-      "name": "REMERA AITANA",
-      "description": "Remera con cartera y botones ♡ Tela: Morley c-ly rayado",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11005-f03024a4ebbd33fb6617728230178455-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-aitana-14s0a/",
-      "position": 9999
-    },
-    {
-      "id": "329314167",
-      "sku": "0917875|5|15",
-      "name": "REMERA AITANA AM",
-      "description": "Remera con cartera y botones ♥ Tela: Morley c-ly rayado",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11282-002f7920c9396e6ea317728238041936-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-aitana-am-17ngj/",
-      "position": 9999
-    },
-    {
-      "id": "329310307",
-      "sku": "5998986|5|16",
-      "name": "BUZO STAR",
-      "description": "Buzo con capucha con estampa en espalda Tela: Rustico mil rayas",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11361-097f071286707fdf2117728226556235-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-star-1xapp/",
-      "position": 9999
-    },
-    {
-      "id": "329290130",
-      "sku": "0126035|5|9",
-      "name": "SWEATER SOFT",
-      "description": "",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10963-cbe1775b5c6e7b24fe17728213623652-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Sweaters"
-      ],
-      "url": "https://fressia.net/productos/sweater-soft-8nst5/",
-      "position": 9999
-    },
-    {
-      "id": "327314631",
-      "sku": "3198865|5|9",
-      "name": "REMERA SCARLETT",
-      "description": "Remera escote U, con cartera y broches.\\nMorley Fantasia\\n",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11196-f75c173d6a1bf0035517728206322005-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "AMARILLO $10.000",
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-scarlett-jq0cv/",
       "position": 9999
     },
     {
@@ -1714,62 +1182,6 @@
       "position": 9999
     },
     {
-      "id": "327151856",
-      "sku": "4717905|5|170",
-      "name": "REMERA CARYS",
-      "description": "Remera escote bote asimetrico, manga al codo Jersey Super Soft Print",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10673-6035f74522537c7d6d17718760234898-1024-1024.jpg",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-carys-1ej4o/",
-      "position": 9999
-    },
-    {
-      "id": "327145440",
-      "sku": "0999015|5|15",
-      "name": "REMERA AILSA",
-      "description": "Remera manga larga con rulotte en puños y ruedo \\nTela: Morley c-ly rayado",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6bf0d1f5-a236-42f5-b194-7632b8351869_5053574_5545376-fe40f1c5b5057f353217805063939278-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-ailsa-1ncze/",
-      "position": 9999
-    },
-    {
-      "id": "327144364",
-      "sku": "0517845|5|9",
-      "name": "REMERA SOPHIA AM",
-      "description": "Remera rayada escote asimétrico con drapeado en el hombro. Tela: Jersey Rayado",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11217-be2c1857635bf68ec717733228728043-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-sophia-am-1baki/",
-      "position": 9999
-    },
-    {
       "id": "327144077",
       "sku": "0598995|5|9",
       "name": "REMERA SOPHIA",
@@ -1792,41 +1204,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-sophia-yfavi/",
-      "position": 9999
-    },
-    {
-      "id": "326454829",
-      "sku": "5014955|5|8",
-      "name": "BUZO LOURES AM",
-      "description": "Buzo escote redondo con tiras laterales. Complemento de morley en escote y puños. Tela: Rústico Sublimado",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3498-d4e9bf7ff414922fba17716066657913-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/buzo-loures-am-23rvf/",
-      "position": 9999
-    },
-    {
-      "id": "326222238",
-      "sku": "4599105|5|8",
-      "name": "BUZO LAIRY",
-      "description": "Buzo escote bote con etiqueta bordada\\nTela: Waffle Amsterdam",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9ec94849-1121-4105-b716-cde7eb5fe51c_5053574_5545376-8d62d5efa483ec2cae17766948001699-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "ROJO  $5/6.000",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-lairy-9eiww/",
       "position": 9999
     },
     {
@@ -1857,86 +1234,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-zaida-1jbao/",
-      "position": 9999
-    },
-    {
-      "id": "326208283",
-      "sku": "3187115|5|9",
-      "name": "MUSCULOSA NAOMI",
-      "description": "Tela:&nbsp;",
-      "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10325-0e459f6e3cf7dd1c2e17718502203511-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/musculosa-naomi-63olb/",
-      "position": 9999
-    },
-    {
-      "id": "325278331",
-      "sku": "3098889|5|169",
-      "name": "MUSCULOSA LIA",
-      "description": "Tela: Textura Trapani",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10062-5cd5c7eaa78412ad5717718506750118-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/musculosa-lia-111yx/",
-      "position": 9999
-    },
-    {
-      "id": "325212197",
-      "sku": "3017659|5|169",
-      "name": "REMERA DINA",
-      "description": "Remera texturada mangas cortas, escote redondo Tela: Jersey Texturado",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3131-deaa8dbffb082e4bc617715277903394-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-dina-1n5j8/",
-      "position": 9999
-    },
-    {
-      "id": "325151846",
-      "sku": "7598815|5|149",
-      "name": "REMERA LOLA",
-      "description": "Tela: Modal Soft",
-      "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10635-1a379fe68b8e08268f17718513811078-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-lola-1jj5l/",
-      "position": 9999
-    },
-    {
-      "id": "325149363",
-      "sku": "7517745|5|149",
-      "name": "REMERA EVA",
-      "description": "Tela: Jersey Soft",
-      "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10446-0b9233b97ef8ac53db17718486584700-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-eva-1lodc/",
       "position": 9999
     },
     {
@@ -1992,23 +1289,6 @@
       "position": 9999
     },
     {
-      "id": "324835818",
-      "sku": "6298935|5|139",
-      "name": "BUZO AIRY",
-      "description": "Buzo manga ranglan con etiqueta bordada Tela: Rustico Wash",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10101-d84c0862e3155afc6217718492287162-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/buzo-airy-r8eua/",
-      "position": 9999
-    },
-    {
       "id": "324589267",
       "sku": "6316249|5|8",
       "name": "PANTALÓN BROOKLYN AM",
@@ -2038,22 +1318,6 @@
         "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/pantalon-brooklyn-am-1a5wh/",
-      "position": 9999
-    },
-    {
-      "id": "324584135",
-      "sku": "6398345|5|8",
-      "name": "PANTALÓN BROOKLYN",
-      "description": "Pantal&oacute;n jogger, con vivo lateral animal print y bolsillos Tela: R&uacute;stico liviano",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10556-e33eb01e965bbf600717718532981639-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-brooklyn-wlyq0/",
       "position": 9999
     },
     {
@@ -2090,274 +1354,6 @@
       "position": 9999
     },
     {
-      "id": "324346888",
-      "sku": "5999006|5|9",
-      "name": "BUZO FUZZY",
-      "description": "Buzo oversize rayado, manga al codo Tela: Rustico Rayado",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10275-baff4d45632d1dc16a17718543840182-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-fuzzy-gc5bk/",
-      "position": 9999
-    },
-    {
-      "id": "324343348",
-      "sku": "5917866|5|9",
-      "name": "BUZO FUZZY AM",
-      "description": "Buzo oversize rayado, manga al codo Tela: Rustico Rayado",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10489-a79d233a882f95f45017718545713936-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-fuzzy-am-2a7qd/",
-      "position": 9999
-    },
-    {
-      "id": "324259186",
-      "sku": "0817819|5|29",
-      "name": "REMERA SAGA",
-      "description": "Tela: Ribb Brushed",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3857-57afe661f3db192d7517707313167474-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-saga-dnmkt/",
-      "position": 9999
-    },
-    {
-      "id": "324255655",
-      "sku": "6217805|5|139",
-      "name": "BUZO AIRY AM",
-      "description": "Buzo manga ranglan con etiqueta bordada\\nTela: Rustico Wash",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10399-ebfcda4268a79cf68b17718556362622-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/buzo-airy-am-gu9fz/",
-      "position": 9999
-    },
-    {
-      "id": "324004730",
-      "sku": "6298925|5|139",
-      "name": "PANTALON ROME",
-      "description": "Pantalón recto, con alforza\\nTela: Rustico Wash",
-      "price": 29000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10098-37f9ce58d068683ddb17718521112987-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/pantalon-rome-1vbhw/",
-      "position": 9999
-    },
-    {
-      "id": "323515370",
-      "sku": "7517755|5|149",
-      "name": "REMERA NINA",
-      "description": "Remera escote bote asimétrico con drapeado \\nTela: Modal Soft",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3879-2a674a72a4284190d017703783545814-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-nina-1wj8c/",
-      "position": 9999
-    },
-    {
-      "id": "323100813",
-      "sku": "3017795|5|169",
-      "name": "REMERA GINA",
-      "description": "Tela:&nbsp;",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3192-acc12476abd922c48d17703787347345-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-gina-13zf9/",
-      "position": 9999
-    },
-    {
-      "id": "323100735",
-      "sku": "3115645|5|9",
-      "name": "REMERA VERA",
-      "description": "Remera con textura cuello perkins",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3370-071bbfe320d54f4fa117703795916549-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-vera-1xyt0/",
-      "position": 9999
-    },
-    {
-      "id": "323100695",
-      "sku": "3198875|5|9",
-      "name": "REMERA RUBI",
-      "description": "Tela: Textura Mulberry",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2761-484847eae70b33941b17703801502670-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-rubi-1bbmh/",
-      "position": 9999
-    },
-    {
-      "id": "323100649",
-      "sku": "0895559|5|16",
-      "name": "REMERA FRIDA",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3549-1ec57e8e4ff2f6b4ce17703811135111-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-frida-1jbht/",
-      "position": 9999
-    },
-    {
-      "id": "323100608",
-      "sku": "0898955|5|29",
-      "name": "REMERA BINDI",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3509-368bf956ce0ec3a94817703815239957-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-bindi-14jgp/",
-      "position": 9999
-    },
-    {
-      "id": "323100544",
-      "sku": "6217825|5|139",
-      "name": "PANTALON MILAN",
-      "description": "Pantalón jogger, con bolsillos laterales",
-      "price": 29000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10391-a12568156e5e40958617718569326413-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "VIOLETA $20.000 Y +",
-        "Amor mío",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/pantalon-milan-1xnhu/",
-      "position": 9999
-    },
-    {
-      "id": "323100461",
-      "sku": "2298905|5|76",
-      "name": "PANTALON SOHO",
-      "description": "Tela: Bengalina Sublimada",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2744-9beac7f35228d5c33117703833639333-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "AZUL $15.000",
-        "Colección principal",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-soho-1heu2/",
-      "position": 9999
-    },
-    {
-      "id": "323100330",
-      "sku": "0485075|5|8",
-      "name": "REMERA AMIRA",
-      "description": "Remera escote bote con ruloté",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_88626496-d43b-464b-885b-b53e8624025a_5053574_5545376-df6199507afca5968117829113013637-1024-1024.png",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/remera-amira-1nkws/",
-      "position": 9999
-    },
-    {
-      "id": "323100253",
-      "sku": "7713275|5|15",
-      "name": "REMERA ALICE",
-      "description": "Remera cuello perkins",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3658-9c41d7692cd0c3a2ed17703958242189-1024-1024.jpg",
-      "sizes": [
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/remera-alice-1a0w0/",
-      "position": 9999
-    },
-    {
       "id": "323100208",
       "sku": "0498945|5|9",
       "name": "VESTIDO IBIZA",
@@ -2389,57 +1385,6 @@
         "Vestidos y Monos"
       ],
       "url": "https://fressia.net/productos/vestido-ibiza-wpqsr/",
-      "position": 9999
-    },
-    {
-      "id": "323100087",
-      "sku": "7517785|5|9",
-      "name": "REMERA MARGOT",
-      "description": "Tela: Modal Soft",
-      "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3167-abc06d2b8979f5056217704064472249-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/remera-margot-1v4zk/",
-      "position": 9999
-    },
-    {
-      "id": "323099977",
-      "sku": "7510025|5|9",
-      "name": "REMERA AMELIE",
-      "description": "Tela: Modal Soft",
-      "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3673-7a524e1c2242b1257417704066948827-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/remera-amelie-2kn9d/",
-      "position": 9999
-    },
-    {
-      "id": "323099937",
-      "sku": "7593275|5|9",
-      "name": "REMERA CHARLOTTE",
-      "description": "Tela: Modal Soft",
-      "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2964-dc0b80571d1ceb859e17704069723047-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/remera-charlotte-xh7ad/",
       "position": 9999
     },
     {
@@ -2481,154 +1426,27 @@
       "position": 9999
     },
     {
-      "id": "323099835",
-      "sku": "5998836|5|39",
-      "name": "BUZO OSLO",
-      "description": "Buzo escote bote, estampa 84☆",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10410-7647a69bd5502758f817718574723256-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-oslo-1rw3m/",
-      "position": 9999
-    },
-    {
-      "id": "323099776",
-      "sku": "5917766|5|39",
-      "name": "BUZO OSLO AM",
-      "description": "Buzo escote bote, estampa 84☆",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10548-8228542da3f250590a17718573999502-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/buzo-oslo-am-t7s0r/",
-      "position": 9999
-    },
-    {
-      "id": "323099538",
-      "sku": "7798855|5|15",
-      "name": "REMERA LINA",
-      "description": "Remera escote U, mangas largas",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2898-ad9dae314764bfd5f917703196909425-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/remera-lina-83ebk/",
-      "position": 9999
-    },
-    {
-      "id": "323099491",
-      "sku": "2517739|5|15",
-      "name": "REMERA AIKO",
-      "description": "Remera Box fit con dije",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3692-816be0815f5ce5e71017703201196380-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/remera-aiko-1xd2a/",
-      "position": 9999
-    },
-    {
-      "id": "323099451",
-      "sku": "2598759|5|15",
-      "name": "REMERA LUNA",
-      "description": "Remera Box fit con dije",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3937-ad04d9560ca61ff32d17703206525783-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/remera-luna-l2nu3/",
-      "position": 9999
-    },
-    {
-      "id": "323099411",
-      "sku": "3417770|5|9",
-      "name": "REMERA AVA",
-      "description": "Tela: Jersey Trenzado",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3098-158637eeed236bc53817703214090061-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "ROJO  $5/6.000",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-ava-78t7a/",
-      "position": 9999
-    },
-    {
-      "id": "323099364",
-      "sku": "3498840|5|9",
-      "name": "REMERA JULIA",
-      "description": "Julia-Remera manga larga con Roulote",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3570-69e583abff4302a43417703215747372-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-julia-octxg/",
-      "position": 9999
-    },
-    {
-      "id": "323099323",
-      "sku": "4797455|5|156",
-      "name": "REMERA MIA",
-      "description": "Remera básica escote redondo",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3059-7120df8b54e76277e617704073952594-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-mia-dc0h9/",
-      "position": 9999
-    },
-    {
       "id": "323099277",
       "sku": "9514030|5|15",
       "name": "REMERA GABRIELA",
       "description": "Remera escote redondo con ruloté",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3643-51d4565e83bd8801d417703196669531-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "SALE",
         "Amor mío",
@@ -2644,45 +1462,25 @@
       "description": "Remera escote redondo",
       "price": 8500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2884-a532b3fd978910354617766867008122-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-emma-15t22/",
-      "position": 9999
-    },
-    {
-      "id": "323099156",
-      "sku": "4796195|5|156",
-      "name": "REMERA CLARA",
-      "description": "Tela: Modal Soft Rayado",
-      "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3077-07f20536722a4fe02f17704076698031-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-clara-16qhh/",
-      "position": 9999
-    },
-    {
-      "id": "295054656",
-      "sku": "3497485|6|9",
-      "name": "TRENCH BELFAST",
-      "description": "Tela: Gabardina Twill Soft",
-      "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11531-0c814ea03c4e35721317730733526244-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Abrigos"
-      ],
-      "url": "https://fressia.net/productos/trench-belfast-1v7dy/",
       "position": 9999
     },
     {
@@ -2717,149 +1515,6 @@
       "position": 9999
     },
     {
-      "id": "290842775",
-      "sku": "7713450|6|28",
-      "name": "REMERA ESCOTE CUADRADO, MANGAS PRINCESA",
-      "description": "",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2024-08-0723902-1-9f296bc5a54f8a4dd417564975569364-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-escote-cuadrado-mangas-princesa/",
-      "position": 9999
-    },
-    {
-      "id": "290549421",
-      "sku": "4597415|6|16",
-      "name": "BUZO CON BANDA LATERAL ANIMAL PRINT",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_9f95afe1-d01a-4d27-a37b-4ece692391cf_5053574_5545376-87241d078c722d4f6117782688776603-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-con-banda-lateral-animal-print2/",
-      "position": 9999
-    },
-    {
-      "id": "288339472",
-      "sku": "4598150|5|16",
-      "name": "BUZO CON RECORTE EN CANESÚ ANIMAL PRINT",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-08-0650845-8e23c530d47ba112bb17556176028774-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "ROJO  $5/6.000",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-con-recorte-en-canesu-animal-print1/",
-      "position": 9999
-    },
-    {
-      "id": "288339463",
-      "sku": "4517320|5|16",
-      "name": "BUZO CON RECORTE EN CANESÚ ANIMAL PRINT",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-1053543-108fcb00929b067af317576024221381-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "ROJO  $5/6.000",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-con-recorte-en-canesu-animal-print/",
-      "position": 9999
-    },
-    {
-      "id": "287812325",
-      "sku": "7710020|5|9",
-      "name": "REMERA BÁSICA, ESCOTE REDONDO",
-      "description": "",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-08-0650394-26a350f3fb210b911317563028513901-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Gris Melange",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-basica-escote-redondo24/",
-      "position": 9999
-    },
-    {
-      "id": "286136208",
-      "sku": "6117055|5|29",
-      "name": "BUZO TORONTO AM",
-      "description": "",
-      "price": 17000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ff76df70-be52-4bdc-ab62-de27880cb772_5053574_5545376-431f5bb15d68c17da017775686178940-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-basico-escote-redondo7/",
-      "position": 9999
-    },
-    {
-      "id": "286135634",
-      "sku": "6017075|5|9",
-      "name": "CAMPERA SYDNEY AM",
-      "description": "Tela: Plush bifaz",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f5dfec79-6157-4a2c-9547-fc899ac713cf_5053574_5545376-0d829d59cfbfe9532517773760028179-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/campera-con-capucha-y-bolsillos-canguro2/",
-      "position": 9999
-    },
-    {
       "id": "285920897",
       "sku": "125095|5|23",
       "name": "CALZA LARGA",
@@ -2883,92 +1538,6 @@
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/calza-larga1/",
-      "position": 9999
-    },
-    {
-      "id": "279145921",
-      "sku": "5097725|5|153",
-      "name": "CAMPERA ANIMAL PRINT CON CAPUCHA, BOLSILLOS LATERALES",
-      "description": "",
-      "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e7819649-5c1b-42c3-9dda-ef6381413e6b_5053574_5545376-136d2a6ef14ad6fbfb17780678318085-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Abrigos",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/campera-animal-print-con-capucha-bolsillos-laterales1/",
-      "position": 9999
-    },
-    {
-      "id": "277988570",
-      "sku": "5016682|5|76",
-      "name": "BOMBER FULL PRINT",
-      "description": "Tela: Rustico Sublimado",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631383-25740872ab1e089f1917507823632723-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/bomber-full-print/",
-      "position": 9999
-    },
-    {
-      "id": "277811140",
-      "sku": "8316965|5|35",
-      "name": "CAMPERA NEW YORK AM",
-      "description": "",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1148194-24e4f6810b1e2deb3417507047823058-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/campera-cuello-alto1/",
-      "position": 9999
-    },
-    {
-      "id": "276982265",
-      "sku": "0517165|5|16",
-      "name": "REMERÓN MANGAS LARGA CON BANDAS LATERALES ANIMAL PRINT",
-      "description": "",
-      "price": 13000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444087-3960cb96afd077c42917502757522902-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "VERDE $12.000",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print1/",
-      "position": 9999
-    },
-    {
-      "id": "276732279",
-      "sku": "597905|5|16",
-      "name": "REMERÓN MANGAS LARGA CON BANDAS LATERALES ANIMAL PRINT",
-      "description": "",
-      "price": 13000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_10846cbc-4ec0-4fc8-9509-16329536c5f5_5053574_5545376-112496a40a391b422717810888868097-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remeron-mangas-larga-con-bandas-laterales-animal-print/",
       "position": 9999
     },
     {
@@ -3004,212 +1573,6 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/saco-corazon-1x8lf/",
-      "position": 9999
-    },
-    {
-      "id": "274875884",
-      "sku": "5097292|5|136",
-      "name": "BOMBER FULL PRINT",
-      "description": "Tela: Rustico Sublimado",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30828-96a67845b2af6f94c517492260717320-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/bomber-full-print4/",
-      "position": 9999
-    },
-    {
-      "id": "274529429",
-      "sku": "125155|5|23",
-      "name": "TOP MANGA LARGA",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-2847372-bef8477af943f99c4e17490658803368-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Activewear"
-      ],
-      "url": "https://fressia.net/productos/top-manga-larga/",
-      "position": 9999
-    },
-    {
-      "id": "274469534",
-      "sku": "8417115|5|9",
-      "name": "REMERA SIA AM",
-      "description": "Remera mangas largas, escote redondo. Tela: Darlon Rayado",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22351-d7c7cc4b99c38c860317823955288952-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-escote-redondo7/",
-      "position": 9999
-    },
-    {
-      "id": "274014593",
-      "sku": "8397665|5|16",
-      "name": "CAMPERA NEW YORK",
-      "description": "",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1147433-f0267c2ef04fe9933517497456348385-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/campera-new-york-q5kh2/",
-      "position": 9999
-    },
-    {
-      "id": "273646262",
-      "sku": "7712465|5|15",
-      "name": "REMERA ESCOTE V MANGA LARGA",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1148160-72303260fee4978cf117501792380783-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-escote-v-manga-larga1/",
-      "position": 9999
-    },
-    {
-      "id": "273363354",
-      "sku": "7793275|5|15",
-      "name": "TOP CROPPED, MANGAS LARGAS",
-      "description": "",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14541-5e355a7e560a0e99fb17763480229370-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/top-cropped-mangas-largas/",
-      "position": 9999
-    },
-    {
-      "id": "273182086",
-      "sku": "6197805|5|29",
-      "name": "BUZO TORONTO",
-      "description": "",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312965-9c2984f85e2f98b32517744442870885-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-basico-escote-redondo6/",
-      "position": 9999
-    },
-    {
-      "id": "272298228",
-      "sku": "6097845|5|9",
-      "name": "CAMPERA SYDNEY CON CAPUCHA",
-      "description": "Tela: Plush bifaz",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417497-17416bf63a9b34f6fa17775613854891-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/campera-sydney-con-capucha-13kgb/",
-      "position": 9999
-    },
-    {
-      "id": "271652047",
-      "sku": "125055|4|15",
-      "name": "SWEATER PEONIA",
-      "description": "",
-      "price": 2500.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444488-926d9f2687f661dee717478357001101-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/sweater-peonia/",
-      "position": 9999
-    },
-    {
-      "id": "270755417",
-      "sku": "125085|5|23",
-      "name": "CARDIGAN AMOR MIO",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444238-02d59fd4e734c9c98e17474222961650-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/cardigan-amor-mio/",
-      "position": 9999
-    },
-    {
-      "id": "270345973",
-      "sku": "7717065|5|15",
-      "name": "REMERA NARA",
-      "description": "Remera cuello perkins, mangas largas.Tela: Jersey Alg c-Ly",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22232-cab8d1fdb16b895b1817823952713363-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-cuello-perkins-mangas-largas3/",
-      "position": 9999
-    },
-    {
-      "id": "270298710",
-      "sku": "6216994|5|16",
-      "name": "BUZO CUELLO ALTO CON RECORTES",
-      "description": "",
-      "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444760-85c128f91dd60d1a2f17473145436513-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-cuello-alto-con-recortes1/",
       "position": 9999
     },
     {
@@ -3263,110 +1626,6 @@
       "position": 9999
     },
     {
-      "id": "270049758",
-      "sku": "1117095|5|16",
-      "name": "PANTALÓN WIDE LEG, 5 BOLSILLOS",
-      "description": "",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631248-8e5b0c82c8ec55977217470784071205-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-wide-leg-5-bolsillos1/",
-      "position": 9999
-    },
-    {
-      "id": "269582893",
-      "sku": "125015|4|16",
-      "name": "CAMPERA PUFFER",
-      "description": "",
-      "price": 35000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_a14711cd-d508-4d09-891a-94fd269e6d1a_5053574_5545376-ed22e8a605285605b617769525214495-1024-1024.webp",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Abrigos",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/campera-puffer/",
-      "position": 9999
-    },
-    {
-      "id": "269511701",
-      "sku": "9097795|5|101",
-      "name": "CAMPERA DEPORTIVA CON BANDA LATERAL",
-      "description": "",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30256-19d9c88639d405746d17467989517882-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/campera-deportiva-con-banda-lateral2/",
-      "position": 9999
-    },
-    {
-      "id": "268189337",
-      "sku": "6214955|5|16",
-      "name": "BUZO BÁSICO ESCOTE REDONDO",
-      "description": "",
-      "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444558-34160a5d53104af50a17476822140170-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-basico-escote-redondo4/",
-      "position": 9999
-    },
-    {
-      "id": "268175864",
-      "sku": "6217005|5|29",
-      "name": "PANTALÓN JOGGER CON ALFORZAS",
-      "description": "",
-      "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444732-a94d7cfd74c5a64c3417476649173447-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "VERDE $12.000",
-        "Amor mío",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-jogger-con-alforzas/",
-      "position": 9999
-    },
-    {
-      "id": "265522369",
-      "sku": "9016655|5|16",
-      "name": "CAMPERA DEPORTIVA CON BANDA LATERAL",
-      "description": "",
-      "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-camp-337c178746748ce57717448298272057-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "AMARILLO $10.000",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/campera-deportiva-con-banda-lateral1/",
-      "position": 9999
-    },
-    {
       "id": "265487564",
       "sku": "9016665|5|16",
       "name": "JOGGER CON BANDA LATERAL",
@@ -3388,234 +1647,6 @@
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/jogger-con-banda-lateral/",
-      "position": 9999
-    },
-    {
-      "id": "264651473",
-      "sku": "6097615|5|16",
-      "name": "BUZO SYDNEY",
-      "description": "Tela: Plush bifaz",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417544-e85ca7ed5ef118c3be17775614510518-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Buzos y Camperas",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/buzo-con-banda-lateral-combinada-y-etiqueta-bordada1/",
-      "position": 9999
-    },
-    {
-      "id": "264650367",
-      "sku": "6097605|5|16",
-      "name": "PANTALON SYDNEY",
-      "description": "Tela: Plush bifaz",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417547-fec7a96c4e519949e117775591556264-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/pantalon-banda-lateral-combinada1/",
-      "position": 9999
-    },
-    {
-      "id": "264650169",
-      "sku": "6016935|5|16",
-      "name": "BUZO SYDNEY AM",
-      "description": "",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-2339695-0d1262e6ac0f64c7e117462046634242-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-sydney-am-1q0em/",
-      "position": 9999
-    },
-    {
-      "id": "264650125",
-      "sku": "6016925|5|16",
-      "name": "PANTALON SYDNEY AM",
-      "description": "Tela: Plush bifaz",
-      "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-am-recorte-fe340c7864f02ccc9617462044210047-1024-1024.jpg",
-      "sizes": [
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/pantalon-sydney-am-djlug/",
-      "position": 9999
-    },
-    {
-      "id": "264631728",
-      "sku": "6415616|5|16",
-      "name": "BUZO OVERSIZE DESGASTADO - FLASH LIGHTS",
-      "description": "",
-      "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-06-1147975-9bde548d4a0777af5417501877691985-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-oversize-desgastado-flash-lights1/",
-      "position": 9999
-    },
-    {
-      "id": "264300602",
-      "sku": "4716745|5|29",
-      "name": "JOGGER SASTRERO",
-      "description": "",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-04-2339851-8ee933a5af2a706e9d17455195932758-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE"
-      ],
-      "url": "https://fressia.net/productos/jogger-sastrero/",
-      "position": 9999
-    },
-    {
-      "id": "262956657",
-      "sku": "7397075|5|16",
-      "name": "PANTALÓN SASTRERO, BANDA LATERAL",
-      "description": "",
-      "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo30905-d091950a5598b1e48f17461945917425-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "VIOLETA $20.000 Y +",
-        "Colección principal",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-sastrero-banda-lateral/",
-      "position": 9999
-    },
-    {
-      "id": "260442673",
-      "sku": "4516765|6|29",
-      "name": "BUZO CON BANDA LATERAL ANIMAL PRINT",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631170-ba528bac4c92792db817423108625577-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-con-banda-lateral-animal-print1/",
-      "position": 9999
-    },
-    {
-      "id": "258591124",
-      "sku": "1016815|5|120",
-      "name": "REMERA ESCOTE EN V",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631356-85c38226f7c2a929a117413586913030-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "ROJO  $5/6.000",
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-escote-en-v/",
-      "position": 9999
-    },
-    {
-      "id": "257849295",
-      "sku": "6397236|5|16",
-      "name": "BUZO OVERSIZE DESGASTADO",
-      "description": "",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631438-8b9c7d7472e6bc39dd17412011710763-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-oversize-desgastado/",
-      "position": 9999
-    },
-    {
-      "id": "257700290",
-      "sku": "1197305|4|29",
-      "name": "PANTALÓN WIDE LEG",
-      "description": "",
-      "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313223_1-9a7d0619b27f75f69917744484026064-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/pantalon-wide-leg12/",
-      "position": 9999
-    },
-    {
-      "id": "255504140",
-      "sku": "4516775|5|16",
-      "name": "PANTALON CON BANDA LATERAL ANIMAL PRINT",
-      "description": "",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-2631165-c0d2f26b33d6974c2b17411917034729-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "Amor mío",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-con-banda-lateral-animal-print1/",
-      "position": 9999
-    },
-    {
-      "id": "254658709",
-      "sku": "6316245|5|16",
-      "name": "PANTALON CON TIRAS LATERALES",
-      "description": "",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10235-f25db1d60794ecbe8517755703242908-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "AMARILLO $10.000",
-        "Amor mío",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-con-tiras-laterales/",
       "position": 9999
     },
     {
@@ -3660,36 +1691,6 @@
       "position": 9999
     },
     {
-      "id": "253946999",
-      "sku": "6396125|5|16",
-      "name": "PANTALON CON TIRAS LATERALES, CINTURA ALTA",
-      "description": "",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_aa4117b3-a441-4b48-b622-a09e5a8297a4_5053574_5545376-fda1b46aa3b9fe3e6317400556221905-1024-1024.webp",
-      "sizes": [],
-      "colors": [],
-      "categories": [],
-      "url": "https://fressia.net/productos/pantalon-con-tiras-laterales-cintura-alta/",
-      "position": 9999
-    },
-    {
-      "id": "253940685",
-      "sku": "7797155|5|15",
-      "name": "REMERA GABI",
-      "description": "",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo33748-c8574bbba3ff48b24f17388429020397-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
-      ],
-      "url": "https://fressia.net/productos/remera-gabi-1tnyg/",
-      "position": 9999
-    },
-    {
       "id": "253940053",
       "sku": "7716595|5|15",
       "name": "REMERA HELENA",
@@ -3717,22 +1718,6 @@
         "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/remera-escote-redondo2/",
-      "position": 9999
-    },
-    {
-      "id": "252333124",
-      "sku": "5016245|5|76",
-      "name": "PANTALON ANIMAL PRINT CON BANDA LATERAL",
-      "description": "",
-      "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-0352024-0b474c10dca1c7d89d17570108020369-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-animal-print-con-banda-lateral1/",
       "position": 9999
     },
     {
