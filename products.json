@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-13T15:59:37.136567+00:00",
+  "updated_at": "2026-08-13T17:04:28.793412+00:00",
   "store_id": "5053574",
-  "count": 61,
+  "count": 54,
   "products": [
     {
       "id": "354357245",
@@ -97,56 +97,6 @@
       "position": 9999
     },
     {
-      "id": "352024577",
-      "sku": "9815975|5|35",
-      "name": "POLERON AMSTERDAM AM",
-      "description": "Poler&oacute;n Amsterdam AM : un buzo oversized con escote redondo que redefine la comodidad y el estilo en talles grandes. Confeccionado en lanilla lisa , este poler&oacute;n de la l&iacute;nea Amor Mio ofrece una textura suave y c&aacute;lida, ideal para acompa&ntilde;arte en cualquier momento del d&iacute;a. Su dise&ntilde;o amplio y relajado garantiza libertad de movimiento sin perder eleganci",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_78d5c5b9-822a-4ff6-a71e-feb59048c7ac_5053574_5545376-8384fbfe6bfe660ef617822318370375-1024-1024.png",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Azul",
-          "hex": "#1565c0"
-        }
-      ],
-      "categories": [
-        "Amor mío",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/poleron-amsterdam-am-bi124/",
-      "position": 9999
-    },
-    {
-      "id": "352022386",
-      "sku": "9895665|5|35",
-      "name": "POLERON AMSTERDAM",
-      "description": "Poler&oacute;n Amsterdam: comodidad y estilo en un solo buzo oversized. Este buzo presenta un escote redondo cl&aacute;sico que realza cualquier look casual. Confeccionado en lanilla lisa, su tela suave y c&aacute;lida es perfecta para acompa&ntilde;arte en los d&iacute;as m&aacute;s frescos. Ideal para quienes buscan una prenda vers&aacute;til y moderna, que combina a la perfecci&oacute;n con jea",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_fa42d1a3-2bbd-4541-b859-9831c79092c3_5053574_5545376-50266ef1b91987d15417822312640181-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/poleron-amsterdam-1bdib/",
-      "position": 9999
-    },
-    {
       "id": "351480964",
       "sku": "8393776|5|52",
       "name": "POLERA FIONA",
@@ -196,20 +146,11 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_47e1f1ba-8ac1-435c-8c8a-5447ef47b470_5053574_5545376-041e13e5d740c87d2017821432656613-1024-1024.png",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
-          "name": "Cereza",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Morado",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Natural",
           "hex": "#cccccc"
         }
       ],
@@ -509,38 +450,6 @@
       "position": 9999
     },
     {
-      "id": "346916668",
-      "sku": "0495745|5|9",
-      "name": "REMERA NALA",
-      "description": "Remera escote redondo, manga larga. Tela: Morley Vintage",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22494-5b021bf2f4f9ac886d17823891301498-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Vison",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-nala-1se8r/",
-      "position": 9999
-    },
-    {
       "id": "345908449",
       "sku": "6117056|5|9",
       "name": "BUZO TORONTO LISO AM",
@@ -576,58 +485,6 @@
       "position": 9999
     },
     {
-      "id": "345687993",
-      "sku": "8077386|5|35",
-      "name": "BUZO LIGHT",
-      "description": "Buzo con capucha, cintura y puños. Tela: Lanilla lisa",
-      "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219286-c79d25c7f95af1fe9617798123865302-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "ROJO  $5/6.000",
-        "Colección principal",
-        "Buzos y Camperas"
-      ],
-      "url": "https://fressia.net/productos/buzo-light-1mhuo/",
-      "position": 9999
-    },
-    {
-      "id": "343244898",
-      "sku": "8013596|5|23",
-      "name": "JOGGER ZOOM AM",
-      "description": "Jogger basico con puños Tela: Rustico c -lycra",
-      "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219544-56d4efd45060718a4917798798078091-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "VERDE $12.000",
-        "Colección principal",
-        "Activewear",
-        "Amor mío",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/jogger-zoom-am-18jnx/",
-      "position": 9999
-    },
-    {
       "id": "342835624",
       "sku": "1099407|5|23",
       "name": "REMERA AMARA",
@@ -660,15 +517,8 @@
       "description": "",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_ec5b9f4d-c8cd-458c-885f-31af7be4f837_5053574_5545376-136637e7f03a81e60017782532333615-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [],
       "url": "https://fressia.net/productos/musculosa-lea-invierno-hvodu/",
       "position": 9999
@@ -680,15 +530,8 @@
       "description": "Pantalon con vivos laterales. Tela: Plush Bifaz",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e5d0ac9c-24e0-4222-ad16-aaf88764ad11_5053574_5545376-a67bcccb3b80350edc17780091377407-1024-1024.png",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -812,30 +655,6 @@
       "position": 9999
     },
     {
-      "id": "338169899",
-      "sku": "1079167|5|23",
-      "name": "REMERA FAN",
-      "description": "Remera manga corta con estampa. Tela: Jersey Rayado c- ly",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14574-01b76f4f907a259bfb17762762020774-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-fan-1ybba/",
-      "position": 9999
-    },
-    {
       "id": "337962804",
       "sku": "6299416|5|15",
       "name": "PANTALON ROME FRISA",
@@ -945,31 +764,6 @@
       "position": 9999
     },
     {
-      "id": "334451687",
-      "sku": "6399205|5|9",
-      "name": "PANTALON TOKIO",
-      "description": "Pantalón con alforza Tela: Frisa",
-      "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14701-2c459b3408d80bf2db17761736100228-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Uva",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Pantalones",
-        "Conjuntos"
-      ],
-      "url": "https://fressia.net/productos/pantalon-tokio-ag488/",
-      "position": 9999
-    },
-    {
       "id": "331138102",
       "sku": "6295156|5|23",
       "name": "BUZO FLY",
@@ -1040,15 +834,8 @@
       "description": "Remera mangas largas, asimétrica. Tela: Ribb Brush Print",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0312975-448e3217ab9820b90317744442217016-1024-1024.jpg",
-      "sizes": [
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -1140,15 +927,8 @@
       "description": "Remera escote fruncido, con moño \\nTela: Morley c-ly rayado",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10970-cfa2658c0c6b19655117732364836149-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
@@ -1165,15 +945,8 @@
       "description": "Tela: Jersey Super Soft Print",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10665-22b3efdbcc5762a2a917718755736606-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Cebra",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -1327,24 +1100,8 @@
       "description": "Remera asimetrica drapeada con tajo Tela: Modal Soft",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10473-df489ac3f32d49e57817718537545276-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Uva",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "Colección principal",
@@ -1521,15 +1278,8 @@
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-2847386-97d4bc3446fd3b693b17545800004192-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Violeta",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "NARANJA $8.000",
@@ -1632,16 +1382,8 @@
       "description": "",
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/conj-am-5bfab40a966874383017448215891249-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Pantalones"
