@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-13T11:45:15.719964+00:00",
+  "updated_at": "2026-08-13T13:08:49.792595+00:00",
   "store_id": "5053574",
-  "count": 235,
+  "count": 237,
   "products": [
     {
       "id": "354517448",
@@ -3744,6 +3744,39 @@
       "position": 9999
     },
     {
+      "id": "323099277",
+      "sku": "9514030|5|15",
+      "name": "REMERA GABRIELA",
+      "description": "Remera escote redondo con ruloté",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3643-51d4565e83bd8801d417703196669531-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "SALE",
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-gabriela-1bzcd/",
+      "position": 9999
+    },
+    {
+      "id": "323099215",
+      "sku": "9592990|5|15",
+      "name": "REMERA EMMA",
+      "description": "Remera escote redondo",
+      "price": 8500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2884-a532b3fd978910354617766867008122-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-emma-15t22/",
+      "position": 9999
+    },
+    {
       "id": "323099156",
       "sku": "4796195|5|156",
       "name": "REMERA CLARA",
@@ -4076,6 +4109,10 @@
         {
           "name": "Azul",
           "hex": "#1565c0"
+        },
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
         },
         {
           "name": "Rojo",
