@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T18:52:49.551773+00:00",
+  "updated_at": "2026-08-14T19:47:09.672808+00:00",
   "store_id": "5053574",
   "count": 79,
   "products": [
@@ -947,32 +947,8 @@
       "description": "Poler&oacute;n Dubai Liso : el buzo oversized con cuello alto que necesit&aacute;s para esta temporada. Confeccionado en pa&ntilde;o mohair , una tela suave y c&aacute;lida que brinda abrigo y confort sin sacrificar estilo. Su dise&ntilde;o amplio y elegante es perfecto para combinar con cualquier look urbano o casual. Ideal para el invierno argentino, este poler&oacute;n es la prenda clave para m",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2441487b-4d41-4be0-85b5-a732feeb99c2_5053574_5545376-15de1ea888f493394d17834363249006-1024-1024.png",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "AMARILLO $10.000"
@@ -1905,10 +1881,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Negro",
