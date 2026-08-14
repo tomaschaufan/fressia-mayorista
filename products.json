@@ -1,8 +1,773 @@
 {
-  "updated_at": "2026-08-14T11:42:03.529635+00:00",
+  "updated_at": "2026-08-14T13:04:11.923478+00:00",
   "store_id": "5053574",
-  "count": 49,
+  "count": 73,
   "products": [
+    {
+      "id": "360881627",
+      "sku": "7517740|5|156",
+      "name": "REMERA EVA",
+      "description": "Remera Eva: la prenda imprescindible para sumar estilo y comodidad a tu look diario. Confeccionada en Modal Soft , una tela reconocida por su suavidad y excelente caída, esta remera manga corta destaca por su diseño con drapeado lateral que aporta un toque moderno y femenino. Su corte pensado para adaptarse al cuerpo ofrece una silueta elegante sin perder comodidad. Ideal para combinar con jeans, ",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28333-d387eb8f30756d6d3517867078533804-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-eva-1mntb/",
+      "position": 9999
+    },
+    {
+      "id": "360881582",
+      "sku": "7518293|5|156",
+      "name": "MUSCULOSA NEREA AM",
+      "description": "Musculosa Nerea AM : la musculosa que combina elegancia y comodidad en cada detalle. Confeccionada en Modal Soft , una tela reconocida por su suavidad y excelente caída, esta prenda es ideal para quienes buscan confort sin resignar estilo. Su diseño presenta un cuello bote , que aporta un toque sofisticado y favorecedor, mientras que el detalle del dije en la espalda añade un elemento distintivo y",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28257-1-d91879179456f0434f17867074932835-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-nerea-am-16ezo/",
+      "position": 9999
+    },
+    {
+      "id": "360881552",
+      "sku": "7598810|5|156",
+      "name": "REMERA LOLA",
+      "description": "Remera Lola: comodidad y estilo en cada detalle. Esta remera manga corta está confeccionada en Modal Soft , una tela reconocida por su suavidad y excelente caída que se adapta perfectamente al cuerpo. Su diseño incorpora un elegante drapeado lateral que aporta un toque de sofisticación y modernidad, ideal para quienes buscan una prenda versátil y con carácter. Gracias a su tejido liviano y transpi",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28961-98fe3bb3d68c4ab1ef17867094090366-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-lola-ijxvb/",
+      "position": 9999
+    },
+    {
+      "id": "360881526",
+      "sku": "6398280|5|15",
+      "name": "PANTALON BARCELONA",
+      "description": "Pantalón Barcelona: comodidad y funcionalidad en un diseño atemporal Este pantalón recto está confeccionado en tela rústica, que le aporta una textura resistente y confortable para el uso diario. Su diseño incluye prácticos bolsillos y un cordón ajustable en la cintura, facilitando un calce personalizado y mayor comodidad. Ideal para quienes buscan una prenda versátil, el Pantalón Barcelona combin",
+      "price": 23000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28715-0ee08685f0fb394fff17867086458562-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-barcelona-1r28w/",
+      "position": 9999
+    },
+    {
+      "id": "360881480",
+      "sku": "7699640|5|74",
+      "name": "BOMBACHO TARRAGONA",
+      "description": "Bombacho Tarragona: el pantalón bombachón que combina elegancia y comodidad en cada detalle. Diseñado con pinzas que realzan la silueta y lazos laterales que aportan un toque distintivo y femenino. Confeccionado en poplin rayado , una tela ligera y fresca, ideal para el clima argentino, que asegura comodidad durante todo el día. Su diseño amplio permite libertad de movimiento sin perder estilo, pe",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28775-39d24c758070e623e417867095297406-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Amor mío",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/bombacho-tarragona-l1384/",
+      "position": 9999
+    },
+    {
+      "id": "360881447",
+      "sku": "9399530|5|8",
+      "name": "MAXIFALDA CANARIAS",
+      "description": "Maxifalda Canarias: la prenda imprescindible para quienes buscan elegancia y comodidad en un solo diseño. Esta maxifalda está confeccionada en rasa sublimada , una tela que combina suavidad y un acabado brillante que aporta un toque sofisticado a cualquier outfit. Su diseño incluye un lazo delicado que realza la cintura, ofreciendo un ajuste cómodo y femenino. Ideal para múltiples ocasiones, desde",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28944-c8fc3c3813874be90317867102893384-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Faldas y Shorts"
+      ],
+      "url": "https://fressia.net/productos/maxifalda-canarias-15ybr/",
+      "position": 9999
+    },
+    {
+      "id": "360881370",
+      "sku": "2599610|5|156",
+      "name": "REMERA SASHA",
+      "description": "Remera Sasha: elegancia y comodidad en un diseño único . Esta remera de manga corta destaca por su escote asimétrico , que aporta un toque moderno y sofisticado a tu look diario. Confeccionada en tela Jersey s-ly , ofrece una textura suave, liviana y con excelente caída, ideal para mantener la frescura durante todo el día. Su composición permite libertad de movimiento y un ajuste cómodo que se ada",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28728-a73c4ccd5ea8541b9d17867089149858-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-sasha-pr7my/",
+      "position": 9999
+    },
+    {
+      "id": "360881348",
+      "sku": "7017590|5|9",
+      "name": "MUSCULOSA TENERIFE AM",
+      "description": "Musculosa Tenerife AM: una prenda fresca y sofisticada diseñada para quienes valoran el estilo y la comodidad. Esta musculosa está confeccionada en lino vintage , una tela natural que aporta una textura suave y un acabado elegante, ideal para los días cálidos. Su diseño destaca por el lazo en la espalda , que permite ajustar la prenda a tu medida, sumando un toque delicado y femenino. La musculosa",
+      "price": 13000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28399-84612beb5da802de3517867080160595-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-tenerife-am-uc8et/",
+      "position": 9999
+    },
+    {
+      "id": "360881293",
+      "sku": "7299450|5|9",
+      "name": "BOMBACHO ZAHARA",
+      "description": "Bombacho Zahara: comodidad y estilo con un toque único. Este pantalón bombacho está confeccionado en poplin rayado , una tela liviana y fresca que aporta textura y movimiento a la prenda. Su diseño incluye un lazo en la botamanga, que permite ajustar el ancho y darle un detalle delicado y sofisticado. Perfecto para quienes buscan una prenda versátil, el Bombacho Zahara combina la comodidad de un p",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28912-ed57e1368ade2af8ed17867106229659-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/bombacho-zahara-1740x/",
+      "position": 9999
+    },
+    {
+      "id": "360881198",
+      "sku": "7599703|5|156",
+      "name": "MUSCULOSA NEREA",
+      "description": "Musculosa Nerea: elegancia y comodidad en una sola prenda . Esta musculosa de cuello bote se destaca por su diseño sofisticado y femenino, ideal para quienes buscan un estilo sencillo pero con detalles que marcan la diferencia. Confeccionada en Modal Soft , una tela reconocida por su suavidad y caída natural, brinda una sensación agradable sobre la piel y una excelente transpirabilidad. Su espalda",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28979-c7a22476c93b0676d917867112058419-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-nerea-1mkoh/",
+      "position": 9999
+    },
+    {
+      "id": "360881153",
+      "sku": "7017460|5|9",
+      "name": "PANTALON MALLORCA AM",
+      "description": "Musculosa AM con lazo en espalda: elegancia y frescura en una sola prenda. Esta musculosa está confeccionada en lino vintage , una tela ligera y transpirable que aporta un toque natural y sofisticado a tu look. Diseñada para brindar comodidad y estilo, su principal detalle es el lazo en la espalda, que permite ajustar y realzar la silueta de manera delicada y femenina. Pertenece a la línea Amor Mi",
+      "price": 22000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28383-e0fc220756326fb3b817867079427698-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-mallorca-am-15lol/",
+      "position": 9999
+    },
+    {
+      "id": "360881125",
+      "sku": "7118230|5|54",
+      "name": "PANTALON MURCIA AM",
+      "description": "Pantalón Murcia AM : elegancia y comodidad en una sola prenda. Este pantalón con lazo y cintura con volado está confeccionado en lino sastrero , una tela que combina resistencia y frescura, perfecta para quienes buscan una opción sofisticada y cómoda. Forma parte de la exclusiva línea Amor Mio , diseñada especialmente para adaptarse a talles grandes sin perder estilo ni calidad. Su diseño con cint",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28306-43954be26c4a3ee42417867103788510-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Natural",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-murcia-am-8zx2f/",
+      "position": 9999
+    },
+    {
+      "id": "360881107",
+      "sku": "0499590|5|15",
+      "name": "MUSCULOSA SURI",
+      "description": "Musculosa Suri: comodidad y estilo en una prenda esencial. Esta musculosa presenta un escote redondo clásico que brinda un ajuste cómodo y favorecedor. Está confeccionada en Morley con lycra , una tela que combina suavidad, elasticidad y durabilidad, ideal para acompañarte durante todo el día. Los vivos anchos en los bordes le aportan un detalle distintivo que realza su diseño sencillo y funcional",
+      "price": 7500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28952-4412938d6d42020a7717867100660633-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-suri-12jbz/",
+      "position": 9999
+    },
+    {
+      "id": "360881006",
+      "sku": "0487114|5|15",
+      "name": "MUSCULOSA LEA",
+      "description": "La Musculosa Lea es la prenda b&aacute;sica ideal para sumar comodidad y estilo a tu guardarropa. Confeccionada en Morley c-ly , una tela suave y liviana que garantiza frescura y un ajuste c&oacute;modo durante todo el d&iacute;a. Su dise&ntilde;o sencillo se realza con detalles de hotfix que aportan un toque sutil de brillo y modernidad, haciendo que esta musculosa sea perfecta para combinar tant",
+      "price": 8500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28897-901720b9342d3b41e417867102109536-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-lea-1ta4b/",
+      "position": 9999
+    },
+    {
+      "id": "360880974",
+      "sku": "2591374|5|156",
+      "name": "REMERA MOANA",
+      "description": "Remera Moana: comodidad y detalle en una prenda esencial Descubrí la Remera Moana , una remera sin mangas diseñada para ofrecer frescura y estilo en cada uso. Confeccionada en tela Jersey s-ly, garantiza una textura suave y ligera, perfecta para acompañarte durante todo el día. Su diseño destaca por el hot fix en las sisas , un detalle brillante que aporta un toque de sofisticación sin perder la s",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28743-256abdc060adc837de17867090348931-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-moana-1gmi5/",
+      "position": 9999
+    },
+    {
+      "id": "360880949",
+      "sku": "2515414|5|156",
+      "name": "REMERA MOANA AM",
+      "description": "Remera Moana AM : una prenda esencial para tu guardarropa de verano. Esta remera sin mangas, parte de la exclusiva LINEA AMOR MIO , est&aacute; confeccionada en tela Jersey s-ly , que garantiza una textura suave y fresca para los d&iacute;as c&aacute;lidos. Destaca por su dise&ntilde;o moderno con hot fix en las sisas , que a&ntilde;ade un detalle luminoso y elegante, y un ruedo al corte que aport",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28419-0b155691c33f2023d717867083250574-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-moana-am-1h1wb/",
+      "position": 9999
+    },
+    {
+      "id": "360880901",
+      "sku": "7199560|5|139",
+      "name": "PANTALON MURCIA",
+      "description": "Pantal&oacute;n Murcia: elegancia y comodidad en cada detalle. Este pantal&oacute;n con lazo y cintura con volado est&aacute; confeccionado en lino sastrero , una tela que combina resistencia y suavidad ideal para quienes buscan una prenda fresca y sofisticada. Su dise&ntilde;o con cintura alta y volado aporta un toque femenino y moderno, mientras que el lazo permite ajustar el fit para mayor como",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28161-e974d79c312ae49cf817867062297387-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Mocca",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Natural",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-murcia-1o7dk/",
+      "position": 9999
+    },
+    {
+      "id": "360880744",
+      "sku": "7196660|5|9",
+      "name": "SHORT SATRERO",
+      "description": "Short Sastrero: el básico sofisticado para tu verano Este short sastrero con pinzas es la prenda ideal para quienes buscan combinar estilo y comodidad en climas cálidos. Confeccionado en lino sastrero , una tela fresca y liviana, garantiza una sensación agradable durante todo el día. Su diseño con pinzas aporta un toque de elegancia y estructura, perfecto para armar looks formales o casuales con u",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_fwcentfwcentfwce-d198cce4f72e8fd48a17867106917798-1024-1024.png",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Militar",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Faldas y Shorts"
+      ],
+      "url": "https://fressia.net/productos/short-satrero-358lg/",
+      "position": 9999
+    },
+    {
+      "id": "360880667",
+      "sku": "0499783|5|156",
+      "name": "REMERA ALAIA",
+      "description": "Remera Alaia: comodidad y estilo en cada detalle. Esta remera manga al codo está diseñada pensando en vos que buscás una prenda versátil y moderna. Sus mangas y ruedo con rulotte aportan un toque delicado y femenino, ideal para combinar en distintos looks. Confeccionada en tela Morley c-ly , ofrece una textura suave y confortable, perfecta para todo el día. Esta tela garantiza elasticidad y durabi",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28656-e2c7ae5a24a7e31a1717867092986559-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-alaia-1em1z/",
+      "position": 9999
+    },
+    {
+      "id": "360880351",
+      "sku": "0418323|5|156",
+      "name": "REMERA ALAIA AM",
+      "description": "Remera Alaia AM: comodidad y estilo en cada detalle Descubrí la Remera Alaia AM , una prenda pensada para quienes buscan combinar comodidad y diseño en su día a día. Esta remera de manga al codo presenta un delicado rulotte en las mangas y el ruedo, que aporta un toque de sofisticación sutil y moderno. Confeccionada en Morley c-ly , una tela suave, liviana y con excelente caída, garantiza frescura",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28265-ab693c429070752f4317867076171045-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-alaia-am-1v62e/",
+      "position": 9999
+    },
+    {
+      "id": "360880263",
+      "sku": "7696150|5|9",
+      "name": "PANTALON MENORCA",
+      "description": "Pantalón Menorca : el pantalón recto que combina estilo y funcionalidad para tu día a día. Diseñado con un práctico lazo y un elástico en la cintura, ofrece un ajuste cómodo y adaptable a diferentes tipos de cuerpo. Confeccionado en tela Retro Stripe , este pantalón aporta un toque vintage y sofisticado a tu look, ideal para quienes buscan una prenda versátil y moderna. Su corte recto garantiza un",
+      "price": 22000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28655-fb209a6aee1a52987017867085863130-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-menorca-so732/",
+      "position": 9999
+    },
+    {
+      "id": "360880194",
+      "sku": "7616180|5|9",
+      "name": "PANTALON MENORCA AM",
+      "description": "Pantalón Menorca AM : diseño recto y comodidad en cada detalle. Este pantalón cuenta con un práctico lazo y elástico en la cintura que garantiza un ajuste perfecto y adaptable a diferentes talles grandes. Confeccionado en tela Retro Stripe , ofrece una textura única y un estilo atemporal que se integra fácilmente en tu guardarropa. Forma parte de la línea Amor Mio , pensada especialmente para resa",
+      "price": 23000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28791-4390b71a4329bfc86817867096346762-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-menorca-am-188vv/",
+      "position": 9999
+    },
+    {
+      "id": "359056645",
+      "sku": "7099330|5|9",
+      "name": "PANTALON BOMBACHO CORUÑA",
+      "description": "Pantal&oacute;n Bombacho Coru&ntilde;a: un dise&ntilde;o c&oacute;modo y original para tu d&iacute;a a d&iacute;a. Confeccionado en lino vintage , este pantal&oacute;n bombacho destaca por su tela fresca y transpirable, ideal para climas templados y c&aacute;lidos. Su corte amplio y su cintura c&oacute;moda permiten libertad de movimiento sin sacrificar estilo. Perfecto para quienes buscan una pre",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28193-b4a010828db28aeed417867064745810-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-bombacho-coruna-vm5sk/",
+      "position": 9999
+    },
     {
       "id": "354357245",
       "sku": "8795665|5|9",
@@ -37,8 +802,8 @@
         }
       ],
       "categories": [
-        "Colección principal",
-        "Buzos y Camperas"
+        "SALE",
+        "AMARILLO $10.000"
       ],
       "url": "https://fressia.net/productos/poleron-dubai-liso-vzir3/",
       "position": 9999
@@ -62,10 +827,7 @@
       ],
       "categories": [
         "SALE",
-        "VERDE $12.000",
-        "Colección principal",
-        "Buzos y Camperas",
-        "Argentina"
+        "AMARILLO $10.000"
       ],
       "url": "https://fressia.net/productos/buzo-campeones-ehpi0/",
       "position": 9999
@@ -105,9 +867,7 @@
       ],
       "categories": [
         "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Remeras y Musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/polera-fiona-1cn0c/",
       "position": 9999
@@ -130,11 +890,41 @@
       ],
       "categories": [
         "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Remeras y Musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-mora-yog6p/",
+      "position": 9999
+    },
+    {
+      "id": "351397860",
+      "sku": "0126245|5|9",
+      "name": "SWEATER MERINO",
+      "description": "",
+      "price": 30000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_89af4fba-4ed7-4e3e-881a-1d8e0f71eeaa_5053574_5545376-a82828ea35c5346d6617822310172045-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Sweaters"
+      ],
+      "url": "https://fressia.net/productos/sweater-merino-ni5h1/",
       "position": 9999
     },
     {
@@ -168,9 +958,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5/6.000",
-        "Colección principal",
-        "Buzos y Camperas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/buzo-seattle-yyzel/",
       "position": 9999
@@ -201,8 +989,8 @@
         }
       ],
       "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
+        "SALE",
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/polera-leyre-40i2c/",
       "position": 9999
@@ -236,7 +1024,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "SALE",
+        "ROJO  $5/6.000"
+      ],
       "url": "https://fressia.net/productos/polera-zahra-1m06b/",
       "position": 9999
     },
@@ -262,8 +1053,8 @@
         }
       ],
       "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
+        "SALE",
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/polera-anouk-nivge/",
       "position": 9999
@@ -292,9 +1083,7 @@
       ],
       "categories": [
         "SALE",
-        "VERDE $12.000",
-        "Amor mío",
-        "Pantalones"
+        "AMARILLO $10.000"
       ],
       "url": "https://fressia.net/productos/pantalon-robben-am-d5kx3/",
       "position": 9999
@@ -325,8 +1114,8 @@
         }
       ],
       "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
+        "SALE",
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-vania-qi01u/",
       "position": 9999
@@ -357,8 +1146,8 @@
         }
       ],
       "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
+        "SALE",
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-gaia-dyw2t/",
       "position": 9999
@@ -389,8 +1178,9 @@
         }
       ],
       "categories": [
-        "Colección principal",
-        "Básicos - Esenciales"
+        "SALE",
+        "ROJO  $5/6.000",
+        "AMARILLO $10.000"
       ],
       "url": "https://fressia.net/productos/polera-dantea-12mdg/",
       "position": 9999
@@ -423,9 +1213,7 @@
       ],
       "categories": [
         "SALE",
-        "NARANJA $8.000",
-        "Amor mío",
-        "Buzos y Camperas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/buzo-toronto-liso-am-uhsvu/",
       "position": 9999
@@ -449,9 +1237,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5/6.000",
-        "Colección principal",
-        "Remeras y Musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-amara-1cr3t/",
       "position": 9999
@@ -480,10 +1266,7 @@
       ],
       "categories": [
         "SALE",
-        "VERDE $12.000",
-        "Amor mío",
-        "Pantalones",
-        "Conjuntos"
+        "AMARILLO $10.000"
       ],
       "url": "https://fressia.net/productos/flare-new-york-am-hzikl/",
       "position": 9999
@@ -511,9 +1294,8 @@
       ],
       "categories": [
         "SALE",
-        "SWEATERS 3X2",
-        "Colección principal",
-        "Sweaters"
+        "VIOLETA $20.000 Y +",
+        "SWEATERS 3X2"
       ],
       "url": "https://fressia.net/productos/sweater-snuggle-o1015/",
       "position": 9999
@@ -537,9 +1319,7 @@
       ],
       "categories": [
         "SALE",
-        "Colección principal",
-        "Remeras y Musculosas",
-        "Argentina"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/musculosa-alma-17dc6/",
       "position": 9999
@@ -566,9 +1346,8 @@
         }
       ],
       "categories": [
-        "Colección principal",
-        "Pantalones",
-        "Conjuntos"
+        "SALE",
+        "VIOLETA $20.000 Y +"
       ],
       "url": "https://fressia.net/productos/pantalon-rome-frisa-sif3d/",
       "position": 9999
@@ -596,10 +1375,7 @@
       ],
       "categories": [
         "SALE",
-        "VERDE $12.000",
-        "Colección principal",
-        "Buzos y Camperas",
-        "Conjuntos"
+        "AMARILLO $10.000"
       ],
       "url": "https://fressia.net/productos/buzo-airy-frisa-1mx5z/",
       "position": 9999
@@ -622,8 +1398,8 @@
         }
       ],
       "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
+        "SALE",
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-agatha-11i53/",
       "position": 9999
@@ -634,7 +1410,7 @@
       "name": "PANTALON BARREL",
       "description": "Pantalón amplio con pinza y recortes Tela: Frisa",
       "price": 24000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14711-4bca3499aeffe8989317761691436800-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28831-ee49904ce90d28209617867098251394-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -675,9 +1451,8 @@
         }
       ],
       "categories": [
-        "Colección principal",
-        "Remeras y Musculosas",
-        "Argentina"
+        "SALE",
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-argentina-1mter/",
       "position": 9999
@@ -705,11 +1480,7 @@
       ],
       "categories": [
         "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Activewear",
-        "Buzos y Camperas",
-        "Conjuntos"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/buzo-fly-1rfhr/",
       "position": 9999
@@ -740,8 +1511,8 @@
         }
       ],
       "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
+        "SALE",
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-eira-mrx6z/",
       "position": 9999
@@ -774,9 +1545,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5/6.000",
-        "Amor mío",
-        "Remeras y Musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-zaida-am-13lqt/",
       "position": 9999
@@ -816,9 +1585,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5/6.000",
-        "Colección principal",
-        "Buzos y Camperas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/buzo-wool-m9b7p/",
       "position": 9999
@@ -842,8 +1609,7 @@
       ],
       "categories": [
         "SALE",
-        "Colección principal",
-        "Remeras y Musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-sophia-yfavi/",
       "position": 9999
@@ -871,9 +1637,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5/6.000",
-        "Colección principal",
-        "Remeras y Musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-zaida-1jbao/",
       "position": 9999
@@ -897,9 +1661,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5/6.000",
-        "Amor mío",
-        "Remeras y Musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-yara-am-h6x95/",
       "position": 9999
@@ -923,9 +1685,7 @@
       ],
       "categories": [
         "SALE",
-        "ROJO  $5/6.000",
-        "Colección principal",
-        "Remeras y Musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-yara-16lhy/",
       "position": 9999
@@ -954,10 +1714,7 @@
       ],
       "categories": [
         "SALE",
-        "VERDE $12.000",
-        "Amor mío",
-        "Pantalones",
-        "Básicos - Esenciales"
+        "AMARILLO $10.000"
       ],
       "url": "https://fressia.net/productos/pantalon-brooklyn-am-1a5wh/",
       "position": 9999
@@ -966,9 +1723,9 @@
       "id": "323100377",
       "sku": "0475335|5|9",
       "name": "REMERA ELSA",
-      "description": "Tela: Morley cotton con lycra",
+      "description": "Remera Elsa: la prenda b&aacute;sica que tu guardarropa necesita. Confeccionada en Morley c-ly , una tela que combina suavidad y elasticidad, esta remera b&aacute;sica ofrece una comodidad superior para el uso diario. Su dise&ntilde;o con escote redondo cl&aacute;sico aporta un estilo atemporal y vers&aacute;til, ideal para combinar con diferentes looks. El detalle de hotfix en la prenda a&ntilde;",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3f9269fd-1442-464a-be48-b0b4a771c462_5053574_5545376-00771d7484a04617c217810934468730-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28557-2c7f572400155a8e2e17867084152493-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -987,7 +1744,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-elsa-nb81v/",
       "position": 9999
     },
@@ -1019,8 +1779,7 @@
       ],
       "categories": [
         "SALE",
-        "Colección principal",
-        "Vestidos y Monos"
+        "AMARILLO $10.000"
       ],
       "url": "https://fressia.net/productos/vestido-ibiza-wpqsr/",
       "position": 9999
@@ -1097,9 +1856,7 @@
       ],
       "categories": [
         "SALE",
-        "Colección principal",
-        "Remeras y Musculosas",
-        "Básicos - Esenciales"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/muscu-isabella-1h0wl/",
       "position": 9999
@@ -1127,7 +1884,6 @@
         }
       ],
       "categories": [
-        "SALE",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -1184,11 +1940,7 @@
       ],
       "categories": [
         "SALE",
-        "NARANJA $8.000",
-        "Colección principal",
-        "Abrigos",
-        "Buzos y Camperas",
-        "Sweaters"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/cardigan-sin-botones/",
       "position": 9999
@@ -1233,9 +1985,9 @@
       "id": "287790033",
       "sku": "0415100|5|15",
       "name": "REMERA ASTRID",
-      "description": "Tela: Morley",
+      "description": "Remera b&aacute;sica escote redondo con hot fix Tela: Morley con lycra",
       "price": 13500.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-08-0650765-5ead27e8e72fd64e5517552733947711-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28316-6ee43097a81451a52117867077513373-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1255,7 +2007,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-astrid-1n8oe/",
       "position": 9999
     },
@@ -1265,7 +2020,7 @@
       "name": "MUSCULOSA NUR",
       "description": "Musculosa escote redondo con hotfix. Tela: Morley con lycra",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28241-3f264c6e5900941f0717867073985795-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28238-e6946d9d8fc38520a417867073985552-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1319,10 +2074,7 @@
       ],
       "categories": [
         "SALE",
-        "VIOLETA $20.000 Y +",
-        "Colección principal",
-        "Abrigos",
-        "Buzos y Camperas"
+        "AMARILLO $10.000"
       ],
       "url": "https://fressia.net/productos/saco-corazon-1x8lf/",
       "position": 9999
@@ -1345,8 +2097,7 @@
       ],
       "categories": [
         "SALE",
-        "Amor mío",
-        "Buzos y Camperas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/buzo-rayado-escote-redondo3/",
       "position": 9999
@@ -1370,9 +2121,7 @@
       ],
       "categories": [
         "SALE",
-        "Colección principal",
-        "Abrigos",
-        "Buzos y Camperas"
+        "VIOLETA $20.000 Y +"
       ],
       "url": "https://fressia.net/productos/saco-con-bolsillos1/",
       "position": 9999
@@ -1412,8 +2161,8 @@
         }
       ],
       "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
+        "SALE",
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-eudora-7wl5x/",
       "position": 9999
@@ -1494,7 +2243,6 @@
         }
       ],
       "categories": [
-        "SALE",
         "Amor mío",
         "Remeras y Musculosas"
       ],
@@ -1528,7 +2276,8 @@
         }
       ],
       "categories": [
-        "SALE",
+        "Colección principal",
+        "Remeras y Musculosas",
         "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/musculosa-cora-1v5ef/",
