@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-19T15:30:07.989511+00:00",
+  "updated_at": "2026-08-19T16:30:06.441395+00:00",
   "store_id": "5053574",
-  "count": 86,
+  "count": 84,
   "products": [
     {
       "id": "361869867",
@@ -9,7 +9,7 @@
       "name": "MUSCULOSA THAIS AM",
       "description": "",
       "price": 10500.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_h183nmh183nmh183-8e49874b475ba4f4ad17871539359055-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -29,67 +29,11 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/musculosa-thais-am-i10jn/",
-      "position": 9999
-    },
-    {
-      "id": "361866707",
-      "sku": "0127080|5|9",
-      "name": "PANTALON CORCEGA",
-      "description": "",
-      "price": 45000.0,
-      "image": "",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Vison",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [],
-      "url": "https://fressia.net/productos/pantalon-corcega-o6nfy/",
-      "position": 9999
-    },
-    {
-      "id": "361866387",
-      "sku": "0127070|4|9",
-      "name": "TOP CORCEGA",
-      "description": "",
-      "price": 35000.0,
-      "image": "",
-      "sizes": [
-        "L",
-        "M",
-        "S"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Vison",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [],
-      "url": "https://fressia.net/productos/top-corcega-qqqzh/",
       "position": 9999
     },
     {
