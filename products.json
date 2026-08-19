@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-19T19:23:48.796102+00:00",
+  "updated_at": "2026-08-19T20:26:01.443393+00:00",
   "store_id": "5053574",
-  "count": 86,
+  "count": 88,
   "products": [
     {
       "id": "361898634",
@@ -99,6 +99,74 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-thais-am-i10jn/",
+      "position": 9999
+    },
+    {
+      "id": "361866707",
+      "sku": "0127080|5|9",
+      "name": "PANTALON CORCEGA",
+      "description": "",
+      "price": 45000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vx069rvx069rvx06-dc7d4af0578c91fd8617871679678798-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Vison",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-corcega-o6nfy/",
+      "position": 9999
+    },
+    {
+      "id": "361857947",
+      "sku": "0127060|5|156",
+      "name": "MUSCULOSA LYRA",
+      "description": "",
+      "price": 32000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vn12omvn12omvn12-e58f3c336d3aaa671b17871505337421-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Vison",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-lyra-wsbor/",
       "position": 9999
     },
     {
