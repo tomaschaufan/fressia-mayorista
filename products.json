@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-08-19T11:23:59.511727+00:00",
+  "updated_at": "2026-08-19T12:44:10.818565+00:00",
   "store_id": "5053574",
-  "count": 80,
+  "count": 81,
   "products": [
+    {
+      "id": "361837156",
+      "sku": "0999790|5|15",
+      "name": "MUSCULOSA ODESSA",
+      "description": "",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_b0yjjtb0yjjtb0yj-5027b1e101b179599b17871430858349-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-odessa-1paq7/",
+      "position": 9999
+    },
     {
       "id": "361642262",
       "sku": "4999680|5|15",
@@ -1458,7 +1483,15 @@
       ],
       "colors": [
         {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
           "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Marron",
           "hex": "#cccccc"
         },
         {
