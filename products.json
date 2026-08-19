@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-08-19T13:42:44.156803+00:00",
+  "updated_at": "2026-08-19T14:32:51.565863+00:00",
   "store_id": "5053574",
-  "count": 82,
+  "count": 83,
   "products": [
+    {
+      "id": "361851835",
+      "sku": "0918360|5|15",
+      "name": "REMERA KALI",
+      "description": "",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_euf1ckeuf1ckeuf1-da6777da7995b1319317871486264070-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-kali-i95c8/",
+      "position": 9999
+    },
     {
       "id": "361844222",
       "sku": "0999820|5|15",
@@ -144,7 +169,7 @@
       "id": "361041879",
       "sku": "0999650|5|16",
       "name": "BODY ZUMAIA",
-      "description": "",
+      "description": "Body Zumaia: elegancia y estilo en una sola prenda . Este body con escote base y top bando strapless está diseñado para realzar tu figura con un toque moderno y sofisticado. Confeccionado en microtul , una tela ligera y delicada, ofrece una sensación de suavidad y comodidad ideal para usar todo el día. Su diseño sin tiras proporciona un look limpio y versátil, perfecto para combinar con prendas ta",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28440-cf1f06a0dfe1d06ab117867221804470-1024-1024.jpg",
       "sizes": [
@@ -167,7 +192,7 @@
       "id": "361039246",
       "sku": "7118220|5|54",
       "name": "CHALECO MALAGA AM",
-      "description": "",
+      "description": "Chaleco Malaga AM: elegancia y comodidad en cada detalle Descubr&iacute; el Chaleco Malaga AM , parte de la exclusiva l&iacute;nea Amor Mio , dise&ntilde;ado para quienes valoran la sofisticaci&oacute;n y el confort. Confeccionado en lino sastrero de alta calidad , su textura suave y fresca es ideal para cualquier temporada. Este chaleco se destaca por su lazo para atar , que permite ajustar la pr",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28354-8c1d2e9f5cd1717ca617867214303014-1024-1024.jpg",
       "sizes": [
@@ -196,7 +221,7 @@
       "id": "361035693",
       "sku": "7199550|5|139",
       "name": "CHALECO MALAGA",
-      "description": "Chaleco con lazo para atar. Tela: Lino sastrero",
+      "description": "Chaleco Malaga: sofisticaci&oacute;n y comodidad en una sola prenda. Este chaleco est&aacute; confeccionado en lino sastrero , una tela de alta calidad que aporta estructura y ligereza, ideal para quienes buscan elegancia sin renunciar al confort. Su dise&ntilde;o incluye un lazo para atar, que permite ajustar la prenda a tu medida y aporta un toque femenino y refinado. Perfecto para combinar con ",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28162-4fa526bee34417866817867207117091-1024-1024.jpg",
       "sizes": [
