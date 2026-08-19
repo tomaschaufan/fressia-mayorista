@@ -1,8 +1,73 @@
 {
-  "updated_at": "2026-08-19T16:30:06.441395+00:00",
+  "updated_at": "2026-08-19T17:25:34.041882+00:00",
   "store_id": "5053574",
-  "count": 84,
+  "count": 86,
   "products": [
+    {
+      "id": "361898634",
+      "sku": "2515202|5|156",
+      "name": "REMERA TRUE LOVE AM",
+      "description": "",
+      "price": 11000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_9qoa2w9qoa2w9qoa-b196812455e922860b17871589602870-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-true-love-am-1ggpy/",
+      "position": 9999
+    },
+    {
+      "id": "361887172",
+      "sku": "2598192|5|156",
+      "name": "REMERA TRUE LOVE",
+      "description": "",
+      "price": 11000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_fulj4wfulj4wfulj-039a3ff3b96b3a2f3f17871581955116-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-true-love-10ja8/",
+      "position": 9999
+    },
     {
       "id": "361869867",
       "sku": "0914194|5|15",
