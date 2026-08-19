@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-08-19T12:44:10.818565+00:00",
+  "updated_at": "2026-08-19T13:42:44.156803+00:00",
   "store_id": "5053574",
-  "count": 81,
+  "count": 82,
   "products": [
+    {
+      "id": "361844222",
+      "sku": "0999820|5|15",
+      "name": "REMERA INA",
+      "description": "",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_rvojq4rvojq4rvoj-6a7759d57399670bbc17871465094392-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-ina-crq4l/",
+      "position": 9999
+    },
     {
       "id": "361837156",
       "sku": "0999790|5|15",
@@ -204,7 +228,7 @@
       "id": "361032317",
       "sku": "0994194|5|15",
       "name": "MUSCULOSA KIRA",
-      "description": "Musculosa, espalda deportiva con dije en centro de espalda. Tela:Morley rayado c-ly",
+      "description": "Musculosa Kira: comodidad y estilo en cada detalle Descubr&iacute; la Musculosa Kira , una prenda dise&ntilde;ada para quienes valoran la comodidad sin resignar el estilo. Confeccionada en suave tela Morley rayado c-ly, ofrece una textura liviana y fresca, ideal para acompa&ntilde;arte en tus actividades diarias o entrenamientos. Su dise&ntilde;o destaca por la espalda deportiva, que incluye un di",
       "price": 8500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28870-ece1845da85d26d60617867194520786-1024-1024.jpg",
       "sizes": [
