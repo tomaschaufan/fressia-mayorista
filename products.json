@@ -1,8 +1,44 @@
 {
-  "updated_at": "2026-08-20T18:37:30.896882+00:00",
+  "updated_at": "2026-08-20T19:30:04.371701+00:00",
   "store_id": "5053574",
-  "count": 91,
+  "count": 92,
   "products": [
+    {
+      "id": "362167822",
+      "sku": "0127090|5|9",
+      "name": "VESTIDO TULIP",
+      "description": "",
+      "price": 65000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_roj0zbroj0zbroj0-abda6fc0bc2899efe517872520379887-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Vestidos y Monos"
+      ],
+      "url": "https://fressia.net/productos/vestido-tulip-z0dgc/",
+      "position": 9999
+    },
     {
       "id": "361898634",
       "sku": "2515202|5|156",
