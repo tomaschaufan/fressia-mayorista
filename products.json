@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-20T10:29:04.460682+00:00",
+  "updated_at": "2026-08-20T11:25:16.618424+00:00",
   "store_id": "5053574",
-  "count": 88,
+  "count": 89,
   "products": [
     {
       "id": "361898634",
@@ -107,7 +107,7 @@
       "name": "PANTALON CORCEGA",
       "description": "",
       "price": 45000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vx069rvx069rvx06-dc7d4af0578c91fd8617871679678798-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_g0l2uhg0l2uhg0l2-e71ac7326a1f9c4a5e17872232857910-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -131,6 +131,36 @@
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/pantalon-corcega-o6nfy/",
+      "position": 9999
+    },
+    {
+      "id": "361866387",
+      "sku": "0127070|4|9",
+      "name": "TOP CORCEGA",
+      "description": "",
+      "price": 35000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_g0l2uhg0l2uhg0l2-d0be38959802d70a8b17872232522203-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Vison",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/top-corcega-qqqzh/",
       "position": 9999
     },
     {
@@ -1863,7 +1893,6 @@
       "price": 5000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c6b74779-e155-40ec-8785-9a15d6eeaf65_5053574_5545376-ae189117f7e00bdb1217822415098511-1024-1024.png",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
