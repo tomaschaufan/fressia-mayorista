@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T08:38:52.875438+00:00",
+  "updated_at": "2026-08-21T09:35:06.286179+00:00",
   "store_id": "5053574",
   "count": 92,
   "products": [
@@ -1365,15 +1365,8 @@
       "description": "Remera Mora : una prenda esencial para tu guardarropa. Confeccionada en tela Ribb Darlon , conocida por su suavidad y durabilidad, esta remera ofrece un ajuste c&oacute;modo y elegante. Su dise&ntilde;o incluye un escote base que realza tu estilo, acompa&ntilde;ado de una etiqueta bordada que aporta un detalle &uacute;nico y sofisticado. Ideal para combinar con cualquier look diario, la Remera Mor",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_47e1f1ba-8ac1-435c-8c8a-5447ef47b470_5053574_5545376-041e13e5d740c87d2017821432656613-1024-1024.png",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Morado",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000"
