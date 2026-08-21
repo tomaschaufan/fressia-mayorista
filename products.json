@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-08-21T18:35:18.258622+00:00",
+  "updated_at": "2026-08-21T19:24:43.270921+00:00",
   "store_id": "5053574",
-  "count": 95,
+  "count": 97,
   "products": [
+    {
+      "id": "362343363",
+      "sku": "0418330|5|156",
+      "name": "REMERA ELORE AM",
+      "description": "",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_4khsv84khsv84khs-4758443416ed8e9bab17873401695503-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-elore-am-ndgmf/",
+      "position": 9999
+    },
+    {
+      "id": "362343339",
+      "sku": "0453860|5|156",
+      "name": "REMERA ELORE",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_m194htm194htm194-eab899410fa4f3326e17873393110048-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-elore-oqjmg/",
+      "position": 9999
+    },
     {
       "id": "362342734",
       "sku": "0127120|5|9",
