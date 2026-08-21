@@ -1,8 +1,80 @@
 {
-  "updated_at": "2026-08-21T15:32:07.815429+00:00",
+  "updated_at": "2026-08-21T16:33:12.160378+00:00",
   "store_id": "5053574",
-  "count": 92,
+  "count": 94,
   "products": [
+    {
+      "id": "362324545",
+      "sku": "0127110|5|9",
+      "name": "BOMBACHO GIRONA",
+      "description": "",
+      "price": 45000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_nue5b5nue5b5nue5-b56184d871a2e3452d17873297092470-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/bombacho-girona-1loqm/",
+      "position": 9999
+    },
+    {
+      "id": "362320392",
+      "sku": "0127100|5|9",
+      "name": "PANTALON GANDIA",
+      "description": "",
+      "price": 59000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_xfegmfxfegmfxfeg-93e8285d8869a8b27a17873281970777-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-gandia-rwg63/",
+      "position": 9999
+    },
     {
       "id": "362167822",
       "sku": "0127090|5|9",
