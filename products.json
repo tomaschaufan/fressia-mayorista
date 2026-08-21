@@ -1,8 +1,44 @@
 {
-  "updated_at": "2026-08-21T17:27:37.095698+00:00",
+  "updated_at": "2026-08-21T18:35:18.258622+00:00",
   "store_id": "5053574",
-  "count": 94,
+  "count": 95,
   "products": [
+    {
+      "id": "362342734",
+      "sku": "0127120|5|9",
+      "name": "SHORT CANTABRIA",
+      "description": "",
+      "price": 39000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f68d54a7-53f5-4020-8c45-da4be283dfed_5053574_5545376-529fbe9d5eac2e6ad917873351029275-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Faldas y Shorts"
+      ],
+      "url": "https://fressia.net/productos/short-cantabria-1jtnf/",
+      "position": 9999
+    },
     {
       "id": "362324545",
       "sku": "0127110|5|9",
