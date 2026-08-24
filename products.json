@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24T11:27:15.794661+00:00",
+  "updated_at": "2026-08-24T12:48:46.966934+00:00",
   "store_id": "5053574",
-  "count": 97,
+  "count": 98,
   "products": [
     {
       "id": "362343363",
@@ -2506,6 +2506,24 @@
         "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/muscu-isabella-1h0wl/",
+      "position": 9999
+    },
+    {
+      "id": "323099706",
+      "sku": "7716415|5|15",
+      "name": "MUSCULOSA SOFIA",
+      "description": "Musculosa escote U",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313139-6dfe290f957c14f88d17744476152027-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas",
+        "SALE",
+        "Básicos - Esenciales"
+      ],
+      "url": "https://fressia.net/productos/musculosa-sofia-16amx/",
       "position": 9999
     },
     {
