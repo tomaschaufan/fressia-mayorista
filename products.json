@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:25:03.306137+00:00",
+  "updated_at": "2026-08-24T23:20:58.688462+00:00",
   "store_id": "5053574",
   "count": 101,
   "products": [
@@ -1785,10 +1785,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -2312,10 +2308,6 @@
         {
           "name": "Lima",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Rosa",
