@@ -1,8 +1,44 @@
 {
-  "updated_at": "2026-08-24T19:28:32.568625+00:00",
+  "updated_at": "2026-08-24T20:28:50.807468+00:00",
   "store_id": "5053574",
-  "count": 100,
+  "count": 101,
   "products": [
+    {
+      "id": "362963864",
+      "sku": "0127130|5|9",
+      "name": "MUSCU GANDIA",
+      "description": "",
+      "price": 29000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_gdfl3zgdfl3zgdfl-30025b91d9639d076a17876013585662-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/muscu-gandia-srt9u/",
+      "position": 9999
+    },
     {
       "id": "362846300",
       "sku": "7799880|5|15",
@@ -2592,7 +2628,6 @@
       "categories": [
         "Amor mío",
         "Remeras y Musculosas",
-        "SALE",
         "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/musculosa-sofia-16amx/",
@@ -2763,7 +2798,7 @@
       "categories": [
         "Amor mío",
         "Remeras y Musculosas",
-        "SALE"
+        "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/remera-basica-escote-redondo24/",
       "position": 9999
