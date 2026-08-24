@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T14:40:23.425745+00:00",
+  "updated_at": "2026-08-24T15:38:01.289927+00:00",
   "store_id": "5053574",
   "count": 100,
   "products": [
@@ -40,7 +40,10 @@
           "hex": "#e91e8c"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-soraya-1l78i/",
       "position": 9999
     },
@@ -2555,9 +2558,38 @@
       "name": "MUSCULOSA SOFIA",
       "description": "Musculosa escote U",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313139-6dfe290f957c14f88d17744476152027-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_1f2p471f2p471f2p-092a0c1a53916204de17875829965385-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas",
