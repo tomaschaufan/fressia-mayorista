@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24T12:48:46.966934+00:00",
+  "updated_at": "2026-08-24T13:50:44.157957+00:00",
   "store_id": "5053574",
-  "count": 98,
+  "count": 99,
   "products": [
     {
       "id": "362343363",
@@ -2644,6 +2644,44 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-con-lazo1/",
+      "position": 9999
+    },
+    {
+      "id": "287812325",
+      "sku": "7710020|5|9",
+      "name": "REMERA BÁSICA, ESCOTE REDONDO",
+      "description": "",
+      "price": 11000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-08-0650394-26a350f3fb210b911317563028513901-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Gris Melange",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas",
+        "SALE"
+      ],
+      "url": "https://fressia.net/productos/remera-basica-escote-redondo24/",
       "position": 9999
     },
     {
