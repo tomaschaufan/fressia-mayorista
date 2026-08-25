@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T10:31:43.575568+00:00",
+  "updated_at": "2026-08-25T11:26:17.385177+00:00",
   "store_id": "5053574",
   "count": 101,
   "products": [
@@ -78,7 +78,8 @@
       ],
       "categories": [
         "Colección principal",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/remera-soraya-1l78i/",
       "position": 9999
@@ -2500,8 +2501,8 @@
         }
       ],
       "categories": [
-        "SALE",
-        "AMARILLO $10.000"
+        "Colección principal",
+        "Vestidos y Monos"
       ],
       "url": "https://fressia.net/productos/vestido-ibiza-wpqsr/",
       "position": 9999
