@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-25T12:44:54.700631+00:00",
+  "updated_at": "2026-08-25T13:49:23.402336+00:00",
   "store_id": "5053574",
-  "count": 101,
+  "count": 102,
   "products": [
     {
       "id": "362963864",
@@ -2684,6 +2684,47 @@
       "position": 9999
     },
     {
+      "id": "298408675",
+      "sku": "0615200|5|156",
+      "name": "REMERA RHIA AM",
+      "description": "",
+      "price": 11000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-10-0102886-78a93fcee65e78909b17597684829110-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-box-fit2/",
+      "position": 9999
+    },
+    {
       "id": "292779497",
       "sku": "125075|4|100",
       "name": "CARDIGAN SIN BOTONES",
@@ -2833,7 +2874,7 @@
       "id": "287583487",
       "sku": "0414190|5|15",
       "name": "MUSCULOSA NUR",
-      "description": "Musculosa escote redondo con hotfix. Tela: Morley con lycra",
+      "description": "Musculosa Nur: elegancia y comodidad en una sola prenda . Esta musculosa destaca por su escote redondo cl&aacute;sico, que aporta un toque de sencillez y sofisticaci&oacute;n a cualquier look. Confeccionada en tela morley con lycra , ofrece una textura suave, fresca y con la elasticidad necesaria para un ajuste c&oacute;modo y favorecedor. Adem&aacute;s, el detalle de hotfix a&ntilde;ade un sutil ",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28238-e6946d9d8fc38520a417867073985552-1024-1024.jpg",
       "sizes": [
