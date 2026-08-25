@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T17:30:45.387750+00:00",
+  "updated_at": "2026-08-25T18:37:43.658133+00:00",
   "store_id": "5053574",
   "count": 104,
   "products": [
@@ -2982,9 +2982,14 @@
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14671-3e5ee63c8cfc75d96217767886341286-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        },
         {
           "name": "Surtido",
           "hex": "#cccccc"
