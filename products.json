@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T18:37:43.658133+00:00",
+  "updated_at": "2026-08-25T19:30:55.314388+00:00",
   "store_id": "5053574",
   "count": 104,
   "products": [
@@ -2987,8 +2987,16 @@
       ],
       "colors": [
         {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
           "name": "Fucsia",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
         },
         {
           "name": "Surtido",
