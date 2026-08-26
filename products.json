@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-08-26T14:42:39.225045+00:00",
+  "updated_at": "2026-08-26T16:16:43.874808+00:00",
   "store_id": "5053574",
-  "count": 107,
+  "count": 108,
   "products": [
+    {
+      "id": "363411475",
+      "sku": "7018260|5|16",
+      "name": "PANTALON GERONA AM",
+      "description": "",
+      "price": 23000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/pantalon-gerona-am-rx5gj/",
+      "position": 9999
+    },
     {
       "id": "363359596",
       "sku": "0698190|5|156",
