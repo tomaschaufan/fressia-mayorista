@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:16:43.874808+00:00",
+  "updated_at": "2026-08-26T19:01:02.270524+00:00",
   "store_id": "5053574",
   "count": 108,
   "products": [
@@ -9,7 +9,7 @@
       "name": "PANTALON GERONA AM",
       "description": "",
       "price": 23000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_2ruqim2ruqim2ruq-9823a8940eab8649b517877611360005-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -29,7 +29,10 @@
           "hex": "#2e7d32"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Pantalones"
+      ],
       "url": "https://fressia.net/productos/pantalon-gerona-am-rx5gj/",
       "position": 9999
     },
