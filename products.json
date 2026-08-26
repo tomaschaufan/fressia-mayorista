@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T13:53:30.299565+00:00",
+  "updated_at": "2026-08-26T14:42:39.225045+00:00",
   "store_id": "5053574",
   "count": 107,
   "products": [
@@ -9,7 +9,7 @@
       "name": "REMERA RHIA",
       "description": "",
       "price": 10000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_kdwjbwkdwjbwkdwj-aa5dc9a1f29e25d74a17877524813209-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -36,7 +36,10 @@
           "hex": "#e91e8c"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-rhia-19kra/",
       "position": 9999
     },
