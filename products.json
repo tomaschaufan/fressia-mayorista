@@ -1,8 +1,159 @@
 {
-  "updated_at": "2026-08-27T04:17:54.993999+00:00",
+  "updated_at": "2026-08-27T16:07:02.918487+00:00",
   "store_id": "5053574",
-  "count": 110,
+  "count": 115,
   "products": [
+    {
+      "id": "363690206",
+      "sku": "5096480|5|74",
+      "name": "BUZO LOS ANGELES",
+      "description": "",
+      "price": 16000.0,
+      "image": "",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/buzo-los-angeles-3eodl/",
+      "position": 9999
+    },
+    {
+      "id": "363675527",
+      "sku": "7518300|5|130",
+      "name": "BODY OLAYA AM",
+      "description": "",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28698-d9713e4a45eb3b15a417878449032627-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Mocca",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Bodys"
+      ],
+      "url": "https://fressia.net/productos/body-olaya-am-9pbit/",
+      "position": 9999
+    },
+    {
+      "id": "363672096",
+      "sku": "7599720|5|130",
+      "name": "BODY OLAYA",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28628-012182f1c8a475481017878443235687-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Mocca",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Bodys"
+      ],
+      "url": "https://fressia.net/productos/body-olaya-sxat3/",
+      "position": 9999
+    },
+    {
+      "id": "363631158",
+      "sku": "2515201|5|156",
+      "name": "REMERA LOVE IS AM",
+      "description": "",
+      "price": 11000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6e0d5fa7-66b0-47a3-b95d-2b50068d0f90_5053574_5545376-1a16105986e4440f1617878418159092-1024-1024.webp",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-love-is-am-1tog3/",
+      "position": 9999
+    },
+    {
+      "id": "363615540",
+      "sku": "2598191|5|156",
+      "name": "REMERA LOVE IS",
+      "description": "",
+      "price": 11000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f6c0a093-2789-4975-be64-a188d1c0f0b1_5053574_5545376-588c929185967daa2017878347527117-1024-1024.webp",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-love-is-7907g/",
+      "position": 9999
+    },
     {
       "id": "363489103",
       "sku": "0914383|5|15",
@@ -3132,10 +3283,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Negro",
