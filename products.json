@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T12:22:48.386845+00:00",
+  "updated_at": "2026-08-29T16:59:03.418698+00:00",
   "store_id": "5053574",
   "count": 115,
   "products": [
@@ -2159,17 +2159,12 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22703-dbe95150ee524682e017821454779960-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
