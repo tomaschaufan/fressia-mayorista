@@ -1,8 +1,154 @@
 {
-  "updated_at": "2026-09-01T13:08:41.403896+00:00",
+  "updated_at": "2026-09-01T17:38:03.256541+00:00",
   "store_id": "5053574",
-  "count": 115,
+  "count": 119,
   "products": [
+    {
+      "id": "364603258",
+      "sku": "4718310|5|74",
+      "name": "PREVENTA- REMERA DOTS AM",
+      "description": "PREVENTA EXCLUSIVA: Disponible para despachar a partir del Viernes 4-9",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_kaczbpkaczbpkacz-24be97d8affaf0366817882819428563-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-dots-am-1ca02/",
+      "position": 9999
+    },
+    {
+      "id": "364587165",
+      "sku": "4799770|5|74",
+      "name": "PREVENTA-REMERA DOTS",
+      "description": "PREVENTA EXCLUSIVA: Disponible para despachar a partir del Viernes 4-9",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vbkzw6vbkzw6vbkz-950e24114467ec289117882822649705-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-dots-som16/",
+      "position": 9999
+    },
+    {
+      "id": "364565224",
+      "sku": "4718280|5|74",
+      "name": "PREVENTA- REMERA MAIA AM",
+      "description": "Preventa exclusiva: Disponible para despachar a partir del viernes 4-9",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_gngf2sgngf2sgngf-c97bb34fa7ae68f51917882789255771-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-maia-am-1qy24/",
+      "position": 9999
+    },
+    {
+      "id": "364563259",
+      "sku": "4799690|5|74",
+      "name": "PREVENTA- REMERA MAIA",
+      "description": "Preventa exclusiva: Disponible para retirar a partir del viernes 4-9",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_qtgn3vqtgn3vqtgn-ac803633c1fad07c4117882733291914-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-maia-122st/",
+      "position": 9999
+    },
     {
       "id": "363697982",
       "sku": "7599800|5|156",
@@ -351,7 +497,7 @@
       "name": "REMERA THALIA",
       "description": "",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_bho3p3bho3p3bho3-621befb3a76a12f73617877439639362-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vtqh50vtqh50vtqh-3b7e21bae35cca753b17882700218800-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2653,10 +2799,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Corazones",
-          "hex": "#cccccc"
-        },
         {
           "name": "Dije",
           "hex": "#cccccc"
