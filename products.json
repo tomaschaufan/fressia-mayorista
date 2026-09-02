@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T23:03:24.071693+00:00",
+  "updated_at": "2026-09-02T03:08:24.457519+00:00",
   "store_id": "5053574",
   "count": 122,
   "products": [
@@ -2605,15 +2605,8 @@
       "description": "Remera manga raglan, cuello combinado con bordado. Tela: Jersey Visco-ly",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219370-dbed8f8fed87ff877617798215216284-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000"
