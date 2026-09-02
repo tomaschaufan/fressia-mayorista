@@ -1,8 +1,78 @@
 {
-  "updated_at": "2026-09-02T13:16:25.946614+00:00",
+  "updated_at": "2026-09-02T17:37:36.422760+00:00",
   "store_id": "5053574",
-  "count": 123,
+  "count": 126,
   "products": [
+    {
+      "id": "364954210",
+      "sku": "5018390|5|156",
+      "name": "BUZO CALIFORNIA AM",
+      "description": "",
+      "price": 17000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_us5h6cus5h6cus5h-37884540fc44f666e417883689231659-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste/ Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
+      "url": "https://fressia.net/productos/buzo-california-am-2uyn5/",
+      "position": 9999
+    },
+    {
+      "id": "364890429",
+      "sku": "5099850|5|156",
+      "name": "BUZO CALIFORNIA",
+      "description": "",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_py4683py4683py46-b30e80c985bbffeac217883615862413-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste/ Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/buzo-california-8383d/",
+      "position": 9999
+    },
     {
       "id": "364855198",
       "sku": "9599640|5|9",
@@ -2954,6 +3024,24 @@
         "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-eira-mrx6z/",
+      "position": 9999
+    },
+    {
+      "id": "330620865",
+      "sku": "5995156|5|16",
+      "name": "BUZO INVIERNO CALIFORNIA",
+      "description": "Buzo oversize, con estampa Tela: Rustico Mil Rayas",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313269-52ea92c253636ca8cf17744491956870-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas",
+        "SALE",
+        "NARANJA $8.000"
+      ],
+      "url": "https://fressia.net/productos/buzo-invierno-california-1rg6k/",
       "position": 9999
     },
     {
