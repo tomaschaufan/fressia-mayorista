@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-02T17:37:36.422760+00:00",
+  "updated_at": "2026-09-02T20:34:11.778571+00:00",
   "store_id": "5053574",
-  "count": 126,
+  "count": 127,
   "products": [
     {
       "id": "364954210",
@@ -3250,6 +3250,10 @@
           "hex": "#ffffff"
         },
         {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -3358,8 +3362,7 @@
       ],
       "categories": [
         "Colección principal",
-        "Buzos y Camperas",
-        "SALE"
+        "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/campera-riga-1ncl1/",
       "position": 9999
@@ -3601,6 +3604,48 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-con-lazo1/",
+      "position": 9999
+    },
+    {
+      "id": "290842775",
+      "sku": "7713450|6|28",
+      "name": "REMERA KEZIAH AM",
+      "description": "",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2024-08-0723902-1-9f296bc5a54f8a4dd417564975569364-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Gris Mel",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas",
+        "SALE"
+      ],
+      "url": "https://fressia.net/productos/remera-keziah-am-rmk38/",
       "position": 9999
     },
     {
