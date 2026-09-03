@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-03T16:08:29.708314+00:00",
+  "updated_at": "2026-09-03T19:39:47.468427+00:00",
   "store_id": "5053574",
-  "count": 129,
+  "count": 130,
   "products": [
     {
       "id": "364954210",
@@ -3308,8 +3308,16 @@
           "hex": "#f9a825"
         },
         {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Off White",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
         },
         {
           "name": "Violeta",
@@ -3591,6 +3599,19 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-emma-15t22/",
+      "position": 9999
+    },
+    {
+      "id": "319618998",
+      "sku": "7780770|5|43",
+      "name": "MUSCULOSA BASICA, ESCOTE REDONDO",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2024-08-2327273-4e5c7ddaec0980ef8e17694384999025-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-basica-escote-redondo-zh06l/",
       "position": 9999
     },
     {
