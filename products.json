@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-07T14:59:39.269859+00:00",
+  "updated_at": "2026-09-07T19:05:33.241538+00:00",
   "store_id": "5053574",
   "count": 132,
   "products": [
     {
       "id": "365880824",
       "sku": "4177534|5|15",
-      "name": "EIRA PREMIUM",
-      "description": "Estampas surtidas consultar con nuestras vendedoras &nbsp;",
+      "name": "EIRA PREMIUM- ESTAMPAS SURTIDAS CONSULTAR CON NUESTRAS VENDEDORAS",
+      "description": "Estampas surtidas consultar con nuestra vendedora +54 9 11 5960-5427- Naty",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-09-04-at-10-24-57-am-1719a4808f6f7b3d0717887923717083-1024-1024.jpg",
       "sizes": [
@@ -322,8 +322,8 @@
     {
       "id": "364565224",
       "sku": "4718280|5|74",
-      "name": "PREVENTA- REMERA MAIA AM",
-      "description": "Preventa exclusiva: Disponible para despachar a partir del viernes 4-9",
+      "name": "REMERA MAIA AM",
+      "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_gngf2sgngf2sgngf-c97bb34fa7ae68f51917882789255771-1024-1024.jpg",
       "sizes": [
@@ -359,8 +359,8 @@
     {
       "id": "364563259",
       "sku": "4799690|5|74",
-      "name": "PREVENTA- REMERA MAIA",
-      "description": "Preventa exclusiva: Disponible para retirar a partir del viernes 4-9",
+      "name": "REMERA MAIA",
+      "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_qtgn3vqtgn3vqtgn-ac803633c1fad07c4117882733291914-1024-1024.jpg",
       "sizes": [
@@ -1774,10 +1774,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -2340,15 +2336,8 @@
       "description": "Buzo escote redondo, con bordado, mangas con frunces. Tela: Plush Bifaz",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7da31c73-ffd9-45d5-a455-2a3095ddd3b4_5053574_5545376-8a9320b97cac249e4517829971798945-1024-1024.png",
-      "sizes": [
-        "L"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "AMARILLO $10.000"
@@ -2598,24 +2587,8 @@
       "description": "Remera mangas largas, escote redondo Tela: Darlon rayado",
       "price": 7000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22541-44c0f82ad1804680fd17823148804926-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000"
@@ -2697,25 +2670,8 @@
       "description": "",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2585fd7d-fefd-44bd-b920-f38959dd6ba5_5053574_5545376-651aa3e691775e9bd617794678353133-1024-1024.png",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000"
@@ -2819,20 +2775,8 @@
       ],
       "colors": [
         {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
           "name": "Crudo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3210,20 +3154,8 @@
       "description": "Remera escote asimétrico con drapeado en el hombro. Tela: Jersey sin lycra",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_142c0f06-019d-4d94-84e4-bf3e3abded73_5053574_5545376-63cb860a72bc6046ce17766942815456-1024-1024.png",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000"
