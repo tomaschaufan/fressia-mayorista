@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-09-09T08:40:57.956637+00:00",
+  "updated_at": "2026-09-09T13:27:08.271998+00:00",
   "store_id": "5053574",
-  "count": 132,
+  "count": 133,
   "products": [
+    {
+      "id": "366301297",
+      "sku": "0987110|5|156",
+      "name": "MUSCULOSA LEA RAYADA",
+      "description": "",
+      "price": 8500.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-lea-rayada-wzdt4/",
+      "position": 9999
+    },
     {
       "id": "365880824",
       "sku": "4177534|5|15",
@@ -1986,21 +2011,12 @@
       "price": 8500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28897-901720b9342d3b41e417867102109536-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3999,16 +4015,8 @@
       "description": "Pantalon animal print con banda lateral Tela: Rustico Print Articulo modificado- Cintura 5cm de ancho",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22593-66f36e8fe97bdd380e17822429297250-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
