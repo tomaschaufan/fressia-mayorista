@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T20:30:10.596876+00:00",
+  "updated_at": "2026-09-09T22:57:37.921815+00:00",
   "store_id": "5053574",
   "count": 137,
   "products": [
@@ -1789,15 +1789,8 @@
       "description": "Maxifalda Canarias: la prenda imprescindible para quienes buscan elegancia y comodidad en un solo diseño. Esta maxifalda está confeccionada en rasa sublimada , una tela que combina suavidad y un acabado brillante que aporta un toque sofisticado a cualquier outfit. Su diseño incluye un lazo delicado que realza la cintura, ofreciendo un ajuste cómodo y femenino. Ideal para múltiples ocasiones, desde",
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28944-c8fc3c3813874be90317867102893384-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Faldas y Shorts"
