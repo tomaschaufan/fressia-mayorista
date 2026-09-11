@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-11T08:37:49.355187+00:00",
+  "updated_at": "2026-09-11T13:16:40.350676+00:00",
   "store_id": "5053574",
-  "count": 137,
+  "count": 136,
   "products": [
     {
       "id": "366303686",
@@ -262,42 +262,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-sora-69b2b/",
-      "position": 9999
-    },
-    {
-      "id": "364629595",
-      "sku": "4799760|5|74",
-      "name": "PREVENTA-MUSCULOSA MAYA",
-      "description": "Preventa exclusiva: Disponible para despachar a partir del miercoles 9-9",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_yw3vlfyw3vlfyw3v-71c75fdb6f86de265417882859547139-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
-        }
-      ],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/musculosa-maya-w4cs0/",
       "position": 9999
     },
     {
