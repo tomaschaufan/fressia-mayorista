@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T13:16:40.350676+00:00",
+  "updated_at": "2026-09-11T17:33:10.092394+00:00",
   "store_id": "5053574",
   "count": 136,
   "products": [
@@ -314,10 +314,6 @@
       ],
       "colors": [
         {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Chocolate",
           "hex": "#4e342e"
         },
@@ -600,6 +596,10 @@
         {
           "name": "Amarillo",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
         },
         {
           "name": "Negro",
@@ -3761,10 +3761,6 @@
           "hex": "#1a1a1a"
         },
         {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        },
-        {
           "name": "Rosa",
           "hex": "#e91e8c"
         }
@@ -3821,25 +3817,8 @@
       "description": "Musculosa Nur: elegancia y comodidad en una sola prenda . Esta musculosa destaca por su escote redondo cl&aacute;sico, que aporta un toque de sencillez y sofisticaci&oacute;n a cualquier look. Confeccionada en tela morley con lycra , ofrece una textura suave, fresca y con la elasticidad necesaria para un ajuste c&oacute;modo y favorecedor. Adem&aacute;s, el detalle de hotfix a&ntilde;ade un sutil ",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28238-e6946d9d8fc38520a417867073985552-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -3946,10 +3925,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
         },
         {
           "name": "Gris Mel",
