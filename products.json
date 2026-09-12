@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T21:14:13.115851+00:00",
+  "updated_at": "2026-09-12T23:46:17.783079+00:00",
   "store_id": "5053574",
   "count": 137,
   "products": [
@@ -349,10 +349,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
