@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T20:25:31.060580+00:00",
+  "updated_at": "2026-09-13T22:54:55.744390+00:00",
   "store_id": "5053574",
   "count": 137,
   "products": [
@@ -308,8 +308,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_kaczbpkaczbpkacz-24be97d8affaf0366817882819428563-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -319,10 +318,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
         }
       ],
       "categories": [
