@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T14:04:54.339988+00:00",
+  "updated_at": "2026-09-13T17:55:33.292355+00:00",
   "store_id": "5053574",
   "count": 137,
   "products": [
@@ -380,10 +380,6 @@
         {
           "name": "Celeste",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Negro",
