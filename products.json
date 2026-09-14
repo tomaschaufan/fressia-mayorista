@@ -1,8 +1,42 @@
 {
-  "updated_at": "2026-09-14T11:56:28.145894+00:00",
+  "updated_at": "2026-09-14T17:54:45.494885+00:00",
   "store_id": "5053574",
-  "count": 137,
+  "count": 139,
   "products": [
+    {
+      "id": "367256276",
+      "sku": "5098280|4|156",
+      "name": "PANTALON MARBELLA",
+      "description": "",
+      "price": 22000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_x2aj3vx2aj3vx2aj-70ad40a83ec3bab82917893905464567-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-marbella-opykj/",
+      "position": 9999
+    },
     {
       "id": "366303686",
       "sku": "5096126|4|76",
@@ -55,6 +89,47 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-lea-rayada-wzdt4/",
+      "position": 9999
+    },
+    {
+      "id": "366299704",
+      "sku": "0127010|5|8",
+      "name": "SACO COTTON",
+      "description": "",
+      "price": 49000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_rq4ev9rq4ev9rq4e-b00275f3d0b1d6d65017894020182675-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        },
+        {
+          "name": "Vison",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas",
+        "Sweaters"
+      ],
+      "url": "https://fressia.net/productos/saco-cotton-2mp1z/",
       "position": 9999
     },
     {
@@ -308,7 +383,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_kaczbpkaczbpkacz-24be97d8affaf0366817882819428563-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -318,6 +394,14 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
         }
       ],
       "categories": [
@@ -335,9 +419,14 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vbkzw6vbkzw6vbkz-950e24114467ec289117882822649705-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
         {
           "name": "Rosa",
           "hex": "#e91e8c"
@@ -358,6 +447,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_gngf2sgngf2sgngf-c97bb34fa7ae68f51917882789255771-1024-1024.jpg",
       "sizes": [
+        "L",
         "M",
         "XL"
       ],
@@ -3565,7 +3655,7 @@
       "sku": "9592990|5|15",
       "name": "REMERA EMMA",
       "description": "Remera escote redondo",
-      "price": 8500.0,
+      "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2884-a532b3fd978910354617766867008122-1024-1024.jpg",
       "sizes": [
         "L",
