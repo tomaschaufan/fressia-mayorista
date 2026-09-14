@@ -1,13 +1,46 @@
 {
-  "updated_at": "2026-09-14T17:54:45.494885+00:00",
+  "updated_at": "2026-09-14T21:33:32.517953+00:00",
   "store_id": "5053574",
-  "count": 139,
+  "count": 142,
   "products": [
+    {
+      "id": "367362788",
+      "sku": "4918250|5|23",
+      "name": "VESTIDO DENIA AM",
+      "description": "",
+      "price": 22000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_02317c8b-1d5e-4f80-89e1-128bcb12eba4_5053574_5545376-3f987775d29537de1217894135635772-1024-1024.webp",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Vestidos"
+      ],
+      "url": "https://fressia.net/productos/vestido-denia-am-60d0d/",
+      "position": 9999
+    },
     {
       "id": "367256276",
       "sku": "5098280|4|156",
       "name": "PANTALON MARBELLA",
-      "description": "",
+      "description": "Pantalón Marbella: estilo y comodidad en cada detalle Descubrí el Pantalón Marbella , una prenda de corte recto que combina funcionalidad y diseño. Confeccionado en tela rústica sublimada, este pantalón ofrece una textura única y resistente, ideal para el uso diario. Cuenta con bolsillos prácticos y un cordón ajustable en la cintura para un calce cómodo y personalizado. Su diseño rayado aporta un ",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_x2aj3vx2aj3vx2aj-70ad40a83ec3bab82917893905464567-1024-1024.jpg",
       "sizes": [
@@ -41,7 +74,7 @@
       "id": "366303686",
       "sku": "5096126|4|76",
       "name": "PANTALON SAN FRANCISCO",
-      "description": "",
+      "description": "Pantalón San Francisco: estilo y comodidad con un toque salvaje Descubrí el Pantalón San Francisco , confeccionado en tela rústica liviana sublimada con un elegante diseño animal print. Esta prenda combina la textura fresca y ligera con un estampado moderno que realza cualquier outfit. Su cintura con práctico lazo permite un ajuste cómodo y personalizado, ideal para quienes buscan comodidad sin sa",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_nysgd8nysgd8nysg-58f92b362378037dac17889613796360-1024-1024.jpg",
       "sizes": [
@@ -67,7 +100,7 @@
       "id": "366301297",
       "sku": "0987110|5|156",
       "name": "MUSCULOSA LEA RAYADA",
-      "description": "",
+      "description": "Musculosa Lea Rayada: b&aacute;sica y esencial para tu guardarropa. Confeccionada en Morley con lycra rayado , una tela suave, liviana y con excelente elasticidad que garantiza comodidad y frescura durante todo el d&iacute;a. Su dise&ntilde;o simple y vers&aacute;til la convierte en una prenda ideal para combinar con distintos estilos y temporadas. Su corte favorecedor y la textura distintiva del ",
       "price": 8500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_u38171u38171u381-26e91cf35f7728c84617889631603236-1024-1024.jpg",
       "sizes": [
@@ -95,7 +128,7 @@
       "id": "366299704",
       "sku": "0127010|5|8",
       "name": "SACO COTTON",
-      "description": "",
+      "description": "Saco Cotton: la calidez y el estilo del saco tejido simil crochet que estabas buscando. Este saco destaca por su diseño tejido que imita el crochet, aportando una textura única y artesanal a tu look. Confeccionado en algodón de alta calidad, ofrece suavidad y comodidad para usar en distintas estaciones del año. Su corte versátil permite combinarlo fácilmente con prendas casuales o más formales, id",
       "price": 49000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_rq4ev9rq4ev9rq4e-b00275f3d0b1d6d65017894020182675-1024-1024.jpg",
       "sizes": [
@@ -156,7 +189,7 @@
       "id": "364954210",
       "sku": "5018390|5|156",
       "name": "BUZO CALIFORNIA AM",
-      "description": "",
+      "description": "Buzo California AM: estilo y confort en cada detalle Descubrí el Buzo California AM, una prenda diseñada para quienes valoran comodidad y diseño. Este buzo rayado presenta un escote redondo con cuello combinado que aporta un toque moderno y sofisticado a tu look. Confeccionado en tela Rústico Sublimado , ofrece una textura suave y durable, ideal para acompañarte en tus actividades diarias con fres",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_us5h6cus5h6cus5h-37884540fc44f666e417883689231659-1024-1024.jpg",
       "sizes": [
@@ -193,7 +226,7 @@
       "id": "364890429",
       "sku": "5099850|5|156",
       "name": "BUZO CALIFORNIA",
-      "description": "",
+      "description": "Buzo California: estilo y comodidad en cada detalle Descubrí el Buzo California, una prenda esencial para tu guardarropa que combina diseño y funcionalidad. Confeccionado en tela Rústico Sublimado , ofrece una textura suave y resistente, ideal para acompañarte durante todo el día. Su diseño rayado y el escote redondo con cuello combinado aportan un toque moderno y versátil, perfecto para combinar ",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_py4683py4683py46-b30e80c985bbffeac217883615862413-1024-1024.jpg",
       "sizes": [
@@ -225,7 +258,7 @@
       "id": "364855198",
       "sku": "9599640|5|9",
       "name": "BOMBACHO SANTORINI",
-      "description": "",
+      "description": "Pantalón Bombacho Santorini: comodidad y estilo con diseño único Descubrí el Pantalón Bombacho Santorini, confeccionado en baby cotton , una tela suave, liviana y de excelente calidad. Este material garantiza frescura y confort durante todo el día, ideal para quienes buscan prendas versátiles y agradables al tacto. El diseño con pinzas aporta un volumen equilibrado y una silueta moderna, destacand",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28178-4fa50f5d587d8afcb217883537265121-1024-1024.jpg",
       "sizes": [
@@ -261,7 +294,7 @@
       "id": "364656938",
       "sku": "0618350|5|156",
       "name": "MUSCULOSA SORA AM",
-      "description": "",
+      "description": "Musculosa Sora AM: comodidad y estilo oversize con un toque delicado Descubr&iacute; la Musculosa Sora AM , una prenda oversize confeccionada en Jersey Flame , una tela suave y liviana que garantiza confort durante todo el d&iacute;a. Su dise&ntilde;o amplio ofrece libertad de movimiento y un estilo relajado, ideal para quienes buscan comodidad sin sacrificar elegancia. El detalle distintivo de es",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_5egij35egij35egi-9641949939cac716de17882903282157-1024-1024.jpg",
       "sizes": [
@@ -302,7 +335,7 @@
       "id": "364642772",
       "sku": "0696640|5|156",
       "name": "MUSCULOSA SORA",
-      "description": "",
+      "description": "Musculosa Sora: estilo oversize con un toque delicado Descubrí la Musculosa Sora , una prenda oversize confeccionada en Jersey Flame , que combina comodidad y diseño en una pieza versátil para tu guardarropa. Su tela suave y liviana ofrece una sensación agradable al contacto con la piel, ideal para usar durante todo el día. El detalle de puntilla en el diseño aporta un toque femenino y sutil, que ",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_qtseheqtseheqtse-f2ba21542f5e5433e517882880873209-1024-1024.jpg",
       "sizes": [
@@ -342,7 +375,7 @@
       "id": "364629595",
       "sku": "4799760|5|74",
       "name": "MUSCULOSA MAYA",
-      "description": "",
+      "description": "Musculosa Maya: elegancia y comodidad en una sola prenda Descubrí la Musculosa Maya , diseñada para ofrecer un estilo delicado y fresco. Esta musculosa halter se caracteriza por su detalle de puntilla en el escote, que aporta un toque femenino y sofisticado. Confeccionada en Modal soft sublimado , una tela suave y liviana, garantiza una sensación agradable sobre la piel y un excelente nivel de tra",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_yw3vlfyw3vlfyw3v-71c75fdb6f86de265417882859547139-1024-1024.jpg",
       "sizes": [
@@ -378,7 +411,7 @@
       "id": "364603258",
       "sku": "4718310|5|74",
       "name": "REMERA DOTS AM",
-      "description": "",
+      "description": "Remera Dots AM: elegancia y comodidad en una prenda esencial. Esta remera presenta un escote cuadrado que realza el cuello y aporta un estilo moderno y femenino. Sus mangas japonesas ofrecen un dise&ntilde;o delicado y fresco, ideal para el uso diario. Confeccionada en Modal Soft , una tela de alta calidad que se destaca por su suavidad, ligereza y excelente ca&iacute;da, garantizando confort dura",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_kaczbpkaczbpkacz-24be97d8affaf0366817882819428563-1024-1024.jpg",
       "sizes": [
@@ -415,7 +448,7 @@
       "id": "364587165",
       "sku": "4799770|5|74",
       "name": "REMERA DOTS",
-      "description": "",
+      "description": "Remera Dots: elegancia y comodidad en un diseño único Descubrí la Remera Dots, una prenda diseñada para quienes valoran el estilo y el confort en su día a día. Confeccionada en Modal Soft , una tela suave, ligera y con excelente caída, esta remera ofrece una sensación agradable al contacto con la piel. Su escote cuadrado y manga japonesa aportan un diseño moderno y femenino, ideal para diferentes ",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vbkzw6vbkzw6vbkz-950e24114467ec289117882822649705-1024-1024.jpg",
       "sizes": [
@@ -443,7 +476,7 @@
       "id": "364565224",
       "sku": "4718280|5|74",
       "name": "REMERA MAIA AM",
-      "description": "",
+      "description": "Remera Maia AM: elegancia y comodidad con un diseño único Descubrí la Remera Maia AM , una prenda que combina estilo y confort gracias a su diseño asimétrico con drapeado en el hombro y laterales. Confeccionada en Modal Soft sublimado , una tela suave, liviana y con una textura delicada, esta remera es ideal para quienes buscan una pieza versátil y sofisticada. Parte de la línea Amor Mio , la Maia",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_gngf2sgngf2sgngf-c97bb34fa7ae68f51917882789255771-1024-1024.jpg",
       "sizes": [
@@ -476,7 +509,7 @@
       "id": "364563259",
       "sku": "4799690|5|74",
       "name": "REMERA MAIA",
-      "description": "",
+      "description": "Remera Maia: diseño asimétrico y confort en cada detalle La Remera Maia se destaca por su diseño asimétrico con drapeado en el hombro y laterales, que aporta un estilo único y moderno a tu look. Confeccionada en Modal soft sublimado , una tela suave y liviana que garantiza comodidad y una caída impecable. Esta prenda combina elegancia y frescura, ideal para quienes buscan una opción versátil para ",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_qtgn3vqtgn3vqtgn-ac803633c1fad07c4117882733291914-1024-1024.jpg",
       "sizes": [
@@ -512,7 +545,7 @@
       "id": "363697982",
       "sku": "7599800|5|156",
       "name": "MUSCULOSA MAEVE",
-      "description": "",
+      "description": "Musculosa Maeve: elegancia y comodidad en una prenda esencial Descubrí la Musculosa Maeve, confeccionada en modal soft , una tela que destaca por su suavidad y excelente caída, ideal para mantenerte fresca y cómoda durante todo el día. Su diseño incluye delicados detalles de puntilla en el escote y las sisas, aportando un toque femenino y sofisticado sin perder la sencillez. Esta musculosa es perf",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_pem5yupem5yupem5-becf029779df802ade17878486168825-1024-1024.jpg",
       "sizes": [
@@ -3688,6 +3721,28 @@
       "position": 9999
     },
     {
+      "id": "303256891",
+      "sku": "0514330|5|15",
+      "name": "MUSCULOSA AMERICANA",
+      "description": "Tela: Jersey sin lycra",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo58817-6fce508e7d8d40891a17618269996498-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-americana-6hgch/",
+      "position": 9999
+    },
+    {
       "id": "298408675",
       "sku": "0615200|5|156",
       "name": "REMERA RHIA AM",
@@ -3827,6 +3882,27 @@
         "SALE"
       ],
       "url": "https://fressia.net/productos/remera-keziah-am-rmk38/",
+      "position": 9999
+    },
+    {
+      "id": "290491003",
+      "sku": "0593714|6|53",
+      "name": "REMERA RAYADA CROPPED, CON DIJE",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-10-0102642-54ecd54dd804c327aa17606338292090-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Lima",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-rayada-cropped-con-dije/",
       "position": 9999
     },
     {
