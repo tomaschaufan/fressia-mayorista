@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:11:55.990383+00:00",
+  "updated_at": "2026-09-15T16:22:46.803947+00:00",
   "store_id": "5053574",
   "count": 142,
   "products": [
@@ -130,7 +130,7 @@
       "name": "SACO COTTON",
       "description": "Saco Cotton: la calidez y el estilo del saco tejido simil crochet que estabas buscando. Este saco destaca por su diseño tejido que imita el crochet, aportando una textura única y artesanal a tu look. Confeccionado en algodón de alta calidad, ofrece suavidad y comodidad para usar en distintas estaciones del año. Su corte versátil permite combinarlo fácilmente con prendas casuales o más formales, id",
       "price": 49000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_rq4ev9rq4ev9rq4e-b00275f3d0b1d6d65017894020182675-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32607-420e92496e7afd107c17894864047427-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -181,7 +181,10 @@
           "hex": "#ffffff"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/eira-premium-ke4b3/",
       "position": 9999
     },
@@ -191,7 +194,7 @@
       "name": "BUZO CALIFORNIA AM",
       "description": "Buzo California AM: estilo y confort en cada detalle Descubrí el Buzo California AM, una prenda diseñada para quienes valoran comodidad y diseño. Este buzo rayado presenta un escote redondo con cuello combinado que aporta un toque moderno y sofisticado a tu look. Confeccionado en tela Rústico Sublimado , ofrece una textura suave y durable, ideal para acompañarte en tus actividades diarias con fres",
       "price": 17000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_us5h6cus5h6cus5h-37884540fc44f666e417883689231659-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia33119-7aa0a891c223583a3b17894851767893-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -228,7 +231,7 @@
       "name": "BUZO CALIFORNIA",
       "description": "Buzo California: estilo y comodidad en cada detalle Descubrí el Buzo California, una prenda esencial para tu guardarropa que combina diseño y funcionalidad. Confeccionado en tela Rústico Sublimado , ofrece una textura suave y resistente, ideal para acompañarte durante todo el día. Su diseño rayado y el escote redondo con cuello combinado aportan un toque moderno y versátil, perfecto para combinar ",
       "price": 16000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_py4683py4683py46-b30e80c985bbffeac217883615862413-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32735-f8e2bfe75e6d82c83317894859642643-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -774,7 +777,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-circe-am-nhgkp/",
       "position": 9999
     },
@@ -847,7 +853,7 @@
       "id": "363359596",
       "sku": "0698190|5|156",
       "name": "REMERA RHIA",
-      "description": "",
+      "description": "Remera Rhia: comodidad y estilo en cada detalle Descubrí la Remera Rhia , una prenda con manga corta confeccionada en tela Jersey Flame , que combina suavidad y durabilidad para un uso diario. Su diseño box fit ofrece un corte cómodo y moderno, ideal para quienes buscan una silueta relajada sin perder estilo. La tela Jersey Flame se destaca por su textura agradable al tacto y su resistencia, permi",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_kdwjbwkdwjbwkdwj-aa5dc9a1f29e25d74a17877524813209-1024-1024.jpg",
       "sizes": [
@@ -999,7 +1005,7 @@
       "id": "362846300",
       "sku": "7799880|5|15",
       "name": "REMERA SORAYA",
-      "description": "",
+      "description": "Remera Soraya: la prenda básica que no puede faltar en tu guardarropa. Diseñada con escote en V y mangas cortas, esta remera ofrece un estilo sencillo y versátil, ideal para combinar con cualquier look. Confeccionada en jersey de algodón con lycra , la tela garantiza una sensación suave, elasticidad y gran comodidad durante todo el día. Su ajuste se adapta perfectamente al cuerpo, permitiendo libe",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_o854ano854ano854-0f57c7da186c091cbd17875815540630-1024-1024.jpg",
       "sizes": [
@@ -1395,9 +1401,9 @@
       "id": "361866387",
       "sku": "0127070|4|9",
       "name": "TOP CORCEGA",
-      "description": "",
+      "description": "Top Corcega: elegancia y comodidad para tu día a día Descubrí el Top Corcega , una prenda diseñada para brindar estilo y confort en cada ocasión. Confeccionado con materiales de alta calidad, este top destaca por su tejido suave y liviano, ideal para acompañarte tanto en climas cálidos como templados. Su corte femenino y favorecedor se adapta a diferentes tipos de cuerpo, proporcionando una siluet",
       "price": 35000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_g0l2uhg0l2uhg0l2-d0be38959802d70a8b17872232522203-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32435-706f21902f196770a217894876275691-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1417,7 +1423,10 @@
           "hex": "#cccccc"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/top-corcega-qqqzh/",
       "position": 9999
     },
@@ -2768,7 +2777,7 @@
       "id": "347025309",
       "sku": "7789075|5|15",
       "name": "POLERA DANTEA",
-      "description": "",
+      "description": "Polera Dantea: comodidad y estilo en un solo producto Descubr&iacute; la Polera Dantea , confeccionada en una mezcla de algod&oacute;n con lycra que garantiza una textura suave y un ajuste perfecto. Esta combinaci&oacute;n de telas ofrece una prenda flexible y transpirable, ideal para el uso diario. Su dise&ntilde;o cl&aacute;sico y vers&aacute;til permite que la Polera Dantea sea una pieza clave ",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22880-b50ee48664873678c217823888830555-1024-1024.jpg",
       "sizes": [
@@ -2900,7 +2909,7 @@
       "id": "338785969",
       "sku": "0126195|5|9",
       "name": "SWEATER SNUGGLE",
-      "description": "",
+      "description": "Sweater Snuggle: calidez y estilo para tus días fríos Descubrí el Sweater Snuggle, una prenda diseñada para ofrecerte comodidad y abrigo sin perder estilo. Confeccionado con materiales suaves y de alta calidad, este sweater es ideal para acompañarte en las jornadas más frescas del año. Su diseño clásico y versátil permite combinarlo fácilmente con diferentes prendas, adaptándose tanto a looks casu",
       "price": 39000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417639-033435ea1a3f5782cb17775541313505-1024-1024.jpg",
       "sizes": [
@@ -3093,7 +3102,7 @@
       "id": "334473262",
       "sku": "4177536|5|15",
       "name": "REMERA ARGENTINA",
-      "description": "",
+      "description": "Remera Argentina Box Fit: Confort y Estilo en Tela Jersey Flame Descubrí la Remera Argentina con corte Box Fit y manga corta, diseñada para quienes valoran la comodidad sin renunciar al estilo. Confeccionada en jersey flame , una tela suave y transpirable que ofrece una textura única y mayor durabilidad, ideal para el uso diario. Su diseño de corte recto proporciona un ajuste confortable y moderno",
       "price": 5000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c6b74779-e155-40ec-8785-9a15d6eeaf65_5053574_5545376-ae189117f7e00bdb1217822415098511-1024-1024.png",
       "sizes": [
@@ -3738,7 +3747,10 @@
           "hex": "#ffffff"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/musculosa-americana-6hgch/",
       "position": 9999
     },
@@ -3746,7 +3758,7 @@
       "id": "298408675",
       "sku": "0615200|5|156",
       "name": "REMERA RHIA AM",
-      "description": "",
+      "description": "Remera Rhia AM: comodidad y estilo en jersey flame Descubrí la Remera Rhia AM, una prenda de la línea Amor Mio diseñada para ofrecerte comodidad y elegancia diaria . Confeccionada en tela Jersey Flame, esta remera de manga corta destaca por su textura suave y respirable, ideal para acompañarte en cualquier momento del día. Su corte Box Fit brinda un ajuste relajado y moderno, permitiendo libertad ",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_d1elbnd1elbnd1el-6d2baf7259a2f0bfb217876658396877-1024-1024.jpg",
       "sizes": [
@@ -3787,7 +3799,7 @@
       "id": "292779497",
       "sku": "125075|4|100",
       "name": "CARDIGAN SIN BOTONES",
-      "description": "",
+      "description": "Cardigan sin botones: comodidad y versatilidad para tu día a día Descubrí nuestro Cardigan sin botones , una prenda esencial para quienes buscan combinar confort y estilo en un solo producto. Confeccionado con materiales suaves y livianos, este cardigan se adapta perfectamente a diferentes temperaturas y ocasiones. Su diseño abierto y sin cierres facilita el uso, permitiendo superponerlo sobre cua",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-1444230-dcfa291e4c6300d1d017574215208892-1024-1024.jpg",
       "sizes": [
@@ -3850,7 +3862,7 @@
       "id": "290842775",
       "sku": "7713450|6|28",
       "name": "REMERA KEZIAH AM",
-      "description": "",
+      "description": "Remera Keziah AM: estilo y comodidad en cada detalle Descubrí la Remera Keziah AM , una prenda diseñada para quienes buscan elegancia con comodidad. Esta remera presenta un escote cuadrado que realza la figura, acompañado de mangas princesa que aportan un toque femenino y sofisticado. Confeccionada en jersey algodón con lycra , ofrece una textura suave, flexible y transpirable, ideal para el uso d",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2024-08-0723902-1-9f296bc5a54f8a4dd417564975569364-1024-1024.jpg",
       "sizes": [
@@ -3888,7 +3900,7 @@
       "id": "290491003",
       "sku": "0593714|6|53",
       "name": "REMERA RAYADA CROPPED, CON DIJE",
-      "description": "",
+      "description": "Remera rayada cropped, con dije: estilo y detalle en una sola prenda Descubrí la Remera rayada cropped, con dije , una opción perfecta para quienes buscan combinar comodidad y diseño en su día a día. Esta remera presenta un corte cropped que aporta frescura y modernidad, ideal para climas templados y para llevar con looks casuales o urbanos. Su diseño rayado suma un toque clásico, mientras que el ",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-10-0102642-54ecd54dd804c327aa17606338292090-1024-1024.jpg",
       "sizes": [
@@ -3901,7 +3913,10 @@
           "hex": "#cccccc"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-rayada-cropped-con-dije/",
       "position": 9999
     },
@@ -3909,7 +3924,7 @@
       "id": "287812325",
       "sku": "7710020|5|15",
       "name": "REMERA AMELIE AM",
-      "description": "",
+      "description": "Remera Amelie AM: comodidad y estilo esencial para tu día a día Descubrí la Remera Amelie AM, una prenda básica imprescindible con escote redondo y mangas cortas que se adapta a cualquier look. Confeccionada en jersey de algodón con lycra , ofrece una textura suave y un ajuste cómodo que acompañan tus movimientos durante toda la jornada. Formando parte de la línea Amor Mio, esta remera combina cal",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_y4k00ry4k00ry4k0-73f09d6d0f08afba7317875814297665-1024-1024.jpg",
       "sizes": [
@@ -4008,7 +4023,7 @@
       "id": "276130183",
       "sku": "3697525|5|35",
       "name": "SACO CORAZON",
-      "description": "",
+      "description": "Saco Corazón: elegancia y comodidad para tu estilo diario Descubrí el Saco Corazón , una prenda diseñada para aportar un toque de distinción a tu guardarropa con máxima comodidad. Confeccionado con materiales de alta calidad, este saco combina un corte clásico con detalles modernos que realzan cualquier look. Su diseño versátil permite llevarlo tanto en ocasiones formales como en encuentros casual",
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14671-3e5ee63c8cfc75d96217767886341286-1024-1024.jpg",
       "sizes": [
@@ -4023,10 +4038,6 @@
         {
           "name": "Fucsia",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
         },
         {
           "name": "Surtido",
@@ -4044,7 +4055,7 @@
       "id": "270243591",
       "sku": "5912649|5|29",
       "name": "BUZO RAYADO ESCOTE REDONDO",
-      "description": "",
+      "description": "Buzo rayado escote redondo – Línea Amor Mio Descubrí el buzo rayado con escote redondo, una prenda que combina comodidad y estilo para tu día a día. Confeccionado con materiales suaves y de alta calidad, este buzo ofrece una textura agradable al contacto con la piel, ideal para acompañarte en diferentes momentos. Su diseño rayado aporta un toque clásico y moderno a la vez, mientras que el escote r",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm22168-f98c731ce70105921a17821452048795-1024-1024.jpg",
       "sizes": [
@@ -4253,7 +4264,7 @@
       "id": "233259157",
       "sku": "7710031|5|9",
       "name": "REMERA SORAYA AM",
-      "description": "",
+      "description": "Remera Soraya AM: sencillez y comodidad para tu día a día La Remera Soraya AM es una prenda básica con escote en V y mangas cortas, diseñada para quienes buscan funcionalidad sin perder estilo. Confeccionada en jersey algodón con lycra , ofrece una textura suave, ligera y con un ajuste cómodo que se adapta a tu cuerpo sin restringir movimientos. Forma parte de la línea Amor Mio , que prioriza la c",
       "price": 14000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0393-0d2b4a0e869dafed2a17756600060499-1024-1024.jpg",
       "sizes": [
@@ -4375,7 +4386,7 @@
       "id": "224654927",
       "sku": "7759323|5|15",
       "name": "MUSCULOSA CORA",
-      "description": "",
+      "description": "Musculosa Cora: frescura y versatilidad para tu día a día La Musculosa Cora es una prenda indispensable para quienes buscan comodidad sin perder estilo. Confeccionada en una tela liviana y suave, ofrece una sensación fresca ideal para climas templados y cálidos. Su diseño simple y corte ajustado realzan la figura, permitiendo libertad de movimiento y adaptándose a diferentes looks, desde casuales ",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2023-07-1912076-1f16e1420b6fa3d8d917259938036174-1024-1024.jpg",
       "sizes": [
