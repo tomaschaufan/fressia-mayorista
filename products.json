@@ -1,13 +1,102 @@
 {
-  "updated_at": "2026-09-15T16:22:46.803947+00:00",
+  "updated_at": "2026-09-15T20:01:55.276856+00:00",
   "store_id": "5053574",
-  "count": 142,
+  "count": 145,
   "products": [
+    {
+      "id": "367604577",
+      "sku": "0991850|5|156",
+      "name": "MUSCULOSA LIOR",
+      "description": "",
+      "price": 8500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_nairyanairyanair-cd68d2d3c973cdd03117894996024364-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-lior-vr78i/",
+      "position": 9999
+    },
+    {
+      "id": "367595540",
+      "sku": "7599860|5|156",
+      "name": "REMERA SOLEM",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_jfwyh3jfwyh3jfwy-ec71db2871f366eb3b17894977995798-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-solem-15ltu/",
+      "position": 9999
+    },
+    {
+      "id": "367577324",
+      "sku": "2591373|5|15",
+      "name": "MUSCULOSA MOANA PRINT- ESTAMPAS SURTIDAS CONSULTAR CON NUESTRAS VENDEDORAS",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_pcr4egpcr4egpcr4-f51c1e0c02cf100dc717895001650131-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-moana-print-lki5u/",
+      "position": 9999
+    },
     {
       "id": "367362788",
       "sku": "4918250|5|23",
       "name": "VESTIDO DENIA AM",
-      "description": "",
+      "description": "Vestido Denia AM: sofisticación y comodidad en un diseño cruzado Descubrí el Vestido Denia AM, una prenda que combina elegancia y funcionalidad gracias a su diseño cruzado con lazo, ideal para realzar tu figura con estilo. Confeccionado en tela Cey, reconocida por su textura suave y resistencia, este vestido ofrece comodidad durante todo el día. Su corte cruzado permite un ajuste personalizado, mi",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_02317c8b-1d5e-4f80-89e1-128bcb12eba4_5053574_5545376-3f987775d29537de1217894135635772-1024-1024.webp",
       "sizes": [
@@ -42,7 +131,7 @@
       "name": "PANTALON MARBELLA",
       "description": "Pantalón Marbella: estilo y comodidad en cada detalle Descubrí el Pantalón Marbella , una prenda de corte recto que combina funcionalidad y diseño. Confeccionado en tela rústica sublimada, este pantalón ofrece una textura única y resistente, ideal para el uso diario. Cuenta con bolsillos prácticos y un cordón ajustable en la cintura para un calce cómodo y personalizado. Su diseño rayado aporta un ",
       "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_x2aj3vx2aj3vx2aj-70ad40a83ec3bab82917893905464567-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6945-1320ac09a22b38651b17894983040270-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -589,7 +678,7 @@
       "id": "363690206",
       "sku": "5096480|5|74",
       "name": "BUZO LOS ANGELES",
-      "description": "",
+      "description": "Buzo Los Angeles: estilo y comodidad con un toque especial Conocé el Buzo Los Angeles, una prenda que combina diseño y confort para tus días más casuales. Confeccionado en tela rústico sublimada , ofrece una textura única que aporta personalidad y durabilidad. Su diseño rayado se destaca por el cuello de lurex, un detalle que suma brillo y elegancia sin perder la sencillez. Esta combinación hace q",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_jrd0cdjrd0cdjrd0-40d4487053e6a53d5d17882630622533-1024-1024.jpg",
       "sizes": [
@@ -617,7 +706,7 @@
       "id": "363675527",
       "sku": "7518300|5|130",
       "name": "BODY OLAYA AM",
-      "description": "",
+      "description": "Body Olaya AM: elegancia y suavidad en cada detalle Descubrí el Body Olaya AM, una prenda esencial con escote cuadrado que realza la figura de manera sutil y elegante. Confeccionado en Modal Soft , una tela reconocida por su suavidad y capacidad de adaptación al cuerpo, ofrece una sensación de comodidad única durante todo el día. Este body forma parte de la exclusiva línea Amor Mio , que combina d",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28698-d9713e4a45eb3b15a417878449032627-1024-1024.jpg",
       "sizes": [
@@ -654,7 +743,7 @@
       "id": "363672096",
       "sku": "7599720|5|130",
       "name": "BODY OLAYA",
-      "description": "",
+      "description": "Body Olaya: elegancia y confort con escote cuadrado Descubrí el Body Olaya, una prenda diseñada para realzar tu figura con un sofisticado escote cuadrado . Confeccionado en Modal Soft , su tela se destaca por ser suave, liviana y altamente confortable, ideal para usar durante todo el día. Este body combina estilo y funcionalidad, adaptándose perfectamente a diversas ocasiones, desde looks casuales",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28628-012182f1c8a475481017878443235687-1024-1024.jpg",
       "sizes": [
@@ -690,7 +779,7 @@
       "id": "363631158",
       "sku": "2515201|5|156",
       "name": "REMERA LOVE IS AM",
-      "description": "",
+      "description": "Remera Love is AM: frescura y estilo en tu día a día Conocé la Remera Love is AM, parte de la exclusiva línea Amor Mio , pensada para quienes valoran comodidad y diseño en una sola prenda. Esta remera manga corta está confeccionada en jersey sin lycra , que ofrece una textura suave, fresca y ligera, ideal para climas templados. Su corte box fit brinda un ajuste cómodo y moderno, permitiendo libert",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_6e0d5fa7-66b0-47a3-b95d-2b50068d0f90_5053574_5545376-1a16105986e4440f1617878418159092-1024-1024.webp",
       "sizes": [
@@ -723,7 +812,7 @@
       "id": "363615540",
       "sku": "2598191|5|156",
       "name": "REMERA LOVE IS",
-      "description": "",
+      "description": "Remera Love is: comodidad y estilo en cada detalle Conocé la Remera Love is, una prenda pensada para quienes valoran la funcionalidad sin perder el estilo. Confeccionada en jersey sin lycra , su tela garantiza una sensación suave y natural, ideal para el uso diario. Su diseño Box Fit y manga corta ofrecen un ajuste cómodo y moderno que se adapta a diferentes tipos de cuerpo, brindando libertad de ",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f6c0a093-2789-4975-be64-a188d1c0f0b1_5053574_5545376-588c929185967daa2017878347527117-1024-1024.webp",
       "sizes": [
@@ -755,7 +844,7 @@
       "id": "363489103",
       "sku": "0914383|5|15",
       "name": "REMERA CIRCE AM",
-      "description": "",
+      "description": "Remera Circe AM: sencillez y elegancia con un toque único Conocé la Remera Circe AM, una remera básica que se destaca por su escote combinado con delicado bordado, aportando un detalle especial a una prenda esencial. Confeccionada en tela Morley rayado con lycra, ofrece una textura suave, flexible y cómoda para el uso diario. Esta remera pertenece a la línea Amor Mio , que prioriza la calidad y el",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_kbpagmkbpagmkbpa-a7cbef4e56e660d72117877742104266-1024-1024.jpg",
       "sizes": [
@@ -788,7 +877,7 @@
       "id": "363478553",
       "sku": "0975333|5|15",
       "name": "REMERA CIRCE",
-      "description": "",
+      "description": "Remera Circe: simplicidad y detalle en perfecta armonía Descubrí la Remera Circe , una remera básica que se destaca por su escote combinado con delicados bordados, aportando un toque de sofisticación sin perder la esencia casual. Confeccionada en Morley rayado con Lycra , esta tela ofrece una textura suave, elástica y cómoda, ideal para el uso diario. Su diseño versátil permite que la combines fác",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_pfkqxzpfkqxzpfkq-6a96eebf0710838c7517877737635855-1024-1024.jpg",
       "sizes": [
@@ -820,7 +909,7 @@
       "id": "363411475",
       "sku": "7018260|5|16",
       "name": "PANTALON GERONA AM",
-      "description": "",
+      "description": "Pantal&oacute;n Gerona AM: elegancia y confort de la l&iacute;nea Amor Mio Descubr&iacute; el Pantal&oacute;n Gerona AM, parte de nuestra exclusiva l&iacute;nea Amor Mio, confeccionado en lino de alta calidad para brindarte frescura y ligereza durante todo el d&iacute;a. Su dise&ntilde;o wide leg combina comodidad y estilo moderno, ideal para diferentes ocasiones. La cintura con tachas met&aacute;",
       "price": 23000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_2ruqim2ruqim2ruq-9823a8940eab8649b517877611360005-1024-1024.jpg",
       "sizes": [
@@ -893,7 +982,7 @@
       "id": "363326988",
       "sku": "7799890|5|15",
       "name": "REMERA THALIA",
-      "description": "",
+      "description": "Remera Thalia: esencial y c&oacute;moda para tu d&iacute;a a d&iacute;a Descubr&iacute; la Remera Thalia, una musculosa b&aacute;sica confeccionada en jersey de algod&oacute;n con lycra , que garantiza suavidad y elasticidad para un ajuste perfecto. Su dise&ntilde;o con escote redondo aporta un estilo cl&aacute;sico y vers&aacute;til, ideal para combinar con distintas prendas y crear looks casuale",
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vtqh50vtqh50vtqh-3b7e21bae35cca753b17882700218800-1024-1024.jpg",
       "sizes": [
@@ -937,7 +1026,7 @@
       "id": "363128643",
       "sku": "7099600|5|16",
       "name": "PANTALON GERONA",
-      "description": "",
+      "description": "Pantalón Gerona: elegancia y comodidad con un toque moderno Descubrí el Pantalón Gerona, una prenda confeccionada en lino de alta calidad , que combina frescura y sofisticación para cualquier ocasión. Su diseño wide leg ofrece una silueta amplia y cómoda, ideal para quienes buscan libertad de movimiento sin perder estilo. La cintura con tachas aporta un detalle único y contemporáneo, que realza la",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_sodvcusodvcusodv-aef7deb122c6911f3517876701480749-1024-1024.jpg",
       "sizes": [
@@ -969,7 +1058,7 @@
       "id": "362963864",
       "sku": "0127130|5|9",
       "name": "MUSCU GANDIA",
-      "description": "",
+      "description": "Muscu Gandia: frescura y estilo con detalles únicos Descubrí la Muscu Gandia , una musculosa de lino que combina comodidad y diseño pensado para el día a día. Su confección en lino aporta una textura fresca y transpirable, ideal para climas cálidos y para mantenerte cómoda durante toda la jornada. El escote se destaca por sus flechos y tachas, un detalle original que aporta un toque de sofisticaci",
       "price": 29000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_gdfl3zgdfl3zgdfl-30025b91d9639d076a17876013585662-1024-1024.jpg",
       "sizes": [
@@ -1050,7 +1139,7 @@
       "id": "362343363",
       "sku": "0418330|5|156",
       "name": "REMERA ELORE AM",
-      "description": "",
+      "description": "Remera Elore AM: frescura y estilo con un dise&ntilde;o &uacute;nico Descubr&iacute; la Remera Elore AM, una prenda que combina comodidad y elegancia para tu d&iacute;a a d&iacute;a. Confeccionada en Morley con Lycra , esta remera ofrece una textura suave y un ajuste flexible que se adapta a tu cuerpo, brind&aacute;ndote libertad de movimiento. Su dise&ntilde;o destaca por la manga dolman , que ap",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_4khsv84khsv84khs-4758443416ed8e9bab17873401695503-1024-1024.jpg",
       "sizes": [
@@ -1087,7 +1176,7 @@
       "id": "362343339",
       "sku": "0453860|5|156",
       "name": "REMERA ELORE",
-      "description": "",
+      "description": "Remera Elore: frescura y estilo con un dise&ntilde;o &uacute;nico Descubr&iacute; la Remera Elore , una prenda que combina comodidad y elegancia gracias a su dise&ntilde;o de manga dolman, espalda cavada y detalle de gota en la parte posterior. Confeccionada en morley con lycra, esta tela garantiza elasticidad y suavidad, ideal para acompa&ntilde;arte durante todo el d&iacute;a. Su corte relajado ",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_m194htm194htm194-eab899410fa4f3326e17873393110048-1024-1024.jpg",
       "sizes": [
@@ -1127,7 +1216,7 @@
       "id": "362342734",
       "sku": "0127120|5|9",
       "name": "SHORT CANTABRIA",
-      "description": "",
+      "description": "Short Cantabria: comodidad y estilo con un detalle único en el ruedo Descubrí el Short Cantabria, una prenda pensada para quienes buscan comodidad y elegancia en su vestuario diario . Este short sastrero se destaca por su corte clásico y un detalle especial en el ruedo que aporta un toque distintivo sin perder sobriedad. Confeccionado con materiales de alta calidad, ofrece un ajuste cómodo y fresc",
       "price": 39000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f68d54a7-53f5-4020-8c45-da4be283dfed_5053574_5545376-529fbe9d5eac2e6ad917873351029275-1024-1024.jpg",
       "sizes": [
@@ -1163,7 +1252,7 @@
       "id": "362324545",
       "sku": "0127110|5|9",
       "name": "BOMBACHO GIRONA",
-      "description": "",
+      "description": "Bombacho Girona: comodidad y estilo con detalles únicos Conocé el Bombacho Girona, una prenda que combina funcionalidad y diseño para tu día a día. Confeccionado en una tela suave y resistente, este bombacho se destaca por su corte cómodo y amplio, ideal para ofrecer libertad de movimiento sin perder elegancia. Los detalles en tachas en los laterales y los bolsillos prácticos suman un toque modern",
       "price": 45000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_p1u6cpp1u6cpp1u6-5f4c6c9108b13053b017878590260900-1024-1024.jpg",
       "sizes": [
@@ -1199,7 +1288,7 @@
       "id": "362320392",
       "sku": "0127100|5|9",
       "name": "PANTALON GANDIA",
-      "description": "",
+      "description": "Pantalón Gandia: frescura y funcionalidad en lino natural Descubrí el Pantalón Gandia , una prenda confeccionada en lino de alta calidad, ideal para quienes buscan comodidad y estilo en climas cálidos. Su diseño incluye prácticos bolsillos laterales , perfectos para llevar lo esencial sin perder elegancia. El corte recto y la textura natural del lino ofrecen una sensación fresca y transpirable, ac",
       "price": 59000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_xfegmfxfegmfxfeg-93e8285d8869a8b27a17873281970777-1024-1024.jpg",
       "sizes": [
@@ -1235,7 +1324,7 @@
       "id": "362167822",
       "sku": "0127090|5|9",
       "name": "VESTIDO TULIP",
-      "description": "",
+      "description": "Vestido Tulip: sofisticación y frescura en lino natural Descubrí el Vestido Tulip , un maxivestido de lino que combina elegancia y comodidad para días cálidos. Su escote cruzado en V realza la figura con un diseño delicado y femenino, mientras que los detalles en hotfix aportan un toque sutil de brillo, ideal para lucir tanto de día como de noche. Confeccionado con lino de alta calidad, este vesti",
       "price": 65000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_roj0zbroj0zbroj0-abda6fc0bc2899efe517872520379887-1024-1024.jpg",
       "sizes": [
@@ -1543,7 +1632,7 @@
       "id": "361055752",
       "sku": "0127020|5|9",
       "name": "SWEATER SHINE",
-      "description": "",
+      "description": "Sweater Shine: elegancia y confort en una prenda esencial Descubrí el Sweater Shine , una pieza diseñada para combinar estilo y funcionalidad en tu vestuario diario. Confeccionado con materiales de alta calidad, este sweater ofrece una textura suave y un brillo sutil que aporta un toque de sofisticación a cualquier outfit. Su corte clásico se adapta perfectamente a diferentes tipos de cuerpo, brin",
       "price": 49000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_jey3xyjey3xyjey3-d4e6d00557c5d2018e17867256665714-1024-1024.jpg",
       "sizes": [
@@ -2548,7 +2637,7 @@
       "id": "351397860",
       "sku": "0126245|5|9",
       "name": "SWEATER MERINO",
-      "description": "",
+      "description": "Sweater Merino: calidad y confort para cada temporada Descubrí el Sweater Merino , una prenda esencial para quienes valoran la calidad y la comodidad. Confeccionado con lana merino de alta calidad, este sweater ofrece una textura suave y cálida, ideal para mantenerte abrigado sin perder estilo. Su diseño clásico y versátil se adapta perfectamente a distintos looks, desde casuales hasta más formale",
       "price": 30000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_89af4fba-4ed7-4e3e-881a-1d8e0f71eeaa_5053574_5545376-a82828ea35c5346d6617822310172045-1024-1024.png",
       "sizes": [
@@ -2810,7 +2899,7 @@
       "id": "345908449",
       "sku": "6117056|5|9",
       "name": "BUZO TORONTO LISO AM",
-      "description": "",
+      "description": "Buzo Toronto liso AM: comodidad y estilo en cada momento Descubrí el Buzo Toronto liso AM, una prenda esencial de la línea Amor Mio que combina diseño sencillo y funcionalidad. Confeccionado en tejidos de alta calidad, este buzo ofrece una textura suave y un ajuste cómodo, ideal para acompañarte durante todo el día. Su diseño liso y clásico facilita la combinación con diferentes prendas, adaptándo",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2585fd7d-fefd-44bd-b920-f38959dd6ba5_5053574_5545376-651aa3e691775e9bd617794678353133-1024-1024.png",
       "sizes": [],
@@ -3172,7 +3261,7 @@
       "id": "330296381",
       "sku": "3517855|5|15",
       "name": "TOP BIANCA AM",
-      "description": "Top asimétrico con tajo delantero, detalle de ojalillos Tela: Ribb",
+      "description": "Top Bianca AM: elegancia y dise&ntilde;o asim&eacute;trico para tu estilo Descubr&iacute; el Top Bianca AM , una prenda que se destaca por su dise&ntilde;o asim&eacute;trico con un tajo delantero que aporta modernidad y sofisticaci&oacute;n a tu look. El detalle de ojalillos en el frente suma un toque delicado y original, haciendo que esta pieza sea &uacute;nica y vers&aacute;til. Confeccionado en",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313088-c6791ab9fc8f2d7e3c17744459594327-1024-1024.jpg",
       "sizes": [
@@ -3270,7 +3359,7 @@
       "id": "327144077",
       "sku": "0598995|5|9",
       "name": "REMERA SOPHIA",
-      "description": "Remera rayada, mangas largas escote asimetrico con drapeado en el hombro Tela: Jersey Rayado",
+      "description": "Remera Sophia: elegancia y comodidad en cada detalle Descubr&iacute; la Remera Sophia , una prenda dise&ntilde;ada para quienes buscan estilo y confort en su ropa diaria. Confeccionada en jersey rayado , esta remera destaca por su textura suave y flexible, ideal para acompa&ntilde;arte durante todo el d&iacute;a. Su dise&ntilde;o presenta un escote asim&eacute;trico con drapeado en el hombro que a",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10947-b0cba89f51c376195717733227237640-1024-1024.jpg",
       "sizes": [
@@ -3326,7 +3415,7 @@
       "id": "324987785",
       "sku": "2017735|5|76",
       "name": "REMERA YARA AM",
-      "description": "Remera Yara Box fit, escote redondo \\nTela: Jersey sublimado",
+      "description": "Remera Yara AM: comodidad y estilo con un dise&ntilde;o moderno Descubr&iacute; la Remera Yara AM , una prenda de la l&iacute;nea Amor Mio pensada para ofrecerte confort y elegancia en tu d&iacute;a a d&iacute;a. Con un corte box fit que brinda una silueta relajada y escote redondo, esta remera se adapta perfectamente a diferentes tipos de cuerpo. Confeccionada en jersey sublimado , su tela combin",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10644-copia-95e2a60d08406e3aea17716150364099-1024-1024.jpg",
       "sizes": [
@@ -3349,7 +3438,7 @@
       "id": "324929716",
       "sku": "2098755|5|76",
       "name": "REMERA YARA",
-      "description": "Remera Yara Box fit, escote redondo \\nTela: Jersey sublimado",
+      "description": "Remera Yara: estilo y comodidad en cada uso Descubr&iacute; la Remera Yara , una prenda dise&ntilde;ada para quienes valoran el confort sin sacrificar el estilo. Con un corte box fit que brinda un ajuste c&oacute;modo y moderno, esta remera es perfecta para el d&iacute;a a d&iacute;a. El escote redondo aporta un detalle cl&aacute;sico y vers&aacute;til, ideal para combinar con distintas prendas. E",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10577-aeade5b52038b8bb9617718575999430-1024-1024.jpg",
       "sizes": [
@@ -3373,7 +3462,7 @@
       "id": "324589267",
       "sku": "6316249|5|8",
       "name": "PANTALÓN BROOKLYN AM",
-      "description": "Pantal&oacute;n jogger, con vivo lateral animal print y bolsillos Tela: Rustico liviano",
+      "description": "Pantal&oacute;n Brooklyn AM: estilo y comodidad con un toque &uacute;nico Descubr&iacute; el Pantal&oacute;n Brooklyn AM, una prenda de la l&iacute;nea Amor Mio que combina funcionalidad y dise&ntilde;o moderno. Confeccionado en r&uacute;stico liviano, este pantal&oacute;n jogger ofrece comodidad y ligereza para el uso diario. Su detalle m&aacute;s destacado es el vivo lateral con animal print, qu",
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10712-771c6d357719a6e4c217716154284116-1024-1024.jpg",
       "sizes": [
@@ -3402,7 +3491,7 @@
       "id": "323100506",
       "sku": "3598915|5|15",
       "name": "MUSCULOSA BIANCA",
-      "description": "Top asimétrico con ojales metalicos",
+      "description": "Musculosa Bianca: elegancia asim&eacute;trica con un toque moderno Descubr&iacute; la Musculosa Bianca, un top asim&eacute;trico confeccionado en tela ribb que combina comodidad y dise&ntilde;o innovador. Su tajo delantero aporta un detalle distintivo y femenino, mientras que los ojalillos decorativos realzan su estilo &uacute;nico. Esta musculosa es ideal para quienes buscan una prenda vers&aacut",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f1debadf-2ccd-488b-a663-f00c21b09db2_5053574_5545376-c016e3f103493356e717794541538789-1024-1024.png",
       "sizes": [
@@ -3487,7 +3576,7 @@
       "id": "323100208",
       "sku": "0498945|5|9",
       "name": "VESTIDO IBIZA",
-      "description": "Vestido base, manga corta",
+      "description": "Vestido Ibiza: confort y versatilidad para tu d&iacute;a a d&iacute;a Conoc&eacute; el Vestido Ibiza, un b&aacute;sico imprescindible confeccionado en morley con lycra , que proporciona una textura suave, el&aacute;stica y agradable al tacto. Su dise&ntilde;o de manga corta lo convierte en una prenda ideal para cualquier estaci&oacute;n, aportando comodidad sin sacrificar estilo. Este vestido base",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3254-ffe7eb302ab7c2e8a517703960811005-1024-1024.jpg",
       "sizes": [
@@ -3520,7 +3609,7 @@
       "id": "323100168",
       "sku": "0498685|5|9",
       "name": "VESTIDO CAPRI",
-      "description": "Vestido mini con vivos anchos",
+      "description": "Vestido Capri: frescura y estilo con m&aacute;xima comodidad Descubr&iacute; el Vestido Capri , una prenda dise&ntilde;ada para quienes buscan un look moderno y c&oacute;modo. Confeccionado en Morley con Lycra , este vestido mini ofrece una textura suave, el&aacute;stica y resistente que se adapta perfectamente a tu cuerpo. Su dise&ntilde;o se destaca por los vivos anchos que aportan un detalle vi",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3157-f0f81e208fec4da54617703966989612-1024-1024.jpg",
       "sizes": [
@@ -3561,7 +3650,7 @@
       "id": "323100127",
       "sku": "5986655|5|15",
       "name": "CAMPERA RIGA",
-      "description": "Campera ajustable con capucha",
+      "description": "Campera Riga: funcionalidad y estilo en una prenda ajustable Descubr&iacute; la Campera Riga, dise&ntilde;ada para quienes buscan comodidad y versatilidad en cada salida. Confeccionada en r&uacute;stico algod&oacute;n, esta campera ofrece una textura natural y resistente que se adapta a distintas condiciones clim&aacute;ticas. Su dise&ntilde;o ajustable con capucha permite un calce personalizado, ",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7d542915-6a11-42c5-abcc-f67b52d28d36_5053574_5545376-73fe68333eea1a67b417780100694268-1024-1024.png",
       "sizes": [
@@ -3589,7 +3678,7 @@
       "id": "323099899",
       "sku": "7593005|5|9",
       "name": "MUSCU ISABELLA",
-      "description": "Musculosa cuello Perkins",
+      "description": "Musculosa Isabella: elegancia y frescura con cuello Perkins Descubr&iacute; la Musculosa Isabella , una prenda esencial que combina estilo y comodidad gracias a su exclusivo dise&ntilde;o con cuello Perkins . Confeccionada con materiales de alta calidad, esta musculosa ofrece una textura suave y agradable al contacto con la piel, ideal para mantenerte fresca y c&oacute;moda durante todo el d&iacut",
       "price": 6000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2795-db81d8cd44540e6d5017704005637178-1024-1024.jpg",
       "sizes": [
@@ -3621,7 +3710,7 @@
       "id": "323099706",
       "sku": "7716415|5|15",
       "name": "MUSCULOSA SOFIA",
-      "description": "Musculosa escote U",
+      "description": "Musculosa Sof&iacute;a: comodidad y estilo en cada detalle Descubr&iacute; la Musculosa Sof&iacute;a , una prenda imprescindible de la l&iacute;nea Amor Mio que combina algod&oacute;n con lycra para ofrecer una textura suave, el&aacute;stica y confortable. Su dise&ntilde;o con escote en U realza la figura de manera sutil y elegante, ideal para acompa&ntilde;ar tus looks diarios con frescura y senc",
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_1f2p471f2p471f2p-092a0c1a53916204de17875829965385-1024-1024.jpg",
       "sizes": [
@@ -3667,7 +3756,7 @@
       "id": "323099277",
       "sku": "9514030|5|15",
       "name": "REMERA GABRIELA",
-      "description": "Remera escote redondo con ruloté",
+      "description": "Remera Gabriela: comodidad y estilo en algod&oacute;n puro Conoc&eacute; la Remera Gabriela, una prenda esencial de la l&iacute;nea Amor Mio que combina dise&ntilde;o y confort para el uso diario. Su escote redondo con detalle de rulot&eacute; aporta un toque delicado y femenino que realza cualquier outfit. Confeccionada en 100% algod&oacute;n, esta remera ofrece una textura suave, fresca y transp",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3643-51d4565e83bd8801d417703196669531-1024-1024.jpg",
       "sizes": [
@@ -3696,7 +3785,7 @@
       "id": "323099215",
       "sku": "9592990|5|15",
       "name": "REMERA EMMA",
-      "description": "Remera escote redondo",
+      "description": "Remera Emma: comodidad y estilo en algod&oacute;n puro Conoc&eacute; la Remera Emma , una prenda esencial para tu guardarropa diario. Confeccionada en algod&oacute;n de alta calidad , su tela suave y respirable garantiza confort durante todo el d&iacute;a, ideal para climas templados. Su escote redondo cl&aacute;sico aporta un dise&ntilde;o simple pero elegante, que se adapta f&aacute;cilmente a d",
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2884-a532b3fd978910354617766867008122-1024-1024.jpg",
       "sizes": [
@@ -3720,12 +3809,15 @@
       "id": "319618998",
       "sku": "7780770|5|43",
       "name": "MUSCULOSA BASICA, ESCOTE REDONDO",
-      "description": "",
+      "description": "Musculosa Básica con Escote Redondo: comodidad y estilo para tu día a día Descubrí la Musculosa Básica con Escote Redondo , una prenda esencial para cualquier guardarropa. Confeccionada con tejidos suaves y de alta calidad, esta musculosa ofrece un ajuste cómodo que se adapta perfectamente a tu cuerpo. Su diseño simple y elegante, con escote redondo clásico, permite combinarla fácilmente con disti",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2024-08-2327273-4e5c7ddaec0980ef8e17694384999025-1024-1024.jpg",
       "sizes": [],
       "colors": [],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/musculosa-basica-escote-redondo-zh06l/",
       "position": 9999
     },
@@ -3733,7 +3825,7 @@
       "id": "303256891",
       "sku": "0514330|5|15",
       "name": "MUSCULOSA AMERICANA",
-      "description": "Tela: Jersey sin lycra",
+      "description": "Musculosa Americana: comodidad y estilo en cada uso Descubr&iacute; la Musculosa Americana de la l&iacute;nea Amor Mio , confeccionada en jersey sin lycra , una tela suave y fresca ideal para tus d&iacute;as m&aacute;s activos. Esta musculosa ofrece un ajuste c&oacute;modo que se adapta a tu cuerpo sin restringir movimientos, perfecta para el verano o para combinar en capas durante todo el a&ntild",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo58817-6fce508e7d8d40891a17618269996498-1024-1024.jpg",
       "sizes": [
@@ -3826,7 +3918,7 @@
       "id": "291443505",
       "sku": "7097040|6|9",
       "name": "MUSCULOSA TENERIFE",
-      "description": "Musculosa con lazo en espalda para atar. Tela: Lino Vintage&nbsp;",
+      "description": "Musculosa Tenerife: frescura y estilo con un toque especial Descubrí la Musculosa Tenerife , confeccionada en lino vintage, una tela que aporta frescura y una textura natural ideal para los días cálidos. Su diseño incluye un lazo en la espalda para atar, que no solo permite un ajuste personalizado sino que también suma un detalle femenino y único. Esta musculosa combina comodidad y elegancia, sien",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28200-cde0043aab0624939b17867072035710-1024-1024.jpg",
       "sizes": [
@@ -3970,7 +4062,7 @@
       "id": "287790033",
       "sku": "0415100|5|15",
       "name": "REMERA ASTRID",
-      "description": "Remera b&aacute;sica escote redondo con hot fix Tela: Morley con lycra",
+      "description": "Remera Astrid: b&aacute;sica y con un toque especial para tu d&iacute;a a d&iacute;a Descubr&iacute; la Remera Astrid, una prenda esencial para cualquier guardarropa que destaca por su dise&ntilde;o cl&aacute;sico con escote redondo adornado con detalles en hot fix, que aportan un brillo sutil y elegante. Confeccionada en Morley con lycra , esta tela combina suavidad, elasticidad y resistencia, ga",
       "price": 13500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28316-6ee43097a81451a52117867077513373-1024-1024.jpg",
       "sizes": [
@@ -4078,7 +4170,7 @@
       "id": "270224913",
       "sku": "3497555|5|147",
       "name": "SACO LONDON",
-      "description": "Tela: Pa&ntilde;o Pied de Poule",
+      "description": "Saco London: elegancia cl&aacute;sica con un toque moderno Descubr&iacute; el Saco London, una prenda confeccionada en pa&ntilde;o Pied de Poule , una tela tradicional que combina estilo y sofisticaci&oacute;n. Su dise&ntilde;o atemporal aporta un aire distintivo a cualquier outfit, ideal para quienes buscan un look formal sin perder comodidad. El pa&ntilde;o Pied de Poule, reconocido por su textu",
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14698-c06c0a2c2514607a7c17761704165607-1024-1024.jpg",
       "sizes": [
@@ -4102,7 +4194,7 @@
       "id": "253949355",
       "sku": "7710545|5|28",
       "name": "REMERA EUDORA",
-      "description": "Remera básica, manga larga. Tela: Jersey Alg c-Ly",
+      "description": "Remera Eudora: comodidad y versatilidad en tu día a día Descubrí la Remera Eudora, una prenda básica de manga larga pensada para acompañarte con estilo y confort. Confeccionada en jersey algodón con lycra , ofrece una textura suave y elástica que se adapta a tu cuerpo, garantizando libertad de movimiento durante toda la jornada. Parte de la exclusiva línea Amor Mio , esta remera combina calidad y ",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-01-2935299-083332db978c32faaf17389360831096-1024-1024.jpg",
       "sizes": [
@@ -4139,7 +4231,7 @@
       "id": "253940053",
       "sku": "7716595|5|15",
       "name": "REMERA HELENA",
-      "description": "Remera escote redondo",
+      "description": "Remera Helena: comodidad y estilo en cada detalle Descubr&iacute; la Remera Helena , una prenda esencial de la l&iacute;nea Amor Mio dise&ntilde;ada para ofrecerte confort y elegancia diaria. Confeccionada en algod&oacute;n con lycra , su tela combina suavidad y elasticidad, adapt&aacute;ndose perfectamente a tu cuerpo sin perder forma. Su cl&aacute;sico escote redondo aporta un toque sencillo y v",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3420-a09b46b00610c3823317706356431984-1024-1024.jpg",
       "sizes": [
@@ -4179,7 +4271,7 @@
       "id": "247875368",
       "sku": "4915331|5|16",
       "name": "TOP HEBE",
-      "description": "Cey Liso (Creppe)",
+      "description": "Top Hebe: comodidad y estilo en tela Cey Descubrí el Top Hebe , una prenda esencial de la línea Amor Mio , confeccionada en tela Cey, reconocida por su suavidad y durabilidad. Este top combina un diseño sencillo y elegante, ideal para quienes buscan comodidad sin renunciar al estilo. Su corte ajustado y tela flexible permiten libertad de movimiento, adaptándose perfectamente a diferentes siluetas.",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_b4c797d4-25ed-43d9-b6cb-b89152d3736e_5053574_5545376-7078201eaa000e78e817889692415636-1024-1024.png",
       "sizes": [
@@ -4309,7 +4401,7 @@
       "id": "224660733",
       "sku": "7790690|5|15",
       "name": "MUSCULOSA ELENI",
-      "description": "Algodón con Lycra 23",
+      "description": "Musculosa Eleni: frescura y estilo con un diseño pensado para vos Descubrí la Musculosa Eleni, una prenda esencial para el verano o para combinar con capas en cualquier estación. Su diseño halter con escote en V y espalda descubierta resalta la femineidad de manera sutil y elegante. Confeccionada en jersey algodón con lycra, ofrece una textura suave, elástica y transpirable, ideal para mantener la",
       "price": 8000.0,
       "image": "",
       "sizes": [
@@ -4346,7 +4438,7 @@
       "id": "224659943",
       "sku": "7779410|5|15",
       "name": "MUSCULOSA IRIS",
-      "description": "Algodón con Lycra 23",
+      "description": "Musculosa Iris: comodidad y estilo en cada detalle Descubrí la Musculosa Iris , una prenda esencial para tu guardarropa que combina diseño y funcionalidad. Confeccionada en jersey algodón con lycra , esta musculosa ofrece una textura suave, flexible y transpirable, ideal para mantenerte cómoda durante todo el día. Su diseño con breteles finos realza la figura y aporta un toque femenino y versátil,",
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_dbt16cdbt16cdbt1-b33ddb443aa5bc02b517889790124225-1024-1024.jpg",
       "sizes": [
