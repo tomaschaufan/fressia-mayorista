@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T16:20:50.862151+00:00",
+  "updated_at": "2026-09-17T20:01:14.074505+00:00",
   "store_id": "5053574",
   "count": 145,
   "products": [
@@ -135,7 +135,6 @@
       "sizes": [
         "L",
         "M",
-        "S",
         "XL"
       ],
       "colors": [
@@ -344,7 +343,7 @@
       "name": "BOMBACHO SANTORINI",
       "description": "Pantalón Bombacho Santorini: comodidad y estilo con diseño único Descubrí el Pantalón Bombacho Santorini, confeccionado en baby cotton , una tela suave, liviana y de excelente calidad. Este material garantiza frescura y confort durante todo el día, ideal para quienes buscan prendas versátiles y agradables al tacto. El diseño con pinzas aporta un volumen equilibrado y una silueta moderna, destacand",
       "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28178-4fa50f5d587d8afcb217883537265121-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6861-cccf740221e60c137f17895693902810-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -534,7 +533,7 @@
       "name": "REMERA DOTS",
       "description": "Remera Dots: elegancia y comodidad en un diseño único Descubrí la Remera Dots, una prenda diseñada para quienes valoran el estilo y el confort en su día a día. Confeccionada en Modal Soft , una tela suave, ligera y con excelente caída, esta remera ofrece una sensación agradable al contacto con la piel. Su escote cuadrado y manga japonesa aportan un diseño moderno y femenino, ideal para diferentes ",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vbkzw6vbkzw6vbkz-950e24114467ec289117882822649705-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6818-7f7d736a5d01d9743d17896712679876-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -807,10 +806,6 @@
         {
           "name": "Amarillo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
         },
         {
           "name": "Negro",
@@ -1173,10 +1168,6 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -1310,7 +1301,7 @@
       "name": "VESTIDO TULIP",
       "description": "Vestido Tulip: sofisticación y frescura en lino natural Descubrí el Vestido Tulip , un maxivestido de lino que combina elegancia y comodidad para días cálidos. Su escote cruzado en V realza la figura con un diseño delicado y femenino, mientras que los detalles en hotfix aportan un toque sutil de brillo, ideal para lucir tanto de día como de noche. Confeccionado con lino de alta calidad, este vesti",
       "price": 65000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_roj0zbroj0zbroj0-abda6fc0bc2899efe517872520379887-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32415-8771b5df7fd5552ee017896710535925-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
