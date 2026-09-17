@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:04:23.095925+00:00",
+  "updated_at": "2026-09-17T16:20:50.862151+00:00",
   "store_id": "5053574",
   "count": 145,
   "products": [
@@ -131,7 +131,7 @@
       "name": "PANTALON MARBELLA",
       "description": "Pantalón Marbella: estilo y comodidad en cada detalle Descubrí el Pantalón Marbella , una prenda de corte recto que combina funcionalidad y diseño. Confeccionado en tela rústica sublimada, este pantalón ofrece una textura única y resistente, ideal para el uso diario. Cuenta con bolsillos prácticos y un cordón ajustable en la cintura para un calce cómodo y personalizado. Su diseño rayado aporta un ",
       "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6945-1320ac09a22b38651b17894983040270-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_e0ip4oe0ip4oe0ip-85ff824dbb00846ebb17896466013798-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -141,14 +141,6 @@
       "colors": [
         {
           "name": "Amarillo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Fucsia",
           "hex": "#cccccc"
         }
       ],
@@ -4391,7 +4383,7 @@
       "name": "MUSCULOSA ELENI",
       "description": "Musculosa Eleni: frescura y estilo con un diseño pensado para vos Descubrí la Musculosa Eleni, una prenda esencial para el verano o para combinar con capas en cualquier estación. Su diseño halter con escote en V y espalda descubierta resalta la femineidad de manera sutil y elegante. Confeccionada en jersey algodón con lycra, ofrece una textura suave, elástica y transpirable, ideal para mantener la",
       "price": 8000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_8uijec8uijec8uij-cd778287633acf785717896538644901-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4418,7 +4410,10 @@
           "hex": "#e91e8c"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/musculosa-eleni-8lq70/",
       "position": 9999
     },
