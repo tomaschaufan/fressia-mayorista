@@ -1,8 +1,83 @@
 {
-  "updated_at": "2026-09-18T13:24:57.195284+00:00",
+  "updated_at": "2026-09-18T17:30:54.652840+00:00",
   "store_id": "5053574",
-  "count": 147,
+  "count": 150,
   "products": [
+    {
+      "id": "368353188",
+      "sku": "9599580|5|9",
+      "name": "VESTIDO MADRID",
+      "description": "",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28117-e3a82d4cd818a17b4c17897500144315-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/vestido-madrid-17hys/",
+      "position": 9999
+    },
+    {
+      "id": "368333897",
+      "sku": "2598193|5|15",
+      "name": "REMERA YVONNE-ESTAMPAS SURTIDAS CONSULTAR CON NUESTRAS VENDEDORAS",
+      "description": "",
+      "price": 8500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-09-17-at-9-24-30-am-27013c8b0ab30c9c0017897447712008-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-yvonne-1wqjg/",
+      "position": 9999
+    },
+    {
+      "id": "368319460",
+      "sku": "2515204|5|15",
+      "name": "REMERA YVONNE AM- ESTAMPAS SURTIDAS, CONSULTÁ CON NUESTRAS VENDEDORAS",
+      "description": "",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_odflcsodflcsodfl-30467257baf70962b717897451191766-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-yvonne-am-11gfr/",
+      "position": 9999
+    },
     {
       "id": "368308167",
       "sku": "0914400|5|156",
@@ -35,7 +110,7 @@
       "name": "MUSCULOSA LIOR",
       "description": "Musculosa Lior: diseño y comodidad con un estilo único Descubrí la Musculosa Lior, una prenda que combina funcionalidad y estilo para tu día a día. Confeccionada en tela Morley con Lycra rayada, ofrece una textura suave, elástica y resistente que se adapta perfectamente a tu cuerpo. Su diseño destaca por los breteles combinados, un detalle que aporta frescura y originalidad a cualquier outfit. Ide",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_nairyanairyanair-cd68d2d3c973cdd03117894996024364-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_cxsql2cxsql2cxsq-bf6bdea15e10c3fa8317897419193055-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -3370,6 +3445,14 @@
       "colors": [
         {
           "name": "Leopardo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Vison",
           "hex": "#cccccc"
         }
       ],
