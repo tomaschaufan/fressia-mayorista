@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-09-18T08:48:05.857415+00:00",
+  "updated_at": "2026-09-18T13:24:57.195284+00:00",
   "store_id": "5053574",
-  "count": 145,
+  "count": 147,
   "products": [
+    {
+      "id": "368308167",
+      "sku": "0914400|5|156",
+      "name": "MUSCULOSA LIOR AM",
+      "description": "",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_fm8w9nfm8w9nfm8w-1-35213d2671c58b8fb717897378247899-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-lior-am-slauk/",
+      "position": 9999
+    },
     {
       "id": "367604577",
       "sku": "0991850|5|156",
@@ -890,7 +916,7 @@
       "name": "PANTALON GERONA AM",
       "description": "Pantal&oacute;n Gerona AM: elegancia y confort de la l&iacute;nea Amor Mio Descubr&iacute; el Pantal&oacute;n Gerona AM, parte de nuestra exclusiva l&iacute;nea Amor Mio, confeccionado en lino de alta calidad para brindarte frescura y ligereza durante todo el d&iacute;a. Su dise&ntilde;o wide leg combina comodidad y estilo moderno, ideal para diferentes ocasiones. La cintura con tachas met&aacute;",
       "price": 23000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_2ruqim2ruqim2ruq-9823a8940eab8649b517877611360005-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia33043-afd584c3cd3c916e1417897327702256-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1229,7 +1255,7 @@
       "name": "BOMBACHO GIRONA",
       "description": "Bombacho Girona: comodidad y estilo con detalles únicos Conocé el Bombacho Girona, una prenda que combina funcionalidad y diseño para tu día a día. Confeccionado en una tela suave y resistente, este bombacho se destaca por su corte cómodo y amplio, ideal para ofrecer libertad de movimiento sin perder elegancia. Los detalles en tachas en los laterales y los bolsillos prácticos suman un toque modern",
       "price": 45000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_p1u6cpp1u6cpp1u6-5f4c6c9108b13053b017878590260900-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32877-8e2e069a4cf95de22017897311582100-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1435,7 +1461,7 @@
       "name": "PANTALON CORCEGA",
       "description": "Pantalón Corcega: elegancia y detalle artesanal para tu look diario. Este pantalón sastrero destaca por su cintura con macramé, un detalle único que aporta un toque de sofisticación y originalidad a la prenda. Confeccionado en una tela de alta calidad, combina la estructura clásica del sastrero con la suavidad y comodidad necesarias para el uso cotidiano. Su diseño recto y fluido se adapta perfect",
       "price": 45000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vx069rvx069rvx06-cd5ad0e88acc308f4717872252603684-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32439-d2f897779ad7a502d517897295742564-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1500,7 +1526,7 @@
       "name": "MUSCULOSA LYRA",
       "description": "Musculosa Lyra : una prenda diseñada para combinar estilo y comodidad en tu día a día. Esta musculosa cuenta con una espalda elastizada que se adapta perfectamente a tu cuerpo, brindando libertad de movimiento y un ajuste cómodo. Los apliques en los breteles le aportan un detalle sutil y sofisticado, haciendo que esta musculosa sea ideal para usar sola o como base en tus outfits más variados. Conf",
       "price": 32000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vn12omvn12omvn12-e58f3c336d3aaa671b17871505337421-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32643-7e51fd72f4987b53f817897324236891-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1536,7 +1562,7 @@
       "name": "REMERA KALI",
       "description": "Remera Kali: la básica con un toque especial Descubrí la comodidad y el estilo de la Remera Kali , diseñada especialmente para acompañarte en tu día a día. Esta prenda forma parte de la línea Amor Mio , que se caracteriza por su calidad y atención al detalle. Confeccionada en morley rayado con lycra , su tela ofrece una textura suave, fresca y un ajuste confortable gracias a la elasticidad de la l",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_euf1ckeuf1ckeuf1-da6777da7995b1319317871486264070-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6998-9bd6738c55d9ed527317897322419087-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -3328,6 +3354,30 @@
         "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/buzo-wool-m9b7p/",
+      "position": 9999
+    },
+    {
+      "id": "327147403",
+      "sku": "4798965|5|76",
+      "name": "VESTIDO REBEL",
+      "description": "Vestido Midi, escote bote con drapeado Tela: Jersey Super Soft Print\\n",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_w5wrtaw5wrtaw5wr-597a6618593cc5cd6f17718734914791-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Leopardo",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Vestidos y Monos"
+      ],
+      "url": "https://fressia.net/productos/vestido-rebel-rv0a0/",
       "position": 9999
     },
     {
