@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:03:39.545822+00:00",
+  "updated_at": "2026-09-22T14:22:28.999294+00:00",
   "store_id": "5053574",
   "count": 150,
   "products": [
@@ -235,6 +235,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_e0ip4oe0ip4oe0ip-85ff824dbb00846ebb17896466013798-1024-1024.jpg",
       "sizes": [
         "L",
+        "S",
         "XL"
       ],
       "colors": [
@@ -604,6 +605,10 @@
           "hex": "#cccccc"
         },
         {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -652,9 +657,18 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_gngf2sgngf2sgngf-c97bb34fa7ae68f51917882789255771-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -679,12 +693,25 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia33057-75c7c74c9a01b472d817895872811233-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
           "name": "Celeste",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
         }
       ],
       "categories": [
@@ -1041,7 +1068,7 @@
       "name": "REMERA THALIA",
       "description": "Remera Thalia: esencial y c&oacute;moda para tu d&iacute;a a d&iacute;a Descubr&iacute; la Remera Thalia, una musculosa b&aacute;sica confeccionada en jersey de algod&oacute;n con lycra , que garantiza suavidad y elasticidad para un ajuste perfecto. Su dise&ntilde;o con escote redondo aporta un estilo cl&aacute;sico y vers&aacute;til, ideal para combinar con distintas prendas y crear looks casuale",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vtqh50vtqh50vtqh-3b7e21bae35cca753b17882700218800-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0613-7202091fcdca78172e17900787625488-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1418,8 +1445,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_9qoa2w9qoa2w9qoa-b196812455e922860b17871589602870-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -4483,7 +4509,7 @@
       "name": "MUSCULOSA ELENI",
       "description": "Musculosa Eleni: frescura y estilo con un diseño pensado para vos Descubrí la Musculosa Eleni, una prenda esencial para el verano o para combinar con capas en cualquier estación. Su diseño halter con escote en V y espalda descubierta resalta la femineidad de manera sutil y elegante. Confeccionada en jersey algodón con lycra, ofrece una textura suave, elástica y transpirable, ideal para mantener la",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_8uijec8uijec8uij-cd778287633acf785717896538644901-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0678-293fe2671693f26eed17900784814434-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
