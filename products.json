@@ -1,8 +1,52 @@
 {
-  "updated_at": "2026-09-22T18:31:16.752104+00:00",
+  "updated_at": "2026-09-22T21:47:45.275310+00:00",
   "store_id": "5053574",
-  "count": 151,
+  "count": 152,
   "products": [
+    {
+      "id": "369107757",
+      "sku": "0127200|5|35",
+      "name": "MUSCULOSA JANE",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_xc5sqgxc5sqgxc5s-587ae74a5cd515e0af17901046791472-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lila",
+          "hex": "#ce93d8"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-jane-12i2d/",
+      "position": 9999
+    },
     {
       "id": "368353188",
       "sku": "9599580|5|9",
