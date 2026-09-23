@@ -1,15 +1,56 @@
 {
-  "updated_at": "2026-09-23T15:18:26.913337+00:00",
+  "updated_at": "2026-09-23T19:28:14.707502+00:00",
   "store_id": "5053574",
-  "count": 154,
+  "count": 155,
   "products": [
+    {
+      "id": "369325529",
+      "sku": "0127180|5|35",
+      "name": "MUSCULOSA EVERLY",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_fd66hbfd66hbfd66-5bf2dc36d89c95b2b917901823899261-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-everly-59uwf/",
+      "position": 9999
+    },
     {
       "id": "369262217",
       "sku": "0127210|5|9",
       "name": "CAMPERA GARDENIA",
       "description": "",
       "price": 39000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_co3dz6co3dz6co3d-251483f55712d1678217901787569785-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -21,7 +62,10 @@
           "hex": "#ffffff"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/campera-gardenia-1cvdq/",
       "position": 9999
     },
@@ -3567,9 +3611,9 @@
       "id": "327147403",
       "sku": "4798965|5|76",
       "name": "VESTIDO REBEL",
-      "description": "Vestido Midi, escote bote con drapeado Tela: Jersey Super Soft Print\\n",
+      "description": "Vestido Midi, escote bote con drapeado Tela: Jersey Super Soft Print",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_w5wrtaw5wrtaw5wr-597a6618593cc5cd6f17718734914791-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0488-f3012441f76901d88e17901807325757-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4363,10 +4407,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
         {
           "name": "Fucsia",
           "hex": "#cccccc"
