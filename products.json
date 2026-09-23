@@ -1,8 +1,71 @@
 {
-  "updated_at": "2026-09-23T10:51:57.822753+00:00",
+  "updated_at": "2026-09-23T15:18:26.913337+00:00",
   "store_id": "5053574",
-  "count": 152,
+  "count": 154,
   "products": [
+    {
+      "id": "369262217",
+      "sku": "0127210|5|9",
+      "name": "CAMPERA GARDENIA",
+      "description": "",
+      "price": 39000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/campera-gardenia-1cvdq/",
+      "position": 9999
+    },
+    {
+      "id": "369125969",
+      "sku": "0127190|5|35",
+      "name": "REMERA JUNO",
+      "description": "",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_p8ua9bp8ua9bp8ua-f5ac01682e3052179417901629293153-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lila",
+          "hex": "#ce93d8"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-juno-1wmli/",
+      "position": 9999
+    },
     {
       "id": "369107757",
       "sku": "0127200|5|35",
@@ -1078,7 +1141,7 @@
       "name": "REMERA RHIA",
       "description": "Remera Rhia: comodidad y estilo en cada detalle Descubrí la Remera Rhia , una prenda con manga corta confeccionada en tela Jersey Flame , que combina suavidad y durabilidad para un uso diario. Su diseño box fit ofrece un corte cómodo y moderno, ideal para quienes buscan una silueta relajada sin perder estilo. La tela Jersey Flame se destaca por su textura agradable al tacto y su resistencia, permi",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_kdwjbwkdwjbwkdwj-aa5dc9a1f29e25d74a17877524813209-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0761-77f8ac87fd0b82440917901620196112-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2227,16 +2290,8 @@
       "description": "Bombacho Zahara: comodidad y estilo con un toque único. Este pantalón bombacho está confeccionado en poplin rayado , una tela liviana y fresca que aporta textura y movimiento a la prenda. Su diseño incluye un lazo en la botamanga, que permite ajustar el ancho y darle un detalle delicado y sofisticado. Perfecto para quienes buscan una prenda versátil, el Bombacho Zahara combina la comodidad de un p",
       "price": 23000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28912-ed57e1368ade2af8ed17867106229659-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -4033,7 +4088,7 @@
       "name": "REMERA RHIA AM",
       "description": "Remera Rhia AM: comodidad y estilo en jersey flame Descubrí la Remera Rhia AM, una prenda de la línea Amor Mio diseñada para ofrecerte comodidad y elegancia diaria . Confeccionada en tela Jersey Flame, esta remera de manga corta destaca por su textura suave y respirable, ideal para acompañarte en cualquier momento del día. Su corte Box Fit brinda un ajuste relajado y moderno, permitiendo libertad ",
       "price": 11000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_d1elbnd1elbnd1el-6d2baf7259a2f0bfb217876658396877-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc7118-8f0db4d30ab06e219917901615368330-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
