@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T05:31:43.033699+00:00",
+  "updated_at": "2026-09-23T10:51:57.822753+00:00",
   "store_id": "5053574",
   "count": 152,
   "products": [
@@ -3401,15 +3401,8 @@
       "description": "Remera Eira: la b&aacute;sica esencial para tu d&iacute;a a d&iacute;a Descubr&iacute; la Remera Eira, una prenda con escote redondo y manga corta, dise&ntilde;ada para ofrecer comodidad y estilo en cada uso. Confeccionada en tela jersey sin lycra, brinda una textura suave y fresca, ideal para quienes buscan una opci&oacute;n ligera y transpirable. Su dise&ntilde;o sencillo y cl&aacute;sico la con",
       "price": 5000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_e324df17-d826-4817-ac57-0328bb54b4f4_5053574_5545376-fc2413afa0cbf4278a17769604221553-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Dije",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000"
