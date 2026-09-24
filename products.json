@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-09-24T13:16:02.602041+00:00",
+  "updated_at": "2026-09-24T18:13:54.198775+00:00",
   "store_id": "5053574",
-  "count": 155,
+  "count": 156,
   "products": [
+    {
+      "id": "369619418",
+      "sku": "0127250|5|9",
+      "name": "BLUSA AMAPOLA",
+      "description": "",
+      "price": 29000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vwnzqyvwnzqyvwnz-70ab8a5cd8cfdc488217902635276017-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/blusa-amapola-1gunc/",
+      "position": 9999
+    },
     {
       "id": "369325529",
       "sku": "0127180|5|35",
@@ -289,7 +314,7 @@
       "name": "REMERA SOLEM",
       "description": "Remera Solem: delicadeza y confort en cada detalle Descubrí la Remera Solem, una prenda diseñada para quienes valoran la combinación perfecta entre estilo y comodidad. Confeccionada en Modal soft , una tela reconocida por su suavidad y excelente caída, esta remera ofrece una sensación única sobre la piel. Su diseño destaca por el puntilla en el escote , que aporta un toque femenino y elegante sin ",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0817-92e2a8f80678f54d5517900870218924-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_jfwyh3jfwyh3jfwy-ec71db2871f366eb3b17894977995798-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4382,8 +4407,29 @@
       "description": "Musculosa Nur: elegancia y comodidad en una sola prenda . Esta musculosa destaca por su escote redondo cl&aacute;sico, que aporta un toque de sencillez y sofisticaci&oacute;n a cualquier look. Confeccionada en tela morley con lycra , ofrece una textura suave, fresca y con la elasticidad necesaria para un ajuste c&oacute;modo y favorecedor. Adem&aacute;s, el detalle de hotfix a&ntilde;ade un sutil ",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28238-e6946d9d8fc38520a417867073985552-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
