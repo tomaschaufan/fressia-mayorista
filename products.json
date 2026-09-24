@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T07:15:49.588319+00:00",
+  "updated_at": "2026-09-24T13:16:02.602041+00:00",
   "store_id": "5053574",
   "count": 155,
   "products": [
@@ -191,6 +191,7 @@
       "price": 8500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-09-17-at-9-24-30-am-27013c8b0ab30c9c0017897447712008-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -792,10 +793,6 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
         }
       ],
       "categories": [
@@ -1119,7 +1116,7 @@
       "name": "REMERA CIRCE",
       "description": "Remera Circe: simplicidad y detalle en perfecta armonía Descubrí la Remera Circe , una remera básica que se destaca por su escote combinado con delicados bordados, aportando un toque de sofisticación sin perder la esencia casual. Confeccionada en Morley rayado con Lycra , esta tela ofrece una textura suave, elástica y cómoda, ideal para el uso diario. Su diseño versátil permite que la combines fác",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_pfkqxzpfkqxzpfkq-6a96eebf0710838c7517877737635855-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia1037-f3af64a5c1f63d8dd517902507643466-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -1336,7 +1333,7 @@
       "name": "REMERA SORAYA",
       "description": "Remera Soraya: la prenda básica que no puede faltar en tu guardarropa. Diseñada con escote en V y mangas cortas, esta remera ofrece un estilo sencillo y versátil, ideal para combinar con cualquier look. Confeccionada en jersey de algodón con lycra , la tela garantiza una sensación suave, elasticidad y gran comodidad durante todo el día. Su ajuste se adapta perfectamente al cuerpo, permitiendo libe",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_o854ano854ano854-0f57c7da186c091cbd17875815540630-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia1065-60cef608f0ea1c8b9417902509957092-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4301,7 +4298,7 @@
       "name": "REMERA AMELIE AM",
       "description": "Remera Amelie AM: comodidad y estilo esencial para tu día a día Descubrí la Remera Amelie AM, una prenda básica imprescindible con escote redondo y mangas cortas que se adapta a cualquier look. Confeccionada en jersey de algodón con lycra , ofrece una textura suave y un ajuste cómodo que acompañan tus movimientos durante toda la jornada. Formando parte de la línea Amor Mio, esta remera combina cal",
       "price": 11000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_y4k00ry4k00ry4k0-73f09d6d0f08afba7317875814297665-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia33065-bdd6ec8f748ed18b6117902484062495-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
