@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-24T18:13:54.198775+00:00",
+  "updated_at": "2026-09-24T21:59:45.622580+00:00",
   "store_id": "5053574",
-  "count": 156,
+  "count": 157,
   "products": [
+    {
+      "id": "369751560",
+      "sku": "0127270|4|15",
+      "name": "FALDA MARGARITA",
+      "description": "",
+      "price": 35000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M",
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/falda-margarita-1ulam/",
+      "position": 9999
+    },
     {
       "id": "369619418",
       "sku": "0127250|5|9",
@@ -2964,10 +2986,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
