@@ -1,8 +1,30 @@
 {
-  "updated_at": "2026-09-25T05:52:58.299840+00:00",
+  "updated_at": "2026-09-25T11:16:25.824055+00:00",
   "store_id": "5053574",
-  "count": 157,
+  "count": 158,
   "products": [
+    {
+      "id": "369867430",
+      "sku": "0127280|4|15",
+      "name": "CAMPERA LIRIO",
+      "description": "",
+      "price": 47000.0,
+      "image": "",
+      "sizes": [
+        "L",
+        "M",
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/campera-lirio-11sx2/",
+      "position": 9999
+    },
     {
       "id": "369751560",
       "sku": "0127270|4|15",
