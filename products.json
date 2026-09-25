@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-25T16:40:16.338542+00:00",
+  "updated_at": "2026-09-25T20:17:08.708077+00:00",
   "store_id": "5053574",
-  "count": 160,
+  "count": 165,
   "products": [
     {
       "id": "369867430",
@@ -9,7 +9,7 @@
       "name": "CAMPERA LIRIO",
       "description": "",
       "price": 47000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-10-e6e8331828df32061317903518830150-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_17893779011881591741-81a3f41c3df603b6d617903595061838-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -21,7 +21,11 @@
           "hex": "#ffffff"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Amor mío",
+        "Buzos y Camperas"
+      ],
       "url": "https://fressia.net/productos/campera-lirio-11sx2/",
       "position": 9999
     },
@@ -147,7 +151,7 @@
       "name": "CALZA AURA",
       "description": "",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-7-3d856380df0ff08e2917903402615565-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_2180777280080420101-ec59602aaeca87c0c217903411937539-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -223,7 +227,10 @@
           "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Activewear"
+      ],
       "url": "https://fressia.net/productos/top-aura-b3ig8/",
       "position": 9999
     },
@@ -233,7 +240,7 @@
       "name": "REMERA JUNO",
       "description": "",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_p8ua9bp8ua9bp8ua-f5ac01682e3052179417901629293153-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-13-1741477cbc70843a1617903645270032-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -542,16 +549,8 @@
       "description": "Pantalón Marbella: estilo y comodidad en cada detalle Descubrí el Pantalón Marbella , una prenda de corte recto que combina funcionalidad y diseño. Confeccionado en tela rústica sublimada, este pantalón ofrece una textura única y resistente, ideal para el uso diario. Cuenta con bolsillos prácticos y un cordón ajustable en la cintura para un calce cómodo y personalizado. Su diseño rayado aporta un ",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_e0ip4oe0ip4oe0ip-85ff824dbb00846ebb17896466013798-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "S"
-      ],
-      "colors": [
-        {
-          "name": "Amarillo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -3642,6 +3641,135 @@
         "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-eira-mrx6z/",
+      "position": 9999
+    },
+    {
+      "id": "330648873",
+      "sku": "1892045|5|16",
+      "name": "TOP NOVA",
+      "description": "Top espalda deportiva Tela: Microfibra",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_d6282796-b152-4e14-8333-91621f967a5c_5053574_5545376-603c0bf06d536748df17767983049580-1024-1024.png",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/top-nova-4d725/",
+      "position": 9999
+    },
+    {
+      "id": "330603907",
+      "sku": "1891675|5|16",
+      "name": "BIKER MOTION",
+      "description": "Biker con cintura doble Tela: Microfibra",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10814-2aa54f1f46ee7cb83217731629935134-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Faldas y Shorts"
+      ],
+      "url": "https://fressia.net/productos/biker-motion-l3r22/",
+      "position": 9999
+    },
+    {
+      "id": "330603133",
+      "sku": "1890055|5|16",
+      "name": "TOP FLOW",
+      "description": "Top de breteles escote U Tela: Microfibra",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10833-dd60a14104174515b317731627262518-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/top-flow-t6qwd/",
+      "position": 9999
+    },
+    {
+      "id": "330593078",
+      "sku": "1814485|5|16",
+      "name": "TOP NOVA AM",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11094-242fe91107ac03508e17731600532683-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/top-nova-am-utcb6/",
+      "position": 9999
+    },
+    {
+      "id": "330592567",
+      "sku": "1813855|5|16",
+      "name": "BIKER MOTION AM",
+      "description": "Biker con cintura doble Tela: Microfibra",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11103-017bbde630cde8c73a17731602843654-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Amor mío",
+        "Faldas y Shorts"
+      ],
+      "url": "https://fressia.net/productos/biker-motion-am-1hun2/",
       "position": 9999
     },
     {
