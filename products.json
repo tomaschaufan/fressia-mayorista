@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-25T11:16:25.824055+00:00",
+  "updated_at": "2026-09-25T16:40:16.338542+00:00",
   "store_id": "5053574",
-  "count": 158,
+  "count": 160,
   "products": [
     {
       "id": "369867430",
@@ -9,7 +9,7 @@
       "name": "CAMPERA LIRIO",
       "description": "",
       "price": 47000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-10-e6e8331828df32061317903518830150-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -31,7 +31,7 @@
       "name": "FALDA MARGARITA",
       "description": "",
       "price": 35000.0,
-      "image": "",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_5a87de26-7bf0-4c7f-8be8-106a36feff2b_5053574_5545376-0d32b645bf24fd386717903541853404-1024-1024.webp",
       "sizes": [
         "L",
         "M",
@@ -43,7 +43,10 @@
           "hex": "#ffffff"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Faldas y Shorts"
+      ],
       "url": "https://fressia.net/productos/falda-margarita-1ulam/",
       "position": 9999
     },
@@ -136,6 +139,92 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/campera-gardenia-1cvdq/",
+      "position": 9999
+    },
+    {
+      "id": "369257637",
+      "sku": "0127150|5|35",
+      "name": "CALZA AURA",
+      "description": "",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-7-3d856380df0ff08e2917903402615565-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/calza-aura-crrp5/",
+      "position": 9999
+    },
+    {
+      "id": "369256954",
+      "sku": "0127140|5|35",
+      "name": "TOP AURA",
+      "description": "",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-7-c1d23464abd8af203617903407022457-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/top-aura-b3ig8/",
       "position": 9999
     },
     {
@@ -455,8 +544,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_e0ip4oe0ip4oe0ip-85ff824dbb00846ebb17896466013798-1024-1024.jpg",
       "sizes": [
         "L",
-        "S",
-        "XL"
+        "S"
       ],
       "colors": [
         {
@@ -852,14 +940,6 @@
       ],
       "colors": [
         {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -922,10 +1002,6 @@
         {
           "name": "Celeste",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Negro",
@@ -2001,8 +2077,7 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28507-4664b8e4bbcc13e4c217867240504251-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
