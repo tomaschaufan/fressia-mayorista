@@ -1,13 +1,64 @@
 {
-  "updated_at": "2026-09-28T10:42:54.886288+00:00",
+  "updated_at": "2026-09-28T18:29:21.459449+00:00",
   "store_id": "5053574",
-  "count": 165,
+  "count": 168,
   "products": [
+    {
+      "id": "370456378",
+      "sku": "0127260|4|149",
+      "name": "BODY PRINT",
+      "description": "",
+      "price": 28000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_581061999900690220-ff225e570be4cb57a317906194171911-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/body-print-z6ljc/",
+      "position": 9999
+    },
+    {
+      "id": "370410765",
+      "sku": "4799980|5|74",
+      "name": "REMERA ZENDA",
+      "description": "Remera Zenda: sofisticación y comodidad en cada detalle Descubrí la Remera Zenda, una prenda con diseño Box Fit y manga corta que ofrece un confort superior gracias a su corte amplio y moderno. Su cuello combinado aporta un detalle distintivo que realza cualquier outfit, sumando un toque de estilo único. Confeccionada en Modal Soft estampado , esta tela se destaca por su suavidad, frescura y excel",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_18323657277526687945-006215b2ed38c3d1a617906010963469-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-zenda-ajigw/",
+      "position": 9999
+    },
     {
       "id": "369867430",
       "sku": "0127280|4|15",
       "name": "CAMPERA LIRIO",
-      "description": "",
+      "description": "Campera Lirio: elegancia y funcionalidad para cualquier ocasión La Campera Lirio es una prenda esencial para quienes buscan combinar estilo y comodidad en su día a día. Confeccionada con materiales de alta calidad, esta campera ofrece un diseño moderno y un corte que se adapta perfectamente al cuerpo, brindando libertad de movimiento sin sacrificar la elegancia. Su tejido resistente y detalles cui",
       "price": 47000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_17893779011881591741-81a3f41c3df603b6d617903595061838-1024-1024.jpg",
       "sizes": [
@@ -33,7 +84,7 @@
       "id": "369751560",
       "sku": "0127270|4|15",
       "name": "FALDA MARGARITA",
-      "description": "",
+      "description": "Falda Margarita: estilo y comodidad para tu día a día La Falda Margarita es la elección perfecta para quienes buscan una prenda que combine diseño y funcionalidad. Confeccionada en una tela suave y liviana, garantiza comodidad durante toda la jornada, ideal para climas templados y cálidos. Su corte femenino y versátil permite combinarla fácilmente con diferentes tops y calzados, adaptándose tanto ",
       "price": 35000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_5a87de26-7bf0-4c7f-8be8-106a36feff2b_5053574_5545376-0d32b645bf24fd386717903541853404-1024-1024.webp",
       "sizes": [
@@ -58,7 +109,7 @@
       "id": "369619418",
       "sku": "0127250|5|9",
       "name": "BLUSA AMAPOLA",
-      "description": "",
+      "description": "Blusa Amapola: elegancia y frescura para tus días La Blusa Amapola es una prenda diseñada para quienes buscan combinar estilo y comodidad en un solo artículo. Confeccionada con materiales de alta calidad, ofrece una textura suave y ligera que se adapta perfectamente a climas templados y cálidos. Su diseño cuidado y versátil permite combinarla fácilmente con diferentes prendas, desde pantalones has",
       "price": 29000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vwnzqyvwnzqyvwnz-70ab8a5cd8cfdc488217902635276017-1024-1024.jpg",
       "sizes": [
@@ -83,7 +134,7 @@
       "id": "369325529",
       "sku": "0127180|5|35",
       "name": "MUSCULOSA EVERLY",
-      "description": "",
+      "description": "Musculosa Everly: comodidad y estilo para cada día La Musculosa Everly es una prenda esencial para quienes buscan frescura y versatilidad en su vestuario. Confeccionada con materiales livianos y suaves, garantiza una sensación cómoda ideal para climas cálidos y templados. Su diseño moderno y corte adaptado realzan la figura, ofreciendo libertad de movimiento para que puedas combinarla fácilmente c",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_fd66hbfd66hbfd66-5bf2dc36d89c95b2b917901823899261-1024-1024.jpg",
       "sizes": [
@@ -124,7 +175,7 @@
       "id": "369262217",
       "sku": "0127210|5|9",
       "name": "CAMPERA GARDENIA",
-      "description": "",
+      "description": "Campera Gardenia: protección y estilo para cada día La Campera Gardenia es la opción ideal para quienes buscan una prenda funcional sin sacrificar el diseño. Confeccionada con materiales de alta calidad, esta campera ofrece resistencia y comodidad, perfecta para enfrentar las distintas estaciones del año. Su corte moderno y ajustado proporciona un look elegante y versátil, que combina fácilmente c",
       "price": 39000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_co3dz6co3dz6co3d-251483f55712d1678217901787569785-1024-1024.jpg",
       "sizes": [
@@ -149,7 +200,7 @@
       "id": "369257637",
       "sku": "0127150|5|35",
       "name": "CALZA AURA",
-      "description": "",
+      "description": "Calza Aura: comodidad y estilo para tu rutina diaria La Calza Aura es la elección perfecta para quienes buscan una prenda que combine funcionalidad y diseño. Confeccionada en un tejido elástico y resistente, ofrece un ajuste cómodo que acompaña cada movimiento, ideal para actividades diarias o deportivas. Su corte moderno y favorecedor realza la figura sin sacrificar libertad de movimiento. Además",
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_2180777280080420101-ec59602aaeca87c0c217903411937539-1024-1024.jpg",
       "sizes": [
@@ -194,7 +245,7 @@
       "id": "369256954",
       "sku": "0127140|5|35",
       "name": "TOP AURA",
-      "description": "",
+      "description": "Top Aura: elegancia y comodidad en una prenda esencial El Top Aura es la opción ideal para quienes buscan una prenda versátil y cómoda, sin sacrificar estilo. Confeccionado con materiales de alta calidad, ofrece un tacto suave y un ajuste que realza la figura, brindando libertad de movimiento durante todo el día. Su diseño sencillo pero sofisticado lo hace perfecto para combinar con diferentes pre",
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-7-c1d23464abd8af203617903407022457-1024-1024.jpg",
       "sizes": [
@@ -238,7 +289,7 @@
       "id": "369125969",
       "sku": "0127190|5|35",
       "name": "REMERA JUNO",
-      "description": "",
+      "description": "Remera Juno: estilo y comodidad para tu día a día La Remera Juno es una prenda esencial para quienes buscan combinar comodidad y diseño en una sola pieza. Confeccionada en algodón de alta calidad, ofrece una textura suave y transpirable que acompaña tus movimientos con total libertad durante toda la jornada. Su corte clásico y su escote redondo hacen que sea una opción versátil, ideal para looks c",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-13-1741477cbc70843a1617903645270032-1024-1024.jpg",
       "sizes": [
@@ -279,7 +330,7 @@
       "id": "369107757",
       "sku": "0127200|5|35",
       "name": "MUSCULOSA JANE",
-      "description": "",
+      "description": "Musculosa Jane: comodidad y estilo para cualquier ocasión La Musculosa Jane es una prenda esencial para quienes buscan combinar comodidad y diseño en su día a día. Confeccionada en una tela suave y liviana, garantiza frescura y libertad de movimiento, ideal para climas templados y cálidos. Su corte sencillo y moderno realza la figura sin sacrificar confort, adaptándose fácilmente a distintos estil",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_xc5sqgxc5sqgxc5s-587ae74a5cd515e0af17901046791472-1024-1024.jpg",
       "sizes": [
@@ -323,7 +374,7 @@
       "id": "368353188",
       "sku": "9599580|5|9",
       "name": "VESTIDO MADRID",
-      "description": "",
+      "description": "Vestido Madrid: sofisticación y estilo con detalles únicos Descubrí el Vestido Madrid , una prenda diseñada para realzar tu figura con elegancia. Confeccionado en tela Bruselas vintage , este vestido corto ofrece una textura exclusiva que aporta un aire retro y sofisticado. Su diseño incorpora un delicado drapeado y una torsión en el hombro , creando un efecto visual atractivo y moderno que marca ",
       "price": 18000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28117-e3a82d4cd818a17b4c17897500144315-1024-1024.jpg",
       "sizes": [
@@ -545,12 +596,26 @@
     {
       "id": "367256276",
       "sku": "5098280|4|156",
-      "name": "PANTALON MARBELLA",
-      "description": "Pantalón Marbella: estilo y comodidad en cada detalle Descubrí el Pantalón Marbella , una prenda de corte recto que combina funcionalidad y diseño. Confeccionado en tela rústica sublimada, este pantalón ofrece una textura única y resistente, ideal para el uso diario. Cuenta con bolsillos prácticos y un cordón ajustable en la cintura para un calce cómodo y personalizado. Su diseño rayado aporta un ",
+      "name": "PREVENTA- PANTALON MARBELLA",
+      "description": "REINGRESO DISPONIBLE 1-10 Pantal&oacute;n Marbella: estilo y comodidad en cada detalle Descubr&iacute; el Pantal&oacute;n Marbella , una prenda de corte recto que combina funcionalidad y dise&ntilde;o. Confeccionado en tela r&uacute;stica sublimada, este pantal&oacute;n ofrece una textura &uacute;nica y resistente, ideal para el uso diario. Cuenta con bolsillos pr&aacute;cticos y un cord&oacute;n ",
       "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_e0ip4oe0ip4oe0ip-85ff824dbb00846ebb17896466013798-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6945-e64060d94ff7d22a0117906056043428-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -905,10 +970,6 @@
         {
           "name": "Celeste",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Negro",
@@ -2072,7 +2133,8 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28507-4664b8e4bbcc13e4c217867240504251-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -2412,6 +2474,10 @@
         {
           "name": "Amarillo",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
         }
       ],
       "categories": [
@@ -2616,6 +2682,7 @@
       "price": 8500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28897-901720b9342d3b41e417867102109536-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -3550,14 +3617,9 @@
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28831-ee49904ce90d28209617867098251394-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -4165,6 +4227,10 @@
           "hex": "#4e342e"
         },
         {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Off White",
           "hex": "#cccccc"
         }
@@ -4664,6 +4730,25 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-escote-redondo3/",
+      "position": 9999
+    },
+    {
+      "id": "285920897",
+      "sku": "125095|5|23",
+      "name": "CALZA LARGA",
+      "description": "",
+      "price": 11000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-2847386-97d4bc3446fd3b693b17545800004192-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Pantalones",
+        "SALE",
+        "NARANJA $8.000"
+      ],
+      "url": "https://fressia.net/productos/calza-larga1/",
       "position": 9999
     },
     {
