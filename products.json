@@ -1,8 +1,37 @@
 {
-  "updated_at": "2026-09-28T18:29:21.459449+00:00",
+  "updated_at": "2026-09-28T23:44:04.874705+00:00",
   "store_id": "5053574",
-  "count": 168,
+  "count": 169,
   "products": [
+    {
+      "id": "370512066",
+      "sku": "7598622|5|156",
+      "name": "MUSCULOSA LIV",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_6884603537220698062-14977ea97d70822d0917906255651698-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        },
+        {
+          "name": "Vison",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-liv-uyffx/",
+      "position": 9999
+    },
     {
       "id": "370456378",
       "sku": "0127260|4|149",
@@ -2680,15 +2709,31 @@
       "name": "MUSCULOSA LEA",
       "description": "La Musculosa Lea es la prenda b&aacute;sica ideal para sumar comodidad y estilo a tu guardarropa. Confeccionada en Morley c-ly , una tela suave y liviana que garantiza frescura y un ajuste c&oacute;modo durante todo el d&iacute;a. Su dise&ntilde;o sencillo se realza con detalles de hotfix que aportan un toque sutil de brillo y modernidad, haciendo que esta musculosa sea perfecta para combinar tant",
       "price": 8500.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28897-901720b9342d3b41e417867102109536-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-14-eab957a0ae86d42e6f17906220391667-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
       ],
       "colors": [
         {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
