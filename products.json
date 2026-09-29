@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-29T11:08:35.109536+00:00",
+  "updated_at": "2026-09-29T17:43:59.618796+00:00",
   "store_id": "5053574",
-  "count": 169,
+  "count": 170,
   "products": [
     {
       "id": "370512066",
@@ -830,6 +830,10 @@
         {
           "name": "Rojo",
           "hex": "#d32f2f"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
         }
       ],
       "categories": [
@@ -2400,10 +2404,6 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Rosa",
           "hex": "#e91e8c"
         }
@@ -3771,7 +3771,7 @@
       "sku": "1891675|5|16",
       "name": "BIKER MOTION",
       "description": "Biker con cintura doble Tela: Microfibra",
-      "price": 8000.0,
+      "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10814-2aa54f1f46ee7cb83217731629935134-1024-1024.jpg",
       "sizes": [
         "L",
@@ -3796,7 +3796,7 @@
       "sku": "1890055|5|16",
       "name": "TOP FLOW",
       "description": "Top de breteles escote U Tela: Microfibra",
-      "price": 8000.0,
+      "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10833-dd60a14104174515b317731627262518-1024-1024.jpg",
       "sizes": [
         "L",
@@ -4741,6 +4741,43 @@
       "position": 9999
     },
     {
+      "id": "287584392",
+      "sku": "0475330|5|15",
+      "name": "REMERA BASICA",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-08-0650342-a3ad81a421c1c9995817552629773933-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-basica2/",
+      "position": 9999
+    },
+    {
       "id": "287583487",
       "sku": "0414190|5|15",
       "name": "MUSCULOSA NUR",
@@ -5174,6 +5211,10 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
         },
         {
           "name": "Gris",
