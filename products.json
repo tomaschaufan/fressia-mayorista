@@ -1,37 +1,8 @@
 {
-  "updated_at": "2026-09-29T17:43:59.618796+00:00",
+  "updated_at": "2026-09-29T21:56:05.566899+00:00",
   "store_id": "5053574",
-  "count": 170,
+  "count": 169,
   "products": [
-    {
-      "id": "370512066",
-      "sku": "7598622|5|156",
-      "name": "MUSCULOSA LIV",
-      "description": "",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_6884603537220698062-14977ea97d70822d0917906255651698-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        },
-        {
-          "name": "Vison",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [],
-      "url": "https://fressia.net/productos/musculosa-liv-uyffx/",
-      "position": 9999
-    },
     {
       "id": "370456378",
       "sku": "0127260|4|149",
@@ -460,9 +431,7 @@
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_odflcsodflcsodfl-30467257baf70962b717897451191766-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M",
-        "XL"
+        "L"
       ],
       "colors": [
         {
@@ -4743,7 +4712,7 @@
     {
       "id": "287584392",
       "sku": "0475330|5|15",
-      "name": "REMERA BASICA",
+      "name": "REMERA ELSA LISA",
       "description": "",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-08-0650342-a3ad81a421c1c9995817552629773933-1024-1024.jpg",
