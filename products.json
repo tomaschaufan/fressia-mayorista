@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:40:02.152589+00:00",
+  "updated_at": "2026-09-30T20:34:38.837782+00:00",
   "store_id": "5053574",
   "count": 172,
   "products": [
@@ -666,10 +666,6 @@
         {
           "name": "Celeste",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Fucsia",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -822,10 +818,6 @@
         {
           "name": "Rojo",
           "hex": "#d32f2f"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
         }
       ],
       "categories": [
