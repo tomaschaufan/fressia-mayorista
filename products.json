@@ -1,15 +1,133 @@
 {
-  "updated_at": "2026-10-01T14:13:56.527596+00:00",
+  "updated_at": "2026-10-01T20:08:35.161708+00:00",
   "store_id": "5053574",
-  "count": 174,
+  "count": 178,
   "products": [
+    {
+      "id": "371259988",
+      "sku": "0127170|5|35",
+      "name": "CALZA ENERGY",
+      "description": "Calza Energy: rendimiento y confort en movimiento. Esta calza está diseñada para acompañarte en cada entrenamiento, ofreciendo una combinación ideal de elasticidad y sujeción que potencia tu rendimiento. Confeccionada en materiales técnicos de alta calidad, la Calza Energy proporciona una excelente transpirabilidad y secado rápido, manteniéndote fresca y cómoda durante toda la actividad física. Su",
+      "price": 11000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1656-da88ea33858d66c8c817908803013933-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/calza-energy-11n90/",
+      "position": 9999
+    },
+    {
+      "id": "371259950",
+      "sku": "0127160|5|35",
+      "name": "TOP ENERGY",
+      "description": "Top Energy: potencia y rendimiento en tu rutina diaria . Top Energy es la prenda ideal para quienes buscan combinar comodidad con funcionalidad en cada actividad. Diseñado para brindar soporte y libertad de movimiento, este top se adapta perfectamente a diferentes tipos de cuerpo, ofreciendo un ajuste seguro y confortable. Confeccionado con materiales de alta calidad que permiten una excelente tra",
+      "price": 11000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1662-df070011ce260d18fa17908818286321-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/top-energy-g01dj/",
+      "position": 9999
+    },
+    {
+      "id": "371208188",
+      "sku": "0127290|5|35",
+      "name": "MUSCULOSA CALA",
+      "description": "",
+      "price": 20000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_7974649483635984270-5dd82705608a3ca26517908717494351-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Vison",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-cala-1ev3u/",
+      "position": 9999
+    },
     {
       "id": "371163226",
       "sku": "4790821|5|74",
       "name": "REMERA SIENNA",
-      "description": "",
+      "description": "Remera Sienna: comodidad y estilo en una prenda esencial . Esta remera básica se destaca por su diseño con estampa y vivos combinados, que aportan un detalle moderno y atractivo a un clásico infaltable. Confeccionada en Modal Soft estampado , una tela especialmente suave, liviana y fresca, ideal para el clima argentino. Su textura delicada brinda una sensación agradable sobre la piel, asegurando c",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_5887054301443471502-217b3877da837b068517908622254045-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1956-7814b8206628c8287a17908821529329-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -55,6 +173,39 @@
       "position": 9999
     },
     {
+      "id": "370963939",
+      "sku": "7599730|5|130",
+      "name": "BODY BLONDE",
+      "description": "Body Blonde: comodidad y delicadeza en una sola prenda . Este body destaca por su puntilla en el escote , que aporta un toque femenino y elegante, ideal para realzar tu look con sutileza. Confeccionado en Modal Soft , una tela suave y liviana que ofrece una textura agradable al contacto con la piel y una excelente caída. Este material garantiza comodidad durante todo el día, además de permitir una",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm2052-e1a00e6351e680918417908822949217-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Mocca",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/body-blonde-myohy/",
+      "position": 9999
+    },
+    {
       "id": "370643456",
       "sku": "7513902|5|156",
       "name": "MUSCULOSA LIV AM",
@@ -87,9 +238,9 @@
       "id": "370512066",
       "sku": "7598622|5|156",
       "name": "MUSCULOSA LIV",
-      "description": "",
+      "description": "Musculosa Liv: comodidad y estilo en un diseño delicado Descubrí la Musculosa Liv , una prenda esencial para sumar a tu guardarropa. Esta musculosa presenta un escote redondo clásico que resalta de manera sutil y elegante. Su principal detalle está en el bordado frontal , que aporta un toque artesanal y sofisticado a la prenda. Confeccionada en Modal Soft , una tela suave, liviana y con excelente ",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_01f59f0f-9545-4d8a-9300-cdee496990ab_5053574_5545376-5860d0b49b89ca6af317907691315987-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1962-effb86d90a54f1e65417908826532140-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -715,6 +866,10 @@
       ],
       "colors": [
         {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Celeste",
           "hex": "#cccccc"
         }
@@ -1136,7 +1291,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc7182-6f2969cf9173a742e117901935185062-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
