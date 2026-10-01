@@ -1,8 +1,59 @@
 {
-  "updated_at": "2026-10-01T06:53:02.955128+00:00",
+  "updated_at": "2026-10-01T14:13:56.527596+00:00",
   "store_id": "5053574",
-  "count": 172,
+  "count": 174,
   "products": [
+    {
+      "id": "371163226",
+      "sku": "4790821|5|74",
+      "name": "REMERA SIENNA",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_5887054301443471502-217b3877da837b068517908622254045-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-sienna-l4v6o/",
+      "position": 9999
+    },
+    {
+      "id": "370988816",
+      "sku": "5017420|5|74",
+      "name": "PANTALON MARBELLA AM",
+      "description": "",
+      "price": 23000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_4844796486932122815-82620150300910407517908551724338-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/pantalon-marbella-am-1bx00/",
+      "position": 9999
+    },
     {
       "id": "370643456",
       "sku": "7513902|5|156",
@@ -2532,6 +2583,10 @@
         {
           "name": "Amarillo",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
         }
       ],
       "categories": [
@@ -4906,9 +4961,18 @@
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14671-3e5ee63c8cfc75d96217767886341286-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        },
         {
           "name": "Rojo",
           "hex": "#d32f2f"
