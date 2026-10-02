@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T06:44:02.331578+00:00",
+  "updated_at": "2026-10-02T13:36:27.099929+00:00",
   "store_id": "5053574",
   "count": 178,
   "products": [
@@ -40,7 +40,10 @@
           "hex": "#2e7d32"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Activewear"
+      ],
       "url": "https://fressia.net/productos/calza-energy-11n90/",
       "position": 9999
     },
@@ -81,7 +84,10 @@
           "hex": "#2e7d32"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Activewear"
+      ],
       "url": "https://fressia.net/productos/top-energy-g01dj/",
       "position": 9999
     },
@@ -91,7 +97,7 @@
       "name": "MUSCULOSA CALA",
       "description": "",
       "price": 20000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_7974649483635984270-5dd82705608a3ca26517908717494351-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_jl44grjl44grjl44-1464aab866f623a68017909386071105-1024-1024.jpg",
       "sizes": [
         "M"
       ],
@@ -201,7 +207,10 @@
           "hex": "#d32f2f"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Bodys"
+      ],
       "url": "https://fressia.net/productos/body-blonde-myohy/",
       "position": 9999
     },
@@ -636,7 +645,7 @@
       "name": "VESTIDO MADRID",
       "description": "Vestido Madrid: sofisticación y estilo con detalles únicos Descubrí el Vestido Madrid , una prenda diseñada para realzar tu figura con elegancia. Confeccionado en tela Bruselas vintage , este vestido corto ofrece una textura exclusiva que aporta un aire retro y sofisticado. Su diseño incorpora un delicado drapeado y una torsión en el hombro , creando un efecto visual atractivo y moderno que marca ",
       "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28117-e3a82d4cd818a17b4c17897500144315-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1643-3e320cdeeec5cd6bd617909470392206-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -655,7 +664,10 @@
           "hex": "#2e7d32"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Vestidos y Monos"
+      ],
       "url": "https://fressia.net/productos/vestido-madrid-17hys/",
       "position": 9999
     },
@@ -691,7 +703,9 @@
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_odflcsodflcsodfl-30467257baf70962b717897451191766-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -2440,7 +2454,8 @@
         }
       ],
       "categories": [
-        "Colección principal"
+        "Colección principal",
+        "Bodys"
       ],
       "url": "https://fressia.net/productos/body-zumaia-gciwa/",
       "position": 9999
