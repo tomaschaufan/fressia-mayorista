@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-02T13:36:27.099929+00:00",
+  "updated_at": "2026-10-02T18:59:56.549567+00:00",
   "store_id": "5053574",
-  "count": 178,
+  "count": 167,
   "products": [
     {
       "id": "371259988",
@@ -276,9 +276,9 @@
       "id": "370456378",
       "sku": "0127260|4|149",
       "name": "BODY PRINT",
-      "description": "",
+      "description": "Body Print: la prenda que combina arte y confort El Body Print es una pieza esencial que aporta estilo y funcionalidad a tu guardarropa. Confeccionado en materiales de alta calidad, ofrece una textura suave y un ajuste cómodo que se adapta a tu cuerpo, permitiendo libertad de movimiento durante todo el día. Su diseño estampado destaca por su originalidad y elegancia, siendo ideal para quienes busc",
       "price": 28000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2f675abd-f76c-4776-8214-640cd38d10c4_5053574_5545376-a03cec821087f5013317907691853117-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm2026-b37bcc434b7f25898e17909533763555-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -287,11 +287,23 @@
       ],
       "colors": [
         {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
           "name": "Marron",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Bodys",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/body-print-z6ljc/",
       "position": 9999
     },
@@ -301,7 +313,7 @@
       "name": "REMERA ZENDA",
       "description": "Remera Zenda: sofisticación y comodidad en cada detalle Descubrí la Remera Zenda, una prenda con diseño Box Fit y manga corta que ofrece un confort superior gracias a su corte amplio y moderno. Su cuello combinado aporta un detalle distintivo que realza cualquier outfit, sumando un toque de estilo único. Confeccionada en Modal Soft estampado , esta tela se destaca por su suavidad, frescura y excel",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_18323657277526687945-006215b2ed38c3d1a617906010963469-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1984-85b80ef23c0a6cab9a17909539076663-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -329,7 +341,7 @@
       "name": "CAMPERA LIRIO",
       "description": "Campera Lirio: elegancia y funcionalidad para cualquier ocasión La Campera Lirio es una prenda esencial para quienes buscan combinar estilo y comodidad en su día a día. Confeccionada con materiales de alta calidad, esta campera ofrece un diseño moderno y un corte que se adapta perfectamente al cuerpo, brindando libertad de movimiento sin sacrificar la elegancia. Su tejido resistente y detalles cui",
       "price": 47000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_17893779011881591741-81a3f41c3df603b6d617903595061838-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1884-58bbb726ee579b8a3617909554883305-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -355,7 +367,7 @@
       "name": "FALDA MARGARITA",
       "description": "Falda Margarita: estilo y comodidad para tu día a día La Falda Margarita es la elección perfecta para quienes buscan una prenda que combine diseño y funcionalidad. Confeccionada en una tela suave y liviana, garantiza comodidad durante toda la jornada, ideal para climas templados y cálidos. Su corte femenino y versátil permite combinarla fácilmente con diferentes tops y calzados, adaptándose tanto ",
       "price": 35000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_5a87de26-7bf0-4c7f-8be8-106a36feff2b_5053574_5545376-0d32b645bf24fd386717903541853404-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1896-3fe74e2ef54cde1fef17909556112143-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -380,7 +392,7 @@
       "name": "BLUSA AMAPOLA",
       "description": "Blusa Amapola: elegancia y frescura para tus días La Blusa Amapola es una prenda diseñada para quienes buscan combinar estilo y comodidad en un solo artículo. Confeccionada con materiales de alta calidad, ofrece una textura suave y ligera que se adapta perfectamente a climas templados y cálidos. Su diseño cuidado y versátil permite combinarla fácilmente con diferentes prendas, desde pantalones has",
       "price": 29000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_vwnzqyvwnzqyvwnz-70ab8a5cd8cfdc488217902635276017-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1877-9cf5c374bd6c39507e17909558540068-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -395,7 +407,11 @@
           "hex": "#ffffff"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Buzos y Camperas",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/blusa-amapola-1gunc/",
       "position": 9999
     },
@@ -405,7 +421,7 @@
       "name": "MUSCULOSA EVERLY",
       "description": "Musculosa Everly: comodidad y estilo para cada día La Musculosa Everly es una prenda esencial para quienes buscan frescura y versatilidad en su vestuario. Confeccionada con materiales livianos y suaves, garantiza una sensación cómoda ideal para climas cálidos y templados. Su diseño moderno y corte adaptado realzan la figura, ofreciendo libertad de movimiento para que puedas combinarla fácilmente c",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_fd66hbfd66hbfd66-5bf2dc36d89c95b2b917901823899261-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1872-053d9155e3139558b817909500476976-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -436,7 +452,11 @@
           "hex": "#e91e8c"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Activewear",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/musculosa-everly-59uwf/",
       "position": 9999
     },
@@ -446,7 +466,7 @@
       "name": "CAMPERA GARDENIA",
       "description": "Campera Gardenia: protección y estilo para cada día La Campera Gardenia es la opción ideal para quienes buscan una prenda funcional sin sacrificar el diseño. Confeccionada con materiales de alta calidad, esta campera ofrece resistencia y comodidad, perfecta para enfrentar las distintas estaciones del año. Su corte moderno y ajustado proporciona un look elegante y versátil, que combina fácilmente c",
       "price": 39000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_co3dz6co3dz6co3d-251483f55712d1678217901787569785-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1889-66544c6549eacaf8ef17909560745153-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -471,7 +491,7 @@
       "name": "CALZA AURA",
       "description": "Calza Aura: comodidad y estilo para tu rutina diaria La Calza Aura es la elección perfecta para quienes buscan una prenda que combine funcionalidad y diseño. Confeccionada en un tejido elástico y resistente, ofrece un ajuste cómodo que acompaña cada movimiento, ideal para actividades diarias o deportivas. Su corte moderno y favorecedor realza la figura sin sacrificar libertad de movimiento. Además",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_2180777280080420101-ec59602aaeca87c0c217903411937539-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1742-e16d6c48666a13279817909509928912-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -516,7 +536,7 @@
       "name": "TOP AURA",
       "description": "Top Aura: elegancia y comodidad en una prenda esencial El Top Aura es la opción ideal para quienes buscan una prenda versátil y cómoda, sin sacrificar estilo. Confeccionado con materiales de alta calidad, ofrece un tacto suave y un ajuste que realza la figura, brindando libertad de movimiento durante todo el día. Su diseño sencillo pero sofisticado lo hace perfecto para combinar con diferentes pre",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-7-c1d23464abd8af203617903407022457-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1746-9be5772513f9321b3517909517413887-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -549,7 +569,8 @@
       ],
       "categories": [
         "Colección principal",
-        "Activewear"
+        "Activewear",
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/top-aura-b3ig8/",
       "position": 9999
@@ -560,48 +581,7 @@
       "name": "REMERA JUNO",
       "description": "Remera Juno: estilo y comodidad para tu día a día La Remera Juno es una prenda esencial para quienes buscan combinar comodidad y diseño en una sola pieza. Confeccionada en algodón de alta calidad, ofrece una textura suave y transpirable que acompaña tus movimientos con total libertad durante toda la jornada. Su corte clásico y su escote redondo hacen que sea una opción versátil, ideal para looks c",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_-13-1741477cbc70843a1617903645270032-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Lila",
-          "hex": "#ce93d8"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
-      "categories": [],
-      "url": "https://fressia.net/productos/remera-juno-1wmli/",
-      "position": 9999
-    },
-    {
-      "id": "369107757",
-      "sku": "0127200|5|35",
-      "name": "MUSCULOSA JANE",
-      "description": "Musculosa Jane: comodidad y estilo para cualquier ocasión La Musculosa Jane es una prenda esencial para quienes buscan combinar comodidad y diseño en su día a día. Confeccionada en una tela suave y liviana, garantiza frescura y libertad de movimiento, ideal para climas templados y cálidos. Su corte sencillo y moderno realza la figura sin sacrificar confort, adaptándose fácilmente a distintos estil",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_xc5sqgxc5sqgxc5s-587ae74a5cd515e0af17901046791472-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1928-05b019b0e3f3fd0f2517909523918889-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -634,6 +614,52 @@
       ],
       "categories": [
         "Colección principal",
+        "Activewear",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-juno-1wmli/",
+      "position": 9999
+    },
+    {
+      "id": "369107757",
+      "sku": "0127200|5|35",
+      "name": "MUSCULOSA JANE",
+      "description": "Musculosa Jane: comodidad y estilo para cualquier ocasión La Musculosa Jane es una prenda esencial para quienes buscan combinar comodidad y diseño en su día a día. Confeccionada en una tela suave y liviana, garantiza frescura y libertad de movimiento, ideal para climas templados y cálidos. Su corte sencillo y moderno realza la figura sin sacrificar confort, adaptándose fácilmente a distintos estil",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1981-7f0d10fb190df39ba517909492336505-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lila",
+          "hex": "#ce93d8"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Activewear",
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-jane-12i2d/",
@@ -675,11 +701,10 @@
       "id": "368333897",
       "sku": "2598193|5|15",
       "name": "REMERA YVONNE-ESTAMPAS SURTIDAS CONSULTAR CON NUESTRAS VENDEDORAS",
-      "description": "",
+      "description": "Remera Yvonne Box Fit: comodidad y estilo con estampas únicas La Remera Yvonne Box Fit es la prenda ideal para quienes buscan una combinación perfecta entre comodidad y diseño. Con manga corta y un corte boxy que aporta frescura y libertad de movimiento, esta remera destaca por sus estampas surtidas, pensadas para darle un toque especial a tu look diario. Confeccionada en jersey sin lycra , su tel",
       "price": 8500.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-09-17-at-9-24-30-am-27013c8b0ab30c9c0017897447712008-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm2003-bd455fe58e33840f8217909565881466-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -693,28 +718,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-yvonne-1wqjg/",
-      "position": 9999
-    },
-    {
-      "id": "368319460",
-      "sku": "2515204|5|15",
-      "name": "REMERA YVONNE AM- ESTAMPAS SURTIDAS, CONSULTÁ CON NUESTRAS VENDEDORAS",
-      "description": "",
-      "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_odflcsodflcsodfl-30467257baf70962b717897451191766-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
-      "categories": [],
-      "url": "https://fressia.net/productos/remera-yvonne-am-11gfr/",
       "position": 9999
     },
     {
@@ -749,7 +752,7 @@
       "name": "MUSCULOSA LIOR",
       "description": "Musculosa Lior: diseño y comodidad con un estilo único Descubrí la Musculosa Lior, una prenda que combina funcionalidad y estilo para tu día a día. Confeccionada en tela Morley con Lycra rayada, ofrece una textura suave, elástica y resistente que se adapta perfectamente a tu cuerpo. Su diseño destaca por los breteles combinados, un detalle que aporta frescura y originalidad a cualquier outfit. Ide",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_cxsql2cxsql2cxsq-bf6bdea15e10c3fa8317897419193055-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1856-38492bfb4b37dd86e917909567763900-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -814,7 +817,7 @@
       "name": "MUSCULOSA MOANA PRINT- ESTAMPAS SURTIDAS CONSULTAR CON NUESTRAS VENDEDORAS",
       "description": "Musculosa Moana Print: variedad y estilo para tu día a día Conocé la Musculosa Moana Print, una prenda diseñada para quienes buscan comodidad y estilo en cada ocasión. Fabricada con materiales de calidad, ofrece una textura suave y un ajuste cómodo que se adapta a tu cuerpo. Esta musculosa se destaca por sus estampas surtidas, ideales para darle un toque fresco y original a tus outfits. Para conoc",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_pcr4egpcr4egpcr4-99e593972fa2ecd60717895667530691-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1993-33caabb01ede006f4a17909571143847-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -871,7 +874,7 @@
       "name": "PANTALON MARBELLA",
       "description": "Pantal&oacute;n Marbella: estilo y comodidad en cada detalle Descubr&iacute; el Pantal&oacute;n Marbella , una prenda de corte recto que combina funcionalidad y dise&ntilde;o. Confeccionado en tela r&uacute;stica sublimada, este pantal&oacute;n ofrece una textura &uacute;nica y resistente, ideal para el uso diario. Cuenta con bolsillos pr&aacute;cticos y un cord&oacute;n ajustable en la cintura pa",
       "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6945-e64060d94ff7d22a0117906056043428-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1990-6e17559493643e755617909572365015-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -2284,8 +2287,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6998-9bd6738c55d9ed527317897322419087-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -2330,7 +2332,7 @@
       "name": "MUSCULOSA ODESSA",
       "description": "Musculosa Odessa: elegancia y frescura para tu look diario. Esta musculosa presenta un escote en V que realza de forma sutil la figura, mientras que su espalda descubierta aporta un toque de modernidad y frescura. Confeccionada en tela Morley rayado con lycra , garantiza una textura suave y un ajuste cómodo que acompaña tus movimientos durante todo el día. Ideal para combinar con jeans, pantalones",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_b0yjjtb0yjjtb0yj-5027b1e101b179599b17871430858349-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1868-0d176750a938fdc4a617909574702676-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2354,7 +2356,7 @@
       "name": "VESTIDO CARTAGENA",
       "description": "Vestido Cartagena : un diseño que destaca por su elegancia y detalles únicos. Este vestido presenta un escote en V que realza la figura, acompañado de un cut out en la cintura que aporta un toque moderno y sofisticado. El lazo para atar en la espalda permite ajustar la prenda, brindando comodidad y un fit personalizado. Confeccionado en tela Cey lisa , ofrece una textura suave y fresca, ideal para",
       "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28127-8bf0100cf28f916e3c17870655593110-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm2012-88bffc687b8888657d17909575738323-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2802,22 +2804,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-tenerife-am-uc8et/",
-      "position": 9999
-    },
-    {
-      "id": "360881293",
-      "sku": "7299450|5|9",
-      "name": "BOMBACHO ZAHARA",
-      "description": "Bombacho Zahara: comodidad y estilo con un toque único. Este pantalón bombacho está confeccionado en poplin rayado , una tela liviana y fresca que aporta textura y movimiento a la prenda. Su diseño incluye un lazo en la botamanga, que permite ajustar el ancho y darle un detalle delicado y sofisticado. Perfecto para quienes buscan una prenda versátil, el Bombacho Zahara combina la comodidad de un p",
-      "price": 23000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28912-ed57e1368ade2af8ed17867106229659-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/bombacho-zahara-1740x/",
       "position": 9999
     },
     {
@@ -3298,38 +3284,6 @@
       "position": 9999
     },
     {
-      "id": "354357245",
-      "sku": "8795665|5|9",
-      "name": "POLERON DUBAI LISO",
-      "description": "Poler&oacute;n Dubai Liso : el buzo oversized con cuello alto que necesit&aacute;s para esta temporada. Confeccionado en pa&ntilde;o mohair , una tela suave y c&aacute;lida que brinda abrigo y confort sin sacrificar estilo. Su dise&ntilde;o amplio y elegante es perfecto para combinar con cualquier look urbano o casual. Ideal para el invierno argentino, este poler&oacute;n es la prenda clave para m",
-      "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2441487b-4d41-4be0-85b5-a732feeb99c2_5053574_5545376-15de1ea888f493394d17834363249006-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "AMARILLO $10.000"
-      ],
-      "url": "https://fressia.net/productos/poleron-dubai-liso-vzir3/",
-      "position": 9999
-    },
-    {
-      "id": "353597351",
-      "sku": "6092407|5|15",
-      "name": "BUZO CAMPEONES",
-      "description": "Buzo Campeones: comodidad y estilo con detalles que marcan la diferencia Descubr&iacute; el Buzo Campeones, una prenda dise&ntilde;ada para acompa&ntilde;arte con confort y elegancia en tu d&iacute;a a d&iacute;a. Este buzo presenta un escote redondo que aporta un look cl&aacute;sico y vers&aacute;til, ideal para cualquier ocasi&oacute;n. Confeccionado en plush bifaz , una tela suave y c&aacute;li",
-      "price": 17000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_7da31c73-ffd9-45d5-a455-2a3095ddd3b4_5053574_5545376-8a9320b97cac249e4517829971798945-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "AMARILLO $10.000"
-      ],
-      "url": "https://fressia.net/productos/buzo-campeones-ehpi0/",
-      "position": 9999
-    },
-    {
       "id": "351480964",
       "sku": "8393776|5|52",
       "name": "POLERA FIONA",
@@ -3367,22 +3321,6 @@
         "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/polera-fiona-1cn0c/",
-      "position": 9999
-    },
-    {
-      "id": "351478416",
-      "sku": "8399526|5|52",
-      "name": "REMERA MORA",
-      "description": "Remera Mora : una prenda esencial para tu guardarropa. Confeccionada en tela Ribb Darlon , conocida por su suavidad y durabilidad, esta remera ofrece un ajuste c&oacute;modo y elegante. Su dise&ntilde;o incluye un escote base que realza tu estilo, acompa&ntilde;ado de una etiqueta bordada que aporta un detalle &uacute;nico y sofisticado. Ideal para combinar con cualquier look diario, la Remera Mor",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_47e1f1ba-8ac1-435c-8c8a-5447ef47b470_5053574_5545376-041e13e5d740c87d2017821432656613-1024-1024.png",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "ROJO  $5/6.000"
-      ],
-      "url": "https://fressia.net/productos/remera-mora-yog6p/",
       "position": 9999
     },
     {
@@ -3564,22 +3502,6 @@
       "position": 9999
     },
     {
-      "id": "348312920",
-      "sku": "8495495|5|8",
-      "name": "REMERA VANIA",
-      "description": "Remera Vania: comodidad y estilo con un toque cl&aacute;sico Descubr&iacute; la Remera Vania , una prenda ideal para quienes buscan comodidad sin sacrificar el estilo. Confeccionada en tela Darlon rayada , esta remera de mangas largas ofrece una textura suave y agradable al tacto, perfecta para acompa&ntilde;arte en los d&iacute;as m&aacute;s frescos. Su dise&ntilde;o con escote redondo aporta un ",
-      "price": 7000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22541-44c0f82ad1804680fd17823148804926-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "ROJO  $5/6.000"
-      ],
-      "url": "https://fressia.net/productos/remera-vania-qi01u/",
-      "position": 9999
-    },
-    {
       "id": "347069709",
       "sku": "4699465|5|15",
       "name": "REMERA GAIA",
@@ -3667,22 +3589,6 @@
         "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/buzo-toronto-liso-am-uhsvu/",
-      "position": 9999
-    },
-    {
-      "id": "342835624",
-      "sku": "1099407|5|23",
-      "name": "REMERA AMARA",
-      "description": "Remera Amara: comodidad y estilo con un toque &uacute;nico Descubr&iacute; la Remera Amara , una prenda que combina dise&ntilde;o y confort para tu d&iacute;a a d&iacute;a. Confeccionada en jersey viscosa con lycra , ofrece una textura suave, flexible y muy agradable al contacto con la piel. Su corte con manga raglan brinda libertad de movimiento y un look casual, mientras que el cuello combinado ",
-      "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-2219370-dbed8f8fed87ff877617798215216284-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "SALE",
-        "ROJO  $5/6.000"
-      ],
-      "url": "https://fressia.net/productos/remera-amara-1cr3t/",
       "position": 9999
     },
     {
@@ -4299,8 +4205,7 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10947-b0cba89f51c376195717733227237640-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -4329,22 +4234,6 @@
         "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-zaida-1jbao/",
-      "position": 9999
-    },
-    {
-      "id": "325149363",
-      "sku": "7517745|5|149",
-      "name": "REMERA EVA INVIERNO",
-      "description": "Remera Eva invierno: sofisticaci&oacute;n y confort en cada detalle Descubr&iacute; la Remera Eva invierno, una prenda de la l&iacute;nea Amor Mio confeccionada en Modal Soft , una tela reconocida por su suavidad y excelente ca&iacute;da. Su dise&ntilde;o de manga corta drapeada aporta un toque de elegancia y originalidad, ideal para realzar tu look con estilo sin perder comodidad. La textura lige",
-      "price": 6000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10446-0b9233b97ef8ac53db17718486584700-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Amor mío",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/remera-eva-invierno-1zyg9/",
       "position": 9999
     },
     {
@@ -4470,7 +4359,7 @@
       "name": "REMERA ELSA",
       "description": "Remera Elsa: la prenda b&aacute;sica que tu guardarropa necesita. Confeccionada en Morley c-ly , una tela que combina suavidad y elasticidad, esta remera b&aacute;sica ofrece una comodidad superior para el uso diario. Su dise&ntilde;o con escote redondo cl&aacute;sico aporta un estilo atemporal y vers&aacute;til, ideal para combinar con diferentes looks. El detalle de hotfix en la prenda a&ntilde;",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28878-20a11fa37765cc854517884513082922-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1987-6212f9447c706189e117909585640119-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4735,22 +4624,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-emma-15t22/",
-      "position": 9999
-    },
-    {
-      "id": "319618998",
-      "sku": "7780770|5|43",
-      "name": "MUSCULOSA BASICA, ESCOTE REDONDO",
-      "description": "Musculosa Básica con Escote Redondo: comodidad y estilo para tu día a día Descubrí la Musculosa Básica con Escote Redondo , una prenda esencial para cualquier guardarropa. Confeccionada con tejidos suaves y de alta calidad, esta musculosa ofrece un ajuste cómodo que se adapta perfectamente a tu cuerpo. Su diseño simple y elegante, con escote redondo clásico, permite combinarla fácilmente con disti",
-      "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2024-08-2327273-4e5c7ddaec0980ef8e17694384999025-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/musculosa-basica-escote-redondo-zh06l/",
       "position": 9999
     },
     {
@@ -5106,25 +4979,6 @@
       "position": 9999
     },
     {
-      "id": "285920897",
-      "sku": "125095|5|23",
-      "name": "CALZA LARGA",
-      "description": "",
-      "price": 11000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-05-2847386-97d4bc3446fd3b693b17545800004192-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Activewear",
-        "Pantalones",
-        "SALE",
-        "NARANJA $8.000"
-      ],
-      "url": "https://fressia.net/productos/calza-larga1/",
-      "position": 9999
-    },
-    {
       "id": "276130183",
       "sku": "3697525|5|35",
       "name": "SACO CORAZON",
@@ -5266,22 +5120,6 @@
         "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/remera-escote-redondo2/",
-      "position": 9999
-    },
-    {
-      "id": "251253775",
-      "sku": "5096125|5|76",
-      "name": "PANTALON CHICAGO",
-      "description": "Pantal&oacute;n Chicago: dise&ntilde;o animal print con banda lateral para un estilo &uacute;nico Descubr&iacute; el Pantal&oacute;n Chicago , una prenda que combina la audacia del animal print con la sofisticaci&oacute;n de una banda lateral que aporta un toque moderno y din&aacute;mico a tu look. Confeccionado en Tela R&uacute;stico Print , este pantal&oacute;n ofrece una textura resistente y c&",
-      "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-e-comm-22593-66f36e8fe97bdd380e17822429297250-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-chicago-gr4ot/",
       "position": 9999
     },
     {
