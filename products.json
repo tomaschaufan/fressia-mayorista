@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T17:57:30.266950+00:00",
+  "updated_at": "2026-10-05T23:56:00.589431+00:00",
   "store_id": "5053574",
   "count": 168,
   "products": [
@@ -909,6 +909,10 @@
         },
         {
           "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Fucsia",
           "hex": "#cccccc"
         }
       ],
@@ -3849,8 +3853,7 @@
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28831-ee49904ce90d28209617867098251394-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
