@@ -1,8 +1,40 @@
 {
-  "updated_at": "2026-10-05T08:26:14.465007+00:00",
+  "updated_at": "2026-10-05T17:57:30.266950+00:00",
   "store_id": "5053574",
-  "count": 167,
+  "count": 168,
   "products": [
+    {
+      "id": "372022304",
+      "sku": "9599870|5|23",
+      "name": "CHALECO BRUSELAS",
+      "description": "",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1954-a5ba174b3face5f06317912131364047-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Gris",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/chaleco-bruselas-5k485/",
+      "position": 9999
+    },
     {
       "id": "371259988",
       "sku": "0127170|5|35",
@@ -990,8 +1022,7 @@
       "price": 7000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_9277143178120083385-2f8e608bfa57693ac117907665669011-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -1893,7 +1924,7 @@
       "name": "REMERA ELORE",
       "description": "Remera Elore: frescura y estilo con un dise&ntilde;o &uacute;nico Descubr&iacute; la Remera Elore , una prenda que combina comodidad y elegancia gracias a su dise&ntilde;o de manga dolman, espalda cavada y detalle de gota en la parte posterior. Confeccionada en morley con lycra, esta tela garantiza elasticidad y suavidad, ideal para acompa&ntilde;arte durante todo el d&iacute;a. Su corte relajado ",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_m194htm194htm194-eab899410fa4f3326e17873393110048-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0783-edefa51af7653e20dd17912136564556-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2296,7 +2327,7 @@
       "name": "REMERA INA",
       "description": "Remera Ina: comodidad y estilo en una sola prenda . Esta remera de manga al codo se destaca por sus vivos combinados que aportan un detalle moderno y sofisticado. Confeccionada en tela Morley rayado c-ly, ofrece una textura suave y fresca, ideal para usar todo el día sin perder confort. Su diseño versátil permite combinarla fácilmente con diferentes prendas, adaptándose tanto a looks casuales como",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_rvojq4rvojq4rvoj-6a7759d57399670bbc17871465094392-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0587-1389ab72bfceb8115d17912138760313-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4193,7 +4224,8 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10947-b0cba89f51c376195717733227237640-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -4793,6 +4825,7 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-10-0102642-54ecd54dd804c327aa17606338292090-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
