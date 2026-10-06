@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-06T18:47:41.601058+00:00",
+  "updated_at": "2026-10-06T22:54:27.468228+00:00",
   "store_id": "5053574",
-  "count": 185,
+  "count": 187,
   "products": [
     {
       "id": "372353075",
@@ -9,7 +9,7 @@
       "name": "COMBO FRESS +AM",
       "description": "",
       "price": 62000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_odflcsodflcsodfl-30467257baf70962b717897451191766-1024-1024-6b3b8fa497df53bb2b17913089998765-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c3196c81-075f-4b5e-a463-9cca2e4d765a_5053574_5545376-a5155cc487c69b71c717913158622861-1024-1024.jpg",
       "sizes": [],
       "colors": [],
       "categories": [
@@ -4944,6 +4944,38 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-americana-6hgch/",
+      "position": 9999
+    },
+    {
+      "id": "299707385",
+      "sku": "2600150|10|22",
+      "name": "BIKINI KAIRI",
+      "description": "Tela: Micro Print",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-10-1557691-78e31591a8aff9180817606218826661-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Colección principal",
+        "Mallas"
+      ],
+      "url": "https://fressia.net/productos/bikini-kairi/",
+      "position": 9999
+    },
+    {
+      "id": "299705346",
+      "sku": "2600160|10|22",
+      "name": "BIKINI LAKEN",
+      "description": "Tela: Micro Print&nbsp;",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-10-1557684-c8bc7dc53bcdb946bc17606218275469-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Colección principal",
+        "Mallas"
+      ],
+      "url": "https://fressia.net/productos/bikini-laken/",
       "position": 9999
     },
     {
