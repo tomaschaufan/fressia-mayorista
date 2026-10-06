@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-06T05:23:29.092736+00:00",
+  "updated_at": "2026-10-06T12:50:43.887143+00:00",
   "store_id": "5053574",
-  "count": 168,
+  "count": 169,
   "products": [
     {
       "id": "372022304",
@@ -910,6 +910,10 @@
         {
           "name": "Celeste",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -1366,6 +1370,10 @@
         {
           "name": "Celeste",
           "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
         },
         {
           "name": "Negro",
@@ -4709,6 +4717,35 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-box-fit2/",
+      "position": 9999
+    },
+    {
+      "id": "293560500",
+      "sku": "2600060|6|15",
+      "name": "ENTERIZA DAHLIA AM",
+      "description": "La Enteriza Dahlia &nbsp;de nuestra l&iacute;nea Amor M&iacute;o es una malla dise&ntilde;ada para combinar comodidad y estilo en la playa o la pileta. Confeccionada en suave tela morley 3D , ofrece un ajuste c&oacute;modo y favorecedor. Su dise&ntilde;o incluye un lazo para atar en la espalda , que aporta un toque femenino y permite ajustar la malla a tu medida. Perfecta para lucir con elegancia ",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-0351787-282a100bf5997dc0a317576788480724-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Durazno",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Mallas"
+      ],
+      "url": "https://fressia.net/productos/enteriza-dahlia-am/",
       "position": 9999
     },
     {
