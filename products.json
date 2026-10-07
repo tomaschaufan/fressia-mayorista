@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07T09:53:31.680359+00:00",
+  "updated_at": "2026-10-07T17:17:33.685784+00:00",
   "store_id": "5053574",
-  "count": 187,
+  "count": 188,
   "products": [
     {
       "id": "372353075",
@@ -9,7 +9,7 @@
       "name": "COMBO FRESS +AM",
       "description": "",
       "price": 62000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_c3196c81-075f-4b5e-a463-9cca2e4d765a_5053574_5545376-a5155cc487c69b71c717913158622861-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_odflcsodflcsodfl-30467257baf70962b717897451191766-1024-1024-c1c85a93ab84b60c9517913901812126-1024-1024.jpg",
       "sizes": [],
       "colors": [],
       "categories": [
@@ -24,7 +24,7 @@
       "name": "ESCENCIALES + COLOR",
       "description": "",
       "price": 51000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28878-20a11fa37765cc854517884513082922-1024-1024-ed2e5d7d84843589a217913089790220-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_9u5kg29u5kg29u5k-8da96e6bff5e13941d17913776652671-1024-1024.jpg",
       "sizes": [],
       "colors": [],
       "categories": [
@@ -39,7 +39,7 @@
       "name": "COMBO VESTIDOS",
       "description": "",
       "price": 41000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0488-f3012441f76901d88e17901807325757-1024-1024-22f6266c8014e4e3a417913089616804-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0488-f3012441f76901d88e17901807325757-1024-1024-9153fa304433d50c3217913902563973-1024-1024.jpg",
       "sizes": [],
       "colors": [],
       "categories": [
@@ -54,7 +54,7 @@
       "name": "COMBO OFICINA",
       "description": "",
       "price": 69000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1954-a5ba174b3face5f06317912131364047-1024-1024-6c02c04e568812f11917913089164928-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1954-a5ba174b3face5f06317912131364047-1024-1024-8ad117d74b8fac569d17913902688942-1024-1024.jpg",
       "sizes": [],
       "colors": [],
       "categories": [
@@ -99,7 +99,7 @@
       "name": "GARDENIA Y GANDIA",
       "description": "",
       "price": 127000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1889-66544c6549eacaf8ef17909560745153-1024-1024-6a2282ca8a1cfe8b6b17913088416525-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1889-66544c6549eacaf8ef17909560745153-1024-1024-0448dc7d42fdf5092c17913902993101-1024-1024.jpg",
       "sizes": [],
       "colors": [],
       "categories": [
@@ -566,6 +566,35 @@
       "position": 9999
     },
     {
+      "id": "370642302",
+      "sku": "7599932|5|156",
+      "name": "MUSCULOSA ONA",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_obx6e7obx6e7obx6-7dde03290ec6967a3b17913871432778-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        },
+        {
+          "name": "Vison",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-ona-ajbw7/",
+      "position": 9999
+    },
+    {
       "id": "370512066",
       "sku": "7598622|5|156",
       "name": "MUSCULOSA LIV",
@@ -636,20 +665,8 @@
       "description": "Remera Zenda: sofisticación y comodidad en cada detalle Descubrí la Remera Zenda, una prenda con diseño Box Fit y manga corta que ofrece un confort superior gracias a su corte amplio y moderno. Su cuello combinado aporta un detalle distintivo que realza cualquier outfit, sumando un toque de estilo único. Confeccionada en Modal Soft estampado , esta tela se destaca por su suavidad, frescura y excel",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1984-85b80ef23c0a6cab9a17909539076663-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -673,6 +690,14 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -792,12 +817,20 @@
       "sizes": [
         "L",
         "M",
-        "XL"
+        "S"
       ],
       "colors": [
         {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -2055,7 +2088,7 @@
       "name": "PANTALON GERONA",
       "description": "Pantalón Gerona: elegancia y comodidad con un toque moderno Descubrí el Pantalón Gerona, una prenda confeccionada en lino de alta calidad , que combina frescura y sofisticación para cualquier ocasión. Su diseño wide leg ofrece una silueta amplia y cómoda, ideal para quienes buscan libertad de movimiento sin perder estilo. La cintura con tachas aporta un detalle único y contemporáneo, que realza la",
       "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_sodvcusodvcusodv-aef7deb122c6911f3517876701480749-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0645-d1263943e6074e622817913766962255-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4953,8 +4986,16 @@
       "description": "Tela: Micro Print",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-10-1557691-78e31591a8aff9180817606218826661-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "1",
+        "2"
+      ],
+      "colors": [
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Mallas"
@@ -4969,8 +5010,17 @@
       "description": "Tela: Micro Print&nbsp;",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-10-1557684-c8bc7dc53bcdb946bc17606218275469-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "1",
+        "2",
+        "3"
+      ],
+      "colors": [
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Mallas"
