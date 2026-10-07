@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07T17:17:33.685784+00:00",
+  "updated_at": "2026-10-07T22:47:39.688980+00:00",
   "store_id": "5053574",
-  "count": 188,
+  "count": 189,
   "products": [
     {
       "id": "372353075",
@@ -1066,6 +1066,28 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-yvonne-1wqjg/",
+      "position": 9999
+    },
+    {
+      "id": "368319460",
+      "sku": "2515204|5|15",
+      "name": "REMERA YVONNE AM",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_odflcsodflcsodfl-30467257baf70962b717897451191766-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/remera-yvonne-am-11gfr/",
       "position": 9999
     },
     {
