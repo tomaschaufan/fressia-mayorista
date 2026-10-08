@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T10:05:20.579742+00:00",
+  "updated_at": "2026-10-08T17:44:38.852712+00:00",
   "store_id": "5053574",
   "count": 189,
   "products": [
@@ -857,10 +857,6 @@
           "hex": "#1565c0"
         },
         {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
           "name": "Bordo",
           "hex": "#7b1a2c"
         },
@@ -1035,10 +1031,6 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Verde",
@@ -1676,14 +1668,9 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc7182-6f2969cf9173a742e117901935185062-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -4722,10 +4709,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
         },
         {
           "name": "Negro",
