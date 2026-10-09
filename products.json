@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-10-09T10:07:37.498516+00:00",
+  "updated_at": "2026-10-09T17:20:36.618936+00:00",
   "store_id": "5053574",
-  "count": 191,
+  "count": 192,
   "products": [
+    {
+      "id": "373201718",
+      "sku": "7440020|5|35",
+      "name": "PREVENTA-PANTALON MARSELLA",
+      "description": "",
+      "price": 27000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1997-bda5b1b8c358147d1e17915573536051-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/preventa-pantalon-marsella-3nna3/",
+      "position": 9999
+    },
     {
       "id": "373017940",
       "sku": "0127230|10|74",
@@ -4232,12 +4269,14 @@
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28831-ee49904ce90d28209617867098251394-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M",
+        "S"
       ],
       "colors": [
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
+          "name": "Gris",
+          "hex": "#9e9e9e"
         }
       ],
       "categories": [
@@ -4644,15 +4683,8 @@
       "description": "Remera Yara AM: comodidad y estilo con un dise&ntilde;o moderno Descubr&iacute; la Remera Yara AM , una prenda de la l&iacute;nea Amor Mio pensada para ofrecerte confort y elegancia en tu d&iacute;a a d&iacute;a. Con un corte box fit que brinda una silueta relajada y escote redondo, esta remera se adapta perfectamente a diferentes tipos de cuerpo. Confeccionada en jersey sublimado , su tela combin",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/ecomm-fressia-19feb10644-copia-95e2a60d08406e3aea17716150364099-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000"
