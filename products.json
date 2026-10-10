@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T09:28:48.850936+00:00",
+  "updated_at": "2026-10-10T15:44:27.854882+00:00",
   "store_id": "5053574",
   "count": 192,
   "products": [
@@ -4620,10 +4620,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Leopardo",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
