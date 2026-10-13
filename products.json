@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-13T09:00:32.211585+00:00",
+  "updated_at": "2026-10-13T17:22:35.908043+00:00",
   "store_id": "5053574",
-  "count": 192,
+  "count": 193,
   "products": [
     {
       "id": "373201718",
@@ -564,7 +564,10 @@
           "hex": "#d32f2f"
         }
       ],
-      "categories": [],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
       "url": "https://fressia.net/productos/remera-sienna-l4v6o/",
       "position": 9999
     },
@@ -1369,7 +1372,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32922-07a185906fc0192b6c17895566908714-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
         "S",
         "XL"
       ],
@@ -1672,7 +1674,8 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0529-f1e9320cc563dfc30017901934009015-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -1682,6 +1685,10 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
         }
       ],
       "categories": [
@@ -3626,24 +3633,8 @@
       "description": "Pantalón Menorca : el pantalón recto que combina estilo y funcionalidad para tu día a día. Diseñado con un práctico lazo y un elástico en la cintura, ofrece un ajuste cómodo y adaptable a diferentes tipos de cuerpo. Confeccionado en tela Retro Stripe , este pantalón aporta un toque vintage y sofisticado a tu look, ideal para quienes buscan una prenda versátil y moderna. Su corte recto garantiza un",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28655-fb209a6aee1a52987017867085863130-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -3658,25 +3649,8 @@
       "description": "Pantalón Menorca AM : diseño recto y comodidad en cada detalle. Este pantalón cuenta con un práctico lazo y elástico en la cintura que garantiza un ajuste perfecto y adaptable a diferentes talles grandes. Confeccionado en tela Retro Stripe , ofrece una textura única y un estilo atemporal que se integra fácilmente en tu guardarropa. Forma parte de la línea Amor Mio , pensada especialmente para resa",
       "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28791-4390b71a4329bfc86817867096346762-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Pantalones"
@@ -5649,6 +5623,30 @@
         "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/remera-escote-redondo2/",
+      "position": 9999
+    },
+    {
+      "id": "248463487",
+      "sku": "2693714|5|15",
+      "name": "REMERA JADE PRINT",
+      "description": "Algodón sin Lycra",
+      "price": 8500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-10-13-at-1-36-29-pm-d1f755390671053ae317919105675478-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-cropped2/",
       "position": 9999
     },
     {
