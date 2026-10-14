@@ -1,12 +1,121 @@
 {
-  "updated_at": "2026-10-14T07:08:23.187527+00:00",
+  "updated_at": "2026-10-14T13:20:01.060185+00:00",
   "store_id": "5053574",
-  "count": 193,
+  "count": 196,
   "products": [
+    {
+      "id": "374122787",
+      "sku": "0918380|5|74",
+      "name": "REMERA MEI AM",
+      "description": "",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_ph9071ph9071ph90-c2ed9e099f08d46de617919835924057-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste/ Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-mei-am-1rwg7/",
+      "position": 9999
+    },
+    {
+      "id": "374118929",
+      "sku": "0999830|5|74",
+      "name": "MUSCULOSA AFRA",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_3zpye03zpye03zpy-989474774e80da2cac17919825372500-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste/ Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-afra-125ex/",
+      "position": 9999
+    },
+    {
+      "id": "374104422",
+      "sku": "0999840|5|74",
+      "name": "REMERA MEI",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_jdrnhhjdrnhhjdrn-a0afbb2d06907a63f617919797104060-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste/ Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-mei-tguqk/",
+      "position": 9999
+    },
     {
       "id": "373201718",
       "sku": "7440020|5|35",
-      "name": "PREVENTA-PANTALON MARSELLA",
+      "name": "PANTALON MARSELLA",
       "description": "",
       "price": 27000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1997-bda5b1b8c358147d1e17915573536051-1024-1024.jpg",
@@ -37,7 +146,7 @@
         }
       ],
       "categories": [],
-      "url": "https://fressia.net/productos/preventa-pantalon-marsella-3nna3/",
+      "url": "https://fressia.net/productos/pantalon-marsella-1vk96/",
       "position": 9999
     },
     {
@@ -1343,7 +1452,8 @@
       "sizes": [
         "L",
         "M",
-        "S"
+        "S",
+        "XL"
       ],
       "colors": [
         {
