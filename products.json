@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-10-14T13:20:01.060185+00:00",
+  "updated_at": "2026-10-14T18:18:29.666611+00:00",
   "store_id": "5053574",
-  "count": 196,
+  "count": 199,
   "products": [
+    {
+      "id": "374158400",
+      "sku": "4499430|5|35",
+      "name": "MAXIVESTIDO OVILIA",
+      "description": "",
+      "price": 25000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28137-3be5035b37401c3f0b17919923715325-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Vestidos y Monos"
+      ],
+      "url": "https://fressia.net/productos/maxivestido-ovilia-f1nvz/",
+      "position": 9999
+    },
+    {
+      "id": "374143881",
+      "sku": "2700030|10|29",
+      "name": "BIKINI DYLAN",
+      "description": "",
+      "price": 14000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_2c09qr2c09qr2c09-b1814f5a9507536ebc17919886182575-1024-1024.jpg",
+      "sizes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Mallas"
+      ],
+      "url": "https://fressia.net/productos/bikini-dylan-s4nlt/",
+      "position": 9999
+    },
+    {
+      "id": "374135985",
+      "sku": "0918370|5|74",
+      "name": "MUSCULOSA AFRA AM",
+      "description": "",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_pzfnjepzfnjepzfn-0ceade1dc6c684e47517919867490514-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste/ Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-afra-am-ozswb/",
+      "position": 9999
+    },
     {
       "id": "374122787",
       "sku": "0918380|5|74",
@@ -847,16 +952,8 @@
       ],
       "colors": [
         {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
           "name": "Marron",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -1054,7 +1151,7 @@
       "sku": "0127150|5|35",
       "name": "CALZA AURA",
       "description": "Calza Aura: comodidad y estilo para tu rutina diaria La Calza Aura es la elección perfecta para quienes buscan una prenda que combine funcionalidad y diseño. Confeccionada en un tejido elástico y resistente, ofrece un ajuste cómodo que acompaña cada movimiento, ideal para actividades diarias o deportivas. Su corte moderno y favorecedor realza la figura sin sacrificar libertad de movimiento. Además",
-      "price": 9000.0,
+      "price": 9900.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1742-e16d6c48666a13279817909509928912-1024-1024.jpg",
       "sizes": [
         "L",
@@ -1099,7 +1196,7 @@
       "sku": "0127140|5|35",
       "name": "TOP AURA",
       "description": "Top Aura: elegancia y comodidad en una prenda esencial El Top Aura es la opción ideal para quienes buscan una prenda versátil y cómoda, sin sacrificar estilo. Confeccionado con materiales de alta calidad, ofrece un tacto suave y un ajuste que realza la figura, brindando libertad de movimiento durante todo el día. Su diseño sencillo pero sofisticado lo hace perfecto para combinar con diferentes pre",
-      "price": 9000.0,
+      "price": 9900.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1746-9be5772513f9321b3517909517413887-1024-1024.jpg",
       "sizes": [
         "L",
@@ -1452,8 +1549,7 @@
       "sizes": [
         "L",
         "M",
-        "S",
-        "XL"
+        "S"
       ],
       "colors": [
         {
@@ -1716,20 +1812,8 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Off White",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Rosa",
-          "hex": "#e91e8c"
         }
       ],
       "categories": [
@@ -4835,20 +4919,12 @@
       ],
       "colors": [
         {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
           "name": "Mostaza",
           "hex": "#f9a825"
         },
         {
           "name": "Off White",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
         },
         {
           "name": "Violeta",
