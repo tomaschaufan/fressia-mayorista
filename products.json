@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T01:36:36.491846+00:00",
+  "updated_at": "2026-10-14T07:08:23.187527+00:00",
   "store_id": "5053574",
   "count": 193,
   "products": [
@@ -3543,10 +3543,6 @@
         {
           "name": "Militar",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
