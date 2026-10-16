@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-10-16T15:13:50.343240+00:00",
+  "updated_at": "2026-10-16T19:20:43.967984+00:00",
   "store_id": "5053574",
-  "count": 201,
+  "count": 202,
   "products": [
+    {
+      "id": "374684273",
+      "sku": "9599960|5|15",
+      "name": "PREVENTA-MONOPRENDA AMALFI",
+      "description": "",
+      "price": 33000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1622-23e43dc9f26b8c80c517921748443137-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Vestidos y Monos"
+      ],
+      "url": "https://fressia.net/productos/preventa-monoprenda-amalfi-166vt/",
+      "position": 9999
+    },
     {
       "id": "374417479",
       "sku": "4999540|5|23",
@@ -1383,6 +1414,10 @@
           "hex": "#d4b896"
         },
         {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Verde",
           "hex": "#2e7d32"
         }
@@ -1526,7 +1561,7 @@
     {
       "id": "367577324",
       "sku": "2591373|5|15",
-      "name": "MUSCULOSA MOANA PRINT- ESTAMPAS SURTIDAS CONSULTAR CON NUESTRAS VENDEDORAS",
+      "name": "MUSCULOSA MOANA PRINT",
       "description": "Musculosa Moana Print: variedad y estilo para tu día a día Conocé la Musculosa Moana Print, una prenda diseñada para quienes buscan comodidad y estilo en cada ocasión. Fabricada con materiales de calidad, ofrece una textura suave y un ajuste cómodo que se adapta a tu cuerpo. Esta musculosa se destaca por sus estampas surtidas, ideales para darle un toque fresco y original a tus outfits. Para conoc",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1993-33caabb01ede006f4a17909571143847-1024-1024.jpg",
@@ -1579,16 +1614,27 @@
     {
       "id": "367256276",
       "sku": "5098280|4|156",
-      "name": "PANTALON MARBELLA",
-      "description": "Pantal&oacute;n Marbella: estilo y comodidad en cada detalle Descubr&iacute; el Pantal&oacute;n Marbella , una prenda de corte recto que combina funcionalidad y dise&ntilde;o. Confeccionado en tela r&uacute;stica sublimada, este pantal&oacute;n ofrece una textura &uacute;nica y resistente, ideal para el uso diario. Cuenta con bolsillos pr&aacute;cticos y un cord&oacute;n ajustable en la cintura pa",
+      "name": "PREVENTA-PANTALON MARBELLA",
+      "description": "Para despachar a partir del 23-10 Pantal&oacute;n Marbella: estilo y comodidad en cada detalle Descubr&iacute; el Pantal&oacute;n Marbella , una prenda de corte recto que combina funcionalidad y dise&ntilde;o. Confeccionado en tela r&uacute;stica sublimada, este pantal&oacute;n ofrece una textura &uacute;nica y resistente, ideal para el uso diario. Cuenta con bolsillos pr&aacute;cticos y un cord&o",
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1990-6e17559493643e755617909572365015-1024-1024.jpg",
       "sizes": [
-        "S"
+        "L",
+        "M",
+        "S",
+        "XL"
       ],
       "colors": [
         {
           "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Fucsia",
           "hex": "#cccccc"
         }
       ],
@@ -2250,7 +2296,7 @@
       "name": "REMERA CIRCE AM",
       "description": "Remera Circe AM: sencillez y elegancia con un toque único Conocé la Remera Circe AM, una remera básica que se destaca por su escote combinado con delicado bordado, aportando un detalle especial a una prenda esencial. Confeccionada en tela Morley rayado con lycra, ofrece una textura suave, flexible y cómoda para el uso diario. Esta remera pertenece a la línea Amor Mio , que prioriza la calidad y el",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6916-9732a03f6966c708ea17895874369035-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6900-fa3bd9224b1767a72e17921689261797-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -2283,7 +2329,7 @@
       "name": "REMERA CIRCE",
       "description": "Remera Circe: simplicidad y detalle en perfecta armonía Descubrí la Remera Circe , una remera básica que se destaca por su escote combinado con delicados bordados, aportando un toque de sofisticación sin perder la esencia casual. Confeccionada en Morley rayado con Lycra , esta tela ofrece una textura suave, elástica y cómoda, ideal para el uso diario. Su diseño versátil permite que la combines fác",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia1037-f3af64a5c1f63d8dd517902507643466-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0914-cc9c580533719d0fb517902508674697-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4629,6 +4675,7 @@
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo11062-b2d697ecf3bd75f8aa17731598079319-1024-1024.jpg",
       "sizes": [
+        "L",
         "M",
         "XL"
       ],
