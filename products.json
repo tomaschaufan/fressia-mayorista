@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:48:09.550487+00:00",
+  "updated_at": "2026-10-16T15:13:50.343240+00:00",
   "store_id": "5053574",
   "count": 201,
   "products": [
@@ -273,7 +273,7 @@
       "id": "373201718",
       "sku": "7440020|5|35",
       "name": "PANTALON MARSELLA",
-      "description": "",
+      "description": "Pantalón Marsella: comodidad y estilo con un toque femenino Descubrí el Pantalón Marsella, una prenda versátil confeccionada en fibrana estampada , que combina suavidad y diseño moderno. Su corte recto ofrece un ajuste cómodo y elegante, ideal para acompañar tu día a día con estilo. El detalle del lazo en la cintura aporta un toque femenino y sofisticado, permitiendo ajustar la prenda a tu medida ",
       "price": 27000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1997-bda5b1b8c358147d1e17915573536051-1024-1024.jpg",
       "sizes": [
@@ -1584,21 +1584,11 @@
       "price": 22000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1990-6e17559493643e755617909572365015-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M",
         "S"
       ],
       "colors": [
         {
           "name": "Amarillo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Fucsia",
           "hex": "#cccccc"
         }
       ],
@@ -3406,7 +3396,6 @@
       ],
       "categories": [
         "Colección principal",
-        "Amor mío",
         "Pantalones"
       ],
       "url": "https://fressia.net/productos/bombacho-tarragona-l1384/",
