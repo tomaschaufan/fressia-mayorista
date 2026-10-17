@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T11:23:55.553737+00:00",
+  "updated_at": "2026-10-17T15:02:27.671500+00:00",
   "store_id": "5053574",
   "count": 202,
   "products": [
@@ -4058,10 +4058,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
