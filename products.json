@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T05:46:18.060832+00:00",
+  "updated_at": "2026-10-19T12:16:45.540587+00:00",
   "store_id": "5053574",
   "count": 202,
   "products": [
@@ -3592,6 +3592,10 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
         },
         {
           "name": "Gris",
