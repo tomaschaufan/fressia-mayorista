@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:16:45.540587+00:00",
+  "updated_at": "2026-10-19T19:02:35.912387+00:00",
   "store_id": "5053574",
   "count": 202,
   "products": [
@@ -2980,28 +2980,8 @@
       "description": "Musculosa Lyra : una prenda diseñada para combinar estilo y comodidad en tu día a día. Esta musculosa cuenta con una espalda elastizada que se adapta perfectamente a tu cuerpo, brindando libertad de movimiento y un ajuste cómodo. Los apliques en los breteles le aportan un detalle sutil y sofisticado, haciendo que esta musculosa sea ideal para usar sola o como base en tus outfits más variados. Conf",
       "price": 32000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32643-7e51fd72f4987b53f817897324236891-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Amarillo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Vison",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -3952,14 +3932,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
         {
           "name": "Gris",
           "hex": "#9e9e9e"
