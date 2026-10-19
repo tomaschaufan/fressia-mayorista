@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T19:02:35.912387+00:00",
+  "updated_at": "2026-10-19T23:20:33.878236+00:00",
   "store_id": "5053574",
   "count": 202,
   "products": [
@@ -1709,32 +1709,8 @@
       "description": "Saco Cotton: la calidez y el estilo del saco tejido simil crochet que estabas buscando. Este saco destaca por su diseño tejido que imita el crochet, aportando una textura única y artesanal a tu look. Confeccionado en algodón de alta calidad, ofrece suavidad y comodidad para usar en distintas estaciones del año. Su corte versátil permite combinarlo fácilmente con prendas casuales o más formales, id",
       "price": 49000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32607-420e92496e7afd107c17894864047427-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        },
-        {
-          "name": "Vison",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Buzos y Camperas",
@@ -3100,24 +3076,8 @@
       "description": "Sweater Shine: elegancia y confort en una prenda esencial Descubrí el Sweater Shine , una pieza diseñada para combinar estilo y funcionalidad en tu vestuario diario. Confeccionado con materiales de alta calidad, este sweater ofrece una textura suave y un brillo sutil que aporta un toque de sofisticación a cualquier outfit. Su corte clásico se adapta perfectamente a diferentes tipos de cuerpo, brin",
       "price": 49000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_jey3xyjey3xyjey3-d4e6d00557c5d2018e17867256665714-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Sweaters"
