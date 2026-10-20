@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T09:10:22.670471+00:00",
+  "updated_at": "2026-10-20T14:42:20.967696+00:00",
   "store_id": "5053574",
   "count": 202,
   "products": [
@@ -2757,28 +2757,8 @@
       "description": "Vestido Tulip: sofisticación y frescura en lino natural Descubrí el Vestido Tulip , un maxivestido de lino que combina elegancia y comodidad para días cálidos. Su escote cruzado en V realza la figura con un diseño delicado y femenino, mientras que los detalles en hotfix aportan un toque sutil de brillo, ideal para lucir tanto de día como de noche. Confeccionado con lino de alta calidad, este vesti",
       "price": 65000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32415-8771b5df7fd5552ee017896710535925-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Vestidos y Monos"
@@ -2891,24 +2871,8 @@
       "description": "Pantalón Corcega: elegancia y detalle artesanal para tu look diario. Este pantalón sastrero destaca por su cintura con macramé, un detalle único que aporta un toque de sofisticación y originalidad a la prenda. Confeccionado en una tela de alta calidad, combina la estructura clásica del sastrero con la suavidad y comodidad necesarias para el uso cotidiano. Su diseño recto y fluido se adapta perfect",
       "price": 45000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32439-d2f897779ad7a502d517897295742564-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Vison",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -2923,25 +2887,8 @@
       "description": "Top Corcega: elegancia y comodidad para tu día a día Descubrí el Top Corcega , una prenda diseñada para brindar estilo y confort en cada ocasión. Confeccionado con materiales de alta calidad, este top destaca por su tejido suave y liviano, ideal para acompañarte tanto en climas cálidos como templados. Su corte femenino y favorecedor se adapta a diferentes tipos de cuerpo, proporcionando una siluet",
       "price": 35000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32435-706f21902f196770a217894876275691-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "S"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Vison",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -4058,10 +4005,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -4196,15 +4139,8 @@
       "description": "Buzo Toronto liso AM: comodidad y estilo en cada momento Descubrí el Buzo Toronto liso AM, una prenda esencial de la línea Amor Mio que combina diseño sencillo y funcionalidad. Confeccionado en tejidos de alta calidad, este buzo ofrece una textura suave y un ajuste cómodo, ideal para acompañarte durante todo el día. Su diseño liso y clásico facilita la combinación con diferentes prendas, adaptándo",
       "price": 17000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_2585fd7d-fefd-44bd-b920-f38959dd6ba5_5053574_5545376-651aa3e691775e9bd617794678353133-1024-1024.png",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "SALE",
         "ROJO  $5/6.000"
@@ -4903,10 +4839,6 @@
         "XL"
       ],
       "colors": [
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
         {
           "name": "Rojo",
           "hex": "#d32f2f"
