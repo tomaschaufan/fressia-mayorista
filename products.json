@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T13:28:31.807179+00:00",
+  "updated_at": "2026-10-21T18:24:29.779930+00:00",
   "store_id": "5053574",
   "count": 202,
   "products": [
@@ -1433,12 +1433,24 @@
     {
       "id": "368333897",
       "sku": "2598193|5|15",
-      "name": "REMERA YVONNE-ESTAMPAS SURTIDAS CONSULTAR CON NUESTRAS VENDEDORAS",
+      "name": "REMERA YVONNE",
       "description": "Remera Yvonne Box Fit: comodidad y estilo con estampas únicas La Remera Yvonne Box Fit es la prenda ideal para quienes buscan una combinación perfecta entre comodidad y diseño. Con manga corta y un corte boxy que aporta frescura y libertad de movimiento, esta remera destaca por sus estampas surtidas, pensadas para darle un toque especial a tu look diario. Confeccionada en jersey sin lycra , su tel",
       "price": 8500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm2003-bd455fe58e33840f8217909565881466-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -2722,28 +2734,8 @@
       "description": "Pantalón Gandia: frescura y funcionalidad en lino natural Descubrí el Pantalón Gandia , una prenda confeccionada en lino de alta calidad, ideal para quienes buscan comodidad y estilo en climas cálidos. Su diseño incluye prácticos bolsillos laterales , perfectos para llevar lo esencial sin perder elegancia. El corte recto y la textura natural del lino ofrecen una sensación fresca y transpirable, ac",
       "price": 59000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_xfegmfxfegmfxfeg-93e8285d8869a8b27a17873281970777-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
-          "name": "Off White",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -3800,9 +3792,21 @@
       "name": "PANTALON MENORCA",
       "description": "Pantalón Menorca : el pantalón recto que combina estilo y funcionalidad para tu día a día. Diseñado con un práctico lazo y un elástico en la cintura, ofrece un ajuste cómodo y adaptable a diferentes tipos de cuerpo. Confeccionado en tela Retro Stripe , este pantalón aporta un toque vintage y sofisticado a tu look, ideal para quienes buscan una prenda versátil y moderna. Su corte recto garantiza un",
       "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28655-fb209a6aee1a52987017867085863130-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image-d62d3fdbe853ff4c8817925959678645-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -3816,9 +3820,22 @@
       "name": "PANTALON MENORCA AM",
       "description": "Pantalón Menorca AM : diseño recto y comodidad en cada detalle. Este pantalón cuenta con un práctico lazo y elástico en la cintura que garantiza un ajuste perfecto y adaptable a diferentes talles grandes. Confeccionado en tela Retro Stripe , ofrece una textura única y un estilo atemporal que se integra fácilmente en tu guardarropa. Forma parte de la línea Amor Mio , pensada especialmente para resa",
       "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28791-4390b71a4329bfc86817867096346762-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_bqair0bqair0bqai-67f9d2b80e0e754e5817925962922911-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Amor mío",
         "Pantalones"
@@ -3997,10 +4014,6 @@
         {
           "name": "Beige",
           "hex": "#d4b896"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
         },
         {
           "name": "Chocolate",
