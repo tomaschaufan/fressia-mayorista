@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-10-21T18:24:29.779930+00:00",
+  "updated_at": "2026-10-21T22:07:38.148846+00:00",
   "store_id": "5053574",
-  "count": 202,
+  "count": 203,
   "products": [
+    {
+      "id": "375739120",
+      "sku": "9293099|5|16",
+      "name": "REMERA BEGA",
+      "description": "",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_327187d1-e5a9-4ef5-b49e-1cd6bcffb905_5053574_5545376-3b0ba092846f9ca3cd17926126254928-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-bega-qz7pc/",
+      "position": 9999
+    },
     {
       "id": "374684273",
       "sku": "9599960|5|15",
@@ -4715,10 +4739,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Lima",
-          "hex": "#cccccc"
-        },
         {
           "name": "Rosa",
           "hex": "#e91e8c"
