@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-22T13:29:51.526122+00:00",
+  "updated_at": "2026-10-22T18:19:15.836155+00:00",
   "store_id": "5053574",
-  "count": 203,
+  "count": 206,
   "products": [
     {
       "id": "375739120",
@@ -886,7 +886,7 @@
       "sku": "5017420|5|74",
       "name": "PANTALON MARBELLA AM",
       "description": "",
-      "price": 23000.0,
+      "price": 24000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_4844796486932122815-82620150300910407517908551724338-1024-1024.jpg",
       "sizes": [
         "L",
@@ -1067,8 +1067,19 @@
       "description": "Remera Zenda: sofisticación y comodidad en cada detalle Descubrí la Remera Zenda, una prenda con diseño Box Fit y manga corta que ofrece un confort superior gracias a su corte amplio y moderno. Su cuello combinado aporta un detalle distintivo que realza cualquier outfit, sumando un toque de estilo único. Confeccionada en Modal Soft estampado , esta tela se destaca por su suavidad, frescura y excel",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1984-85b80ef23c0a6cab9a17909539076663-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -1455,7 +1466,7 @@
       "sku": "2598193|5|15",
       "name": "REMERA YVONNE",
       "description": "Remera Yvonne Box Fit: comodidad y estilo con estampas únicas La Remera Yvonne Box Fit es la prenda ideal para quienes buscan una combinación perfecta entre comodidad y diseño. Con manga corta y un corte boxy que aporta frescura y libertad de movimiento, esta remera destaca por sus estampas surtidas, pensadas para darle un toque especial a tu look diario. Confeccionada en jersey sin lycra , su tel",
-      "price": 8500.0,
+      "price": 9500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm2003-bd455fe58e33840f8217909565881466-1024-1024.jpg",
       "sizes": [
         "L",
@@ -1596,7 +1607,7 @@
       "sku": "2591373|5|15",
       "name": "MUSCULOSA MOANA PRINT",
       "description": "Musculosa Moana Print: variedad y estilo para tu día a día Conocé la Musculosa Moana Print, una prenda diseñada para quienes buscan comodidad y estilo en cada ocasión. Fabricada con materiales de calidad, ofrece una textura suave y un ajuste cómodo que se adapta a tu cuerpo. Esta musculosa se destaca por sus estampas surtidas, ideales para darle un toque fresco y original a tus outfits. Para conoc",
-      "price": 8000.0,
+      "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1993-33caabb01ede006f4a17909571143847-1024-1024.jpg",
       "sizes": [
         "L",
@@ -1653,7 +1664,7 @@
       "sku": "5098280|4|156",
       "name": "PREVENTA-PANTALON MARBELLA",
       "description": "Para despachar a partir del 23-10 Pantal&oacute;n Marbella: estilo y comodidad en cada detalle Descubr&iacute; el Pantal&oacute;n Marbella , una prenda de corte recto que combina funcionalidad y dise&ntilde;o. Confeccionado en tela r&uacute;stica sublimada, este pantal&oacute;n ofrece una textura &uacute;nica y resistente, ideal para el uso diario. Cuenta con bolsillos pr&aacute;cticos y un cord&o",
-      "price": 22000.0,
+      "price": 24000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1990-6e17559493643e755617909572365015-1024-1024.jpg",
       "sizes": [
         "L",
@@ -1757,7 +1768,7 @@
       "sku": "4177534|5|15",
       "name": "EIRA PREMIUM",
       "description": "Remera Eira Premium: b&aacute;sica, c&oacute;moda y con estilo Descubr&iacute; la Remera Eira Premium, una prenda esencial para tu guardarropa diario. Confeccionada en jersey sin lycra , ofrece una textura suave y c&oacute;moda, ideal para quienes buscan una opci&oacute;n fresca y liviana. Su dise&ntilde;o con escote redondo y manga corta aporta un estilo cl&aacute;sico y vers&aacute;til, perfecto",
-      "price": 7000.0,
+      "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_9277143178120083385-2f8e608bfa57693ac117907665669011-1024-1024.jpg",
       "sizes": [
         "L"
@@ -2420,10 +2431,6 @@
         {
           "name": "Celeste",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Off White",
@@ -5172,6 +5179,59 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-emma-15t22/",
+      "position": 9999
+    },
+    {
+      "id": "313632427",
+      "sku": "4759320|5|156",
+      "name": "MUSCULOSA BÁSICA",
+      "description": "Tela: Modal soft rayado",
+      "price": 5000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_57bcae51-dc4a-48da-8ff3-904d2f2121eb_5053574_5310992-3b425809ac5f7a86fe17660869242900-1024-1024.jpg",
+      "sizes": [
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-basica-1s89r/",
+      "position": 9999
+    },
+    {
+      "id": "312440289",
+      "sku": "4791130|5|156",
+      "name": "MUSCULOSA CROPPED",
+      "description": "Tela: Modal soft rayado",
+      "price": 5000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/muscu-top-2-photoroom-314326bcf2ca2fb48917654805745306-1024-1024.png",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-cropped-d45du/",
+      "position": 9999
+    },
+    {
+      "id": "311943570",
+      "sku": "4780770|5|156",
+      "name": "TOP MUSCULOSA HALTER",
+      "description": "Tela: Modal soft rayado",
+      "price": 5000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2026-01-2259888-17d7a8b592189578d817694417377849-1024-1024.jpg",
+      "sizes": [
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/top-musculosa-halter-qvs41/",
       "position": 9999
     },
     {
