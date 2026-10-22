@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-10-22T18:19:15.836155+00:00",
+  "updated_at": "2026-10-22T22:07:33.806707+00:00",
   "store_id": "5053574",
-  "count": 206,
+  "count": 207,
   "products": [
+    {
+      "id": "376037242",
+      "sku": "2700040|10|29",
+      "name": "BIKINI KILA",
+      "description": "",
+      "price": 14000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_3de53cca-4c1f-4eb6-bc4a-8cc58356a246_5053574_5545376-e574314aefc5469eee17926989973726-1024-1024.jpg",
+      "sizes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Mallas"
+      ],
+      "url": "https://fressia.net/productos/bikini-kila-w56qk/",
+      "position": 9999
+    },
     {
       "id": "375739120",
       "sku": "9293099|5|16",
@@ -5189,9 +5229,22 @@
       "price": 5000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_57bcae51-dc4a-48da-8ff3-904d2f2121eb_5053574_5310992-3b425809ac5f7a86fe17660869242900-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        },
         {
           "name": "Verde",
           "hex": "#2e7d32"
