@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T10:22:16.208666+00:00",
+  "updated_at": "2026-10-24T14:16:03.779252+00:00",
   "store_id": "5053574",
   "count": 208,
   "products": [
@@ -639,6 +639,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1611-d79f41ae2099da2aa217913095791761-1024-1024.jpg",
       "sizes": [
         "1",
+        "2",
+        "3",
         "4"
       ],
       "colors": [
@@ -3111,6 +3113,7 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28507-4664b8e4bbcc13e4c217867240504251-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
@@ -4817,6 +4820,10 @@
         "M"
       ],
       "colors": [
+        {
+          "name": "Leopardo",
+          "hex": "#cccccc"
+        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
