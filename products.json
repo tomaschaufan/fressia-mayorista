@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T21:51:36.395247+00:00",
+  "updated_at": "2026-10-24T00:17:19.056316+00:00",
   "store_id": "5053574",
   "count": 208,
   "products": [
@@ -1141,19 +1141,8 @@
       "description": "Remera Zenda: sofisticación y comodidad en cada detalle Descubrí la Remera Zenda, una prenda con diseño Box Fit y manga corta que ofrece un confort superior gracias a su corte amplio y moderno. Su cuello combinado aporta un detalle distintivo que realza cualquier outfit, sumando un toque de estilo único. Confeccionada en Modal Soft estampado , esta tela se destaca por su suavidad, frescura y excel",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1984-85b80ef23c0a6cab9a17909539076663-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
