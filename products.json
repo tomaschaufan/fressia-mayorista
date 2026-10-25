@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T21:27:44.360578+00:00",
+  "updated_at": "2026-10-25T23:50:38.789365+00:00",
   "store_id": "5053574",
   "count": 208,
   "products": [
@@ -118,10 +118,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
         },
         {
           "name": "Negro",
