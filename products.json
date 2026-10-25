@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:55:15.197287+00:00",
+  "updated_at": "2026-10-25T00:51:52.752438+00:00",
   "store_id": "5053574",
   "count": 208,
   "products": [
@@ -1172,10 +1172,6 @@
         {
           "name": "Crudo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -5663,10 +5659,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
         },
         {
           "name": "Chocolate",
