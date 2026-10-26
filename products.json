@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-10-26T09:46:02.780711+00:00",
+  "updated_at": "2026-10-26T16:31:38.460005+00:00",
   "store_id": "5053574",
-  "count": 208,
+  "count": 212,
   "products": [
+    {
+      "id": "376740752",
+      "sku": "9593950|5|9",
+      "name": "MUSCULOSA BERYL",
+      "description": "",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_x8evzxx8evzxx8ev-4e65ce0393f5b30b3e17930178508389-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-beryl-2jdie/",
+      "position": 9999
+    },
     {
       "id": "376220820",
       "sku": "9599840|5|9",
@@ -961,15 +1001,9 @@
       "price": 24000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_4844796486932122815-82620150300910407517908551724338-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M",
         "XL"
       ],
       "colors": [
-        {
-          "name": "Celeste",
-          "hex": "#cccccc"
-        },
         {
           "name": "Rosa",
           "hex": "#e91e8c"
@@ -3184,10 +3218,6 @@
         {
           "name": "Mocca",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3434,10 +3464,6 @@
         {
           "name": "Amarillo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
         }
       ],
       "categories": [
@@ -3454,29 +3480,8 @@
       "description": "Musculosa Tenerife AM: una prenda fresca y sofisticada diseñada para quienes valoran el estilo y la comodidad. Esta musculosa está confeccionada en lino vintage , una tela natural que aporta una textura suave y un acabado elegante, ideal para los días cálidos. Su diseño destaca por el lazo en la espalda , que permite ajustar la prenda a tu medida, sumando un toque delicado y femenino. La musculosa",
       "price": 13000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28569-0b839aa0466f6aa3a417867142767673-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
@@ -5332,6 +5337,71 @@
       ],
       "categories": [],
       "url": "https://fressia.net/productos/top-musculosa-halter-qvs41/",
+      "position": 9999
+    },
+    {
+      "id": "308195297",
+      "sku": "2014291|5|9",
+      "name": "MUSCULOSA ESCOTE REDONDO CON ESTAMPA",
+      "description": "Tela: Jersey spoom",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2026-01-2260048-c19410c843972ce0a217694452891137-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-escote-redondo-con-estampa-yrij8/",
+      "position": 9999
+    },
+    {
+      "id": "305257390",
+      "sku": "1298624|5|100",
+      "name": "MUSCULOSA ESCOTE BASE, DELANTERO DOBLE",
+      "description": "Tela: Morley Viscolycra",
+      "price": 5000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2022-a5b12474bf09bf04d117631461459927-1024-1024.jpg",
+      "sizes": [
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-escote-base-delantero-doble-nexcr/",
+      "position": 9999
+    },
+    {
+      "id": "304071517",
+      "sku": "7917640|5|35",
+      "name": "MUSCULOSA CON VIVOS ANCHOS",
+      "description": "Tela: Bambula de punto rayada",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo58626-2d54b992f83a84b8d917618316873165-1024-1024.jpg",
+      "sizes": [
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-con-vivos-anchos-1p9vn/",
       "position": 9999
     },
     {
