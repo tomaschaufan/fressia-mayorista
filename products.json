@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-26T16:31:38.460005+00:00",
+  "updated_at": "2026-10-26T21:23:10.526931+00:00",
   "store_id": "5053574",
-  "count": 212,
+  "count": 211,
   "products": [
     {
       "id": "376740752",
@@ -1058,7 +1058,7 @@
       "name": "MUSCULOSA LIV AM",
       "description": "",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_bc2a6f2c-c05d-4eaa-9c0d-fb1c494b1daf_5053574_5545376-aa94688208177fe13217907681835355-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_erw6j5erw6j5erw6-ec53c884c78ee684cc17930437807039-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -4300,31 +4300,6 @@
         "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/top-axelle-1o3jo/",
-      "position": 9999
-    },
-    {
-      "id": "338785969",
-      "sku": "0126195|5|9",
-      "name": "SWEATER SNUGGLE",
-      "description": "Sweater Snuggle: calidez y estilo para tus días fríos Descubrí el Sweater Snuggle, una prenda diseñada para ofrecerte comodidad y abrigo sin perder estilo. Confeccionado con materiales suaves y de alta calidad, este sweater es ideal para acompañarte en las jornadas más frescas del año. Su diseño clásico y versátil permite combinarlo fácilmente con diferentes prendas, adaptándose tanto a looks casu",
-      "price": 39000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417639-033435ea1a3f5782cb17775541313505-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
-        }
-      ],
-      "categories": [
-        "SALE",
-        "VIOLETA $20.000 Y +",
-        "SWEATERS 3X2"
-      ],
-      "url": "https://fressia.net/productos/sweater-snuggle-o1015/",
       "position": 9999
     },
     {
