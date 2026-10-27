@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-27T07:21:52.939773+00:00",
+  "updated_at": "2026-10-27T14:00:38.078288+00:00",
   "store_id": "5053574",
-  "count": 211,
+  "count": 207,
   "products": [
     {
       "id": "376740752",
@@ -826,7 +826,7 @@
       "sku": "9599870|5|23",
       "name": "CHALECO BRUSELAS",
       "description": "",
-      "price": 12000.0,
+      "price": 13500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1954-a5ba174b3face5f06317912131364047-1024-1024.jpg",
       "sizes": [
         "L",
@@ -998,7 +998,7 @@
       "sku": "5017420|5|74",
       "name": "PANTALON MARBELLA AM",
       "description": "",
-      "price": 24000.0,
+      "price": 24500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_4844796486932122815-82620150300910407517908551724338-1024-1024.jpg",
       "sizes": [
         "XL"
@@ -1529,7 +1529,7 @@
       "sku": "9599580|5|9",
       "name": "VESTIDO MADRID",
       "description": "Vestido Madrid: sofisticación y estilo con detalles únicos Descubrí el Vestido Madrid , una prenda diseñada para realzar tu figura con elegancia. Confeccionado en tela Bruselas vintage , este vestido corto ofrece una textura exclusiva que aporta un aire retro y sofisticado. Su diseño incorpora un delicado drapeado y una torsión en el hombro , creando un efecto visual atractivo y moderno que marca ",
-      "price": 18000.0,
+      "price": 19800.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1643-3e320cdeeec5cd6bd617909470392206-1024-1024.jpg",
       "sizes": [
         "L",
@@ -1755,7 +1755,7 @@
       "sku": "5098280|4|156",
       "name": "PREVENTA-PANTALON MARBELLA",
       "description": "Para despachar a partir del 23-10 Pantal&oacute;n Marbella: estilo y comodidad en cada detalle Descubr&iacute; el Pantal&oacute;n Marbella , una prenda de corte recto que combina funcionalidad y dise&ntilde;o. Confeccionado en tela r&uacute;stica sublimada, este pantal&oacute;n ofrece una textura &uacute;nica y resistente, ideal para el uso diario. Cuenta con bolsillos pr&aacute;cticos y un cord&o",
-      "price": 24000.0,
+      "price": 24500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1990-6e17559493643e755617909572365015-1024-1024.jpg",
       "sizes": [
         "L",
@@ -1793,6 +1793,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32922-07a185906fc0192b6c17895566908714-1024-1024.jpg",
       "sizes": [
         "L",
+        "M",
         "S",
         "XL"
       ],
@@ -1862,7 +1863,8 @@
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_9277143178120083385-2f8e608bfa57693ac117907665669011-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -2072,6 +2074,10 @@
           "hex": "#4e342e"
         },
         {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Rosa",
           "hex": "#e91e8c"
         }
@@ -2138,6 +2144,10 @@
         {
           "name": "Negro",
           "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
         }
       ],
       "categories": [
@@ -2830,38 +2840,6 @@
       "position": 9999
     },
     {
-      "id": "362320392",
-      "sku": "0127100|5|9",
-      "name": "PANTALON GANDIA",
-      "description": "Pantalón Gandia: frescura y funcionalidad en lino natural Descubrí el Pantalón Gandia , una prenda confeccionada en lino de alta calidad, ideal para quienes buscan comodidad y estilo en climas cálidos. Su diseño incluye prácticos bolsillos laterales , perfectos para llevar lo esencial sin perder elegancia. El corte recto y la textura natural del lino ofrecen una sensación fresca y transpirable, ac",
-      "price": 59000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_xfegmfxfegmfxfeg-93e8285d8869a8b27a17873281970777-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-gandia-rwg63/",
-      "position": 9999
-    },
-    {
-      "id": "362167822",
-      "sku": "0127090|5|9",
-      "name": "VESTIDO TULIP",
-      "description": "Vestido Tulip: sofisticación y frescura en lino natural Descubrí el Vestido Tulip , un maxivestido de lino que combina elegancia y comodidad para días cálidos. Su escote cruzado en V realza la figura con un diseño delicado y femenino, mientras que los detalles en hotfix aportan un toque sutil de brillo, ideal para lucir tanto de día como de noche. Confeccionado con lino de alta calidad, este vesti",
-      "price": 65000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32415-8771b5df7fd5552ee017896710535925-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Vestidos y Monos"
-      ],
-      "url": "https://fressia.net/productos/vestido-tulip-z0dgc/",
-      "position": 9999
-    },
-    {
       "id": "361898634",
       "sku": "2515202|5|156",
       "name": "REMERA TRUE LOVE AM",
@@ -2957,54 +2935,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-thais-am-i10jn/",
-      "position": 9999
-    },
-    {
-      "id": "361866707",
-      "sku": "0127080|5|9",
-      "name": "PANTALON CORCEGA",
-      "description": "Pantalón Corcega: elegancia y detalle artesanal para tu look diario. Este pantalón sastrero destaca por su cintura con macramé, un detalle único que aporta un toque de sofisticación y originalidad a la prenda. Confeccionado en una tela de alta calidad, combina la estructura clásica del sastrero con la suavidad y comodidad necesarias para el uso cotidiano. Su diseño recto y fluido se adapta perfect",
-      "price": 45000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32439-d2f897779ad7a502d517897295742564-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Pantalones"
-      ],
-      "url": "https://fressia.net/productos/pantalon-corcega-o6nfy/",
-      "position": 9999
-    },
-    {
-      "id": "361866387",
-      "sku": "0127070|4|9",
-      "name": "TOP CORCEGA",
-      "description": "Top Corcega: elegancia y comodidad para tu día a día Descubrí el Top Corcega , una prenda diseñada para brindar estilo y confort en cada ocasión. Confeccionado con materiales de alta calidad, este top destaca por su tejido suave y liviano, ideal para acompañarte tanto en climas cálidos como templados. Su corte femenino y favorecedor se adapta a diferentes tipos de cuerpo, proporcionando una siluet",
-      "price": 35000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32435-706f21902f196770a217894876275691-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/top-corcega-qqqzh/",
-      "position": 9999
-    },
-    {
-      "id": "361857947",
-      "sku": "0127060|5|156",
-      "name": "MUSCULOSA LYRA",
-      "description": "Musculosa Lyra : una prenda diseñada para combinar estilo y comodidad en tu día a día. Esta musculosa cuenta con una espalda elastizada que se adapta perfectamente a tu cuerpo, brindando libertad de movimiento y un ajuste cómodo. Los apliques en los breteles le aportan un detalle sutil y sofisticado, haciendo que esta musculosa sea ideal para usar sola o como base en tus outfits más variados. Conf",
-      "price": 32000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32643-7e51fd72f4987b53f817897324236891-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Remeras y Musculosas"
-      ],
-      "url": "https://fressia.net/productos/musculosa-lyra-wsbor/",
       "position": 9999
     },
     {
@@ -3112,22 +3042,6 @@
       "position": 9999
     },
     {
-      "id": "361055752",
-      "sku": "0127020|5|9",
-      "name": "SWEATER SHINE",
-      "description": "Sweater Shine: elegancia y confort en una prenda esencial Descubrí el Sweater Shine , una pieza diseñada para combinar estilo y funcionalidad en tu vestuario diario. Confeccionado con materiales de alta calidad, este sweater ofrece una textura suave y un brillo sutil que aporta un toque de sofisticación a cualquier outfit. Su corte clásico se adapta perfectamente a diferentes tipos de cuerpo, brin",
-      "price": 49000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_jey3xyjey3xyjey3-d4e6d00557c5d2018e17867256665714-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Colección principal",
-        "Sweaters"
-      ],
-      "url": "https://fressia.net/productos/sweater-shine-1am17/",
-      "position": 9999
-    },
-    {
       "id": "361043043",
       "sku": "0999660|5|16",
       "name": "BODY FORMENTERA",
@@ -3210,16 +3124,8 @@
       "description": "Chaleco Malaga: sofisticaci&oacute;n y comodidad en una sola prenda. Este chaleco est&aacute; confeccionado en lino sastrero , una tela de alta calidad que aporta estructura y ligereza, ideal para quienes buscan elegancia sin renunciar al confort. Su dise&ntilde;o incluye un lazo para atar, que permite ajustar la prenda a tu medida y aporta un toque femenino y refinado. Perfecto para combinar con ",
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28162-4fa526bee34417866817867207117091-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Mocca",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -3382,7 +3288,7 @@
       "sku": "6398280|5|15",
       "name": "PANTALON BARCELONA",
       "description": "Pantalón Barcelona: comodidad y funcionalidad en un diseño atemporal Este pantalón recto está confeccionado en tela rústica, que le aporta una textura resistente y confortable para el uso diario. Su diseño incluye prácticos bolsillos y un cordón ajustable en la cintura, facilitando un calce personalizado y mayor comodidad. Ideal para quienes buscan una prenda versátil, el Pantalón Barcelona combin",
-      "price": 25000.0,
+      "price": 27000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm29015-f915001936afdbe75617867135681962-1024-1024.jpg",
       "sizes": [
         "L",
@@ -4270,7 +4176,7 @@
       "name": "TOP AXELLE",
       "description": "Top Axelle: elegancia y frescura con hombros descubiertos Descubr&iacute; el Top Axelle , una prenda dise&ntilde;ada para quienes buscan un estilo moderno y c&oacute;modo. Confeccionado en jersey algod&oacute;n con lycra , este top ofrece una textura suave y el&aacute;stica que se adapta perfectamente a tu cuerpo, brindando confort durante todo el d&iacute;a. Su dise&ntilde;o con hombros descubier",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_kdqqamkdqqamkdqq-c5bc7451e536e1735317876716250436-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0637-c13aece5727d49481817931030615945-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4777,6 +4683,58 @@
       "position": 9999
     },
     {
+      "id": "329565075",
+      "sku": "1217396|5|100",
+      "name": "REMERA ADARA",
+      "description": "Remera escote redondo, con estampa Tela: Morley Viscosa c ly",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313072-eba5fece3740fd445717744458503664-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas",
+        "SALE"
+      ],
+      "url": "https://fressia.net/productos/remera-adara-1hhrg/",
+      "position": 9999
+    },
+    {
+      "id": "327334228",
+      "sku": "1212615|5|100",
+      "name": "REMERA ADA",
+      "description": "Remera escote redondo con hombro drapeado\\nTela: Morley Viscosa c ly",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313050-3a34cea06995e1a7e117744457536218-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas",
+        "SALE"
+      ],
+      "url": "https://fressia.net/productos/remera-ada-vfo0m/",
+      "position": 9999
+    },
+    {
       "id": "327147403",
       "sku": "4798965|5|76",
       "name": "VESTIDO REBEL",
@@ -4918,7 +4876,7 @@
       "sku": "3598915|5|15",
       "name": "MUSCULOSA BIANCA",
       "description": "Musculosa Bianca: elegancia asim&eacute;trica con un toque moderno Descubr&iacute; la Musculosa Bianca, un top asim&eacute;trico confeccionado en tela ribb que combina comodidad y dise&ntilde;o innovador. Su tajo delantero aporta un detalle distintivo y femenino, mientras que los ojalillos decorativos realzan su estilo &uacute;nico. Esta musculosa es ideal para quienes buscan una prenda vers&aacut",
-      "price": 11000.0,
+      "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f1debadf-2ccd-488b-a663-f00c21b09db2_5053574_5545376-c016e3f103493356e717794541538789-1024-1024.png",
       "sizes": [
         "L",
@@ -5323,7 +5281,8 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2026-01-2260048-c19410c843972ce0a217694452891137-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
@@ -5331,8 +5290,16 @@
           "hex": "#d4b896"
         },
         {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
         }
       ],
       "categories": [],
@@ -5367,7 +5334,8 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo58626-2d54b992f83a84b8d917618316873165-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "XL"
       ],
       "colors": [
         {
@@ -5666,7 +5634,7 @@
       "name": "REMERA RAYADA CROPPED, CON DIJE",
       "description": "Remera rayada cropped, con dije: estilo y detalle en una sola prenda Descubrí la Remera rayada cropped, con dije , una opción perfecta para quienes buscan combinar comodidad y diseño en su día a día. Esta remera presenta un corte cropped que aporta frescura y modernidad, ideal para climas templados y para llevar con looks casuales o urbanos. Su diseño rayado suma un toque clásico, mientras que el ",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-10-0102642-54ecd54dd804c327aa17606338292090-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0982-fd3a5652a2c5bc2b2317931033527064-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -6080,7 +6048,7 @@
       "name": "MINIFALDA FOIL",
       "description": "La Minifalda Foil es la prenda ideal para quienes buscan combinar estilo y confort en un dise&ntilde;o moderno. Confeccionada en gabardina foil , su tela destaca por un ligero brillo met&aacute;lico que aporta un toque sofisticado y &uacute;nico a cualquier outfit. Esta minifalda se adapta perfectamente a distintas ocasiones, desde un look casual hasta uno m&aacute;s elegante. Su corte favorecedor",
       "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc1974-4857d99ae04d6adf4f17634718961095-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia1027-326d5529e6b2dab9a217931031426586-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -6108,7 +6076,7 @@
       "name": "SHORT JEANERO FOIL",
       "description": "Short Jeanero Foil : el short ideal para quienes buscan combinar estilo y comodidad en una prenda esencial. Confeccionado en gabardina Foil , una tela resistente y de alta calidad, este short ofrece durabilidad y un acabado moderno que se adapta a m&uacute;ltiples looks. Su dise&ntilde;o jeanero cl&aacute;sico permite una gran versatilidad, ideal para usar tanto en salidas casuales como en planes ",
       "price": 18000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc1993-d003474d6e7e84cdf717634721023374-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0958-8e9187fec03b02307317931032753865-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -6256,7 +6224,7 @@
       "sku": "7759323|5|15",
       "name": "MUSCULOSA CORA",
       "description": "Musculosa Cora: frescura y versatilidad para tu día a día La Musculosa Cora es una prenda indispensable para quienes buscan comodidad sin perder estilo. Confeccionada en una tela liviana y suave, ofrece una sensación fresca ideal para climas templados y cálidos. Su diseño simple y corte ajustado realzan la figura, permitiendo libertad de movimiento y adaptándose a diferentes looks, desde casuales ",
-      "price": 6000.0,
+      "price": 7000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2023-07-1912076-1f16e1420b6fa3d8d917259938036174-1024-1024.jpg",
       "sizes": [
         "L",
@@ -6275,6 +6243,10 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
         }
       ],
       "categories": [
