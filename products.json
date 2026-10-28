@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T17:06:34.323941+00:00",
+  "updated_at": "2026-10-28T22:14:42.112689+00:00",
   "store_id": "5053574",
   "count": 209,
   "products": [
@@ -147,7 +147,7 @@
     {
       "id": "374684273",
       "sku": "9599960|5|15",
-      "name": "PREVENTA-MONOPRENDA AMALFI",
+      "name": "MONOPRENDA AMALFI",
       "description": "",
       "price": 33000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1622-23e43dc9f26b8c80c517921748443137-1024-1024.jpg",
@@ -160,6 +160,10 @@
           "hex": "#ffffff"
         },
         {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -168,7 +172,7 @@
         "Colección principal",
         "Vestidos y Monos"
       ],
-      "url": "https://fressia.net/productos/preventa-monoprenda-amalfi-166vt/",
+      "url": "https://fressia.net/productos/monoprenda-amalfi-cwarx/",
       "position": 9999
     },
     {
@@ -5870,16 +5874,8 @@
           "hex": "#d4b896"
         },
         {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
           "name": "Celeste",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
