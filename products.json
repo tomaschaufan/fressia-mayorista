@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:37:48.226101+00:00",
+  "updated_at": "2026-10-29T21:33:09.648530+00:00",
   "store_id": "5053574",
   "count": 210,
   "products": [
@@ -483,7 +483,7 @@
       "id": "373017940",
       "sku": "0127230|10|74",
       "name": "CAMPERA MIAMI",
-      "description": "Campera Miami: Estilo y funcionalidad para cada día La Campera Miami es la elección perfecta para quienes buscan una prenda que combine diseño moderno con comodidad. Confeccionada con materiales de alta calidad, ofrece resistencia y un ajuste confortable que se adapta a diferentes tipos de cuerpo. Su diseño versátil permite llevarla tanto en salidas informales como en ocasiones donde se requiere u",
+      "description": "Campera Miami: estilo contemporáneo con un toque único La Campera Miami es la elección perfecta para quienes buscan combinar moda y comodidad. Confeccionada en jean elastizado, ofrece un ajuste cómodo que acompaña cada movimiento sin perder la estructura clásica de una campera de jean. Su diseño cropped aporta un aire moderno y juvenil, ideal para combinar con prendas de cintura alta y crear looks",
       "price": 42000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm2040-a9257203b1273a620b17914862640102-1024-1024.jpg",
       "sizes": [
@@ -505,8 +505,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Camperas"
       ],
       "url": "https://fressia.net/productos/campera-miami-u2h31/",
       "position": 9999
@@ -515,7 +517,7 @@
       "id": "372977668",
       "sku": "0127240|10|74",
       "name": "CAMPERA BOSTON",
-      "description": "Campera Boston: estilo clásico y resistencia en denim Descubrí la Campera Boston, una prenda imprescindible para quienes valoran la combinación perfecta entre moda y funcionalidad. Confeccionada en tela denim de alta calidad, esta campera ofrece durabilidad y un look atemporal que nunca pasa de moda. Su diseño clásico incluye detalles cuidados que realzan cualquier outfit, desde looks casuales has",
+      "description": "Campera Boston: estilo crop con textura desgastada y comodidad elastizada La Campera Boston es la prenda ideal para quienes buscan un look moderno y casual con un toque distintivo. Confeccionada en jean elastizado , ofrece una caída cómoda y un ajuste que acompaña cada movimiento sin perder su forma. Su diseño crop y textura desgastada aportan un estilo urbano y actual, perfecto para combinar con ",
       "price": 47000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm2036-b3b97f7e471124b3ac17914863084940-1024-1024.jpg",
       "sizes": [
@@ -533,8 +535,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Camperas"
       ],
       "url": "https://fressia.net/productos/campera-boston-11lms/",
       "position": 9999
@@ -948,7 +952,7 @@
       "id": "371208188",
       "sku": "0127290|5|35",
       "name": "MUSCULOSA CALA",
-      "description": "Musculosa Cala: comodidad y estilo para tu día a día La Musculosa Cala es una prenda esencial para quienes buscan frescura y practicidad sin renunciar al estilo. Confeccionada en un tejido liviano y suave, es ideal para climas cálidos y templados, asegurando una sensación agradable durante toda la jornada. Su diseño simple y corte cómodo permiten libertad de movimiento, adaptándose a múltiples com",
+      "description": "Musculosa Cala: delicadeza y estilo en cada detalle La Musculosa Cala es perfecta para quienes buscan una prenda que combine elegancia y comodidad. Confeccionada en una mezcla de poplin y broderie, ofrece una textura ligera y fresca ideal para los días cálidos. Su escote en V, realzado con un delicado detalle de puntilla, aporta un toque femenino y sofisticado, mientras que la terminación en ruedo",
       "price": 20000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_jl44grjl44grjl44-1464aab866f623a68017909386071105-1024-1024.jpg",
       "sizes": [
@@ -1087,6 +1091,10 @@
         {
           "name": "Rojo",
           "hex": "#d32f2f"
+        },
+        {
+          "name": "Vison",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -1165,7 +1173,7 @@
       "id": "370456378",
       "sku": "0127260|4|149",
       "name": "BODY PRINT",
-      "description": "Body Print: la prenda que combina arte y confort El Body Print es una pieza esencial que aporta estilo y funcionalidad a tu guardarropa. Confeccionado en materiales de alta calidad, ofrece una textura suave y un ajuste cómodo que se adapta a tu cuerpo, permitiendo libertad de movimiento durante todo el día. Su diseño estampado destaca por su originalidad y elegancia, siendo ideal para quienes busc",
+      "description": "Body Print: elegancia y detalle para tu look Descubrí el Body Print , una prenda que combina estilo y sofisticación gracias a su escote corazón con frunce, un diseño que realza la figura de manera delicada y femenina. Su tela de microtul estampado aporta un toque de suavidad y ligereza, ideal para quienes valoran la comodidad sin perder elegancia. El detalle de Hotfix en el body brinda un acabado ",
       "price": 28000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm2026-b37bcc434b7f25898e17909533763555-1024-1024.jpg",
       "sizes": [
@@ -1210,7 +1218,7 @@
       "id": "369867430",
       "sku": "0127280|4|15",
       "name": "CAMPERA LIRIO",
-      "description": "Campera Lirio: elegancia y funcionalidad para cualquier ocasión La Campera Lirio es una prenda esencial para quienes buscan combinar estilo y comodidad en su día a día. Confeccionada con materiales de alta calidad, esta campera ofrece un diseño moderno y un corte que se adapta perfectamente al cuerpo, brindando libertad de movimiento sin sacrificar la elegancia. Su tejido resistente y detalles cui",
+      "description": "Campera Lirio: elegancia y confort en un diseño único Descubrí la Campera Lirio, una prenda que combina la delicadeza del encaje de algodón con la funcionalidad del complemento Morley con lycra en cuello, puños y cintura. Esta campera bomber ofrece un equilibrio perfecto entre estilo y comodidad, ideal para quienes buscan una pieza versátil y sofisticada. El encaje aporta un detalle femenino y ele",
       "price": 47000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1884-58bbb726ee579b8a3617909554883305-1024-1024.jpg",
       "sizes": [
@@ -1271,7 +1279,7 @@
       "id": "369619418",
       "sku": "0127250|5|9",
       "name": "BLUSA AMAPOLA",
-      "description": "Blusa Amapola: elegancia y frescura para tus días La Blusa Amapola es una prenda diseñada para quienes buscan combinar estilo y comodidad en un solo artículo. Confeccionada con materiales de alta calidad, ofrece una textura suave y ligera que se adapta perfectamente a climas templados y cálidos. Su diseño cuidado y versátil permite combinarla fácilmente con diferentes prendas, desde pantalones has",
+      "description": "Blusa Amapola: elegancia artesanal para tu guardarropa Descubrí la Blusa Amapola, una prenda confeccionada en tejido crochet que aporta un toque único y sofisticado a tus outfits. Su escote redondo y las mangas acampanadas realzan la silueta con un diseño delicado y femenino. El tejido crochet ofrece una textura liviana y transpirable, ideal para climas templados, brindando comodidad sin sacrifica",
       "price": 29000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1877-9cf5c374bd6c39507e17909558540068-1024-1024.jpg",
       "sizes": [
@@ -1300,7 +1308,7 @@
       "id": "369325529",
       "sku": "0127180|5|35",
       "name": "MUSCULOSA EVERLY",
-      "description": "Musculosa Everly: comodidad y estilo para cada día La Musculosa Everly es una prenda esencial para quienes buscan frescura y versatilidad en su vestuario. Confeccionada con materiales livianos y suaves, garantiza una sensación cómoda ideal para climas cálidos y templados. Su diseño moderno y corte adaptado realzan la figura, ofreciendo libertad de movimiento para que puedas combinarla fácilmente c",
+      "description": "Musculosa Everly: estilo y comodidad en cada detalle La Musculosa Everly es la prenda ideal para quienes buscan un diseño moderno y cómodo. Confeccionada en tejido Seamless, ofrece una textura suave y sin costuras que brinda un confort superior durante todo el día. Su diseño rayado se complementa con vivos anchos en el escote, sisas y ruedo , aportando un detalle visual elegante y distintivo. Esta",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1872-053d9155e3139558b817909500476976-1024-1024.jpg",
       "sizes": [
@@ -1345,7 +1353,7 @@
       "id": "369262217",
       "sku": "0127210|5|9",
       "name": "CAMPERA GARDENIA",
-      "description": "Campera Gardenia: protección y estilo para cada día La Campera Gardenia es la opción ideal para quienes buscan una prenda funcional sin sacrificar el diseño. Confeccionada con materiales de alta calidad, esta campera ofrece resistencia y comodidad, perfecta para enfrentar las distintas estaciones del año. Su corte moderno y ajustado proporciona un look elegante y versátil, que combina fácilmente c",
+      "description": "Campera Gardenia: elegancia y comodidad en cada detalle Descubrí la Campera Gardenia, una campera bomber confeccionada en broderie de algodón que combina estilo y funcionalidad. Su diseño incorpora complementos en cuello, puños y cintura realizados en Morley con lycra, aportando un ajuste perfecto y mayor confort durante todo el día. Esta prenda se destaca por su textura suave y respirable, ideal ",
       "price": 39000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1889-66544c6549eacaf8ef17909560745153-1024-1024.jpg",
       "sizes": [
@@ -1378,7 +1386,7 @@
       "id": "369257637",
       "sku": "0127150|5|35",
       "name": "CALZA AURA",
-      "description": "Calza Aura: comodidad y estilo para tu rutina diaria La Calza Aura es la elección perfecta para quienes buscan una prenda que combine funcionalidad y diseño. Confeccionada en un tejido elástico y resistente, ofrece un ajuste cómodo que acompaña cada movimiento, ideal para actividades diarias o deportivas. Su corte moderno y favorecedor realza la figura sin sacrificar libertad de movimiento. Además",
+      "description": "Calza Aura: comodidad y estilo con efecto push up La Calza Aura es la prenda ideal para quienes buscan combinar confort y diseño moderno. Confeccionada en tejido Seamless , ofrece una textura suave y sin costuras que se adapta perfectamente a tu cuerpo, brindando una sensación de segunda piel. Su cintura ancha proporciona un ajuste seguro y cómodo, mientras que el efecto push up realza la figura, ",
       "price": 9900.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1742-e16d6c48666a13279817909509928912-1024-1024.jpg",
       "sizes": [
@@ -1423,7 +1431,7 @@
       "id": "369256954",
       "sku": "0127140|5|35",
       "name": "TOP AURA",
-      "description": "Top Aura: elegancia y comodidad en una prenda esencial El Top Aura es la opción ideal para quienes buscan una prenda versátil y cómoda, sin sacrificar estilo. Confeccionado con materiales de alta calidad, ofrece un tacto suave y un ajuste que realza la figura, brindando libertad de movimiento durante todo el día. Su diseño sencillo pero sofisticado lo hace perfecto para combinar con diferentes pre",
+      "description": "Top Aura: comodidad y diseño deportivo en tejido Seamless El Top Aura es la prenda ideal para quienes buscan un equilibrio entre estilo y funcionalidad. Confeccionado en tejido Seamless , ofrece una textura suave, sin costuras, que brinda máxima comodidad y evita irritaciones, adaptándose perfectamente a tu cuerpo. Su escote redondo clásico aporta un diseño limpio y versátil, mientras que la espal",
       "price": 9900.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1746-9be5772513f9321b3517909517413887-1024-1024.jpg",
       "sizes": [
@@ -1468,7 +1476,7 @@
       "id": "369125969",
       "sku": "0127190|5|35",
       "name": "REMERA JUNO",
-      "description": "Remera Juno: estilo y comodidad para tu día a día La Remera Juno es una prenda esencial para quienes buscan combinar comodidad y diseño en una sola pieza. Confeccionada en algodón de alta calidad, ofrece una textura suave y transpirable que acompaña tus movimientos con total libertad durante toda la jornada. Su corte clásico y su escote redondo hacen que sea una opción versátil, ideal para looks c",
+      "description": "Remera Juno: estilo y comodidad en cada detalle La Remera Juno es la prenda ideal para quienes buscan un diseño moderno y confortable. Confeccionada en tejido seamless, ofrece una textura suave, liviana y sin costuras visibles, que garantiza una sensación cómoda durante todo el día. Su diseño crop con rayas y mangas cortas con vivos anchos aporta un toque distintivo y actual, perfecto para combina",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1928-05b019b0e3f3fd0f2517909523918889-1024-1024.jpg",
       "sizes": [
@@ -1513,7 +1521,7 @@
       "id": "369107757",
       "sku": "0127200|5|35",
       "name": "MUSCULOSA JANE",
-      "description": "Musculosa Jane: comodidad y estilo para cualquier ocasión La Musculosa Jane es una prenda esencial para quienes buscan combinar comodidad y diseño en su día a día. Confeccionada en una tela suave y liviana, garantiza frescura y libertad de movimiento, ideal para climas templados y cálidos. Su corte sencillo y moderno realza la figura sin sacrificar confort, adaptándose fácilmente a distintos estil",
+      "description": "Musculosa Jane: comodidad y estilo deportivo para tu rutina diaria La Musculosa Jane está confeccionada en tejido Seamless, una tela innovadora que brinda una sensación de suavidad y elasticidad ideal para acompañar cada movimiento. Su diseño con escote redondo y espalda deportiva aporta un toque moderno y funcional, perfecto para actividades físicas o looks casuales. Esta musculosa rayada combina",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1981-7f0d10fb190df39ba517909492336505-1024-1024.jpg",
       "sizes": [
@@ -1630,6 +1638,10 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [],
@@ -1675,9 +1687,14 @@
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1856-38492bfb4b37dd86e917909567763900-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
+        {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
         {
           "name": "Fucsia",
           "hex": "#cccccc"
@@ -2665,7 +2682,7 @@
       "id": "362963864",
       "sku": "0127130|5|9",
       "name": "MUSCU GANDIA",
-      "description": "Muscu Gandia: frescura y estilo con detalles únicos Descubrí la Muscu Gandia , una musculosa de lino que combina comodidad y diseño pensado para el día a día. Su confección en lino aporta una textura fresca y transpirable, ideal para climas cálidos y para mantenerte cómoda durante toda la jornada. El escote se destaca por sus flechos y tachas, un detalle original que aporta un toque de sofisticaci",
+      "description": "Musculosa Gandia: elegancia y frescura en lino para tus días de verano La Musculosa Gandia es una prenda ideal para quienes buscan combinar estilo y comodidad. Confeccionada en lino, una tela natural y transpirable, ofrece una sensación fresca y liviana, perfecta para climas cálidos. Su diseño presenta un escote en V con breteles delicados, realzado con un detalle de flecos y tachas que le aporta ",
       "price": 29000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_gdfl3zgdfl3zgdfl-30025b91d9639d076a17876013585662-1024-1024.jpg",
       "sizes": [
@@ -2823,9 +2840,9 @@
       "id": "362342734",
       "sku": "0127120|5|9",
       "name": "SHORT CANTABRIA",
-      "description": "Short Cantabria: comodidad y estilo con un detalle único en el ruedo Descubrí el Short Cantabria, una prenda pensada para quienes buscan comodidad y elegancia en su vestuario diario . Este short sastrero se destaca por su corte clásico y un detalle especial en el ruedo que aporta un toque distintivo sin perder sobriedad. Confeccionado con materiales de alta calidad, ofrece un ajuste cómodo y fresc",
+      "description": "Short Cantabria: estilo y detalle en lino para tu look de verano El Short Cantabria es una prenda ideal para quienes buscan combinar comodidad y diseño. Confeccionado en lino, una tela natural y fresca, ofrece una sensación liviana perfecta para los días cálidos. Su diseño incluye un detalle de flecos y tachas en el ruedo que aporta un toque moderno y distintivo, haciendo que este short se destaqu",
       "price": 39000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f68d54a7-53f5-4020-8c45-da4be283dfed_5053574_5545376-529fbe9d5eac2e6ad917873351029275-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32568-71ac0449a78fd20c8417932984534794-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2855,7 +2872,7 @@
       "id": "362324545",
       "sku": "0127110|5|9",
       "name": "BOMBACHO GIRONA",
-      "description": "Bombacho Girona: comodidad y estilo con detalles únicos Conocé el Bombacho Girona, una prenda que combina funcionalidad y diseño para tu día a día. Confeccionado en una tela suave y resistente, este bombacho se destaca por su corte cómodo y amplio, ideal para ofrecer libertad de movimiento sin perder elegancia. Los detalles en tachas en los laterales y los bolsillos prácticos suman un toque modern",
+      "description": "Bombacho Girona: comodidad y estilo con un toque distintivo Descubrí el Bombacho Girona, un pantalón diseñado para quienes buscan una prenda cómoda y con personalidad. Confeccionado en lino, su tela liviana y fresca es ideal para los días cálidos y templados. Este pantalón bombacho se destaca por su cintura ancha con volado , que aporta un detalle femenino y a la vez moderno. Además, cuenta con un",
       "price": 45000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32877-8e2e069a4cf95de22017897311582100-1024-1024.jpg",
       "sizes": [
@@ -3972,7 +3989,7 @@
       "id": "351397860",
       "sku": "0126245|5|9",
       "name": "SWEATER MERINO",
-      "description": "Sweater Merino: calidad y confort para cada temporada Descubrí el Sweater Merino , una prenda esencial para quienes valoran la calidad y la comodidad. Confeccionado con lana merino de alta calidad, este sweater ofrece una textura suave y cálida, ideal para mantenerte abrigado sin perder estilo. Su diseño clásico y versátil se adapta perfectamente a distintos looks, desde casuales hasta más formale",
+      "description": "Sweater Merino: elegancia y confort para tus días más frescos El Sweater Merino es una prenda clásica diseñada para quienes buscan un estilo atemporal sin resignar comodidad. Confeccionado en hilado Manhattan, su tela ofrece una textura suave y cálida, ideal para acompañarte en las jornadas más frescas. Su escote en V y manga larga con terminaciones en ribb en el cuello, puños y cintura aseguran u",
       "price": 30000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_89af4fba-4ed7-4e3e-881a-1d8e0f71eeaa_5053574_5545376-a82828ea35c5346d6617822310172045-1024-1024.png",
       "sizes": [
