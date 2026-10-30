@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:07:05.040229+00:00",
+  "updated_at": "2026-10-30T15:34:48.698267+00:00",
   "store_id": "5053574",
   "count": 210,
   "products": [
@@ -898,8 +898,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Activewear"
+        "Activewear",
+        "Pantalones y faldas"
       ],
       "url": "https://fressia.net/productos/calza-energy-11n90/",
       "position": 9999
@@ -942,8 +944,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Activewear"
+        "Activewear",
+        "Bodys y tops"
       ],
       "url": "https://fressia.net/productos/top-energy-g01dj/",
       "position": 9999
@@ -1119,12 +1123,28 @@
       ],
       "colors": [
         {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
           "name": "Beige",
           "hex": "#d4b896"
         },
         {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Rojo",
           "hex": "#d32f2f"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
         },
         {
           "name": "Vison",
@@ -1148,12 +1168,28 @@
       ],
       "colors": [
         {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
           "name": "Beige",
           "hex": "#d4b896"
         },
         {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Rojo",
           "hex": "#d32f2f"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
         },
         {
           "name": "Vison",
@@ -1203,10 +1239,22 @@
       "sku": "4799980|5|74",
       "name": "REMERA ZENDA",
       "description": "Remera Zenda: sofisticación y comodidad en cada detalle Descubrí la Remera Zenda, una prenda con diseño Box Fit y manga corta que ofrece un confort superior gracias a su corte amplio y moderno. Su cuello combinado aporta un detalle distintivo que realza cualquier outfit, sumando un toque de estilo único. Confeccionada en Modal Soft estampado , esta tela se destaca por su suavidad, frescura y excel",
-      "price": 8000.0,
+      "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1984-85b80ef23c0a6cab9a17909539076663-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Naranja",
+          "hex": "#e64a19"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -1297,9 +1345,11 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
         "Buzos y Camperas",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/blusa-amapola-1gunc/",
       "position": 9999
@@ -1342,9 +1392,11 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
         "Activewear",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-everly-59uwf/",
       "position": 9999
@@ -1510,9 +1562,11 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
         "Activewear",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/remera-juno-1wmli/",
       "position": 9999
@@ -1555,9 +1609,11 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
         "Activewear",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-jane-12i2d/",
       "position": 9999
@@ -1800,7 +1856,9 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Amor mío",
+        "Vestidos",
         "Vestidos"
       ],
       "url": "https://fressia.net/productos/vestido-denia-am-60d0d/",
@@ -1821,8 +1879,8 @@
       ],
       "colors": [
         {
-          "name": "Amarillo",
-          "hex": "#cccccc"
+          "name": "Beige",
+          "hex": "#d4b896"
         },
         {
           "name": "Celeste",
@@ -1888,8 +1946,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-lea-rayada-wzdt4/",
       "position": 9999
@@ -1904,9 +1964,11 @@
       "sizes": [],
       "colors": [],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
         "Buzos y Camperas",
-        "Sweaters"
+        "Sweaters",
+        "Sweaters y chalecos"
       ],
       "url": "https://fressia.net/productos/saco-cotton-2mp1z/",
       "position": 9999
@@ -1998,8 +2060,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Buzos y Camperas"
+        "Buzos y Camperas",
+        "Sweaters y chalecos"
       ],
       "url": "https://fressia.net/productos/buzo-california-8383d/",
       "position": 9999
@@ -2704,8 +2768,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/muscu-gandia-srt9u/",
       "position": 9999
@@ -3240,8 +3306,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-kira-15r9w/",
       "position": 9999
@@ -3362,8 +3430,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/remera-lola-ijxvb/",
       "position": 9999
@@ -3383,10 +3453,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Gris",
-          "hex": "#9e9e9e"
         },
         {
           "name": "Negro",
@@ -3514,8 +3580,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-nerea-1mkoh/",
       "position": 9999
@@ -3705,8 +3773,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Amor mío",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/remera-moana-am-1h1wb/",
       "position": 9999
@@ -3997,6 +4067,10 @@
         "M"
       ],
       "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
         {
           "name": "Chocolate",
           "hex": "#4e342e"
@@ -4640,10 +4714,12 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
         "Activewear",
         "Amor mío",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Bodys y tops"
       ],
       "url": "https://fressia.net/productos/top-blaze-i5a33/",
       "position": 9999
@@ -5056,8 +5132,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/remera-elsa-nb81v/",
       "position": 9999
@@ -5365,8 +5443,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-cropped-d45du/",
       "position": 9999
@@ -5401,8 +5481,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Bodys y tops"
       ],
       "url": "https://fressia.net/productos/top-musculosa-halter-qvs41/",
       "position": 9999
@@ -5672,8 +5754,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Amor mío",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/remera-box-fit2/",
       "position": 9999
@@ -6195,6 +6279,10 @@
           "hex": "#9e9e9e"
         },
         {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Rojo",
           "hex": "#d32f2f"
         },
@@ -6403,8 +6491,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Amor mío",
-        "Remeras y Musculosas"
+        "Remeras y Musculosas",
+        "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/remera-mangas-cortas-escote-en-v2/",
       "position": 9999
