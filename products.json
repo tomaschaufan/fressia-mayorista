@@ -1,8 +1,37 @@
 {
-  "updated_at": "2026-10-30T15:34:48.698267+00:00",
+  "updated_at": "2026-10-30T20:26:28.320237+00:00",
   "store_id": "5053574",
-  "count": 210,
+  "count": 211,
   "products": [
+    {
+      "id": "377978188",
+      "sku": "4715200|5|20",
+      "name": "REMERA ZENDA AM",
+      "description": "",
+      "price": 11000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_2xiugu2xiugu2xiu-6d73c0e9a4ab5588d217933890068760-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Naranja",
+          "hex": "#e64a19"
+        },
+        {
+          "name": "Rojo",
+          "hex": "#d32f2f"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-zenda-am-vrgxi/",
+      "position": 9999
+    },
     {
       "id": "376740752",
       "sku": "9593950|5|9",
@@ -86,7 +115,7 @@
       "name": "BIKINI KILA",
       "description": "Bikini Kila: estilo y comodidad en cada detalle Descubrí la Bikini Kila, un conjunto pensado para quienes buscan combinar diseño y funcionalidad. Este modelo incluye un corpiño triangulito con avio en los breteles , que aporta un toque moderno y resistente, garantizando un ajuste seguro y cómodo. La bombacha vedetina completa el conjunto con un corte favorecedor que realza la figura, ofreciendo li",
       "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_30ylpn30ylpn30yl-206f2ba60f3ae91fb817927529211129-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_g3hzqwg3hzqwg3hz-781121f3a972555c3217933901957500-1024-1024.jpg",
       "sizes": [
         "1",
         "2",
@@ -1851,6 +1880,10 @@
           "hex": "#9e9e9e"
         },
         {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
           "name": "Off White",
           "hex": "#cccccc"
         }
@@ -2976,7 +3009,7 @@
       "name": "REMERA TRUE LOVE AM",
       "description": "Remera True Love AM : la remera de manga corta que combina estilo y comodidad en cada detalle. Confeccionada en jersey sin lycra , esta prenda de la línea Amor Mio ofrece una textura suave y fresca, ideal para el uso diario. Su diseño con estampa aporta un toque moderno y único, perfecto para quienes buscan una opción versátil que se adapte a distintos looks. La Remera Box Fit tiene un corte que b",
       "price": 11000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_9qoa2w9qoa2w9qoa-b196812455e922860b17871589602870-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc7052-f65fbe173ec513ab1117933897396969-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
