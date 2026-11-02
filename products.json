@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T20:13:42.174632+00:00",
+  "updated_at": "2026-11-02T00:17:15.276871+00:00",
   "store_id": "5053574",
-  "count": 211,
+  "count": 212,
   "products": [
     {
       "id": "377978188",
@@ -2546,10 +2546,6 @@
           "hex": "#cccccc"
         },
         {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -4415,6 +4411,33 @@
       "position": 9999
     },
     {
+      "id": "338785969",
+      "sku": "0126195|5|9",
+      "name": "SWEATER SNUGGLE",
+      "description": "Sweater Snuggle: calidez y estilo para tus días fríos Descubrí el Sweater Snuggle, una prenda diseñada para ofrecerte comodidad y abrigo sin perder estilo. Confeccionado con materiales suaves y de alta calidad, este sweater es ideal para acompañarte en las jornadas más frescas del año. Su diseño clásico y versátil permite combinarlo fácilmente con diferentes prendas, adaptándose tanto a looks casu",
+      "price": 39000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417639-033435ea1a3f5782cb17775541313505-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Crudo",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "CYBER FRESSIA",
+        "SALE",
+        "VIOLETA $20.000 Y +",
+        "SWEATERS 3X2",
+        "Sweaters y chalecos"
+      ],
+      "url": "https://fressia.net/productos/sweater-snuggle-o1015/",
+      "position": 9999
+    },
+    {
       "id": "338516778",
       "sku": "7892099|5|15",
       "name": "MUSCULOSA ALMA",
@@ -4507,8 +4530,7 @@
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-28-0417811-0d52e20e6a8c92c0e917810980231909-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -6312,10 +6334,6 @@
           "hex": "#9e9e9e"
         },
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        },
-        {
           "name": "Rojo",
           "hex": "#d32f2f"
         },
@@ -6441,10 +6459,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Beige",
-          "hex": "#d4b896"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
