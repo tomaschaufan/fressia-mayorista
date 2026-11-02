@@ -1,8 +1,66 @@
 {
-  "updated_at": "2026-11-02T07:16:55.572607+00:00",
+  "updated_at": "2026-11-02T17:51:57.084313+00:00",
   "store_id": "5053574",
-  "count": 212,
+  "count": 214,
   "products": [
+    {
+      "id": "378411210",
+      "sku": "9518410|5|9",
+      "name": "MUSCULOSA BERYL AM",
+      "description": "",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_cqig5ccqig5ccqig-9ccbb7c4391ba2a1dc17936310252416-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-beryl-am-1s4li/",
+      "position": 9999
+    },
+    {
+      "id": "378402437",
+      "sku": "9518380|5|9",
+      "name": "REMERA ARTIS AM",
+      "description": "",
+      "price": 13000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_ku191jku191jku19-edf6a1946090aa0d0417936292027930-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-artis-am-cn707/",
+      "position": 9999
+    },
     {
       "id": "377978188",
       "sku": "4715200|5|20",
@@ -115,7 +173,7 @@
       "name": "BIKINI KILA",
       "description": "Bikini Kila: estilo y comodidad en cada detalle Descubrí la Bikini Kila, un conjunto pensado para quienes buscan combinar diseño y funcionalidad. Este modelo incluye un corpiño triangulito con avio en los breteles , que aporta un toque moderno y resistente, garantizando un ajuste seguro y cómodo. La bombacha vedetina completa el conjunto con un corte favorecedor que realza la figura, ofreciendo li",
       "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_g3hzqwg3hzqwg3hz-781121f3a972555c3217933901957500-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_30ylpn30ylpn30yl-206f2ba60f3ae91fb817927529211129-1024-1024.jpg",
       "sizes": [
         "1",
         "2",
@@ -155,15 +213,15 @@
       "name": "REMERA BEGA",
       "description": "Remera Bega: comodidad y estilo desgastado para tu día a día Conocé la Remera Bega, una prenda sin mangas confeccionada en tela jersey s-ly de alta calidad, que combina suavidad y resistencia. Su acabado desgastado le aporta un estilo único, ideal para quienes buscan una apariencia relajada sin perder elegancia. El diseño sin mangas brinda frescura y libertad de movimiento, perfecta para climas cá",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_327187d1-e5a9-4ef5-b49e-1cd6bcffb905_5053574_5545376-3b0ba092846f9ca3cd17926126254928-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_8ysmfs8ysmfs8ysm-0bf83f36481910c96d17936329353209-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
       ],
       "colors": [
         {
-          "name": "Negro",
-          "hex": "#1a1a1a"
+          "name": "Corazones",
+          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -179,7 +237,7 @@
       "name": "MONOPRENDA AMALFI",
       "description": "Monoprenda Amalfi: elegancia y confort en una sola prenda Descubrí el Monoprenda Amalfi, una opción ideal para quienes buscan una prenda versátil y sofisticada. Confeccionado en Baby Cotton , una tela suave y liviana que garantiza comodidad durante todo el día, este monoprenda largo ofrece una sensación fresca y agradable al contacto con la piel. Su diseño strapless con breteles para atar permite ",
       "price": 33000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1622-23e43dc9f26b8c80c517921748443137-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_1iuh1f1iuh1f1iuh-e0a00b2da460c2746017932142766621-1024-1024.jpg",
       "sizes": [
         "M"
       ],
@@ -3006,25 +3064,8 @@
       "description": "Remera True Love AM : la remera de manga corta que combina estilo y comodidad en cada detalle. Confeccionada en jersey sin lycra , esta prenda de la línea Amor Mio ofrece una textura suave y fresca, ideal para el uso diario. Su diseño con estampa aporta un toque moderno y único, perfecto para quienes buscan una opción versátil que se adapte a distintos looks. La Remera Box Fit tiene un corte que b",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc7052-f65fbe173ec513ab1117933897396969-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Amarillo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Amor mío",
         "Remeras y Musculosas"
