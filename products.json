@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T15:51:33.748722+00:00",
+  "updated_at": "2026-11-03T21:31:05.449453+00:00",
   "store_id": "5053574",
   "count": 214,
   "products": [
@@ -7,7 +7,7 @@
       "id": "378411210",
       "sku": "9518410|5|9",
       "name": "MUSCULOSA BERYL AM",
-      "description": "",
+      "description": "Musculosa Beryl AM: elegancia y frescura en Morley Desagujado Incorporá a tu guardarropa la Musculosa Beryl AM , una prenda que combina diseño y comodidad con la calidad de la línea Amor Mio. Confeccionada en tela Morley Desagujado, ofrece una textura suave y fresca, ideal para los días cálidos y para quienes buscan una opción liviana sin resignar estilo. Su detalle con roulotte aporta un acabado ",
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_cqig5ccqig5ccqig-9ccbb7c4391ba2a1dc17936310252416-1024-1024.jpg",
       "sizes": [
@@ -65,7 +65,7 @@
       "id": "377978188",
       "sku": "4715200|5|20",
       "name": "REMERA ZENDA AM",
-      "description": "",
+      "description": "Remera Zenda AM: estilo y confort en cada detalle Conocé la Remera Zenda AM, una prenda de la línea Amor Mio diseñada para ofrecerte comodidad y un look moderno. Esta remera de manga corta se destaca por su cuello combinado, que aporta un detalle de diseño exclusivo y versátil. Confeccionada en Modal soft estampado , su tela suave y liviana garantiza una sensación agradable al contacto con la piel",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_2xiugu2xiugu2xiu-6d73c0e9a4ab5588d217933890068760-1024-1024.jpg",
       "sizes": [
@@ -769,6 +769,7 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1611-d79f41ae2099da2aa217913095791761-1024-1024.jpg",
       "sizes": [
+        "3",
         "4"
       ],
       "colors": [
@@ -2969,10 +2970,6 @@
       "colors": [
         {
           "name": "Amarillo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Celeste",
           "hex": "#cccccc"
         },
         {
@@ -5635,6 +5632,7 @@
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-11-1259425-095d4b8d761bd71ffb17633802981275-1024-1024.jpg",
       "sizes": [
+        "L",
         "M",
         "XL"
       ],
@@ -5801,8 +5799,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-10-1557684-c8bc7dc53bcdb946bc17606218275469-1024-1024.jpg",
       "sizes": [
         "1",
-        "2",
-        "3"
+        "2"
       ],
       "colors": [
         {
