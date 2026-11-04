@@ -1,8 +1,65 @@
 {
-  "updated_at": "2026-11-04T08:40:38.450504+00:00",
+  "updated_at": "2026-11-04T16:52:24.218130+00:00",
   "store_id": "5053574",
-  "count": 214,
+  "count": 216,
   "products": [
+    {
+      "id": "378871162",
+      "sku": "9598440|5|8",
+      "name": "MUSCULOSA CYAN",
+      "description": "",
+      "price": 9000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_4z80ne4z80ne4z80-d479e1ac066911bf2217938064315381-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Mocca",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-cyan-1wanc/",
+      "position": 9999
+    },
+    {
+      "id": "378837702",
+      "sku": "5099220|4|136",
+      "name": "PANTALON BARREL ARMY",
+      "description": "",
+      "price": 24000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_47w05k47w05k47w0-607cf0c21b98a0153c17937976192532-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Camuflado",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Pantalones"
+      ],
+      "url": "https://fressia.net/productos/pantalon-barrel-army-moqfj/",
+      "position": 9999
+    },
     {
       "id": "378411210",
       "sku": "9518410|5|9",
@@ -744,7 +801,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1781-35f638f438fc2236fb17913095150638-1024-1024.jpg",
       "sizes": [
         "1",
-        "2",
         "3",
         "4"
       ],
@@ -2311,6 +2367,10 @@
           "hex": "#cccccc"
         },
         {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -3319,14 +3379,9 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28354-8c1d2e9f5cd1717ca617867214303014-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
-        {
-          "name": "Natural",
-          "hex": "#cccccc"
-        },
         {
           "name": "Negro",
           "hex": "#1a1a1a"
@@ -3841,10 +3896,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -5560,12 +5611,20 @@
       ],
       "colors": [
         {
+          "name": "Amarillo",
+          "hex": "#cccccc"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
         {
           "name": "Rosa",
           "hex": "#e91e8c"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
         }
       ],
       "categories": [
