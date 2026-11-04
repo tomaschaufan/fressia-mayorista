@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T01:55:06.550413+00:00",
+  "updated_at": "2026-11-04T08:40:38.450504+00:00",
   "store_id": "5053574",
   "count": 214,
   "products": [
@@ -5560,20 +5560,12 @@
       ],
       "colors": [
         {
-          "name": "Amarillo",
-          "hex": "#cccccc"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
         {
           "name": "Rosa",
           "hex": "#e91e8c"
-        },
-        {
-          "name": "Verde",
-          "hex": "#2e7d32"
         }
       ],
       "categories": [
