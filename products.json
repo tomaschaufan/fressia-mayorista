@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T16:52:24.218130+00:00",
+  "updated_at": "2026-11-04T22:26:00.326308+00:00",
   "store_id": "5053574",
   "count": 216,
   "products": [
@@ -801,6 +801,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1781-35f638f438fc2236fb17913095150638-1024-1024.jpg",
       "sizes": [
         "1",
+        "2",
         "3",
         "4"
       ],
@@ -825,6 +826,8 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1611-d79f41ae2099da2aa217913095791761-1024-1024.jpg",
       "sizes": [
+        "1",
+        "2",
         "3",
         "4"
       ],
@@ -1803,10 +1806,6 @@
       ],
       "colors": [
         {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -2125,8 +2124,7 @@
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_9277143178120083385-2f8e608bfa57693ac117907665669011-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
