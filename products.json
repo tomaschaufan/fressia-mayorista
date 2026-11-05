@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T11:54:03.096018+00:00",
+  "updated_at": "2026-11-05T19:33:19.939395+00:00",
   "store_id": "5053574",
   "count": 216,
   "products": [
@@ -2051,8 +2051,7 @@
       "sizes": [
         "L",
         "M",
-        "S",
-        "XL"
+        "S"
       ],
       "colors": [
         {
@@ -2317,7 +2316,7 @@
       "name": "MUSCULOSA MAYA",
       "description": "Musculosa Maya: elegancia y comodidad en una sola prenda Descubrí la Musculosa Maya , diseñada para ofrecer un estilo delicado y fresco. Esta musculosa halter se caracteriza por su detalle de puntilla en el escote, que aporta un toque femenino y sofisticado. Confeccionada en Modal soft sublimado , una tela suave y liviana, garantiza una sensación agradable sobre la piel y un excelente nivel de tra",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0529-f1e9320cc563dfc30017901934009015-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_yw3vlfyw3vlfyw3v-71c75fdb6f86de265417882859547139-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -3078,8 +3077,10 @@
         }
       ],
       "categories": [
+        "CYBER FRESSIA",
         "Colección principal",
-        "Faldas y Shorts"
+        "Faldas y Shorts",
+        "Pantalones y faldas"
       ],
       "url": "https://fressia.net/productos/short-cantabria-1jtnf/",
       "position": 9999
@@ -3861,10 +3862,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
