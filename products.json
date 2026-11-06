@@ -1,8 +1,64 @@
 {
-  "updated_at": "2026-11-06T07:41:31.687968+00:00",
+  "updated_at": "2026-11-06T15:41:22.177938+00:00",
   "store_id": "5053574",
-  "count": 216,
+  "count": 219,
   "products": [
+    {
+      "id": "379418117",
+      "sku": "7777210|5|15",
+      "name": "REMERA LIAN",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-1236165-3861964451cfd0758c17939724058346-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-lian-15a1o/",
+      "position": 9999
+    },
+    {
+      "id": "379416854",
+      "sku": "7791120|5|15",
+      "name": "MUSCULOSA EGLE",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_stc4restc4restc4-d2e524e5468333a18817939732822584-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-egle-uvaz1/",
+      "position": 9999
+    },
     {
       "id": "378871162",
       "sku": "9598440|5|8",
@@ -1806,6 +1862,10 @@
       ],
       "colors": [
         {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         }
@@ -2123,7 +2183,8 @@
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_9277143178120083385-2f8e608bfa57693ac117907665669011-1024-1024.jpg",
       "sizes": [
-        "L"
+        "L",
+        "M"
       ],
       "colors": [
         {
@@ -6437,6 +6498,36 @@
         "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/remera-escote-redondo2/",
+      "position": 9999
+    },
+    {
+      "id": "251242263",
+      "sku": "7714240|5|15",
+      "name": "MUSCULOSA EGLE AM",
+      "description": "Algodón con Lycra",
+      "price": 13000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2022-09-2904016-326c33a22de6841ad217374707409419-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas",
+        "Básicos - Esenciales"
+      ],
+      "url": "https://fressia.net/productos/musculosa-escote-espejo-en-v6/",
       "position": 9999
     },
     {
