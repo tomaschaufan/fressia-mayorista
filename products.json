@@ -1,8 +1,88 @@
 {
-  "updated_at": "2026-11-06T15:41:22.177938+00:00",
+  "updated_at": "2026-11-06T21:17:21.990779+00:00",
   "store_id": "5053574",
-  "count": 219,
+  "count": 221,
   "products": [
+    {
+      "id": "379516423",
+      "sku": "9599910|5|15",
+      "name": "SHORT FLORAS",
+      "description": "",
+      "price": 13500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_aactytaactytaact-dfc345e5aad762868617939947957407-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Faldas y Shorts"
+      ],
+      "url": "https://fressia.net/productos/short-floras-1pp8n/",
+      "position": 9999
+    },
+    {
+      "id": "379503178",
+      "sku": "9599900|5|15",
+      "name": "MUSCULOSA FLORAS",
+      "description": "",
+      "price": 11500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_aactytaactytaact-e043c01c1d60da6f4e17939948095634-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-floras-rv20l/",
+      "position": 9999
+    },
     {
       "id": "379418117",
       "sku": "7777210|5|15",
@@ -1827,7 +1907,7 @@
       "name": "VESTIDO MADRID",
       "description": "Vestido Madrid: sofisticación y estilo con detalles únicos Descubrí el Vestido Madrid , una prenda diseñada para realzar tu figura con elegancia. Confeccionado en tela Bruselas vintage , este vestido corto ofrece una textura exclusiva que aporta un aire retro y sofisticado. Su diseño incorpora un delicado drapeado y una torsión en el hombro , creando un efecto visual atractivo y moderno que marca ",
       "price": 19800.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1643-3e320cdeeec5cd6bd617909470392206-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1646-74cfa80791b5979c1817909470019769-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2111,7 +2191,8 @@
       "sizes": [
         "L",
         "M",
-        "S"
+        "S",
+        "XL"
       ],
       "colors": [
         {
