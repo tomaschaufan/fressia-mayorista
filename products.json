@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T19:54:19.782552+00:00",
+  "updated_at": "2026-11-07T23:26:59.167036+00:00",
   "store_id": "5053574",
   "count": 221,
   "products": [
@@ -5847,8 +5847,7 @@
       "price": 5000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2013-23c798ab871199849817631461111932-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
