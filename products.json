@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T12:09:45.998628+00:00",
+  "updated_at": "2026-11-10T20:15:17.604209+00:00",
   "store_id": "5053574",
   "count": 221,
   "products": [
@@ -1092,7 +1092,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_bqifb1bqifb1bqif-93ba48f6a5cfae6c3617913109772840-1024-1024.jpg",
       "sizes": [
         "1",
-        "2",
         "3",
         "4"
       ],
@@ -1561,10 +1560,6 @@
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Crudo",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
@@ -2544,10 +2539,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         },
         {
           "name": "Rosa",
@@ -5170,8 +5161,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313072-eba5fece3740fd445717744458503664-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -5905,7 +5895,6 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/sesion-sin-titulo58626-2d54b992f83a84b8d917618316873165-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
         "XL"
       ],
       "colors": [
