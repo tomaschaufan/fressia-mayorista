@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-11-12T14:53:25.523829+00:00",
+  "updated_at": "2026-11-12T21:44:51.020585+00:00",
   "store_id": "5053574",
-  "count": 222,
+  "count": 223,
   "products": [
+    {
+      "id": "380749184",
+      "sku": "9218469|5|16",
+      "name": "REMERA BEGA AM",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_fl26n0fl26n0fl26-57379864461de7816717945110396784-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/remera-bega-am-unok7/",
+      "position": 9999
+    },
     {
       "id": "380409166",
       "sku": "2598190|5|15",
       "name": "REMERA YVONNE LISA",
-      "description": "",
+      "description": "Remera Yvonne Lisa: estilo y comodidad en jersey sin lycra Descubr&iacute; la Remera Yvonne Lisa, una prenda pensada para quienes buscan un equilibrio entre dise&ntilde;o y confort. Confeccionada en tela jersey sin lycra, ofrece una textura suave y natural que asegura frescura durante todo el d&iacute;a. Su corte Box Fit y manga corta brindan un ajuste c&oacute;modo y moderno, ideal para acompa&nt",
       "price": 9500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_4pgjs44pgjs44pgj-f1d4d4957f3b54bd9217944137127747-1024-1024.jpg",
       "sizes": [
@@ -47,7 +72,7 @@
       "id": "379516423",
       "sku": "9599910|5|15",
       "name": "SHORT FLORAS",
-      "description": "",
+      "description": "Short Floras: frescura y delicadeza en Baby Cotton Descubr&iacute; el Short Floras, una prenda ideal para sumar comodidad y estilo a tus looks de verano. Confeccionado en Baby Cotton , una tela suave y liviana, este short ofrece una sensaci&oacute;n agradable sobre la piel, perfecta para climas c&aacute;lidos. Su dise&ntilde;o fluido incluye una delicada puntilla que aporta un toque femenino y ele",
       "price": 13500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_aactytaactytaact-dfc345e5aad762868617939947957407-1024-1024.jpg",
       "sizes": [
@@ -87,7 +112,7 @@
       "id": "379503178",
       "sku": "9599900|5|15",
       "name": "MUSCULOSA FLORAS",
-      "description": "",
+      "description": "Musculosa Floras: elegancia y frescura en Baby Cotton Descubrí la Musculosa Floras, diseñada para quienes buscan comodidad sin perder estilo. Confeccionada en Baby Cotton , una tela suave y liviana, esta musculosa garantiza frescura y confort durante todo el día, ideal para climas cálidos y templados. Sus delicados breteles con puntilla aportan un detalle femenino y sofisticado que realza cualquie",
       "price": 11500.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_aactytaactytaact-e043c01c1d60da6f4e17939948095634-1024-1024.jpg",
       "sizes": [
@@ -127,9 +152,9 @@
       "id": "379418117",
       "sku": "7777210|5|15",
       "name": "REMERA LIAN",
-      "description": "",
+      "description": "Remera Lian: básica y con estilo para tu día a día Confeccionada en jersey de algodón con lycra , la Remera Lian combina la suavidad natural del algodón con la elasticidad necesaria para un ajuste cómodo y duradero. Su manga corta y corte clásico la convierten en una prenda versátil, ideal para cualquier ocasión. Lo que distingue a esta remera es su estampa exclusiva, que aporta un detalle moderno",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-02-1236165-3861964451cfd0758c17939724058346-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_62c54d57-7323-4492-9f08-ed1ac868858e_5053574_5545376-bb187c4068d294fbc717944981700070-1024-1024.webp",
       "sizes": [
         "L",
         "M"
@@ -155,7 +180,7 @@
       "id": "379416854",
       "sku": "7791120|5|15",
       "name": "MUSCULOSA EGLE",
-      "description": "",
+      "description": "Musculosa Egle: elegancia y confort en cada detalle Descubrí la Musculosa Egle , una prenda diseñada para quienes buscan estilo y comodidad en una sola pieza. Confeccionada en jersey de algodón con lycra, su tela combina suavidad natural y elasticidad, adaptándose perfectamente a tu cuerpo sin perder forma. Su escote en V con diseño espejo aporta un toque sofisticado y moderno, ideal para realzar ",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_stc4restc4restc4-d2e524e5468333a18817939732822584-1024-1024.jpg",
       "sizes": [
@@ -183,7 +208,7 @@
       "id": "378871162",
       "sku": "9598440|5|8",
       "name": "MUSCULOSA CYAN",
-      "description": "",
+      "description": "Musculosa Cyan: frescura y elegancia en bambula de punto texturado Descubrí la Musculosa Cyan, una prenda esencial para sumar comodidad y estilo a tu guardarropa. Confeccionada en bambula de punto texturado , esta musculosa ofrece una textura liviana y suave, ideal para mantener la frescura en días cálidos. Su diseño con escote base aporta un toque clásico y versátil, perfecto para combinar con pa",
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_4z80ne4z80ne4z80-d479e1ac066911bf2217938064315381-1024-1024.jpg",
       "sizes": [
@@ -215,7 +240,7 @@
       "id": "378837702",
       "sku": "5099220|4|136",
       "name": "PANTALON BARREL ARMY",
-      "description": "",
+      "description": "Pantalón Barrel Army: diseño amplio y estampado exclusivo en tela rústica sublimada Descubrí el Pantalón Barrel Army , una prenda que combina comodidad y estilo con su corte amplio y detalles de pinza y recortes. Confeccionado en tela rústica sublimada, ofrece una textura resistente y original gracias a su estampado único. Este pantalón está pensado para quienes buscan una prenda versátil y modern",
       "price": 24000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_47w05k47w05k47w0-607cf0c21b98a0153c17937976192532-1024-1024.jpg",
       "sizes": [
@@ -269,7 +294,7 @@
       "id": "378402437",
       "sku": "9518380|5|9",
       "name": "REMERA ARTIS AM",
-      "description": "",
+      "description": "Remera Artis Am: elegancia y comodidad en Morley Desagujado Descubrí la Remera Artis Am, una prenda de la línea Amor Mio que combina estilo y confort en cada detalle. Confeccionada en tela Morley Desagujado, esta remera ofrece una textura suave y ligeramente calada, ideal para quienes buscan frescura sin perder elegancia. Su diseño presenta un escote cuadrado que aporta un toque moderno y femenino",
       "price": 13000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_ku191jku191jku19-edf6a1946090aa0d0417936292027930-1024-1024.jpg",
       "sizes": [
@@ -976,8 +1001,6 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1781-35f638f438fc2236fb17913095150638-1024-1024.jpg",
       "sizes": [
-        "1",
-        "2",
         "3",
         "4"
       ],
@@ -1002,7 +1025,6 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1611-d79f41ae2099da2aa217913095791761-1024-1024.jpg",
       "sizes": [
-        "1",
         "2",
         "3",
         "4"
@@ -1028,8 +1050,6 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1581-a2009dae593a464d3617913097984995-1024-1024.jpg",
       "sizes": [
-        "1",
-        "2",
         "3",
         "4"
       ],
@@ -1784,10 +1804,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
         },
         {
           "name": "Negro",
@@ -4834,28 +4850,8 @@
       "description": "Top Cleo: estilo asim&eacute;trico con detalles modernos Descubr&iacute; el Top Cleo , una prenda que combina dise&ntilde;o &uacute;nico y comodidad para tus outfits diarios. Confeccionado en Morley con lycra , ofrece una textura suave, el&aacute;stica y adaptable a tu cuerpo, ideal para acompa&ntilde;arte durante todo el d&iacute;a. Su dise&ntilde;o asim&eacute;trico incorpora ojales met&aacute;l",
       "price": 11000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia14468-89f9d004ae6f8a107917761730192946-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
-        },
-        {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
