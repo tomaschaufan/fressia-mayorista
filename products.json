@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T10:36:00.201094+00:00",
+  "updated_at": "2026-11-13T18:23:54.439083+00:00",
   "store_id": "5053574",
-  "count": 223,
+  "count": 228,
   "products": [
     {
       "id": "380749184",
@@ -1025,6 +1025,7 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1611-d79f41ae2099da2aa217913095791761-1024-1024.jpg",
       "sizes": [
+        "1",
         "2",
         "3",
         "4"
@@ -1804,6 +1805,10 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Marron",
+          "hex": "#cccccc"
         },
         {
           "name": "Negro",
@@ -5697,6 +5702,34 @@
       "position": 9999
     },
     {
+      "id": "314573732",
+      "sku": "2600260|10|43",
+      "name": "BIKINI NAVY BLOOM",
+      "description": "",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_872d7d8a-c70c-4eb6-81a9-3a223f0e59a9_5053574_5545376-d463fbb88fcfa41c1e17945799324126-1024-1024.webp",
+      "sizes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "colors": [
+        {
+          "name": "Surtido",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Mallas"
+      ],
+      "url": "https://fressia.net/productos/bikini-navy-surtido-ve1xc/",
+      "position": 9999
+    },
+    {
       "id": "313632427",
       "sku": "4759320|5|156",
       "name": "MUSCULOSA BÁSICA",
@@ -6173,6 +6206,51 @@
       "position": 9999
     },
     {
+      "id": "293462790",
+      "sku": "2600030|10|20",
+      "name": "BIKINI TOPAZ",
+      "description": "Tela: Morley 3d",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-1053307-0c97fefcccbc81431c17576767731110-1024-1024.jpg",
+      "sizes": [
+        "1",
+        "2"
+      ],
+      "colors": [
+        {
+          "name": "Naranja",
+          "hex": "#e64a19"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/bikini-topaz/",
+      "position": 9999
+    },
+    {
+      "id": "293379853",
+      "sku": "2600020|10|20",
+      "name": "BIKINI ENNIS",
+      "description": "Tela: Morley 3d",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-09-17-fressia00148-a915e5e987e3ba30fa17582136252556-1024-1024.jpg",
+      "sizes": [
+        "1",
+        "2"
+      ],
+      "colors": [
+        {
+          "name": "Naranja",
+          "hex": "#e64a19"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Mallas"
+      ],
+      "url": "https://fressia.net/productos/bikini-ennis-4rn3h/",
+      "position": 9999
+    },
+    {
       "id": "292779497",
       "sku": "125075|4|100",
       "name": "CARDIGAN SIN BOTONES",
@@ -6613,6 +6691,82 @@
         "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/remera-escote-redondo2/",
+      "position": 9999
+    },
+    {
+      "id": "251790328",
+      "sku": "2400243|10|73",
+      "name": "BIKINI CAPRI",
+      "description": "Tricot Trilobal",
+      "price": 13000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc1692-de38495e7ff8bbbb8617634710847414-1024-1024.jpg",
+      "sizes": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "colors": [
+        {
+          "name": "Coral",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lila",
+          "hex": "#ce93d8"
+        },
+        {
+          "name": "Lima",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Mallas"
+      ],
+      "url": "https://fressia.net/productos/bikini-capri1/",
+      "position": 9999
+    },
+    {
+      "id": "251790301",
+      "sku": "2400233|10|73",
+      "name": "BIKINI BRUSELAS",
+      "description": "Tela: Tricot Trilobal",
+      "price": 12000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2025-11-1259377-5bc19f9ccfc736284317634716162531-1024-1024.jpg",
+      "sizes": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "colors": [
+        {
+          "name": "Coral",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Lila",
+          "hex": "#ce93d8"
+        },
+        {
+          "name": "Lima",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Mallas"
+      ],
+      "url": "https://fressia.net/productos/bikini-bruselas1/",
       "position": 9999
     },
     {
