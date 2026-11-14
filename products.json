@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-11-13T18:23:54.439083+00:00",
+  "updated_at": "2026-11-14T00:12:05.184132+00:00",
   "store_id": "5053574",
-  "count": 228,
+  "count": 229,
   "products": [
+    {
+      "id": "380999883",
+      "sku": "0127300|5|9",
+      "name": "CHALECO NARCISO",
+      "description": "",
+      "price": 26900.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image-15-e0a6dc106710e6562a17945964246602-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/chaleco-narciso-10ln5/",
+      "position": 9999
+    },
     {
       "id": "380749184",
       "sku": "9218469|5|16",
@@ -74,7 +94,7 @@
       "name": "SHORT FLORAS",
       "description": "Short Floras: frescura y delicadeza en Baby Cotton Descubr&iacute; el Short Floras, una prenda ideal para sumar comodidad y estilo a tus looks de verano. Confeccionado en Baby Cotton , una tela suave y liviana, este short ofrece una sensaci&oacute;n agradable sobre la piel, perfecta para climas c&aacute;lidos. Su dise&ntilde;o fluido incluye una delicada puntilla que aporta un toque femenino y ele",
       "price": 13500.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_aactytaactytaact-dfc345e5aad762868617939947957407-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i114124-6dc297d3c58f997dde17945984068084-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -114,7 +134,7 @@
       "name": "MUSCULOSA FLORAS",
       "description": "Musculosa Floras: elegancia y frescura en Baby Cotton Descubrí la Musculosa Floras, diseñada para quienes buscan comodidad sin perder estilo. Confeccionada en Baby Cotton , una tela suave y liviana, esta musculosa garantiza frescura y confort durante todo el día, ideal para climas cálidos y templados. Sus delicados breteles con puntilla aportan un detalle femenino y sofisticado que realza cualquie",
       "price": 11500.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_aactytaactytaact-e043c01c1d60da6f4e17939948095634-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i114131-796d9b494f319c476717945987221099-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -431,7 +451,7 @@
       "name": "BIKINI KILA",
       "description": "Bikini Kila: estilo y comodidad en cada detalle Descubrí la Bikini Kila, un conjunto pensado para quienes buscan combinar diseño y funcionalidad. Este modelo incluye un corpiño triangulito con avio en los breteles , que aporta un toque moderno y resistente, garantizando un ajuste seguro y cómodo. La bombacha vedetina completa el conjunto con un corte favorecedor que realza la figura, ofreciendo li",
       "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_30ylpn30ylpn30yl-206f2ba60f3ae91fb817927529211129-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i113609-2aca79494e12db10f417945962320342-1024-1024.jpg",
       "sizes": [
         "1",
         "2",
@@ -607,7 +627,7 @@
       "name": "BIKINI DYLAN",
       "description": "Bikini Dylan: elegancia y comodidad para tus días de verano Descubrí el Bikini Dylan, una prenda pensada para quienes valoran el diseño y la funcionalidad en trajes de baño. Este conjunto se compone de un corpiño triangulito con avio en el centro del escote, que aporta un detalle sutil y sofisticado. La bombacha está diseñada para atar, permitiendo un ajuste personalizado y cómodo. Confeccionado e",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_2c09qr2c09qr2c09-b1814f5a9507536ebc17919886182575-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i113630-76b138a6d56de8d20a17945955223702-1024-1024.jpg",
       "sizes": [
         "1",
         "2",
@@ -1150,7 +1170,7 @@
       "name": "BIKINI ONDINA",
       "description": "Bikini Ondina: elegancia y comodidad para tus días de playa Descubrí el Bikini Ondina, un conjunto diseñado para quienes buscan estilo y funcionalidad. Este conjunto incluye un corpiño triangulito para atar , que permite un ajuste personalizado y cómodo, ideal para adaptarse a diferentes tipos de cuerpo. La bombacha vedetina complementa el look con un diseño moderno y favorecedor, que realza la fi",
       "price": 15000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_bqifb1bqifb1bqif-93ba48f6a5cfae6c3617913109772840-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i113641-66aa557337ca16903a17945964899126-1024-1024.jpg",
       "sizes": [
         "1",
         "2",
@@ -1554,7 +1574,7 @@
       "sku": "0127260|4|149",
       "name": "BODY PRINT",
       "description": "Body Print: elegancia y detalle para tu look Descubrí el Body Print , una prenda que combina estilo y sofisticación gracias a su escote corazón con frunce, un diseño que realza la figura de manera delicada y femenina. Su tela de microtul estampado aporta un toque de suavidad y ligereza, ideal para quienes valoran la comodidad sin perder elegancia. El detalle de Hotfix en el body brinda un acabado ",
-      "price": 28000.0,
+      "price": 25000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm2026-b37bcc434b7f25898e17909533763555-1024-1024.jpg",
       "sizes": [
         "L",
@@ -2639,12 +2659,25 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc7182-6f2969cf9173a742e117901935185062-1024-1024.jpg",
       "sizes": [
         "L",
-        "M"
+        "M",
+        "XL"
       ],
       "colors": [
         {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
         }
       ],
       "categories": [
