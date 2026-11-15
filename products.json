@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T19:33:24.704285+00:00",
+  "updated_at": "2026-11-15T23:46:11.791537+00:00",
   "store_id": "5053574",
   "count": 229,
   "products": [
@@ -2461,10 +2461,6 @@
           "hex": "#d4b896"
         },
         {
-          "name": "Chocolate",
-          "hex": "#4e342e"
-        },
-        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -4074,10 +4070,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
