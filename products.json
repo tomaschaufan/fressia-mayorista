@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-18T16:12:05.641057+00:00",
+  "updated_at": "2026-11-18T23:16:08.786445+00:00",
   "store_id": "5053574",
-  "count": 234,
+  "count": 235,
   "products": [
     {
       "id": "381870239",
@@ -608,8 +608,16 @@
       "description": "Remera Bega: comodidad y estilo desgastado para tu día a día Conocé la Remera Bega, una prenda sin mangas confeccionada en tela jersey s-ly de alta calidad, que combina suavidad y resistencia. Su acabado desgastado le aporta un estilo único, ideal para quienes buscan una apariencia relajada sin perder elegancia. El diseño sin mangas brinda frescura y libertad de movimiento, perfecta para climas cá",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_8ysmfs8ysmfs8ysm-0bf83f36481910c96d17936329353209-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Corazones",
+          "hex": "#cccccc"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -3428,6 +3436,10 @@
           "hex": "#d4b896"
         },
         {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
           "name": "Negro",
           "hex": "#1a1a1a"
         },
@@ -5220,8 +5232,7 @@
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia05marzo10833-dd60a14104174515b317731627262518-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -6120,6 +6131,27 @@
         "Remeras y musculosas"
       ],
       "url": "https://fressia.net/productos/remera-basica-con-detalle-en-manga-1mxgy/",
+      "position": 9999
+    },
+    {
+      "id": "305476619",
+      "sku": "1298610|5|100",
+      "name": "MUSCULOSA ESCOTE U, CON ETIQUETA BORDADA",
+      "description": "Tela: Morley viscolycra",
+      "price": 6000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2092-c06ce89a7cfea2fc1d17631451693882-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-escote-u-con-etiqueta-bordada-81moz/",
       "position": 9999
     },
     {
@@ -7344,10 +7376,6 @@
         {
           "name": "Rosa",
           "hex": "#e91e8c"
-        },
-        {
-          "name": "Surtido",
-          "hex": "#cccccc"
         }
       ],
       "categories": [
