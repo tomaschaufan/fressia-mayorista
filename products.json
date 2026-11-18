@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-11-18T06:06:18.106184+00:00",
+  "updated_at": "2026-11-18T16:12:05.641057+00:00",
   "store_id": "5053574",
-  "count": 233,
+  "count": 234,
   "products": [
+    {
+      "id": "381870239",
+      "sku": "9540030|5|9",
+      "name": "MUSCULOSA CAELI",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i114270-de044fb7ed6e8206b317950030322861-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-caeli-dkk9s/",
+      "position": 9999
+    },
     {
       "id": "381606685",
       "sku": "0998460|5|74",
@@ -568,15 +608,8 @@
       "description": "Remera Bega: comodidad y estilo desgastado para tu día a día Conocé la Remera Bega, una prenda sin mangas confeccionada en tela jersey s-ly de alta calidad, que combina suavidad y resistencia. Su acabado desgastado le aporta un estilo único, ideal para quienes buscan una apariencia relajada sin perder elegancia. El diseño sin mangas brinda frescura y libertad de movimiento, perfecta para climas cá",
       "price": 8000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_8ysmfs8ysmfs8ysm-0bf83f36481910c96d17936329353209-1024-1024.jpg",
-      "sizes": [
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Corazones",
-          "hex": "#cccccc"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -590,7 +623,7 @@
       "name": "MONOPRENDA AMALFI",
       "description": "Monoprenda Amalfi: elegancia y confort en una sola prenda Descubrí el Monoprenda Amalfi, una opción ideal para quienes buscan una prenda versátil y sofisticada. Confeccionado en Baby Cotton , una tela suave y liviana que garantiza comodidad durante todo el día, este monoprenda largo ofrece una sensación fresca y agradable al contacto con la piel. Su diseño strapless con breteles para atar permite ",
       "price": 33000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_1iuh1f1iuh1f1iuh-e0a00b2da460c2746017932142766621-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i113712-88e4f0d8e193d3736817950140959402-1024-1024.jpg",
       "sizes": [
         "M"
       ],
@@ -1691,7 +1724,7 @@
       "name": "REMERA ZENDA",
       "description": "Remera Zenda: sofisticación y comodidad en cada detalle Descubrí la Remera Zenda, una prenda con diseño Box Fit y manga corta que ofrece un confort superior gracias a su corte amplio y moderno. Su cuello combinado aporta un detalle distintivo que realza cualquier outfit, sumando un toque de estilo único. Confeccionada en Modal Soft estampado , esta tela se destaca por su suavidad, frescura y excel",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1984-85b80ef23c0a6cab9a17909539076663-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i114325-9719ea7b8c03ea5d0f17950079622434-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -4181,6 +4214,10 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -5579,7 +5616,7 @@
       "name": "MUSCULOSA BIANCA",
       "description": "Musculosa Bianca: elegancia asim&eacute;trica con un toque moderno Descubr&iacute; la Musculosa Bianca, un top asim&eacute;trico confeccionado en tela ribb que combina comodidad y dise&ntilde;o innovador. Su tajo delantero aporta un detalle distintivo y femenino, mientras que los ojalillos decorativos realzan su estilo &uacute;nico. Esta musculosa es ideal para quienes buscan una prenda vers&aacut",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_f1debadf-2ccd-488b-a663-f00c21b09db2_5053574_5545376-c016e3f103493356e717794541538789-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i114334-f62dc63457fd67082817950033212898-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
