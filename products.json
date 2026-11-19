@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:19:30.439754+00:00",
+  "updated_at": "2026-11-19T23:24:29.047197+00:00",
   "store_id": "5053574",
   "count": 235,
   "products": [
@@ -4033,10 +4033,6 @@
         {
           "name": "Amarillo",
           "hex": "#cccccc"
-        },
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
         }
       ],
       "categories": [
@@ -5095,7 +5091,6 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313388-2a54219b7f135e849917744515304731-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
