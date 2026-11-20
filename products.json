@@ -1,8 +1,52 @@
 {
-  "updated_at": "2026-11-20T05:54:55.098306+00:00",
+  "updated_at": "2026-11-20T14:57:37.542531+00:00",
   "store_id": "5053574",
-  "count": 235,
+  "count": 236,
   "products": [
+    {
+      "id": "382417396",
+      "sku": "2994290|5|36",
+      "name": "VESTIDO GERANIO",
+      "description": "",
+      "price": 15000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_mpmqxwmpmqxwmpmq-042a845923e279eb3417951861825419-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Camel",
+          "hex": "#c19a6b"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Fucsia",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Off White",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Verde",
+          "hex": "#2e7d32"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Vestidos y Monos"
+      ],
+      "url": "https://fressia.net/productos/vestido-geranio-1puey/",
+      "position": 9999
+    },
     {
       "id": "381870239",
       "sku": "9540030|5|9",
@@ -1199,7 +1243,6 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1581-a2009dae593a464d3617913097984995-1024-1024.jpg",
       "sizes": [
-        "3",
         "4"
       ],
       "colors": [
@@ -4240,20 +4283,8 @@
       "description": "Remera Moana: comodidad y detalle en una prenda esencial Descubrí la Remera Moana , una remera sin mangas diseñada para ofrecer frescura y estilo en cada uso. Confeccionada en tela Jersey s-ly, garantiza una textura suave y ligera, perfecta para acompañarte durante todo el día. Su diseño destaca por el hot fix en las sisas , un detalle brillante que aporta un toque de sofisticación sin perder la s",
       "price": 10000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28743-256abdc060adc837de17867090348931-1024-1024.jpg",
-      "sizes": [
-        "L",
-        "M"
-      ],
-      "colors": [
-        {
-          "name": "Amarillo",
-          "hex": "#cccccc"
-        },
-        {
-          "name": "Blanco",
-          "hex": "#ffffff"
-        }
-      ],
+      "sizes": [],
+      "colors": [],
       "categories": [
         "Colección principal",
         "Remeras y Musculosas"
@@ -5091,6 +5122,7 @@
       "price": 16000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-19-0313388-2a54219b7f135e849917744515304731-1024-1024.jpg",
       "sizes": [
+        "L",
         "M"
       ],
       "colors": [
