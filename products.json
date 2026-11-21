@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T12:09:31.651183+00:00",
+  "updated_at": "2026-11-21T19:56:37.652787+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -1018,10 +1018,6 @@
         {
           "name": "Chocolate",
           "hex": "#4e342e"
-        },
-        {
-          "name": "Rojo",
-          "hex": "#d32f2f"
         },
         {
           "name": "Verde",
@@ -6856,10 +6852,6 @@
         "M"
       ],
       "colors": [
-        {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
         {
           "name": "Fucsia",
           "hex": "#cccccc"
