@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T08:38:46.755226+00:00",
+  "updated_at": "2026-11-24T19:57:27.875432+00:00",
   "store_id": "5053574",
   "count": 238,
   "products": [
@@ -1241,7 +1241,6 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1611-d79f41ae2099da2aa217913095791761-1024-1024.jpg",
       "sizes": [
-        "1",
         "2",
         "3",
         "4"
@@ -1519,20 +1518,12 @@
       ],
       "colors": [
         {
-          "name": "Azul",
-          "hex": "#1565c0"
-        },
-        {
           "name": "Beige",
           "hex": "#d4b896"
         },
         {
           "name": "Blanco",
           "hex": "#ffffff"
-        },
-        {
-          "name": "Marron",
-          "hex": "#cccccc"
         },
         {
           "name": "Vison",
