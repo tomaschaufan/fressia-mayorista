@@ -1,8 +1,215 @@
 {
-  "updated_at": "2026-11-25T13:55:20.445086+00:00",
+  "updated_at": "2026-11-25T22:56:59.875082+00:00",
   "store_id": "5053574",
-  "count": 238,
+  "count": 245,
   "products": [
+    {
+      "id": "383448742",
+      "sku": "0127360|5|9",
+      "name": "MUSCULOSA DALIA",
+      "description": "",
+      "price": 30000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-11-25-at-4-48-07-pm-6622738d4cae1ea08717956365332636-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/musculosa-dalia-k1xxh/",
+      "position": 9999
+    },
+    {
+      "id": "383444274",
+      "sku": "0127350|5|15",
+      "name": "MUSCULOSA PENSAMIENTO",
+      "description": "",
+      "price": 30000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-11-25-at-4-37-19-pm-61310b63af7091ed5417956356222777-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-pensamiento-pelty/",
+      "position": 9999
+    },
+    {
+      "id": "383438436",
+      "sku": "0127330|5|15",
+      "name": "MUSCULOSA CLAVEL",
+      "description": "",
+      "price": 18000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-11-25-at-4-27-05-pm-0b987d2bd97e96c87317956349154871-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-clavel-1x8yb/",
+      "position": 9999
+    },
+    {
+      "id": "383430037",
+      "sku": "0127320|5|15",
+      "name": "MUSCULOSA CAMELIA",
+      "description": "",
+      "price": 28000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/whatsapp-image-2026-11-25-at-4-10-21-pm-c0d8675626a3fe5a1117956338635114-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-camelia-132ai/",
+      "position": 9999
+    },
+    {
+      "id": "383375410",
+      "sku": "9517591|5|15",
+      "name": "MUSCULOSA FLORAS AM",
+      "description": "",
+      "price": 14500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_4c13be37-aab1-4825-84cb-7ea5760b2942_5053574_5545376-58b25bf7b90b0c008e17956264084349-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Faldas y Shorts"
+      ],
+      "url": "https://fressia.net/productos/musculosa-floras-am-16q9o/",
+      "position": 9999
+    },
+    {
+      "id": "383375388",
+      "sku": "9518400|5|15",
+      "name": "SHORT FLORAS AM",
+      "description": "",
+      "price": 14500.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_af28ee41-89f4-4ba1-83c4-760e47125655_5053574_5545376-86bce6a22d2ea5609f17956317448315-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/short-floras-am-hf2eh/",
+      "position": 9999
+    },
+    {
+      "id": "383339193",
+      "sku": "0127310|5|9",
+      "name": "MUSCULOSA PETUNIA",
+      "description": "",
+      "price": 28000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_j3okgej3okgej3ok-a4dd9c3366cf37ef8217956182000958-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-petunia-16pb0/",
+      "position": 9999
+    },
     {
       "id": "382454121",
       "sku": "4740000|5|74",
@@ -161,7 +368,7 @@
       "name": "REMERA YVONNE AM LISA",
       "description": "",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image-16-1a91c3f6894b3e4cf417948309134571-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5503-44bc95d0bb61c031f717956358243749-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1024,10 +1231,6 @@
           "hex": "#4e342e"
         },
         {
-          "name": "Rojo",
-          "hex": "#d32f2f"
-        },
-        {
           "name": "Verde",
           "hex": "#2e7d32"
         }
@@ -1063,9 +1266,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Camperas",
         "Colección principal",
-        "Buzos y Camperas",
-        "Camperas"
+        "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/campera-miami-u2h31/",
       "position": 9999
@@ -1093,9 +1296,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Camperas",
         "Colección principal",
-        "Buzos y Camperas",
-        "Camperas"
+        "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/campera-boston-11lms/",
       "position": 9999
@@ -1274,6 +1477,7 @@
       "price": 15000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1581-a2009dae593a464d3617913097984995-1024-1024.jpg",
       "sizes": [
+        "1",
         "4"
       ],
       "colors": [
@@ -1415,9 +1619,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Sweaters y chalecos",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Sweaters y chalecos"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/chaleco-bruselas-5k485/",
       "position": 9999
@@ -1461,9 +1665,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Pantalones y faldas",
         "Colección principal",
-        "Activewear",
-        "Pantalones y faldas"
+        "Activewear"
       ],
       "url": "https://fressia.net/productos/calza-energy-11n90/",
       "position": 9999
@@ -1507,9 +1711,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
-        "Activewear",
-        "Bodys y tops"
+        "Activewear"
       ],
       "url": "https://fressia.net/productos/top-energy-g01dj/",
       "position": 9999
@@ -1622,9 +1826,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
-        "Bodys",
-        "Bodys y tops"
+        "Bodys"
       ],
       "url": "https://fressia.net/productos/body-blonde-myohy/",
       "position": 9999
@@ -1657,9 +1861,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-liv-am-1j39d/",
       "position": 9999
@@ -1752,9 +1956,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-liv-uyffx/",
       "position": 9999
@@ -1780,10 +1984,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
         "Bodys",
-        "Remeras y Musculosas",
-        "Bodys y tops"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/body-print-z6ljc/",
       "position": 9999
@@ -1870,9 +2074,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Pantalones y faldas",
         "Colección principal",
-        "Faldas y Shorts",
-        "Pantalones y faldas"
+        "Faldas y Shorts"
       ],
       "url": "https://fressia.net/productos/falda-margarita-1ulam/",
       "position": 9999
@@ -1900,10 +2104,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
         "Buzos y Camperas",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/blusa-amapola-1gunc/",
       "position": 9999
@@ -1947,10 +2151,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
         "Activewear",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-everly-59uwf/",
       "position": 9999
@@ -2117,10 +2321,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
         "Activewear",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-juno-1wmli/",
       "position": 9999
@@ -2164,10 +2368,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
         "Activewear",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-jane-12i2d/",
       "position": 9999
@@ -2246,7 +2450,7 @@
       "name": "REMERA YVONNE AM",
       "description": "Remera Yvonne AM: comodidad y estilo con un toque único La Remera Yvonne AM es una prenda esencial para quienes buscan combinar comodidad y diseño en su día a día. Confeccionada en jersey sin lycra , ofrece una textura suave y transpirable que asegura frescura y confort durante toda la jornada. Su corte Box Fit y manga corta brindan un ajuste cómodo y moderno, ideal para quienes prefieren un estil",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_odflcsodflcsodfl-30467257baf70962b717897451191766-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5343-dc92eb9ca54018811517956359888847-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -2290,9 +2494,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-lior-am-slauk/",
       "position": 9999
@@ -2360,9 +2564,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-solem-15ltu/",
       "position": 9999
@@ -2401,7 +2605,7 @@
       "name": "VESTIDO DENIA AM",
       "description": "Vestido Denia AM: sofisticación y comodidad en un diseño cruzado Descubrí el Vestido Denia AM, una prenda que combina elegancia y funcionalidad gracias a su diseño cruzado con lazo, ideal para realzar tu figura con estilo. Confeccionado en tela Cey, reconocida por su textura suave y resistencia, este vestido ofrece comodidad durante todo el día. Su corte cruzado permite un ajuste personalizado, mi",
       "price": 22000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_02317c8b-1d5e-4f80-89e1-128bcb12eba4_5053574_5545376-3f987775d29537de1217894135635772-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5312-af538c95b1be9be58c17956317086411-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -2423,8 +2627,8 @@
       ],
       "categories": [
         "CYBER FRESSIA",
-        "Amor mío",
         "Vestidos",
+        "Amor mío",
         "Vestidos"
       ],
       "url": "https://fressia.net/productos/vestido-denia-am-60d0d/",
@@ -2517,9 +2721,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-lea-rayada-wzdt4/",
       "position": 9999
@@ -2535,10 +2739,10 @@
       "colors": [],
       "categories": [
         "CYBER FRESSIA",
+        "Sweaters y chalecos",
         "Colección principal",
         "Buzos y Camperas",
-        "Sweaters",
-        "Sweaters y chalecos"
+        "Sweaters"
       ],
       "url": "https://fressia.net/productos/saco-cotton-2mp1z/",
       "position": 9999
@@ -2631,9 +2835,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Sweaters y chalecos",
         "Colección principal",
-        "Buzos y Camperas",
-        "Sweaters y chalecos"
+        "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/buzo-california-8383d/",
       "position": 9999
@@ -3026,9 +3230,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Amor mío",
-        "Bodys",
-        "Bodys y tops"
+        "Bodys"
       ],
       "url": "https://fressia.net/productos/body-olaya-am-9pbit/",
       "position": 9999
@@ -3064,9 +3268,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
-        "Bodys",
-        "Bodys y tops"
+        "Bodys"
       ],
       "url": "https://fressia.net/productos/body-olaya-sxat3/",
       "position": 9999
@@ -3135,10 +3339,6 @@
         {
           "name": "Gris",
           "hex": "#9e9e9e"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1a1a1a"
         }
       ],
       "categories": [
@@ -3175,9 +3375,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-circe-uanax/",
       "position": 9999
@@ -3290,9 +3490,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-thalia-nl41l/",
       "position": 9999
@@ -3356,9 +3556,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/muscu-gandia-srt9u/",
       "position": 9999
@@ -3440,9 +3640,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-elore-am-ndgmf/",
       "position": 9999
@@ -3478,9 +3678,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-elore-oqjmg/",
       "position": 9999
@@ -3516,9 +3716,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Pantalones y faldas",
         "Colección principal",
-        "Faldas y Shorts",
-        "Pantalones y faldas"
+        "Faldas y Shorts"
       ],
       "url": "https://fressia.net/productos/short-cantabria-1jtnf/",
       "position": 9999
@@ -3635,9 +3835,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-thais-am-i10jn/",
       "position": 9999
@@ -3685,9 +3885,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-ina-crq4l/",
       "position": 9999
@@ -3715,9 +3915,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-odessa-1paq7/",
       "position": 9999
@@ -3749,9 +3949,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Vestidos",
         "Colección principal",
-        "Vestidos y Monos",
-        "Vestidos"
+        "Vestidos y Monos"
       ],
       "url": "https://fressia.net/productos/vestido-cartagena-10ps3/",
       "position": 9999
@@ -3775,9 +3975,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
-        "Bodys",
-        "Bodys y tops"
+        "Bodys"
       ],
       "url": "https://fressia.net/productos/body-formentera-jqb41/",
       "position": 9999
@@ -3801,9 +4001,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
-        "Bodys",
-        "Bodys y tops"
+        "Bodys"
       ],
       "url": "https://fressia.net/productos/body-zumaia-gciwa/",
       "position": 9999
@@ -3888,9 +4088,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-kira-15r9w/",
       "position": 9999
@@ -3931,9 +4131,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-eva-1mntb/",
       "position": 9999
@@ -3974,9 +4174,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-nerea-am-16ezo/",
       "position": 9999
@@ -4012,9 +4212,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-lola-ijxvb/",
       "position": 9999
@@ -4161,9 +4361,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-nerea-1mkoh/",
       "position": 9999
@@ -4330,9 +4530,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-moana-am-1h1wb/",
       "position": 9999
@@ -4368,9 +4568,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Pantalones y faldas",
         "Colección principal",
-        "Pantalones",
-        "Pantalones y faldas"
+        "Pantalones"
       ],
       "url": "https://fressia.net/productos/pantalon-murcia-1o7dk/",
       "position": 9999
@@ -4401,9 +4601,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Pantalones y faldas",
         "Colección principal",
-        "Faldas y Shorts",
-        "Pantalones y faldas"
+        "Faldas y Shorts"
       ],
       "url": "https://fressia.net/productos/short-sastrero-oe7t4/",
       "position": 9999
@@ -4439,9 +4639,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-alaia-1em1z/",
       "position": 9999
@@ -4478,9 +4678,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-alaia-am-1v62e/",
       "position": 9999
@@ -4642,9 +4842,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Sweaters y chalecos",
         "Colección principal",
-        "Sweaters",
-        "Sweaters y chalecos"
+        "Sweaters"
       ],
       "url": "https://fressia.net/productos/sweater-merino-ni5h1/",
       "position": 9999
@@ -4811,11 +5011,11 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
         "Remeras y Musculosas",
         "SALE",
-        "ROJO  $5/6.000",
-        "Remeras y musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-gaia-dyw2t/",
       "position": 9999
@@ -4929,11 +5129,11 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
         "Remeras y Musculosas",
         "SALE",
-        "Básicos - Esenciales",
-        "Bodys y tops"
+        "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/top-axelle-1o3jo/",
       "position": 9999
@@ -4957,10 +5157,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Sweaters y chalecos",
         "SALE",
         "VIOLETA $20.000 Y +",
-        "SWEATERS 3X2",
-        "Sweaters y chalecos"
+        "SWEATERS 3X2"
       ],
       "url": "https://fressia.net/productos/sweater-snuggle-o1015/",
       "position": 9999
@@ -4984,11 +5184,11 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
         "Remeras y Musculosas",
         "SALE",
-        "ROJO  $5/6.000",
-        "Remeras y musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/musculosa-alma-17dc6/",
       "position": 9999
@@ -5016,9 +5216,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Pantalones y faldas",
         "SALE",
-        "VIOLETA $20.000 Y +",
-        "Pantalones y faldas"
+        "VIOLETA $20.000 Y +"
       ],
       "url": "https://fressia.net/productos/pantalon-rome-frisa-sif3d/",
       "position": 9999
@@ -5211,10 +5411,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
         "Activewear",
-        "Remeras y Musculosas",
-        "Bodys y tops"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/top-nova-4d725/",
       "position": 9999
@@ -5255,10 +5455,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Pantalones y faldas",
         "Colección principal",
         "Activewear",
-        "Faldas y Shorts",
-        "Pantalones y faldas"
+        "Faldas y Shorts"
       ],
       "url": "https://fressia.net/productos/biker-motion-l3r22/",
       "position": 9999
@@ -5281,10 +5481,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
         "Activewear",
-        "Remeras y Musculosas",
-        "Bodys y tops"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/top-flow-t6qwd/",
       "position": 9999
@@ -5309,11 +5509,11 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
         "Activewear",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Bodys y tops"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/top-blaze-i5a33/",
       "position": 9999
@@ -5338,11 +5538,11 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
         "Activewear",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Bodys y tops"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/top-nova-am-utcb6/",
       "position": 9999
@@ -5366,11 +5566,11 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Pantalones y faldas",
         "Colección principal",
         "Activewear",
         "Amor mío",
-        "Faldas y Shorts",
-        "Pantalones y faldas"
+        "Faldas y Shorts"
       ],
       "url": "https://fressia.net/productos/biker-motion-am-1hun2/",
       "position": 9999
@@ -5403,9 +5603,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Bodys y tops"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/top-bianca-am-uppki/",
       "position": 9999
@@ -5487,10 +5687,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
         "Remeras y Musculosas",
-        "SALE",
-        "Remeras y musculosas"
+        "SALE"
       ],
       "url": "https://fressia.net/productos/remera-adara-1hhrg/",
       "position": 9999
@@ -5515,10 +5715,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
         "Remeras y Musculosas",
-        "SALE",
-        "Remeras y musculosas"
+        "SALE"
       ],
       "url": "https://fressia.net/productos/remera-ada-vfo0m/",
       "position": 9999
@@ -5687,10 +5887,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
         "Remeras y Musculosas",
-        "SALE",
-        "Remeras y musculosas"
+        "SALE"
       ],
       "url": "https://fressia.net/productos/musculosa-bianca-14qxl/",
       "position": 9999
@@ -5726,9 +5926,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-elsa-nb81v/",
       "position": 9999
@@ -5765,9 +5965,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Vestidos",
         "Colección principal",
-        "Vestidos y Monos",
-        "Vestidos"
+        "Vestidos y Monos"
       ],
       "url": "https://fressia.net/productos/vestido-ibiza-wpqsr/",
       "position": 9999
@@ -5781,8 +5981,7 @@
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc3157-f0f81e208fec4da54617703966989612-1024-1024.jpg",
       "sizes": [
         "L",
-        "M",
-        "XL"
+        "M"
       ],
       "colors": [
         {
@@ -5852,11 +6051,11 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
         "Remeras y Musculosas",
         "SALE",
-        "ROJO  $5/6.000",
-        "Remeras y musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/muscu-isabella-1h0wl/",
       "position": 9999
@@ -5901,10 +6100,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
         "Remeras y Musculosas",
-        "Básicos - Esenciales",
-        "Remeras y musculosas"
+        "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/musculosa-sofia-16amx/",
       "position": 9999
@@ -5933,9 +6132,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-gabriela-1bzcd/",
       "position": 9999
@@ -5959,9 +6158,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-emma-15t22/",
       "position": 9999
@@ -6061,9 +6260,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-cropped-d45du/",
       "position": 9999
@@ -6099,9 +6298,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Bodys y tops"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/top-musculosa-halter-qvs41/",
       "position": 9999
@@ -6162,9 +6361,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-escote-redondo-con-estampa-yrij8/",
       "position": 9999
@@ -6189,9 +6388,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-basica-con-detalle-en-manga-1mxgy/",
       "position": 9999
@@ -6236,9 +6435,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-escote-base-delantero-doble-nexcr/",
       "position": 9999
@@ -6295,9 +6494,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-con-vivos-anchos-1p9vn/",
       "position": 9999
@@ -6322,9 +6521,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-americana-6hgch/",
       "position": 9999
@@ -6348,8 +6547,8 @@
       ],
       "categories": [
         "CYBER FRESSIA",
-        "Colección principal",
         "Mallas",
+        "Colección principal",
         "Mallas"
       ],
       "url": "https://fressia.net/productos/bikini-kairi/",
@@ -6374,8 +6573,8 @@
       ],
       "categories": [
         "CYBER FRESSIA",
-        "Colección principal",
         "Mallas",
+        "Colección principal",
         "Mallas"
       ],
       "url": "https://fressia.net/productos/bikini-laken/",
@@ -6417,9 +6616,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-box-fit2/",
       "position": 9999
@@ -6443,9 +6642,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-escote-base-con-vivos-en-sisas-1vvjs/",
       "position": 9999
@@ -6474,10 +6673,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Mallas",
         "Colección principal",
         "Mallas",
         "Amor mío",
-        "Mallas",
         "Mallas"
       ],
       "url": "https://fressia.net/productos/enteriza-dahlia-am/",
@@ -6508,8 +6707,8 @@
       ],
       "categories": [
         "CYBER FRESSIA",
-        "Colección principal",
         "Mallas",
+        "Colección principal",
         "Mallas"
       ],
       "url": "https://fressia.net/productos/enteriza-adria/",
@@ -6684,9 +6883,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Colección principal",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-rayada-cropped-con-dije/",
       "position": 9999
@@ -6727,10 +6926,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
         "Remeras y Musculosas",
-        "Básicos - Esenciales",
-        "Remeras y musculosas"
+        "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/remera-basica-escote-redondo24/",
       "position": 9999
@@ -6948,9 +7147,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "SALE",
-        "ROJO  $5/6.000",
-        "Remeras y musculosas"
+        "ROJO  $5/6.000"
       ],
       "url": "https://fressia.net/productos/remera-eudora-7wl5x/",
       "position": 9999
@@ -6991,10 +7190,10 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
         "Remeras y Musculosas",
-        "Básicos - Esenciales",
-        "Remeras y musculosas"
+        "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/remera-escote-redondo2/",
       "position": 9999
@@ -7081,7 +7280,7 @@
       "name": "MUSCULOSA EGLE AM",
       "description": "Algodón con Lycra",
       "price": 13000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2022-09-2904016-326c33a22de6841ad217374707409419-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5325-e34349f20d552b4f9417956335572303-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -7158,9 +7357,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Bodys y tops",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Bodys y tops"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/top-hebe-10fqq/",
       "position": 9999
@@ -7219,9 +7418,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Pantalones y faldas",
         "Colección principal",
-        "Faldas y Shorts",
-        "Pantalones y faldas"
+        "Faldas y Shorts"
       ],
       "url": "https://fressia.net/productos/minifalda-foil/",
       "position": 9999
@@ -7245,9 +7444,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Pantalones y faldas",
         "Colección principal",
-        "Faldas y Shorts",
-        "Pantalones y faldas"
+        "Faldas y Shorts"
       ],
       "url": "https://fressia.net/productos/short-jeanero-foil/",
       "position": 9999
@@ -7292,9 +7491,9 @@
       ],
       "categories": [
         "CYBER FRESSIA",
+        "Remeras y musculosas",
         "Amor mío",
-        "Remeras y Musculosas",
-        "Remeras y musculosas"
+        "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/remera-mangas-cortas-escote-en-v2/",
       "position": 9999
