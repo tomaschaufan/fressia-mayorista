@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-26T04:47:15.669256+00:00",
+  "updated_at": "2026-11-26T14:44:20.152539+00:00",
   "store_id": "5053574",
-  "count": 245,
+  "count": 246,
   "products": [
+    {
+      "id": "383617068",
+      "sku": "0127340|5|9",
+      "name": "MUSCULOSA VERBENA",
+      "description": "",
+      "price": 30000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_9ju60z9ju60z9ju6-2b1c56ea050bc3d85517956916034380-1024-1024.jpg",
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-verbena-10vqz/",
+      "position": 9999
+    },
     {
       "id": "383448742",
       "sku": "0127360|5|9",
@@ -2755,8 +2782,7 @@
       "price": 9000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/watermarked_img_9277143178120083385-2f8e608bfa57693ac117907665669011-1024-1024.jpg",
       "sizes": [
-        "L",
-        "M"
+        "L"
       ],
       "colors": [
         {
@@ -3850,7 +3876,6 @@
       "price": 12000.0,
       "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc6998-9bd6738c55d9ed527317897322419087-1024-1024.jpg",
       "sizes": [
-        "L",
         "M"
       ],
       "colors": [
@@ -7335,7 +7360,7 @@
       "name": "TOP HEBE",
       "description": "Top Hebe: comodidad y estilo en tela Cey Descubrí el Top Hebe , una prenda esencial de la línea Amor Mio , confeccionada en tela Cey, reconocida por su suavidad y durabilidad. Este top combina un diseño sencillo y elegante, ideal para quienes buscan comodidad sin renunciar al estilo. Su corte ajustado y tela flexible permiten libertad de movimiento, adaptándose perfectamente a diferentes siluetas.",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_b4c797d4-25ed-43d9-b6cb-b89152d3736e_5053574_5545376-7078201eaa000e78e817889692415636-1024-1024.png",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5641-4366eaa764e101d4d417957029317313-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
