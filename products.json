@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T14:44:20.152539+00:00",
+  "updated_at": "2026-11-26T23:29:48.571892+00:00",
   "store_id": "5053574",
-  "count": 246,
+  "count": 247,
   "products": [
     {
       "id": "383617068",
@@ -742,7 +742,7 @@
       "name": "REMERA ARTIS AM",
       "description": "Remera Artis Am: elegancia y comodidad en Morley Desagujado Descubrí la Remera Artis Am, una prenda de la línea Amor Mio que combina estilo y confort en cada detalle. Confeccionada en tela Morley Desagujado, esta remera ofrece una textura suave y ligeramente calada, ideal para quienes buscan frescura sin perder elegancia. Su diseño presenta un escote cuadrado que aporta un toque moderno y femenino",
       "price": 13000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_ku191jku191jku19-edf6a1946090aa0d0417936292027930-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5480-981a9bb6da1c43c15617957082859021-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -877,7 +877,7 @@
       "name": "BIKINI KILA",
       "description": "Bikini Kila: estilo y comodidad en cada detalle Descubrí la Bikini Kila, un conjunto pensado para quienes buscan combinar diseño y funcionalidad. Este modelo incluye un corpiño triangulito con avio en los breteles , que aporta un toque moderno y resistente, garantizando un ajuste seguro y cómodo. La bombacha vedetina completa el conjunto con un corte favorecedor que realza la figura, ofreciendo li",
       "price": 14000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i113609-2aca79494e12db10f417945962320342-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i113654-ae0715780f2fff1dd217945966197717-1024-1024.jpg",
       "sizes": [
         "1",
         "2",
@@ -7352,6 +7352,31 @@
         "Básicos - Esenciales"
       ],
       "url": "https://fressia.net/productos/remera-cropped2/",
+      "position": 9999
+    },
+    {
+      "id": "247884836",
+      "sku": "7116430|5|15",
+      "name": "TOP CROP CON VOLADO",
+      "description": "Lino Slub",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_7mih0l7mih0l7mih-88e645cc7f484f300f17957059738311-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blanco",
+          "hex": "#ffffff"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/top-crop-con-volado1/",
       "position": 9999
     },
     {
