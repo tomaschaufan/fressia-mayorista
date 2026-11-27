@@ -1,8 +1,41 @@
 {
-  "updated_at": "2026-11-27T06:57:24.804621+00:00",
+  "updated_at": "2026-11-27T17:20:45.170578+00:00",
   "store_id": "5053574",
-  "count": 247,
+  "count": 249,
   "products": [
+    {
+      "id": "384026450",
+      "sku": "2700431|10|29",
+      "name": "BIKINI NERIDA",
+      "description": "",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image-18-579a856e1d5d1f7ec017957881913785-1024-1024.jpg",
+      "sizes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "colors": [
+        {
+          "name": "Bordo",
+          "hex": "#7b1a2c"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [],
+      "url": "https://fressia.net/productos/bikini-nerida-1hjzp/",
+      "position": 9999
+    },
     {
       "id": "383617068",
       "sku": "0127340|5|9",
@@ -455,7 +488,7 @@
       "name": "REMERA BEGA AM",
       "description": "",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_fl26n0fl26n0fl26-57379864461de7816717945110396784-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5444-c17232b18d3e0a1ccf17957797026843-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -713,7 +746,7 @@
       "name": "MUSCULOSA BERYL AM",
       "description": "Musculosa Beryl AM: elegancia y frescura en Morley Desagujado Incorporá a tu guardarropa la Musculosa Beryl AM , una prenda que combina diseño y comodidad con la calidad de la línea Amor Mio. Confeccionada en tela Morley Desagujado, ofrece una textura suave y fresca, ideal para los días cálidos y para quienes buscan una opción liviana sin resignar estilo. Su detalle con roulotte aporta un acabado ",
       "price": 12000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_cqig5ccqig5ccqig-9ccbb7c4391ba2a1dc17936310252416-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5523-eacba940013412e2d317957798494071-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -771,7 +804,7 @@
       "name": "REMERA ZENDA AM",
       "description": "Remera Zenda AM: estilo y confort en cada detalle Conocé la Remera Zenda AM, una prenda de la línea Amor Mio diseñada para ofrecerte comodidad y un look moderno. Esta remera de manga corta se destaca por su cuello combinado, que aporta un detalle de diseño exclusivo y versátil. Confeccionada en Modal soft estampado , su tela suave y liviana garantiza una sensación agradable al contacto con la piel",
       "price": 11000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_2xiugu2xiugu2xiu-6d73c0e9a4ab5588d217933890068760-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5617-550584eafbde9fbf8f17957799482123-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1093,7 +1126,7 @@
       "name": "MUSCULOSA AFRA AM",
       "description": "Musculosa Afra AM: elegancia y comodidad en Morley rayado Descubrí la Musculosa Afra AM , una prenda esencial de la línea Amor Mio diseñada para quienes buscan un estilo sencillo pero con carácter. Confeccionada en tela Morley rayado, esta musculosa ofrece una textura suave y ligeramente elástica que se adapta perfectamente al cuerpo, brindando comodidad durante todo el día. Su escote en V aporta ",
       "price": 10000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_pzfnjepzfnjepzfn-0ceade1dc6c684e47517919867490514-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5530-f073bb812bf616488f17957801875333-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1130,7 +1163,7 @@
       "name": "REMERA MEI AM",
       "description": "Remera Mei Am: elegancia y comodidad en cada detalle Confeccionada en suave Morley Rayado , la Remera Mei Am es la prenda ideal para quienes buscan comodidad sin renunciar al estilo. Su escote cuadrado ofrece un diseño moderno y sofisticado que resalta el cuello y aporta un toque femenino. Las mangas japonesas brindan un ajuste cómodo y una silueta delicada, perfecta para combinar con diferentes p",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_ph9071ph9071ph90-c2ed9e099f08d46de617919835924057-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5554-a0588d6caf3d47f15f17957804965455-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1248,10 +1281,6 @@
         {
           "name": "Azul",
           "hex": "#1565c0"
-        },
-        {
-          "name": "Bordo",
-          "hex": "#7b1a2c"
         },
         {
           "name": "Chocolate",
@@ -1794,7 +1823,7 @@
       "name": "PANTALON MARBELLA AM",
       "description": "Pantalón Marbella AM: elegancia y comodidad en cada detalle El Pantalón Marbella AM es una prenda esencial para quienes buscan un estilo sofisticado sin renunciar a la comodidad. Confeccionado en tela rústica sublimada, ofrece una textura única y resistente que asegura durabilidad y confort durante todo el día. Su diseño recto y rayado aporta un toque clásico y moderno a la vez. Cuenta con práctic",
       "price": 24500.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_7vyx8h7vyx8h7vyx-ba6288f8d8be5a36e817931861198767-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5334-3a1025b9253419b34a17957808733858-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1865,7 +1894,7 @@
       "name": "MUSCULOSA LIV AM",
       "description": "Musculosa Liv AM: comodidad y elegancia en cada detalle La Musculosa Liv AM es la prenda ideal para quienes buscan una combinación perfecta entre comodidad y estilo. Confeccionada en Modal Soft , una tela suave y liviana, ofrece una sensación agradable al contacto con la piel, ideal para mantener la frescura durante todo el día. Su diseño con escote redondo y bordado delicado en el delantero aport",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_erw6j5erw6j5erw6-ec53c884c78ee684cc17930437807039-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5362-9d172fbc0f4d7892cb17957793198102-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -1900,7 +1929,7 @@
       "name": "MUSCULOSA ONA",
       "description": "Musculosa Ona: elegancia y comodidad en cada detalle Descubrí la Musculosa Ona , una prenda diseñada para quienes valoran tanto el estilo como la comodidad. Confeccionada en Modal Soft , una tela suave y liviana, ofrece una sensación delicada sobre la piel, ideal para usar durante todo el día. Su diseño presenta un escote cuadrado , que aporta un toque moderno y sofisticado, mientras que el detall",
       "price": 8000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_obx6e7obx6e7obx6-7dde03290ec6967a3b17913871432778-1024-1024.jpg",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-12i113946-a0f7709b607790c10117957811892306-1024-1024.jpg",
       "sizes": [
         "L",
         "M"
@@ -2502,7 +2531,7 @@
       "name": "MUSCULOSA LIOR AM",
       "description": "Musculosa Lior AM: estilo y comodidad en cada detalle La Musculosa Lior AM está confeccionada en tela Morley con lycra, lo que le brinda una textura suave, elástica y cómoda para acompañarte durante todo el día. Su diseño rayado con breteles combinados aporta un toque moderno y distintivo, ideal para quienes buscan prendas con personalidad. Esta musculosa es perfecta para climas templados y cálido",
       "price": 9000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/tmp_b64_4058a258-b23c-4ed1-906b-36766289ff8a_5053574_5545376-566260c4142cda28a317907691598838-1024-1024.webp",
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/amor-mio5596-c3c1b4b4d6ab3018e817957815120368-1024-1024.jpg",
       "sizes": [
         "L",
         "M",
@@ -2752,25 +2781,6 @@
         "Remeras y Musculosas"
       ],
       "url": "https://fressia.net/productos/musculosa-lea-rayada-wzdt4/",
-      "position": 9999
-    },
-    {
-      "id": "366299704",
-      "sku": "0127010|5|8",
-      "name": "SACO COTTON",
-      "description": "Saco Cotton: la calidez y el estilo del saco tejido simil crochet que estabas buscando. Este saco destaca por su diseño tejido que imita el crochet, aportando una textura única y artesanal a tu look. Confeccionado en algodón de alta calidad, ofrece suavidad y comodidad para usar en distintas estaciones del año. Su corte versátil permite combinarlo fácilmente con prendas casuales o más formales, id",
-      "price": 49000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia32607-420e92496e7afd107c17894864047427-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "CYBER FRESSIA",
-        "Sweaters y chalecos",
-        "Colección principal",
-        "Buzos y Camperas",
-        "Sweaters"
-      ],
-      "url": "https://fressia.net/productos/saco-cotton-2mp1z/",
       "position": 9999
     },
     {
@@ -5319,9 +5329,17 @@
       "name": "PANTALON BARREL",
       "description": "Pantal&oacute;n Barrel: comodidad y estilo con dise&ntilde;o amplio y detalles &uacute;nicos Descubr&iacute; el Pantal&oacute;n Barrel, confeccionado en tela frisa que brinda una textura suave y un confort ideal para el uso diario. Su dise&ntilde;o amplio con pinzas y recortes aporta un toque moderno y sofisticado, adapt&aacute;ndose a distintos estilos y ocasiones. Este pantal&oacute;n ofrece lib",
       "price": 25000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28831-ee49904ce90d28209617867098251394-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28895-36186ad87684d9219517867098842852-1024-1024.jpg",
+      "sizes": [
+        "M",
+        "S"
+      ],
+      "colors": [
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
       "categories": [
         "Colección principal",
         "Pantalones"
@@ -6393,6 +6411,34 @@
       "position": 9999
     },
     {
+      "id": "307929750",
+      "sku": "7436100|5|9",
+      "name": "MUSCULOSA DE BRETELES",
+      "description": "Tela: Fibrana lisa",
+      "price": 8000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/_dsc2598-20ae9968a7f4f352b917649380780313-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Beige",
+          "hex": "#d4b896"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1a1a1a"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-de-breteles-80qq8/",
+      "position": 9999
+    },
+    {
       "id": "307376095",
       "sku": "1210021|5|100",
       "name": "REMERA BÁSICA CON DETALLE EN MANGA",
@@ -7446,6 +7492,38 @@
         "Mallas"
       ],
       "url": "https://fressia.net/productos/bikini-catrina1/",
+      "position": 9999
+    },
+    {
+      "id": "246507654",
+      "sku": "7296880|5|35",
+      "name": "STRAPLESS",
+      "description": "Poplin Rayado",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/2024-12-1130165-9684a760b64cf82a4817341008633983-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Azul",
+          "hex": "#1565c0"
+        },
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Colección principal",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/strapless/",
       "position": 9999
     },
     {
