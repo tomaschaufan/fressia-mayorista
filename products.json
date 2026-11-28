@@ -1,8 +1,74 @@
 {
-  "updated_at": "2026-11-27T17:20:45.170578+00:00",
+  "updated_at": "2026-11-28T01:09:26.421436+00:00",
   "store_id": "5053574",
-  "count": 249,
+  "count": 245,
   "products": [
+    {
+      "id": "384123659",
+      "sku": "2727031|10|74",
+      "name": "BIKINI MAI",
+      "description": "",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_68on5268on5268on-197dd16d1538c8a15617958088444701-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [
+        "Colección principal",
+        "Mallas"
+      ],
+      "url": "https://fressia.net/productos/bikini-mai-3uemi/",
+      "position": 9999
+    },
+    {
+      "id": "384121917",
+      "sku": "2727011|10|74",
+      "name": "BIKINI MUNA",
+      "description": "",
+      "price": 16000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_xgtlxnxgtlxnxgtl-60ba370cbdd93aa3b317958090590978-1024-1024.jpg",
+      "sizes": [],
+      "colors": [],
+      "categories": [],
+      "url": "https://fressia.net/productos/bikini-muna-l6gkc/",
+      "position": 9999
+    },
+    {
+      "id": "384092683",
+      "sku": "0915150|5|74",
+      "name": "MUSCULOSA KORE AM",
+      "description": "",
+      "price": 10000.0,
+      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_e6ysr1e6ysr1e6ys-59c1be881c46688e1117958052838545-1024-1024.jpg",
+      "sizes": [
+        "L",
+        "M",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Celeste",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Celeste/ Choco",
+          "hex": "#cccccc"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#4e342e"
+        },
+        {
+          "name": "Rosa",
+          "hex": "#e91e8c"
+        }
+      ],
+      "categories": [
+        "Amor mío",
+        "Remeras y Musculosas"
+      ],
+      "url": "https://fressia.net/productos/musculosa-kore-am-k2s1j/",
+      "position": 9999
+    },
     {
       "id": "384026450",
       "sku": "2700431|10|29",
@@ -1357,111 +1423,6 @@
         "Buzos y Camperas"
       ],
       "url": "https://fressia.net/productos/campera-boston-11lms/",
-      "position": 9999
-    },
-    {
-      "id": "372353075",
-      "sku": "372353075",
-      "name": "COMBO FRESS +AM",
-      "description": "",
-      "price": 62000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_odflcsodflcsodfl-30467257baf70962b717897451191766-1024-1024-c1c85a93ab84b60c9517913901812126-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Combos Dia de la Madre"
-      ],
-      "url": "https://fressia.net/productos/combo-fress-am-1wxzl/",
-      "position": 9999
-    },
-    {
-      "id": "372352983",
-      "sku": "372352983",
-      "name": "ESCENCIALES + COLOR",
-      "description": "",
-      "price": 51000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_9u5kg29u5kg29u5k-8da96e6bff5e13941d17913776652671-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Combos Dia de la Madre"
-      ],
-      "url": "https://fressia.net/productos/escenciales-color-1rokc/",
-      "position": 9999
-    },
-    {
-      "id": "372352918",
-      "sku": "372352918",
-      "name": "COMBO VESTIDOS",
-      "description": "",
-      "price": 41000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia0488-f3012441f76901d88e17901807325757-1024-1024-9153fa304433d50c3217913902563973-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Combos Dia de la Madre"
-      ],
-      "url": "https://fressia.net/productos/combo-vestidos-1xvbv/",
-      "position": 9999
-    },
-    {
-      "id": "372352724",
-      "sku": "372352724",
-      "name": "COMBO OFICINA",
-      "description": "",
-      "price": 69000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1954-a5ba174b3face5f06317912131364047-1024-1024-8ad117d74b8fac569d17913902688942-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Combos Dia de la Madre"
-      ],
-      "url": "https://fressia.net/productos/combo-oficina-11ycw/",
-      "position": 9999
-    },
-    {
-      "id": "372352642",
-      "sku": "372352642",
-      "name": "COMBO 50K",
-      "description": "",
-      "price": 59000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm28161-e974d79c312ae49cf817867062297387-1024-1024-bbaec2fbab12c4506a17913088956949-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Combos Dia de la Madre"
-      ],
-      "url": "https://fressia.net/productos/combo-50k-1u3ym/",
-      "position": 9999
-    },
-    {
-      "id": "372352589",
-      "sku": "372352589",
-      "name": "GANDIA",
-      "description": "",
-      "price": 88000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/gemini_generated_image_xfegmfxfegmfxfeg-93e8285d8869a8b27a17873281970777-1024-1024-80b866a9da2dac241417913088792379-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Combos Dia de la Madre"
-      ],
-      "url": "https://fressia.net/productos/gandia-1bo4t/",
-      "position": 9999
-    },
-    {
-      "id": "372352448",
-      "sku": "372352448",
-      "name": "GARDENIA Y GANDIA",
-      "description": "",
-      "price": 127000.0,
-      "image": "https://acdn-us.mitiendanube.com/stores/005/053/574/products/fressia-ecomm1889-66544c6549eacaf8ef17909560745153-1024-1024-0448dc7d42fdf5092c17913902993101-1024-1024.jpg",
-      "sizes": [],
-      "colors": [],
-      "categories": [
-        "Combos Dia de la Madre"
-      ],
-      "url": "https://fressia.net/productos/gardenia-y-gandia-lqi50/",
       "position": 9999
     },
     {
